@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 2424
+name: PlayerForbidHangTag
+profile: AreaManagementForPlayer
+sortKey: 0
+yLimitAlgorithm: NoLimit

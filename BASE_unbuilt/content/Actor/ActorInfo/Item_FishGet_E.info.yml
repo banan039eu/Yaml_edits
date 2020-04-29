@@ -1,0 +1,57 @@
+aabbMax:
+  X: 0.3338660001754761
+  Y: 0.2043980062007904
+  Z: 0.33082398772239685
+aabbMin:
+  X: -0.2540850043296814
+  Y: -0.2043980062007904
+  Z: -0.9400690197944641
+bfres: Animal_Carp
+boundingForTraverse: 0.4087960124015808
+bugMask: 3
+cureItemEffectLevel: 2
+cureItemEffectType: AttackUp
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 4
+cursorOffsetY: 0.30000001192092896
+elink: GetItem
+generalLife: 1
+homeArea:
+- name: TamulPlateau
+- name: LanayruWaterSources
+- name: HyruleForest
+instSize: 50964
+itemBuyingPrice: 40
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 10
+itemStainColor: -1
+itemUseIconActorName: Item_FishGet_E
+mainModel: Carp_Boneless
+motorcycleEnergy:
+  add: 75.0
+name: Item_FishGet_E
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+slink: Item_FishGet
+sortKey: 34090
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_FishGet_E
+tags:
+  tag14185415: 337138709
+  tag168ce9a9: 378333609
+  tag24cd75fe: 617444862
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+variationMatAnim: Carp_Color
+variationMatAnimFrame: 0
+yLimitAlgorithm: NoLimit

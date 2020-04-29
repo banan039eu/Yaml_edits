@@ -1,0 +1,30 @@
+aabbMax:
+  X: 2.3730199337005615
+  Y: 2.2038700580596924
+  Z: 1.9651700258255005
+aabbMin:
+  X: -2.3730199337005615
+  Y: -2.2038700580596924
+  Z: -1.9651700258255005
+attackPower: 8
+bfres: Enemy_Golem_Ice
+boundingForTraverse: 4.407740116119385
+bugMask: 3
+cursorOffsetY: 0.5
+elink: GolemPartIce
+instSize: 51312
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Golem_Arm_2_L_Rock_Ice
+name: Enemy_Golem_Ice_Lower_Arm_L
+profile: Bullet
+slink: Enemy_Golem_Lower_Arm_L
+sortKey: -1
+tags:
+  tag2bc52291: 734339729
+xlink: Enemy_Golem_Arm
+yLimitAlgorithm: NoLimit

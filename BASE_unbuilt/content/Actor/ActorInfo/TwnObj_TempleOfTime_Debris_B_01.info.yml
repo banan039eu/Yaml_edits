@@ -1,0 +1,18 @@
+aabbMax:
+  X: 2.926759958267212
+  Y: 2.11995005607605
+  Z: 3.5272300243377686
+aabbMin:
+  X: -4.255730152130127
+  Y: -0.7177640199661255
+  Z: -4.231599807739258
+bfres: TwnObj_TempleOfTime_A
+boundingForTraverse: 2.8377139568328857
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 53120
+mainModel: TwnObj_TempleOfTime_Debris_B_01
+name: TwnObj_TempleOfTime_Debris_B_01
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

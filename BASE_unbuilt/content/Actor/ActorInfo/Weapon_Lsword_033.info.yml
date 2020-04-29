@@ -1,0 +1,75 @@
+Chemical:
+  Burnable: 1
+  Capaciter: 1
+aabbMax:
+  X: 0.22509799897670746
+  Y: 0.056060999631881714
+  Z: 1.6005899906158447
+aabbMin:
+  X: -0.2252199947834015
+  Y: -0.06304900348186493
+  Z: -0.5439450144767761
+attackPower: 34
+bfres: Weapon_Lsword_033
+boundingForTraverse: 0.11911000311374664
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Lsword_033
+generalLife: 50
+homeArea:
+- name: CentralHyrule
+- name: EldinCanyon
+- name: EastHateru
+instSize: 66532
+itemBuyingPrice: 150
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 150
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Lsword_033
+name: Weapon_Lsword_033
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponLargeSword
+slink: Weapon_Lsword_033
+sortKey: 12210
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag2813d81b: 672389147
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tagdf7c57f6: !u 0xdf7c57f6
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 21
+weaponCommonPoweredSharpAddAtkMin: 13
+weaponCommonPoweredSharpAddLifeMax: 30
+weaponCommonPoweredSharpAddLifeMin: 16
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 2.0
+weaponCommonPoweredSharpAddThrowMin: 1.5
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 0
+weaponCommonSharpWeaponAddAtkMax: 12
+weaponCommonSharpWeaponAddAtkMin: 7
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 15
+weaponCommonSharpWeaponAddLifeMin: 5
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: ChemicalWeapon
+yLimitAlgorithm: NoLimit

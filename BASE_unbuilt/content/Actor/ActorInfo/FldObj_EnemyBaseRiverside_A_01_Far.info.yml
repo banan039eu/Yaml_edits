@@ -1,0 +1,19 @@
+aabbMax:
+  X: 16.069799423217773
+  Y: 19.390399932861328
+  Z: 16.07539939880371
+aabbMin:
+  X: -24.107099533081055
+  Y: -12.356100082397461
+  Z: -24.067899703979492
+bfres: FldObj_EnemyBaseRiverside_A_Far
+boundingForTraverse: 31.74650001525879
+bugMask: 0
+instSize: 17140
+mainModel: FldObj_EnemyBaseRiverside_A_01_Far
+name: FldObj_EnemyBaseRiverside_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,39 @@
+aabbMax:
+  X: 4.430490016937256
+  Y: 16.259199142456055
+  Z: 4.244999885559082
+aabbMin:
+  X: -5.804910182952881
+  Y: -3.9278500080108643
+  Z: -4.021460056304932
+attackPower: 0
+bfres: Obj_TreeWhiteBirch_A
+boundingForTraverse: 20.187049865722656
+bugMask: 1
+elink: Obj_TreeWhiteBirch_A_01
+generalLife: 40
+instSize: 89352
+locators:
+- pos_x: 0.0
+  pos_y: 1.7000000476837158
+  pos_z: 0.4699999988079071
+  rot_x: -90.0
+  rot_y: 180.0
+  rot_z: 0.0
+  type: Trunk
+lookAtOffsetY: 1.100000023841858
+mainModel: Obj_TreeWhiteBirch_A_01
+name: Obj_TreeWhiteBirch_A_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 6.609910011291504
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag2b533845: 726874181
+  taga40dd51c: !u 0xa40dd51c
+  tage09808b3: !u 0xe09808b3
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

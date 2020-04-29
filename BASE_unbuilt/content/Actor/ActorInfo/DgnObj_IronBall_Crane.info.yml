@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.4900520145893097
+  Y: 0.4926050007343292
+  Z: 0.49081799387931824
+aabbMin:
+  X: -0.4900520145893097
+  Y: -0.4926050007343292
+  Z: -0.49081799387931824
+attackPower: 0
+bfres: DgnObj_IronBall_A
+boundingForTraverse: 0.9852100014686584
+bugMask: 2
+generalLife: 100
+instSize: 29004
+mainModel: DgnObj_IronBall_01
+name: DgnObj_IronBall_Crane
+profile: MapDynamicActive
+slink: DgnObj_IronBall_Crane
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+xlink: DgnObj_ConstrainedSlider
+yLimitAlgorithm: NoLimit

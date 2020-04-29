@@ -1,0 +1,29 @@
+aabbMax:
+  X: 5.300000190734863
+  Y: 10.279500007629395
+  Z: 0.7603909969329834
+aabbMin:
+  X: -5.300000190734863
+  Y: -0.05000000074505806
+  Z: -1.6280499696731567
+attackPower: 0
+bfres: DgnObj_WallCrack_C
+boundingForTraverse: 10.329500198364258
+bugMask: 2
+cursorOffsetY: 0.5
+elink: DgnObj_WallCrack_C_01
+generalLife: 1
+instSize: 32004
+mainModel: DgnObj_WallCrack_C_01
+name: DgnObj_WallCrack_C_01
+profile: MapDynamicActive
+rigidBodyCenterY: 5.106170177459717
+slink: DgnObj_WallCrack_C_01
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tagdeb2c8bd: !u 0xdeb2c8bd
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,38 @@
+aabbMax:
+  X: 0.544992983341217
+  Y: 1.8948099613189697
+  Z: 1.2776999473571777
+aabbMin:
+  X: -0.5519729852676392
+  Y: -0.0129380002617836
+  Z: -0.9152460098266602
+animalUnitBasePlayRate: 1.0
+attackPower: 0
+bfres: Animal_Sheep
+boundingForTraverse: 1.9077479839324951
+bugMask: 3
+cursorOffsetY: 0.699999988079071
+elink: Animal_Sheep_A
+enemyRank: 0
+generalLife: 100
+homeArea:
+- name: EastHateru
+- name: TamulPlateau
+- name: TamulOutback
+instSize: 124656
+mainModel: Sheep
+name: Animal_Sheep_A
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+slink: Animal_Sheep_A
+sortKey: 28050
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag24cd75fe: 617444862
+  tag6b3d3141: 1799172417
+  tagfa5c683e: !u 0xfa5c683e
+xlink: Quadruped_Animal
+yLimitAlgorithm: NoLimit

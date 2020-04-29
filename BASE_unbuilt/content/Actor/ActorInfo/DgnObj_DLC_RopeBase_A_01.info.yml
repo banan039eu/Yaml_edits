@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.40585100650787354
+  Y: 0.10000000149011612
+  Z: 0.40585100650787354
+aabbMin:
+  X: -0.40585100650787354
+  Y: -0.6135579943656921
+  Z: -0.40585100650787354
+attackPower: 0
+bfres: DgnObj_DLC_RopeBase_A
+boundingForTraverse: 0.71355801820755
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 51628
+mainModel: DgnObj_DLC_RopeBase_A_01
+name: DgnObj_DLC_RopeBase_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.28036001324653625
+slink: DgnObj_Hrl_RailLift
+sortKey: -24
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag7dd56981: 2111138177
+  tagd4adbe71: !u 0xd4adbe71
+yLimitAlgorithm: NoLimit

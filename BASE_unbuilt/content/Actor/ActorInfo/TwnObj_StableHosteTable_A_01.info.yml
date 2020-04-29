@@ -1,0 +1,18 @@
+aabbMax:
+  X: 1.073349952697754
+  Y: 1.6365200281143188
+  Z: 1.073349952697754
+aabbMin:
+  X: -1.073349952697754
+  Y: 0.0
+  Z: -1.073349952697754
+bfres: TwnObj_StableHostel_A
+boundingForTraverse: 1.6365200281143188
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 49472
+mainModel: TwnObj_StableHosteTable_A_01
+name: TwnObj_StableHosteTable_A_01
+profile: MapConstPassive
+sortKey: -2
+yLimitAlgorithm: NoLimit

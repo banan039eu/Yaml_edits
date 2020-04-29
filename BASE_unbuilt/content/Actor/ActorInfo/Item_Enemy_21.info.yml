@@ -1,0 +1,46 @@
+aabbMax:
+  X: 0.19632600247859955
+  Y: 0.20376400649547577
+  Z: 0.18647100031375885
+aabbMin:
+  X: -0.19565999507904053
+  Y: -0.20146700739860535
+  Z: -0.25291699171066284
+bfres: Item_Enemy_21
+boundingForTraverse: 0.4052309989929199
+bugMask: 1
+cookSpiceBoostEffectiveTime: 80
+cookSpiceBoostHitPointRecover: 0
+cookSpiceBoostMaxHeartLevel: 0
+cookSpiceBoostStaminaLevel: 0
+cookSpiceBoostSuccessRate: 10
+cursorOffsetY: 0.30000001192092896
+elink: GetItem
+generalLife: 100
+instSize: 36824
+itemBuyingPrice: 100
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 25
+itemStainColor: 3
+itemUseIconActorName: ''
+mainModel: Item_Enemy_21
+monsterShopBuyMamo: 0
+monsterShopSellMamo: 13
+motorcycleEnergy:
+  add: 75.0
+name: Item_Enemy_21
+profile: Item
+sortKey: 37081
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag9b44906f: !u 0x9b44906f
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagd7c5d3b2: !u 0xd7c5d3b2
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tageb6cd85e: !u 0xeb6cd85e
+yLimitAlgorithm: NoLimit

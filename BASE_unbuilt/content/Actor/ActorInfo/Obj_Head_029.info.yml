@@ -1,0 +1,33 @@
+aabbMax:
+  X: 0.13426999747753143
+  Y: 0.3791719973087311
+  Z: 0.20311899483203888
+aabbMin:
+  X: -0.1198979988694191
+  Y: 0.17983399331569672
+  Z: -0.20793600380420685
+bfres: Item_Armor_Head_029
+boundingForTraverse: 0.19933800399303436
+bugMask: 1
+cursorOffsetY: 0.30000001192092896
+generalLife: 100
+instSize: 24176
+itemBuyingPrice: 80
+itemCreatingPrice: 80
+itemSaleRevivalCount: -1
+itemSellingPrice: 80
+itemStainColor: -1
+itemUseIconActorName: ''
+lookAtOffsetY: 0.20000000298023224
+mainModel: Item_Armor_Head_029
+name: Obj_Head_029
+normal0ItemName01: Item_Ore_F
+normal0ItemNum01: 10
+normal0StuffNum: 1
+profile: Item
+sortKey: 21380
+systemIsGetItemSelf: false
+systemSameGroupActorName: Armor_029_Head
+tags:
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,41 @@
+aabbMax:
+  X: 0.35966598987579346
+  Y: 1.5530099868774414
+  Z: 0.7020940184593201
+aabbMin:
+  X: -0.5041199922561646
+  Y: -0.001053999993018806
+  Z: -0.2527430057525635
+boundingForTraverse: 1.5540640354156494
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: UMii_Hylia_Backpack
+instSize: 588140
+name: Npc_Road_009
+profile: NPC
+slink: Npc_Hylia_W
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+travelerAppearGameDataName: FirstTouchdown
+travelerDeleteGameDataName: Npc_Road_Firone_Off
+travelerRideHorseName: ''
+travelerRoutePoint0Name: H8_GOAL_00
+travelerRoutePoint10Name: RoadFirone_LakeSide
+travelerRoutePoint11Name: G8_JCT_02
+travelerRoutePoint12Name: G8_GOAL_02
+travelerRoutePoint1Name: H8_JCT_00
+travelerRoutePoint2Name: H8_JCT_11
+travelerRoutePoint3Name: H8_JCT_10
+travelerRoutePoint4Name: RoadFirone_STP000
+travelerRoutePoint5Name: H8_MID_00
+travelerRoutePoint6Name: H8_MID_01
+travelerRoutePoint7Name: RoadFirone_JCT000
+travelerRoutePoint8Name: RoadFirone_JCT001
+travelerRoutePoint9Name: H8_MID_02
+travelerRouteType: ''
+traverseDist: 200.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

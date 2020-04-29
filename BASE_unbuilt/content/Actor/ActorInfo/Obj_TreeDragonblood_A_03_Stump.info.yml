@@ -1,0 +1,29 @@
+aabbMax:
+  X: 3.7084600925445557
+  Y: 13.27869987487793
+  Z: 3.6244099140167236
+aabbMin:
+  X: -3.710390090942383
+  Y: -1.5891300439834595
+  Z: -3.6244099140167236
+attackPower: 0
+bfres: Obj_TreeDragonblood_A
+boundingForTraverse: 14.867830276489258
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 84076
+mainModel: Obj_TreeDragonblood_A_03
+name: Obj_TreeDragonblood_A_03_Stump
+profile: MapDynamicPassive
+rigidBodyCenterY: -0.24004100263118744
+sortKey: -4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag170cf1e2: 386724322
+  tagc28d054e: !u 0xc28d054e
+terrainTextures:
+- !u 0xffffff4d
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

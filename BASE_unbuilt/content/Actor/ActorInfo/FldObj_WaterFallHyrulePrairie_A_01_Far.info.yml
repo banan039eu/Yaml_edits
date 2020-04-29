@@ -1,0 +1,21 @@
+aabbMax:
+  X: 5.531579971313477
+  Y: 0.5538020133972168
+  Z: 4.949940204620361
+aabbMin:
+  X: -5.686580181121826
+  Y: -40.50339889526367
+  Z: -14.662099838256836
+bfres: FldObj_WaterFallHyrulePrairie_A_Far
+boundingForTraverse: 41.05720138549805
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 19960
+mainModel: FldObj_WaterFallHyrulePrairie_A_01_Far
+name: FldObj_WaterFallHyrulePrairie_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1500.0
+yLimitAlgorithm: NoLimit

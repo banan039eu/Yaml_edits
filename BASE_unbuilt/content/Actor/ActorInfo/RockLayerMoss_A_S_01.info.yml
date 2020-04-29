@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.5092769861221313
+  Y: 0.5618759989738464
+  Z: 0.69964599609375
+aabbMin:
+  X: -0.5648319721221924
+  Y: -0.12250000238418579
+  Z: -0.7802630066871643
+bfres: Obj_RockLayerMoss_A
+boundingForTraverse: 0.6843760013580322
+bugMask: 0
+instSize: 27608
+mainModel: Obj_RockLayerMoss_A_S_01
+name: RockLayerMoss_A_S_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag977b149c: !u 0x977b149c
+terrainTextures:
+- !u 0xff4c1f00
+yLimitAlgorithm: NoLimit

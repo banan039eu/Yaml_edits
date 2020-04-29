@@ -1,0 +1,22 @@
+aabbMax:
+  X: 20.0
+  Y: 0.0
+  Z: 20.5
+aabbMin:
+  X: -20.0
+  Y: 0.0
+  Z: -3.5
+attackPower: 0
+bfres: DgnObj_WaterMrg029_A
+boundingForTraverse: 23.323806762695312
+bugMask: 2
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 20832
+name: DgnObj_WaterMrg029_A_01
+profile: MapDynamicActive
+slink: WaterSurfaceFlow
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,21 @@
+aabbMax:
+  X: 37.51129913330078
+  Y: 17.42009925842285
+  Z: 3.039750099182129
+aabbMin:
+  X: -19.356000900268555
+  Y: -0.749284029006958
+  Z: -9.383440017700195
+bfres: DgnObj_DLC_FirstGateSnow_A
+boundingForTraverse: 18.169384002685547
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 111672
+mainModel: DgnObj_DLC_FirstGateSnowEntrance_A_01
+name: DgnObj_DLC_FirstGateSnowEntrance_A_01
+profile: MapConstPassive
+sortKey: -5
+terrainTextures:
+- !u 0xffffff08
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

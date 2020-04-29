@@ -1,0 +1,7 @@
+bugMask: 1
+cursorOffsetY: 0.5
+instSize: 4716
+name: ViewfrustumCheckTag
+profile: ComplexTag
+sortKey: -8
+yLimitAlgorithm: NoLimit

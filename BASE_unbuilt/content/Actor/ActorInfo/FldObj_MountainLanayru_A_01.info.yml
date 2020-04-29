@@ -1,0 +1,22 @@
+aabbMax:
+  X: 15.835399627685547
+  Y: 76.91020202636719
+  Z: 14.408900260925293
+aabbMin:
+  X: -19.894399642944336
+  Y: -4.975520133972168
+  Z: -16.417200088500977
+bfres: FldObj_MountainLanayru_A
+boundingForTraverse: 81.8857192993164
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 41372
+isHasFar: true
+mainModel: FldObj_MountainLanayru_A_01
+name: FldObj_MountainLanayru_A_01
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffffff37
+traverseDist: 547.189697265625
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,54 @@
+aabbMax:
+  X: 0.02413400076329708
+  Y: 0.028829000890254974
+  Z: 0.07625100016593933
+aabbMin:
+  X: -0.02413400076329708
+  Y: -0.028829000890254974
+  Z: -0.11512500047683716
+attackPower: 0
+bfres: Npc_Hylia_TestTube
+boundingForTraverse: 0.05765800178050995
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 29128
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Npc_Hylia_TestTube
+name: Npc_Hylia_TestTube_000
+profile: WeaponSmallSword
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  taga86b29f1: !u 0xa86b29f1
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 0
+weaponCommonPoweredSharpAddAtkMin: 0
+weaponCommonPoweredSharpAddLifeMax: 0
+weaponCommonPoweredSharpAddLifeMin: 0
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 0
+weaponCommonSharpWeaponAddAtkMax: 0
+weaponCommonSharpWeaponAddAtkMin: 0
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 0
+weaponCommonSharpWeaponAddLifeMin: 0
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+yLimitAlgorithm: NoLimit

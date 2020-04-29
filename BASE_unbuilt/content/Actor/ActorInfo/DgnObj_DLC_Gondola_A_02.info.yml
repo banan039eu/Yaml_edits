@@ -1,0 +1,30 @@
+aabbMax:
+  X: 2.0
+  Y: 13.10099983215332
+  Z: 2.0
+aabbMin:
+  X: -2.0
+  Y: 0.0010000000474974513
+  Z: -2.0
+attackPower: 0
+bfres: DgnObj_DLC_Gondola_A
+boundingForTraverse: 13.09999942779541
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Lift
+generalLife: 100
+instSize: 68456
+mainModel: DgnObj_DLC_Gondola_A_01
+name: DgnObj_DLC_Gondola_A_02
+profile: MapDynamicActive
+rigidBodyCenterY: 2.828900098800659
+slink: DgnObj_DLC_Gondola_A_02
+sortKey: -9
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag296b3b75: 694893429
+  tagc2ac3213: !u 0xc2ac3213
+  tagf50873bc: !u 0xf50873bc
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

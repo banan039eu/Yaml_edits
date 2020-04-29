@@ -1,0 +1,10 @@
+bugMask: 1
+instSize: 5256
+name: DungeonRotateTagRemainsWater
+profile: SoleTag
+sortKey: -12
+tags:
+  tag03528579: 55739769
+  tag05a5e004: 94756868
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

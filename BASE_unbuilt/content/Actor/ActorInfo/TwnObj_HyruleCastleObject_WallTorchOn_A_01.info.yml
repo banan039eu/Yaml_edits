@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.4109799861907959
+  Y: 1.0647599697113037
+  Z: 0.48224300146102905
+aabbMin:
+  X: -0.4109190106391907
+  Y: 0.025891000404953957
+  Z: -0.012013999745249748
+attackPower: 0
+bfres: TwnObj_HyruleCastleObject_A
+boundingForTraverse: 1.038869023323059
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 61024
+mainModel: TwnObj_HyruleCastleObject_WallTorch_A_01
+name: TwnObj_HyruleCastleObject_WallTorchOn_A_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.710224986076355
+slink: CandleGround
+sortKey: -9
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+yLimitAlgorithm: NoLimit

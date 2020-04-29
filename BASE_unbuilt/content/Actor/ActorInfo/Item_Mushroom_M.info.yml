@@ -1,0 +1,56 @@
+aabbMax:
+  X: 0.4046410024166107
+  Y: 0.5804799795150757
+  Z: 0.40149301290512085
+aabbMin:
+  X: -0.4277159869670868
+  Y: -0.06165599822998047
+  Z: -0.4111660122871399
+bfres: Obj_MashroomDefense_A
+boundingForTraverse: 0.6421359777450562
+bugMask: 1
+cureItemEffectLevel: 2
+cureItemEffectType: DefenseUp
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 2
+cursorOffsetY: 0.4000000059604645
+elink: GetItem
+generalLife: 100
+homeArea:
+- name: WestHateru
+- name: EastHateru
+- name: HyruleForest
+instSize: 37188
+itemBuyingPrice: 20
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 5
+itemStainColor: 14
+itemUseIconActorName: ''
+mainModel: Obj_MashroomDefense_A_01
+motorcycleEnergy:
+  add: 75.0
+name: Item_Mushroom_M
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+rigidBodyCenterY: 0.2949349880218506
+sortKey: 31310
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag14185415: 337138709
+  tag682e5129: 1747865897
+  tag7a3964c1: 2050581697
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

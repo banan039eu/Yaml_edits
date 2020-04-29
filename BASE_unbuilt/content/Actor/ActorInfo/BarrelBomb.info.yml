@@ -1,0 +1,31 @@
+aabbMax:
+  X: 0.5210850238800049
+  Y: 1.0648000240325928
+  Z: 0.5210850238800049
+aabbMin:
+  X: -0.5210850238800049
+  Y: -0.03581799939274788
+  Z: -0.5210850238800049
+attackPower: 4
+bfres: Obj_BarrelBomb_A
+boundingForTraverse: 1.1006180047988892
+bugMask: 3
+elink: BarrelBomb
+generalLife: 20
+instSize: 45868
+mainModel: Obj_BarrelBomb_A_01
+name: BarrelBomb
+profile: MapDynamicActive
+rigidBodyCenterY: 0.5132480263710022
+slink: BarrelBomb
+sortKey: 2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagc4154689: !u 0xc4154689
+  tage0a7b8f3: !u 0xe0a7b8f3
+  tagff2ecb67: !u 0xff2ecb67
+  tagffb4932f: !u 0xffb4932f
+yLimitAlgorithm: NoLimit

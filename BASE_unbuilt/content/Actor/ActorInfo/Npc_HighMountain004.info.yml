@@ -1,0 +1,23 @@
+aabbMax:
+  X: 1.603119969367981
+  Y: 3.3591599464416504
+  Z: 1.465790033340454
+aabbMin:
+  X: -1.6505299806594849
+  Y: -0.017457999289035797
+  Z: -1.6607199907302856
+bfres: Npc_Rito_Mayer
+boundingForTraverse: 3.376617908477783
+bugMask: 3
+cursorOffsetY: 0.15000000596046448
+elink: NPC
+instSize: 315764
+mainModel: Npc_Rito_Mayer
+name: Npc_HighMountain004
+profile: NPC
+slink: Npc_HighMountain004
+sortKey: -19
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

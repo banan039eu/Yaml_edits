@@ -1,0 +1,26 @@
+aabbMax:
+  X: 1.026039958000183
+  Y: 12.5
+  Z: 1.0303499698638916
+aabbMin:
+  X: -1.0091300010681152
+  Y: -0.20000000298023224
+  Z: -2.541529893875122
+attackPower: 0
+bfres: DgnObj_PillarCrack_C
+boundingForTraverse: 12.699999809265137
+bugMask: 3
+cursorOffsetY: 0.5
+elink: DgnObj_PillarCrack_C_01
+generalLife: 1
+instSize: 33848
+mainModel: DgnObj_PillarCrack_C_01
+name: DgnObj_PillarCrack_C_01
+profile: MapDynamicActive
+rigidBodyCenterY: 6.719180107116699
+slink: BreakablePillar
+sortKey: -38
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

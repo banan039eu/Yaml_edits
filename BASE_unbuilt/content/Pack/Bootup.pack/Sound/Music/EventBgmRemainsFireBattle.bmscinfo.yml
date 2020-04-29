@@ -1,0 +1,7 @@
+!io
+version: 0
+type: mscinfo
+param_root: !list
+  objects:
+    MusicParam: !obj {FoundFadeOutSec: 0.1, FoundWaitSec: 8.5, FoundAgainWaitSec: 8.0}
+  lists: {}

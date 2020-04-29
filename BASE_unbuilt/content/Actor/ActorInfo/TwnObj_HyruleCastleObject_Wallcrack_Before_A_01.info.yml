@@ -1,0 +1,30 @@
+aabbMax:
+  X: 2.0
+  Y: 6.0
+  Z: 1.0
+aabbMin:
+  X: -2.0
+  Y: 0.0
+  Z: -1.0
+attackPower: 0
+bfres: TwnObj_HyruleCastleObject_A
+boundingForTraverse: 6.0
+bugMask: 2
+cursorOffsetY: 0.5
+elink: TwnObj_HyruleCastleObject_Wallcrack_Before_A_01
+generalLife: 1
+instSize: 39396
+mainModel: TwnObj_HyruleCastleObject_Wallcrack_Before_A_01
+name: TwnObj_HyruleCastleObject_Wallcrack_Before_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 3.0
+slink: BreakableWallBuilding
+sortKey: 2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+  tagdeb2c8bd: !u 0xdeb2c8bd
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

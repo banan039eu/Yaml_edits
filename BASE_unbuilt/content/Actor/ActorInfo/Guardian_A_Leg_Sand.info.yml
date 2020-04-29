@@ -1,0 +1,34 @@
+aabbMax:
+  X: 7.491390228271484
+  Y: 0.7351440191268921
+  Z: 0.710739016532898
+aabbMin:
+  X: -0.7581989765167236
+  Y: -0.8366850018501282
+  Z: -0.7107399702072144
+attackPower: 0
+bfres: Enemy_Guardian_A_Old
+boundingForTraverse: 1.5718289613723755
+bugMask: 2
+drops:
+  Normal:
+  - Item_Enemy_27
+  - Item_Enemy_28
+  - Item_Enemy_26
+  - Item_Enemy_29
+elink: Guardian_A_Leg
+enemyRank: 0
+generalLife: 100
+instSize: 34684
+mainModel: Guardian_A_Leg_Old
+name: Guardian_A_Leg_Sand
+profile: GuardianComponent
+slink: Guardian_A_Leg
+sortKey: 10905
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0e3e49b1: 238963121
+  tag17044493: 386155667
+  tag4806038d: 1208353677
+yLimitAlgorithm: NoLimit

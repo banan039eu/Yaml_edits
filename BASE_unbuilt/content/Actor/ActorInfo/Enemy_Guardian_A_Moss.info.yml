@@ -1,0 +1,47 @@
+aabbMax:
+  X: 3.4730899333953857
+  Y: 6.610960006713867
+  Z: 3.6683900356292725
+aabbMin:
+  X: -3.6898601055145264
+  Y: -0.26903700828552246
+  Z: -3.7073800563812256
+attackPower: 0
+bfres: Enemy_Guardian_A_Old
+boundingForTraverse: 6.8799967765808105
+bugMask: 3
+cursorOffsetY: 3.0
+drops:
+  Normal:
+  - Item_Enemy_27
+  - Item_Enemy_28
+  - Item_Enemy_26
+  - Item_Enemy_29
+  - Item_Enemy_30
+  - Item_Enemy_31
+elink: Guardian_A_Old
+enemyRank: 15
+generalLife: 1500
+instSize: 113748
+mainModel: Enemy_Guardian_A_Old
+name: Enemy_Guardian_A_Moss
+pictureBookLiveSpot1: 27
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Guardian
+rigidBodyCenterY: 1.0
+slink: Guardian
+sortKey: 887
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_Guardian_A
+tags:
+  tag0e3e49b1: 238963121
+  tag17044493: 386155667
+  tag3a61e2a9: 979493545
+  tag4806038d: 1208353677
+  tag921c2372: !u 0x921c2372
+  tag994aef4b: !u 0x994aef4b
+  tagb0c9e79a: !u 0xb0c9e79a
+traverseDist: 200.0
+xlink: Guardian
+yLimitAlgorithm: NoLimit

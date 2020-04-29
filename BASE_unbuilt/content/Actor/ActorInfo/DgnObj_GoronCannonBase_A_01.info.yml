@@ -1,0 +1,20 @@
+aabbMax:
+  X: 9.461199760437012
+  Y: 2.5394399166107178
+  Z: 4.689189910888672
+aabbMin:
+  X: -15.594900131225586
+  Y: -4.735939979553223
+  Z: -14.762100219726562
+bfres: FldObj_GoronCannon_A
+boundingForTraverse: 7.2753801345825195
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 61028
+mainModel: FldObj_GoronCannonBase_A_01
+name: DgnObj_GoronCannonBase_A_01
+profile: MapConstPassive
+sortKey: 6
+terrainTextures:
+- !u 0xffff2322
+yLimitAlgorithm: NoLimit

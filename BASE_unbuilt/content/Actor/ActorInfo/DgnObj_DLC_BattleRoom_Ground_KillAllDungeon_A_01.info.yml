@@ -1,0 +1,21 @@
+aabbMax:
+  X: 75.0
+  Y: 0.0949999988079071
+  Z: 75.0
+aabbMin:
+  X: -75.0
+  Y: -5.949999809265137
+  Z: -75.0
+bfres: DgnObj_DLC_BattleRoom_Ground_A
+boundingForTraverse: 6.045000076293945
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 37788
+mainModel: DgnObj_DLC_BattleRoom_Ground_KillAllDungeon_A_01
+name: DgnObj_DLC_BattleRoom_Ground_KillAllDungeon_A_01
+profile: MapConstPassive
+sortKey: -4
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+traverseDist: 900.0
+yLimitAlgorithm: NoLimit

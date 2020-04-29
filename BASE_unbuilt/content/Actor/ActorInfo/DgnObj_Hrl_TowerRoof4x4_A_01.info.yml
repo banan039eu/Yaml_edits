@@ -1,0 +1,22 @@
+aabbMax:
+  X: 2.1538500785827637
+  Y: 7.431869983673096
+  Z: 2.1538500785827637
+aabbMin:
+  X: -2.1538500785827637
+  Y: 0.0
+  Z: -2.1538500785827637
+attackPower: 0
+bfres: DgnObj_TowerRoof_A
+boundingForTraverse: 7.431869983673096
+bugMask: 1
+generalLife: 100
+instSize: 96588
+mainModel: DgnObj_Hrl_TowerRoof4x4_A_01
+name: DgnObj_Hrl_TowerRoof4x4_A_01
+profile: MapConstActive
+rigidBodyCenterY: 3.01488995552063
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

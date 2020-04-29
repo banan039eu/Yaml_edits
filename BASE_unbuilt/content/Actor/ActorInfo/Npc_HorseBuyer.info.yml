@@ -1,0 +1,22 @@
+aabbMax:
+  X: 0.3452329933643341
+  Y: 1.763569951057434
+  Z: 0.6834350228309631
+aabbMin:
+  X: -0.543071985244751
+  Y: -0.00011600000289035961
+  Z: -0.21848399937152863
+boundingForTraverse: 1.763685941696167
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: UMii_Hylia_Backpack
+instSize: 616428
+name: Npc_HorseBuyer
+profile: NPC
+slink: Npc_Hylia_M
+sortKey: -5
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+yLimitAlgorithm: NoLimit

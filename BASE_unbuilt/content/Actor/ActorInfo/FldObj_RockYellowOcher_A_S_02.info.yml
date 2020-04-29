@@ -1,0 +1,22 @@
+aabbMax:
+  X: 5.645060062408447
+  Y: 0.5944470167160034
+  Z: 5.0452399253845215
+aabbMin:
+  X: -4.1390299797058105
+  Y: -0.8383569717407227
+  Z: -4.678530216217041
+bfres: FldObj_RockYellowOcher_A
+boundingForTraverse: 1.432803988456726
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18548
+mainModel: FldObj_RockYellowOcher_A_S_02
+name: FldObj_RockYellowOcher_A_S_02
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag977b149c: !u 0x977b149c
+terrainTextures:
+- !u 0xffffff1c
+yLimitAlgorithm: NoLimit

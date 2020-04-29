@@ -1,0 +1,34 @@
+aabbMax:
+  X: 0.47742998600006104
+  Y: 2.1788198947906494
+  Z: 1.4500800371170044
+aabbMin:
+  X: -0.5261710286140442
+  Y: -0.21834200620651245
+  Z: -0.5579220056533813
+attackPower: 0
+bfres: FldObj_GoronCannon_A
+boundingForTraverse: 2.3971619606018066
+bugMask: 3
+cursorOffsetY: 0.5
+farModelCulling:
+  center:
+    X: 0.0
+    Y: 1.149999976158142
+    Z: 0.0
+  height: 1.149999976158142
+  radius: 2.0
+generalLife: 100
+instSize: 51320
+mainModel: FldObj_GoronCannonSwitch_A_01
+name: FldObj_GoronCannonSwitch_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 1.100000023841858
+slink: FldObj_GoronCannonSwitch_A_01
+sortKey: 4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag51e73965: 1374108005
+  tagc28d054e: !u 0xc28d054e
+yLimitAlgorithm: NoLimit

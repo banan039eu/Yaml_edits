@@ -1,0 +1,26 @@
+aabbMax:
+  X: 32.333099365234375
+  Y: 1.6487400531768799
+  Z: 9.428009986877441
+aabbMin:
+  X: -30.44179916381836
+  Y: -59.26340103149414
+  Z: -14.806400299072266
+bfres: TwnObj_HyruleCastleGround_A
+boundingForTraverse: 60.912139892578125
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 39932
+isHasFar: true
+mainModel: TwnObj_HyruleCastleGround_Cliff_A_01
+name: TwnObj_HyruleCastleGround_Cliff_A_01
+profile: MapConstPassive
+sortKey: -14
+tags:
+  tag03528579: 55739769
+  tag84f40ec6: !u 0x84f40ec6
+  taga1c9da5d: !u 0xa1c9da5d
+terrainTextures:
+- 1344082188
+traverseDist: 567.2904052734375
+yLimitAlgorithm: NoLimit

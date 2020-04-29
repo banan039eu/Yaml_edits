@@ -1,0 +1,45 @@
+aabbMax:
+  X: 0.37287500500679016
+  Y: 0.1695290058851242
+  Z: 0.49883100390434265
+aabbMin:
+  X: -0.27101999521255493
+  Y: -0.1695290058851242
+  Z: -1.2591500282287598
+bfres: Item_ChilledFish_02
+boundingForTraverse: 0.3390580117702484
+bugMask: 1
+cureItemEffectLevel: 1
+cureItemEffectType: ResistHot
+cureItemEffectiveTime: 1800
+cureItemHitPointRecover: 16
+cursorOffsetY: 0.30000001192092896
+elink: GetItem
+generalLife: 100
+instSize: 37048
+itemBuyingPrice: 40
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 18
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Item_ChilledFish_02
+name: Item_ChilledFish_02
+profile: Item
+sortKey: 65030
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag14185415: 337138709
+  tag80e484a4: !u 0x80e484a4
+  tag812ee444: !u 0x812ee444
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  taga1418569: !u 0xa1418569
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

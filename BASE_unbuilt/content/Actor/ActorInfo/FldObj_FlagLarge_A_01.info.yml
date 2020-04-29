@@ -1,0 +1,26 @@
+aabbMax:
+  X: 5.894529819488525
+  Y: 40.9375
+  Z: 1.5527299642562866
+aabbMin:
+  X: -1.551759958267212
+  Y: 0.0
+  Z: -2.0195300579071045
+attackPower: 0
+bfres: FldObj_FlagLarge_A
+boundingForTraverse: 40.9375
+bugMask: 0
+generalLife: 100
+instSize: 40660
+mainModel: FldObj_FlagLarge_A_01
+name: FldObj_FlagLarge_A_01
+profile: MapConstActive
+rigidBodyCenterY: 14.825799942016602
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  taga1c9da5d: !u 0xa1c9da5d
+  tagc5b7c123: !u 0xc5b7c123
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

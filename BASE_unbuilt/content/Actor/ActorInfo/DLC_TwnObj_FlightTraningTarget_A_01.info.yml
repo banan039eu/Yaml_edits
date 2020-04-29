@@ -1,0 +1,28 @@
+aabbMax:
+  X: 3.1819798946380615
+  Y: 0.38696300983428955
+  Z: 0.4604640007019043
+aabbMin:
+  X: -3.1819798946380615
+  Y: -7.016839981079102
+  Z: -1.025189995765686
+attackPower: 0
+bfres: TwnObj_ValleyFlightTrainingYard
+boundingForTraverse: 7.403802871704102
+bugMask: 3
+cursorOffsetY: 0.5
+elink: DLC_TwnObj_FlightTraningTarget_A_01
+generalLife: 1
+instSize: 45024
+mainModel: TwnObj_FlightTraningTarget_A_01
+name: DLC_TwnObj_FlightTraningTarget_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: -3.537990093231201
+slink: DLC_TwnObj_FlightTraningTarget_A_01
+sortKey: -9
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagc5b7c123: !u 0xc5b7c123
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

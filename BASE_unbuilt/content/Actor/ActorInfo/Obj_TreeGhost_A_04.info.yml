@@ -1,0 +1,51 @@
+aabbMax:
+  X: 6.866640090942383
+  Y: 14.273500442504883
+  Z: 8.09801959991455
+aabbMin:
+  X: -7.717639923095703
+  Y: -5.649990081787109
+  Z: -6.315460205078125
+attackPower: 0
+bfres: Obj_TreeGhost_A
+boundingForTraverse: 19.923490524291992
+bugMask: 1
+cursorOffsetY: 0.5
+elink: Obj_TreeGhost_A
+generalLife: 100
+instSize: 83632
+locators:
+- pos_x: 0.4830000102519989
+  pos_y: 2.611999988555908
+  pos_z: -2.8359999656677246
+  rot_x: -79.9000015258789
+  rot_y: -1.8370000123977661
+  rot_z: 20.195999145507812
+  type: Trunk
+- pos_x: -1.2000000476837158
+  pos_y: 8.399999618530273
+  pos_z: 1.600000023841858
+  rot_x: 0.0
+  rot_y: 0.0
+  rot_z: 0.0
+  type: OnTree
+- pos_x: -2.700000047683716
+  pos_y: 9.100000381469727
+  pos_z: 0.30000001192092896
+  rot_x: 0.0
+  rot_y: 0.0
+  rot_z: 0.0
+  type: Branch
+mainModel: Obj_TreeGhost_A_04
+name: Obj_TreeGhost_A_04
+profile: MapDynamicPassive
+sortKey: 4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag48409b2e: 1212193582
+  tag882953b0: !u 0x882953b0
+traverseDist: 800.0
+yLimitAlgorithm: NoLimit

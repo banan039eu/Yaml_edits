@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 2264
+name: AlarmLynelTag
+profile: ComplexTag
+sortKey: 0
+yLimitAlgorithm: NoLimit

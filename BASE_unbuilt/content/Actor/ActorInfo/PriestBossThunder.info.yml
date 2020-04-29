@@ -1,0 +1,20 @@
+attackPower: 24
+bugMask: 3
+elink: PriestBossThunder
+instSize: 14992
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: PriestBossThunder
+profile: Bullet
+slink: PriestBossThunder
+sortKey: -5
+tags:
+  tag3a61e2a9: 979493545
+  tag49b834f7: 1236808951
+  tag74831ee0: 1954750176
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

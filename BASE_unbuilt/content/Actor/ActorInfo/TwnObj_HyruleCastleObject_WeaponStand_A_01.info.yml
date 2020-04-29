@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.3728879988193512
+  Y: 0.15838100016117096
+  Z: 0.25637200474739075
+aabbMin:
+  X: -0.37288698554039
+  Y: 0.0
+  Z: -0.25637200474739075
+bfres: TwnObj_HyruleCastleObject_A
+boundingForTraverse: 0.15838100016117096
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28760
+mainModel: TwnObj_HyruleCastleObject_WeaponStand_A_01
+name: TwnObj_HyruleCastleObject_WeaponStand_A_01
+profile: MapConstPassive
+sortKey: 10
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+yLimitAlgorithm: NoLimit

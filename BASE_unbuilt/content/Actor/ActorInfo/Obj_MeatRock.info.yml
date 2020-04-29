@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.5573430061340332
+  Y: 0.6662290096282959
+  Z: 0.8612480163574219
+aabbMin:
+  X: -0.5273119807243347
+  Y: -0.3671559989452362
+  Z: -0.9224039912223816
+attackPower: 4
+bfres: Obj_MeatRock
+boundingForTraverse: 1.0333850383758545
+bugMask: 3
+generalLife: 1
+instSize: 41212
+mainModel: Obj_MeatRock
+name: Obj_MeatRock
+profile: MapDynamicActive
+rigidBodyCenterY: 0.09779000282287598
+slink: Obj_LiftRock
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagff2ecb67: !u 0xff2ecb67
+yLimitAlgorithm: NoLimit

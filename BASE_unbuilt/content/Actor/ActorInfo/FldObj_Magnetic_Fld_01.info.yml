@@ -1,0 +1,19 @@
+aabbMax:
+  X: 1.330649971961975
+  Y: 5.606269836425781
+  Z: 1.5963599681854248
+aabbMin:
+  X: -1.330649971961975
+  Y: -0.5
+  Z: -1.4869799613952637
+bfres: FldObj_MagneticField_A
+boundingForTraverse: 6.106269836425781
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28760
+mainModel: FldObj_MagneticFieldStatue_A_01
+name: FldObj_Magnetic_Fld_01
+profile: MapConstPassive
+sortKey: -12
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

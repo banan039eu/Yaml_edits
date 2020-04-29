@@ -1,0 +1,29 @@
+aabbMax:
+  X: 1.0381799936294556
+  Y: 2.9134600162506104
+  Z: 1.2429800033569336
+aabbMin:
+  X: -0.9019050002098083
+  Y: -0.25604501366615295
+  Z: -1.0024299621582031
+attackPower: 0
+bfres: Obj_Mineral_A
+boundingForTraverse: 3.1695048809051514
+bugMask: 3
+cursorOffsetY: 1.5
+elink: Enemy_Golem_WeakPoint_02
+enemyRank: 0
+generalLife: 100
+instSize: 46948
+mainModel: Obj_Mineral_B_01
+name: Enemy_Golem_R_WeakPoint
+profile: Enemy
+rigidBodyCenterY: 0.800000011920929
+slink: Enemy_Golem_WeakPoint
+sortKey: -5
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag319c67f0: 832333808
+  tag7027cedd: 1881657053
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,42 @@
+aabbMax:
+  X: 0.921875
+  Y: 1.4931600093841553
+  Z: 0.22766000032424927
+aabbMin:
+  X: -0.921875
+  Y: 0.6875060200691223
+  Z: -0.1926250010728836
+armorDefenceAddLevel: 3
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: ResistBurn
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_037_Upper
+armorStarNum: 1
+armorUpperDisableSelfMantle: true
+armorUpperUseMantleType: 1
+bfres: Armor_030
+boundingForTraverse: 0.805653989315033
+bugMask: 3
+instSize: 80444
+itemBuyingPrice: 600
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 150
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_030_Upper
+name: Armor_011_Upper
+profile: ArmorUpper
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: Goron
+slink: Armor_Upper_MetalHeavy
+sortKey: 2322074
+tags:
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

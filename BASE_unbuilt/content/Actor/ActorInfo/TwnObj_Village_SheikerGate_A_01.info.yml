@@ -1,0 +1,18 @@
+aabbMax:
+  X: 2.289599895477295
+  Y: 0.8723170161247253
+  Z: 12.036999702453613
+aabbMin:
+  X: -2.3015100955963135
+  Y: -11.104900360107422
+  Z: -11.911399841308594
+bfres: TwnObj_Village_Sheiker_A
+boundingForTraverse: 11.977217674255371
+bugMask: 0
+instSize: 70088
+mainModel: TwnObj_Village_SheikerGate_A_01
+name: TwnObj_Village_SheikerGate_A_01
+profile: MapConstPassive
+sortKey: -8
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

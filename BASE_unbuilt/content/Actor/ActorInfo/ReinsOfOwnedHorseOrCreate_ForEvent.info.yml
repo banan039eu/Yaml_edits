@@ -1,0 +1,8 @@
+bugMask: 1
+instSize: 10092
+name: ReinsOfOwnedHorseOrCreate_ForEvent
+profile: System
+sortKey: 0
+tags:
+  tag6cd89c18: 1826135064
+yLimitAlgorithm: NoLimit

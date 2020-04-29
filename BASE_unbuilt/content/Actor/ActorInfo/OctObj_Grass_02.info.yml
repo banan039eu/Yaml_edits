@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.33959999680519104
+  Y: 0.9882919788360596
+  Z: 0.3643450140953064
+aabbMin:
+  X: -0.36018499732017517
+  Y: -0.04306099936366081
+  Z: -0.4199259877204895
+attackPower: 0
+bfres: Enemy_Octarock_Item_FlowerFluff
+boundingForTraverse: 1.0313529968261719
+bugMask: 3
+elink: Octarock_Grass
+instSize: 28992
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: OctObj_Grass_02
+profile: Bullet
+slink: OctObj_Grass
+sortKey: 0
+tags:
+  tag9ef05488: !u 0x9ef05488
+  tagff2ecb67: !u 0xff2ecb67
+yLimitAlgorithm: NoLimit

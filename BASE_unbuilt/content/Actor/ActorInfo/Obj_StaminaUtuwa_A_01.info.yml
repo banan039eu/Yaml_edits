@@ -1,0 +1,39 @@
+aabbMax:
+  X: 0.3370710015296936
+  Y: 0.8829119801521301
+  Z: 0.18131999671459198
+aabbMin:
+  X: -0.3381820023059845
+  Y: -0.0019660000689327717
+  Z: -0.18131999671459198
+bfres: Item_StaminaUtuwa
+boundingForTraverse: 0.8848779797554016
+bugMask: 3
+cursorOffsetY: 0.4000000059604645
+elink: Obj_StaminaUtuwa_A_01
+generalLife: 100
+instSize: 34248
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+lookAtOffsetY: 0.10000000149011612
+mainModel: Item_StaminaUtuwa
+name: Obj_StaminaUtuwa_A_01
+profile: Item
+rigidBodyCenterY: 0.3353320062160492
+slink: Obj_StaminaUtuwa
+sortKey: 50014
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tag4850af43: 1213247299
+  tag7025851a: 1881507098
+  tagdcd7e698: !u 0xdcd7e698
+  tagdeb2c8bd: !u 0xdeb2c8bd
+  tage0194f30: !u 0xe0194f30
+  tagf321a28c: !u 0xf321a28c
+yLimitAlgorithm: NoLimit

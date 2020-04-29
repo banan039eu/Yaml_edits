@@ -1,0 +1,28 @@
+aabbMax:
+  X: 2.0040900707244873
+  Y: 3.9893798828125
+  Z: 1.9985400438308716
+aabbMin:
+  X: -2.0040900707244873
+  Y: -0.0006360000115819275
+  Z: -1.9985400438308716
+attackPower: 0
+bfres: Obj_BoxIron_A
+boundingForTraverse: 3.990015983581543
+bugMask: 0
+generalLife: 100
+instSize: 28860
+mainModel: Obj_BoxIron_A_M_01
+name: Obj_BoxIron_A_M_01
+profile: MapDynamicActive
+rigidBodyCenterY: 2.0
+sortKey: -26
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag507efd18: 1350499608
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagc4154689: !u 0xc4154689
+yLimitAlgorithm: NoLimit

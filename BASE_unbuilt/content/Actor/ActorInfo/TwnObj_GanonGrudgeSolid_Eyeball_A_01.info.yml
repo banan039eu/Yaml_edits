@@ -1,0 +1,31 @@
+aabbMax:
+  X: 1.686519980430603
+  Y: 1.739259958267212
+  Z: 0.515625
+aabbMin:
+  X: -1.5439499616622925
+  Y: -1.6699199676513672
+  Z: -1.541990041732788
+attackPower: 0
+bfres: TwnObj_GanonGrudgeSolid_A
+boundingForTraverse: 3.409179925918579
+bugMask: 3
+cursorOffsetY: 1.0
+elink: TwnObj_GanonGrudgeSolid_Eyeball_A_01
+generalLife: 1
+instSize: 185664
+mainModel: TwnObj_GanonGrudgeSolid_Eyeball_A_01
+name: TwnObj_GanonGrudgeSolid_Eyeball_A_01
+profile: MapDynamicActive
+slink: TwnObj_GanonGrudgeSolid_Eyeball
+sortKey: -19
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagd4ce3b04: !u 0xd4ce3b04
+traverseDist: 50.0
+xlink: TwnObj_GanonGrudgeSolid_Eyeball_A_01
+yLimitAlgorithm: NoLimit

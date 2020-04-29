@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.5573430061340332
+  Y: 0.6662290096282959
+  Z: 0.8612480163574219
+aabbMin:
+  X: -0.5273119807243347
+  Y: -0.3671559989452362
+  Z: -0.9224039912223816
+attackPower: 4
+bfres: Obj_GrilledMeatRock
+boundingForTraverse: 1.0333850383758545
+bugMask: 1
+elink: Obj_GrilledMeatRock
+generalLife: 1
+instSize: 47996
+mainModel: Obj_GrilledMeatRock
+name: Obj_GrilledMeatRock
+profile: MapDynamicActive
+rigidBodyCenterY: 0.09779000282287598
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagff2ecb67: !u 0xff2ecb67
+yLimitAlgorithm: NoLimit

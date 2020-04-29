@@ -1,0 +1,32 @@
+aabbMax:
+  X: 62.0713005065918
+  Y: 65.3550033569336
+  Z: 64.3727035522461
+aabbMin:
+  X: -62.024600982666016
+  Y: -4.001589775085449
+  Z: -113.35700225830078
+attackPower: 0
+bfres: DgnObj_IbutsuFireField_A
+boundingForTraverse: 69.3565902709961
+bugMask: 3
+elink: RemainsFire
+generalLife: 100
+instSize: 468416
+isHasFar: true
+mainModel: DgnObj_IbutsuFireField_A_01
+name: RemainsFire
+profile: Remains
+slink: RemainsFire
+sortKey: -15
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag336bf311: 862712593
+  tagb54a7a34: !u 0xb54a7a34
+  tagc28d054e: !u 0xc28d054e
+  tagcd60a1be: !u 0xcd60a1be
+  tagfd5643b5: !u 0xfd5643b5
+traverseDist: 1500.0
+xlink: RemainsFire
+yLimitAlgorithm: NoLimit

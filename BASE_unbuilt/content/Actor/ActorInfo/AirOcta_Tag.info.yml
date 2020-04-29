@@ -1,0 +1,10 @@
+bugMask: 1
+instSize: 84520
+name: AirOcta_Tag
+profile: SoleTag
+sortKey: 0
+tags:
+  tag22bcdf34: 582803252
+  tagbd33a460: !u 0xbd33a460
+traverseDist: 150.0
+yLimitAlgorithm: LimitYDiff

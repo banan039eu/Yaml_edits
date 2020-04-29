@@ -1,0 +1,51 @@
+aabbMax:
+  X: 0.11837399750947952
+  Y: 0.23443999886512756
+  Z: 0.26521700620651245
+aabbMin:
+  X: -0.14819900691509247
+  Y: -0.1873130053281784
+  Z: -0.7817469835281372
+bfres: Animal_Trout_Glow
+boundingForTraverse: 0.4217529892921448
+bugMask: 3
+cureItemEffectLevel: 2
+cureItemEffectType: Quietness
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 4
+cursorOffsetY: 0.30000001192092896
+drops:
+  Normal:
+  - Item_FishGet_X
+elink: Fish
+generalLife: 1
+instSize: 86292
+itemBuyingPrice: 40
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 10
+itemStainColor: -1
+itemUseIconActorName: Item_FishGet_X
+mainModel: Trout_Glow
+name: Animal_Fish_X
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: CapturedActor
+slink: Fish
+sortKey: 34080
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_FishGet_X
+tags:
+  tag14185415: 337138709
+  tag168ce9a9: 378333609
+  tag24cd75fe: 617444862
+  tag294c7640: 692876864
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,27 @@
+bugMask: 1
+cureItemEffectLevel: 0
+cureItemEffectType: None
+cureItemHitPointRecover: 0
+generalLife: 100
+instSize: 4076
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: Item_Cook_C_01
+profile: CookResult
+sortKey: 50570
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag14185415: 337138709
+  tag29548de8: 693407208
+  tag30a3552e: 816010542
+  tag80e484a4: !u 0x80e484a4
+  tagd75da434: !u 0xd75da434
+  tage0194f30: !u 0xe0194f30
+  tagefb9041d: !u 0xefb9041d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

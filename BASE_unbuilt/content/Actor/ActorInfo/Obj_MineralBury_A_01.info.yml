@@ -1,0 +1,42 @@
+aabbMax:
+  X: 1.3883299827575684
+  Y: 1.2921799421310425
+  Z: 0.9522169828414917
+aabbMin:
+  X: -1.1770000457763672
+  Y: -0.3674379885196686
+  Z: -0.992995023727417
+attackPower: 0
+bfres: Obj_Mineral_A
+boundingForTraverse: 1.6596180200576782
+bugMask: 3
+cursorOffsetY: 0.5
+drops:
+  Normal:
+  - Item_Ore_B
+  - Item_Ore_A
+  - Item_Ore_F
+  - Item_Ore_C
+  - Item_Ore_D
+  - Item_Ore_E
+  - Item_Ore_H
+  - Item_Ore_I
+elink: Obj_MineralBury_A_01
+generalLife: 40
+instSize: 46608
+mainModel: Obj_MineralBury_A_01
+name: Obj_MineralBury_A_01
+pictureBookLiveSpot1: 20
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.4133169949054718
+slink: Mineral
+sortKey: -3
+systemIsGetItemSelf: false
+systemSameGroupActorName: Obj_Mineral_A_01
+tags:
+  tag4186e30f: 1099358991
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagbb8d80c2: !u 0xbb8d80c2
+yLimitAlgorithm: NoLimit

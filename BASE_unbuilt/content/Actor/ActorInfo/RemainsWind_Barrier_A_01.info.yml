@@ -1,0 +1,28 @@
+aabbMax:
+  X: 172.25900268554688
+  Y: 48.850101470947266
+  Z: 129.90899658203125
+aabbMin:
+  X: -172.25900268554688
+  Y: -54.850101470947266
+  Z: -115.18599700927734
+attackPower: 4
+bfres: DgnObj_IbutsuWindField_A
+boundingForTraverse: 103.70020294189453
+bugMask: 3
+cursorOffsetY: 0.5
+elink: RemainsWind_Barrier_A_01
+generalLife: 100
+instSize: 75828
+mainModel: DgnObj_IbutsuWindFieldBarrierDisp_A_02
+name: RemainsWind_Barrier_A_01
+profile: MapDynamicActive
+slink: RemainsWind_Barrier
+sortKey: -3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag336bf311: 862712593
+  tag3d2fc55b: 1026540891
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

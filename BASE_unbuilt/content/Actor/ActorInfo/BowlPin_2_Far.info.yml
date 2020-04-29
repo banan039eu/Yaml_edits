@@ -1,0 +1,21 @@
+aabbMax:
+  X: 1.2291799783706665
+  Y: 9.34883975982666
+  Z: 1.6440600156784058
+aabbMin:
+  X: -1.1844899654388428
+  Y: -0.03177399933338165
+  Z: -1.3436599969863892
+bfres: FldObj_BowlingPin_A_Far
+boundingForTraverse: 9.380614280700684
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: FldObj_BowlingPin_A_01_Far
+name: BowlPin_2_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

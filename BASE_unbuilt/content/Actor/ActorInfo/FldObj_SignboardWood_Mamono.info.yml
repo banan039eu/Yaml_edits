@@ -1,0 +1,30 @@
+aabbMax:
+  X: 0.5504689812660217
+  Y: 2.0210399627685547
+  Z: 0.133309006690979
+aabbMin:
+  X: -0.6146619915962219
+  Y: -0.010928000323474407
+  Z: -0.06563100218772888
+attackPower: 0
+bfres: FldObj_SignboardWood_A
+boundingForTraverse: 2.031968116760254
+bugMask: 3
+cursorOffsetY: 0.3499999940395355
+generalLife: 8
+instSize: 86260
+lookAtOffsetY: 1.7999999523162842
+mainModel: FldObj_SignboardWood_A_02
+name: FldObj_SignboardWood_Mamono
+profile: MapDynamicPassive
+rigidBodyCenterY: 1.4620399475097656
+slink: FldObj_SignboardWood_A_01
+sortKey: 11
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2a2d0822: 707594274
+  tag80e91296: !u 0x80e91296
+  tagef748738: !u 0xef748738
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

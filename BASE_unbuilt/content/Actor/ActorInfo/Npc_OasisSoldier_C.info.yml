@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.49614301323890686
+  Y: 2.8143699169158936
+  Z: 0.34056800603866577
+aabbMin:
+  X: -0.4814249873161316
+  Y: 0.0001250000059371814
+  Z: -0.25558799505233765
+boundingForTraverse: 2.8142449855804443
+bugMask: 3
+cursorOffsetY: 0.4000000059604645
+elink: NPC
+instSize: 324972
+name: Npc_OasisSoldier_C
+profile: NPC
+slink: Npc_Gerudo_M
+sortKey: -8
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

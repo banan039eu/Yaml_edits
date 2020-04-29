@@ -1,0 +1,24 @@
+aabbMax:
+  X: 0.3486349880695343
+  Y: 1.555340051651001
+  Z: 0.36768099665641785
+aabbMin:
+  X: -0.3324219882488251
+  Y: -0.0009490000084042549
+  Z: -0.2527430057525635
+boundingForTraverse: 1.5562889575958252
+bugMask: 3
+cursorOffsetY: 0.3499999940395355
+elink: Npc_Challenge093Lady
+instSize: 551788
+name: Npc_Challenge093Lady
+profile: NPC
+slink: Npc_Challenge093Lady
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+traverseDist: 100.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

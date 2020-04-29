@@ -1,0 +1,21 @@
+aabbMax:
+  X: 23.024900436401367
+  Y: 51.1244010925293
+  Z: 63.090599060058594
+aabbMin:
+  X: -22.46980094909668
+  Y: -28.041799545288086
+  Z: -14.210399627685547
+bfres: TwnObj_HyruleCastle_A
+boundingForTraverse: 79.16619873046875
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 359696
+mainModel: TwnObj_HyruleCastle_GateBridge_A_01
+name: TwnObj_HyruleCastle_GateBridge_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

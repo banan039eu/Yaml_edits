@@ -1,0 +1,24 @@
+aabbMax:
+  X: 1.56358003616333
+  Y: 0.2419459968805313
+  Z: 2.498579978942871
+aabbMin:
+  X: -1.56358003616333
+  Y: -0.2419459968805313
+  Z: -0.9810469746589661
+bfres: Npc_Goron_Pickaxe_C_000
+boundingForTraverse: 0.4838919937610626
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 32764
+mainModel: Npc_Goron_Pickaxe_C_000
+name: Dm_Npc_Goron_Pickaxe_C_000
+profile: DemoEquipment
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag4ccbef03: 1288433411
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

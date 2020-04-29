@@ -1,0 +1,25 @@
+aabbMax:
+  X: 53.23160171508789
+  Y: 18.660600662231445
+  Z: 179.30499267578125
+aabbMin:
+  X: -205.57400512695312
+  Y: -47.506099700927734
+  Z: -106.24099731445312
+bfres: FldObj_HyliaBridgeFoot_A
+boundingForTraverse: 66.16670227050781
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 42300
+isHasFar: true
+mainModel: FldObj_CliffLakeHylia_A_02
+name: FldObj_CliffLakeHylia_A_02
+profile: MapConstPassive
+sortKey: -4
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- 487657472
+- !u 0xffff4c1f
+traverseDist: 885.3788452148438
+yLimitAlgorithm: NoLimit

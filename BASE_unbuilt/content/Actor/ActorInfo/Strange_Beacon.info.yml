@@ -1,0 +1,19 @@
+attackPower: 0
+bugMask: 1
+elink: Strange_Beacon
+generalLife: 100
+instSize: 3976
+invalidTimes:
+- Morning_A1
+- Morning_A2
+- Night_A
+- Night_B
+name: Strange_Beacon
+profile: MapConstActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag572de768: 1462626152
+traverseDist: 1200.0
+yLimitAlgorithm: NoLimit

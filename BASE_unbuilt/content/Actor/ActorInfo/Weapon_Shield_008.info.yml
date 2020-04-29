@@ -1,0 +1,73 @@
+Chemical:
+  Capaciter: 1
+aabbMax:
+  X: 0.5718110203742981
+  Y: 0.0471699982881546
+  Z: 0.31478801369667053
+aabbMin:
+  X: -0.2598100006580353
+  Y: -0.26245400309562683
+  Z: -0.3725129961967468
+attackPower: 0
+bfres: Weapon_Shield_008
+boundingForTraverse: 0.30962398648262024
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Shield
+generalLife: 12
+homeArea:
+- name: TabantaFrontier
+- name: GerudoDesert
+- name: FironeSea
+instSize: 41840
+itemBuyingPrice: 60
+itemCreatingPrice: 10
+itemSaleRevivalCount: -1
+itemSellingPrice: 20
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Shield_008
+name: Weapon_Shield_008
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponShield
+rigidBodyCenterY: -0.10536500066518784
+slink: Weapon_Shield_Metal
+sortKey: 15531
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 22
+weaponCommonPoweredSharpAddAtkMax: 0
+weaponCommonPoweredSharpAddAtkMin: 0
+weaponCommonPoweredSharpAddLifeMax: 3
+weaponCommonPoweredSharpAddLifeMin: 3
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 12
+weaponCommonPoweredSharpWeaponAddGuardMin: 8
+weaponCommonRank: 10
+weaponCommonSharpWeaponAddAtkMax: 0
+weaponCommonSharpWeaponAddAtkMin: 0
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 7
+weaponCommonSharpWeaponAddGuardMin: 4
+weaponCommonSharpWeaponAddLifeMax: 2
+weaponCommonSharpWeaponAddLifeMin: 1
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+xlink: Weapon
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,19 @@
+aabbMax:
+  X: 3.085829973220825
+  Y: -0.7109569907188416
+  Z: 6.633359909057617
+aabbMin:
+  X: -5.30866003036499
+  Y: -2.6577799320220947
+  Z: -1.3477100133895874
+bfres: Obj_TreeGashamahi_A
+boundingForTraverse: 1.946823000907898
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18548
+mainModel: Obj_TreeGashamahi_A_09
+name: Obj_TreeGashamahi_A_09
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

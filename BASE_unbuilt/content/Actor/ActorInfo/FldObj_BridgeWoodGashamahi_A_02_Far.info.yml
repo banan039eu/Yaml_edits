@@ -1,0 +1,21 @@
+aabbMax:
+  X: 8.728050231933594
+  Y: 3.276319980621338
+  Z: 35.2400016784668
+aabbMin:
+  X: -8.147879600524902
+  Y: -20.502899169921875
+  Z: -31.178800582885742
+bfres: FldObj_BridgeWoodGashamahi_A_Far
+boundingForTraverse: 23.779218673706055
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28760
+mainModel: FldObj_BridgeWoodGashamahi_A_02_Far
+name: FldObj_BridgeWoodGashamahi_A_02_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,19 @@
+aabbMax:
+  X: 5.443019866943359
+  Y: 3.343169927597046
+  Z: 4.334859848022461
+aabbMin:
+  X: -5.688720226287842
+  Y: -0.8441749811172485
+  Z: -4.3238701820373535
+bfres: FldObj_RockAkkare_A
+boundingForTraverse: 4.187345027923584
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18548
+mainModel: FldObj_RockAkkare_A_09
+name: FldObj_RockAkkare_A_09
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

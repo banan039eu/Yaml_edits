@@ -1,0 +1,50 @@
+aabbMax:
+  X: 0.08176600188016891
+  Y: 0.2447730004787445
+  Z: 0.11613000184297562
+aabbMin:
+  X: -0.08180800080299377
+  Y: 0.00014000000373926014
+  Z: -0.1848040074110031
+actorScale: 1.399999976158142
+attackPower: 0
+bfres: Animal_LittleBird
+boundingForTraverse: 0.2446330040693283
+bugMask: 3
+drops:
+  Normal:
+  - Item_Fruit_L
+elink: Animal_LittleBird_A
+enemyRank: 0
+generalLife: 1
+homeArea:
+- name: HyruleForest
+- name: EldinCanyon
+- name: EldinMountains
+instSize: 117604
+invalidTimes:
+- Night_A
+- Night_B
+invalidWeathers:
+- Rain
+- HeavyRain
+- HeavySnow
+- ThunderRain
+- BlueskyRain
+mainModel: LittleBird
+name: Animal_LittleBird_F
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+slink: Animal_LittleBird_A
+sortKey: 29015
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag24903b32: 613432114
+  tag24cd75fe: 617444862
+  tag7993f871: 2039740529
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagac9f717f: !u 0xac9f717f
+yLimitAlgorithm: NoLimit

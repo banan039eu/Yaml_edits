@@ -1,0 +1,31 @@
+aabbMax:
+  X: 1.0107699632644653
+  Y: 1.4454599618911743
+  Z: 1.047950029373169
+aabbMin:
+  X: -0.8446980118751526
+  Y: -0.009746000170707703
+  Z: -1.149999976158142
+attackPower: 0
+bfres: Enemy_Octarock_Item_LiftRockWhite
+boundingForTraverse: 1.455206036567688
+bugMask: 3
+elink: OctObj_Stone_01
+instSize: 29384
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Item_LiftRockWhite
+name: OctObj_Stone_01
+profile: Bullet
+slink: OctObj_Stone
+sortKey: 0
+tags:
+  tag2fddce51: 803065425
+  tagff2ecb67: !u 0xff2ecb67
+terrainTextures:
+- !u 0xffffff04
+yLimitAlgorithm: NoLimit

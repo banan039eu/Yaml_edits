@@ -1,0 +1,20 @@
+aabbMax:
+  X: 3.7515599727630615
+  Y: 2.0
+  Z: 3.75
+aabbMin:
+  X: -3.7507801055908203
+  Y: -2.0
+  Z: -3.125
+bfres: FldObj_DebrisHylia_A
+boundingForTraverse: 4.0
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 27608
+mainModel: FldObj_DebrisHylia_Step_A_01
+name: FldObj_DebrisHylia_Step_A_01
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffffff0b
+yLimitAlgorithm: NoLimit

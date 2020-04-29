@@ -1,0 +1,18 @@
+aabbMax:
+  X: 0.6688989996910095
+  Y: 0.4067290127277374
+  Z: 0.7066850066184998
+aabbMin:
+  X: -0.06225299835205078
+  Y: -0.009875999763607979
+  Z: -0.9167450070381165
+bfres: TwnObj_Village_RitoFurniture_A
+boundingForTraverse: 0.41660499572753906
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28056
+mainModel: TwnObj_Village_RitoFirstAidKit_A_01
+name: TwnObj_Village_RitoFirstAidKit_A_01
+profile: MapConstPassive
+sortKey: 2
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,22 @@
+aabbMax:
+  X: 97.42479705810547
+  Y: 18.587600708007812
+  Z: 31.452899932861328
+aabbMin:
+  X: -97.87590026855469
+  Y: -9.905440330505371
+  Z: -32.70709991455078
+bfres: FldObj_CliffSnow_D_Far
+boundingForTraverse: 28.4930419921875
+bugMask: 0
+instSize: 48000
+mainModel: FldObj_CliffSnowWall_D_15_Far
+name: FldObj_CliffSnowWall_D_15_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xff373108
+yLimitAlgorithm: NoLimit

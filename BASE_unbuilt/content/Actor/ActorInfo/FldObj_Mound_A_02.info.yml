@@ -1,0 +1,22 @@
+aabbMax:
+  X: 41.89950180053711
+  Y: 7.718289852142334
+  Z: 34.25170135498047
+aabbMin:
+  X: -31.795799255371094
+  Y: -6.7970499992370605
+  Z: -41.290199279785156
+bfres: FldObj_Mound_B
+boundingForTraverse: 14.515339851379395
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 41500
+isHasFar: true
+mainModel: FldObj_Mound_A_02
+name: FldObj_Mound_A_02
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- 1277107200
+traverseDist: 605.5347290039062
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,24 @@
+aabbMax:
+  X: 0.2985840141773224
+  Y: 0.2447499930858612
+  Z: 0.11614900082349777
+aabbMin:
+  X: -0.2985840141773224
+  Y: 0.00015199999324977398
+  Z: -0.1848040074110031
+actorScale: 1.399999976158142
+bfres: Animal_LittleBird
+boundingForTraverse: 0.24459800124168396
+bugMask: 1
+cursorOffsetY: 0.20000000298023224
+generalLife: 100
+instSize: 48380
+mainModel: LittleBird
+name: Dm_Animal_LittleBird_A
+profile: DemoNPC
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

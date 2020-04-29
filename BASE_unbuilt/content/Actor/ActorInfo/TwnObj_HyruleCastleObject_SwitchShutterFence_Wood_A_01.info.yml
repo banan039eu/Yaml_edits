@@ -1,0 +1,29 @@
+aabbMax:
+  X: 3.030910015106201
+  Y: 7.379260063171387
+  Z: 0.27803999185562134
+aabbMin:
+  X: -3.030910015106201
+  Y: 0.049998000264167786
+  Z: -0.27803999185562134
+attackPower: 0
+bfres: TwnObj_HyruleCastleInside_TrainingRoom_A
+boundingForTraverse: 7.329261779785156
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Shutter
+generalLife: 100
+instSize: 36864
+mainModel: TwnObj_HyruleCastleObject_ShutterFence_Wood_A_01
+name: TwnObj_HyruleCastleObject_SwitchShutterFence_Wood_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 3.047379970550537
+slink: TwnObj_HyruleCastleObject_SwitchShutterFence_Wood_A_01
+sortKey: -18
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tag7dd56981: 2111138177
+  taga1c9da5d: !u 0xa1c9da5d
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.8608599901199341
+  Y: 1.4832500219345093
+  Z: 0.9047470092773438
+aabbMin:
+  X: -0.8880800008773804
+  Y: -0.5012050271034241
+  Z: -0.9797419905662537
+attackPower: 0
+bfres: Obj_Plant_OriginalGrass_A
+boundingForTraverse: 1.9844549894332886
+bugMask: 2
+elink: Plant_OriginalGrass_A
+generalLife: 100
+instSize: 25540
+mainModel: Obj_Plant_OriginalGrass_A
+name: Plant_OriginalGrass_A
+profile: MapDynamicPassive
+slink: Plant_Vine
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag51ed35a6: 1374500262
+  tage91ea5f6: !u 0xe91ea5f6
+yLimitAlgorithm: NoLimit

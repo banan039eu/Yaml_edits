@@ -1,0 +1,14 @@
+attackPower: 0
+bugMask: 3
+elink: ElectricCable
+generalLife: 100
+instSize: 12780
+name: Test_ElectricCable
+profile: MapConstActive
+slink: DgnObj_ElectricWireNoChemical
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagc5b7c123: !u 0xc5b7c123
+yLimitAlgorithm: NoLimit

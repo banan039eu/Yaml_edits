@@ -1,0 +1,10 @@
+attackPower: 0
+bugMask: 0
+generalLife: 100
+instSize: 10044
+name: DgnObj_HammerTop
+profile: MapDynamicActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

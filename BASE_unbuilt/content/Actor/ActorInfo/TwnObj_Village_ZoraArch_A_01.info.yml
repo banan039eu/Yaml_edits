@@ -1,0 +1,18 @@
+aabbMax:
+  X: 4.435259819030762
+  Y: -1.1588200330734253
+  Z: 0.3818570077419281
+aabbMin:
+  X: -4.435259819030762
+  Y: -5.349299907684326
+  Z: -0.3818570077419281
+bfres: TwnObj_Village_Zora_A
+boundingForTraverse: 4.1904802322387695
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 42140
+mainModel: TwnObj_Village_ZoraArch_A_01
+name: TwnObj_Village_ZoraArch_A_01
+profile: MapConstPassive
+sortKey: 10
+yLimitAlgorithm: NoLimit

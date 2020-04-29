@@ -1,0 +1,15 @@
+bugMask: 0
+generalLife: 100
+instSize: 3108
+itemBuyingPrice: 20
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: 4
+itemUseIconActorName: ''
+name: dyecolor_00
+profile: Item
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

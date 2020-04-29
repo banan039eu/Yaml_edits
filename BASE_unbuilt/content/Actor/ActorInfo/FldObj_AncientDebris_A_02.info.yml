@@ -1,0 +1,19 @@
+aabbMax:
+  X: 6.367919921875
+  Y: 1.3894399404525757
+  Z: 6.250879764556885
+aabbMin:
+  X: -5.3207502365112305
+  Y: -0.684578001499176
+  Z: -6.307079792022705
+bfres: FldObj_AncientPillar_A
+boundingForTraverse: 2.0740180015563965
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 41500
+mainModel: FldObj_AncientDebris_A_02
+name: FldObj_AncientDebris_A_02
+profile: MapConstPassive
+sortKey: -3
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

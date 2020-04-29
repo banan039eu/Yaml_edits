@@ -1,0 +1,53 @@
+aabbMax:
+  X: 0.30399999022483826
+  Y: 0.15383799374103546
+  Z: 0.3422960042953491
+aabbMin:
+  X: -0.27026399970054626
+  Y: -0.15383799374103546
+  Z: -0.8533390164375305
+bfres: Animal_Bass
+boundingForTraverse: 0.3076759874820709
+bugMask: 3
+cureItemEffectLevel: 0
+cureItemEffectType: None
+cureItemHitPointRecover: 4
+cursorOffsetY: 0.30000001192092896
+elink: GetItem
+generalLife: 1
+homeArea:
+- name: CentralHyrule
+- name: WestHateru
+- name: LanayruWaterSources
+instSize: 50364
+itemBuyingPrice: 24
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 6
+itemStainColor: -1
+itemUseIconActorName: Item_FishGet_A
+mainModel: Bass_Boneless
+motorcycleEnergy:
+  add: 75.0
+name: Item_FishGet_A
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+slink: Item_FishGet
+sortKey: 34010
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_FishGet_A
+tags:
+  tag14185415: 337138709
+  tag168ce9a9: 378333609
+  tag24cd75fe: 617444862
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

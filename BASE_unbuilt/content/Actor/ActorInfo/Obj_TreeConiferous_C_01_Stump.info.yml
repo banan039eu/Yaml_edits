@@ -1,0 +1,34 @@
+aabbMax:
+  X: 3.381279945373535
+  Y: 14.823699951171875
+  Z: 3.2141799926757812
+aabbMin:
+  X: -4.837870121002197
+  Y: -1.6702200174331665
+  Z: -5.265729904174805
+attackPower: 0
+bfres: Obj_TreeConiferous_C
+boundingForTraverse: 16.493919372558594
+bugMask: 1
+generalLife: 100
+instSize: 120684
+locators:
+- pos_x: 0.0
+  pos_y: 1.7000000476837158
+  pos_z: 0.27000001072883606
+  rot_x: -90.0
+  rot_y: 180.0
+  rot_z: 0.0
+  type: Trunk
+lookAtOffsetY: 1.100000023841858
+mainModel: Obj_TreeConiferous_C_01
+name: Obj_TreeConiferous_C_01_Stump
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.05000000074505806
+sortKey: 15
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag170cf1e2: 386724322
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

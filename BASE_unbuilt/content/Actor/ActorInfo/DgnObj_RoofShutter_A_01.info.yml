@@ -1,0 +1,25 @@
+aabbMax:
+  X: 16.625
+  Y: 21.75
+  Z: 39.4921989440918
+aabbMin:
+  X: -26.763700485229492
+  Y: 7.945310115814209
+  Z: -38.1875
+attackPower: 0
+bfres: DgnObj_RoofShutter_A
+boundingForTraverse: 13.804689407348633
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 82948
+mainModel: DgnObj_RoofShutter_A_01
+name: DgnObj_RoofShutter_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 20.24850082397461
+slink: DgnObj_RoofShutter_A_01
+sortKey: 17
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

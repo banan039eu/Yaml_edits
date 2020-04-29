@@ -1,0 +1,23 @@
+aabbMax:
+  X: 12.901200294494629
+  Y: 3.4112799167633057
+  Z: 11.591099739074707
+aabbMin:
+  X: -14.138500213623047
+  Y: -1.9329500198364258
+  Z: -11.419699668884277
+bfres: FldObj_CliffWhite_B
+boundingForTraverse: 5.3442301750183105
+bugMask: 0
+instSize: 27608
+mainModel: FldObj_CliffWhiteRockSet_B_01
+name: FldObj_CliffWhiteRockSet_B_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag932d2d91: !u 0x932d2d91
+  tag977b149c: !u 0x977b149c
+terrainTextures:
+- !u 0xffff1e12
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

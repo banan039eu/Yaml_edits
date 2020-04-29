@@ -1,0 +1,28 @@
+aabbMax:
+  X: 1.728350043296814
+  Y: 3.121880054473877
+  Z: 1.0082199573516846
+aabbMin:
+  X: -1.7193599939346313
+  Y: 0.0014680000022053719
+  Z: -0.9180179834365845
+bfres: Npc_Goron_HeroDescendants
+boundingForTraverse: 3.120413064956665
+bugMask: 3
+cursorOffsetY: 0.6000000238418579
+elink: Npc_Goron020
+instSize: 348780
+mainModel: Npc_Goron_HeroDescendants
+name: Npc_FollowGoron
+profile: NPC
+slink: Npc_FollowGoron
+sortKey: -12
+systemIsGetItemSelf: false
+systemSameGroupActorName: Npc_Goron020
+tags:
+  tag0fee9a49: 267295305
+  tag36e44d13: 920931603
+  tagc3b0a0e6: !u 0xc3b0a0e6
+  tagf92947a1: !u 0xf92947a1
+xlink: Npc
+yLimitAlgorithm: NoLimit

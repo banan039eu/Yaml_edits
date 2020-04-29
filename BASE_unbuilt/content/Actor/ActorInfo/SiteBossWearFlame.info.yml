@@ -1,0 +1,18 @@
+attackPower: 24
+bugMask: 3
+elink: SiteBossWearFlame
+instSize: 15532
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: SiteBossWearFlame
+profile: Bullet
+slink: SiteBossWearFlame
+sortKey: 1
+tags:
+  tag74831ee0: 1954750176
+  tagb0c0f649: !u 0xb0c0f649
+yLimitAlgorithm: NoLimit

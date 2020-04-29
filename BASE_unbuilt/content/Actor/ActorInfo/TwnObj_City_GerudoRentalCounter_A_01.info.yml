@@ -1,0 +1,18 @@
+aabbMax:
+  X: 2.5973799228668213
+  Y: 4.280089855194092
+  Z: 3.5256900787353516
+aabbMin:
+  X: -2.5246500968933105
+  Y: -0.38060298562049866
+  Z: -3.626879930496216
+bfres: TwnObj_City_Gerudo_A
+boundingForTraverse: 4.660693168640137
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 227108
+mainModel: TwnObj_City_GerudoRentalCounter_A_01
+name: TwnObj_City_GerudoRentalCounter_A_01
+profile: MapConstPassive
+sortKey: 26
+yLimitAlgorithm: NoLimit

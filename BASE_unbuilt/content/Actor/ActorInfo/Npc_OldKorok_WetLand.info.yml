@@ -1,0 +1,27 @@
+aabbMax:
+  X: 2.4490599632263184
+  Y: 5.902160167694092
+  Z: 1.7333500385284424
+aabbMin:
+  X: -1.7156100273132324
+  Y: -0.01092700008302927
+  Z: -1.6471199989318848
+bfres: Npc_Korogu_Minister
+boundingForTraverse: 5.913086891174316
+bugMask: 3
+cursorOffsetY: 1.7999999523162842
+elink: Npc_OldKorok
+instSize: 215540
+lookAtOffsetY: 0.20000000298023224
+mainModel: Npc_Korogu_Minister
+name: Npc_OldKorok_WetLand
+profile: NPC
+slink: Npc_OldKorok
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: Npc_OldKorok
+tags:
+  tagf92947a1: !u 0xf92947a1
+traverseDist: 200.0
+xlink: Korok
+yLimitAlgorithm: NoLimit

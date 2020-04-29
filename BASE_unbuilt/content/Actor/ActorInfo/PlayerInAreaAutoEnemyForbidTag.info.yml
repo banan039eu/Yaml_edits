@@ -1,0 +1,7 @@
+bugMask: 1
+cursorOffsetY: 0.5
+instSize: 4788
+name: PlayerInAreaAutoEnemyForbidTag
+profile: ComplexTag
+sortKey: 0
+yLimitAlgorithm: NoLimit

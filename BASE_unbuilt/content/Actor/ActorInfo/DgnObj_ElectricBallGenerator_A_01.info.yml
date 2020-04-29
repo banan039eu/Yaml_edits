@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.668425977230072
+  Y: 1.3600000143051147
+  Z: 0.6616140007972717
+aabbMin:
+  X: -0.668425977230072
+  Y: 0.0
+  Z: -0.6616140007972717
+attackPower: 0
+bfres: DgnObj_ElectricBallGenerator_A
+boundingForTraverse: 1.3600000143051147
+bugMask: 3
+cursorOffsetY: 0.5
+elink: ElectricBall
+generalLife: 100
+instSize: 59692
+mainModel: DgnObj_ElectricBallGenerator_A_01
+name: DgnObj_ElectricBallGenerator_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.6800000071525574
+slink: ElectricBall
+sortKey: 22
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagff2ecb67: !u 0xff2ecb67
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,73 @@
+Chemical:
+  Capaciter: 1
+aabbMax:
+  X: 0.4935170114040375
+  Y: 0.06633300334215164
+  Z: 0.31177300214767456
+aabbMin:
+  X: -0.2719539999961853
+  Y: -0.1292089968919754
+  Z: -0.42194700241088867
+attackPower: 0
+bfres: Weapon_Shield_025
+boundingForTraverse: 0.19554199278354645
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Shield
+generalLife: 20
+homeArea:
+- name: LanayruWaterSources
+- name: HyliaLake
+- name: TamulPlateau
+instSize: 41776
+itemBuyingPrice: 220
+itemCreatingPrice: 10
+itemSaleRevivalCount: -1
+itemSellingPrice: 55
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Shield_025
+name: Weapon_Shield_025
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponShield
+rigidBodyCenterY: -0.050002001225948334
+slink: Weapon_Shield_Metal
+sortKey: 15130
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 18
+weaponCommonPoweredSharpAddAtkMax: 0
+weaponCommonPoweredSharpAddAtkMin: 0
+weaponCommonPoweredSharpAddLifeMax: 10
+weaponCommonPoweredSharpAddLifeMin: 5
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 26
+weaponCommonPoweredSharpWeaponAddGuardMin: 15
+weaponCommonRank: 9
+weaponCommonSharpWeaponAddAtkMax: 0
+weaponCommonSharpWeaponAddAtkMin: 0
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 14
+weaponCommonSharpWeaponAddGuardMin: 7
+weaponCommonSharpWeaponAddLifeMax: 4
+weaponCommonSharpWeaponAddLifeMin: 2
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+xlink: Weapon
+yLimitAlgorithm: NoLimit

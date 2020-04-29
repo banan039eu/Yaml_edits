@@ -1,0 +1,23 @@
+aabbMax:
+  X: 5.824130058288574
+  Y: 7.29817008972168
+  Z: 7.517139911651611
+aabbMin:
+  X: -5.197249889373779
+  Y: -6.307459831237793
+  Z: -7.8549699783325195
+bfres: FldObj_CliffDeathMt_D
+boundingForTraverse: 13.605629920959473
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 29400
+isHasFar: true
+mainModel: FldObj_CliffDeathMt_D_21
+name: FldObj_CliffDeathMt_D_21
+profile: MapConstPassive
+sortKey: 16
+tags:
+  tag3c39db92: 1010424722
+  tag932d2d91: !u 0x932d2d91
+traverseDist: 518.9148559570312
+yLimitAlgorithm: NoLimit

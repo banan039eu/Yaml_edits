@@ -1,0 +1,20 @@
+aabbMax:
+  X: 19.23889923095703
+  Y: 32.57809829711914
+  Z: 14.2524995803833
+aabbMin:
+  X: -13.905099868774414
+  Y: -0.6840140223503113
+  Z: -13.504899978637695
+bfres: TwnObj_StableHostelSnow_A_Far
+boundingForTraverse: 33.26211166381836
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18100
+mainModel: TwnObj_StableHostelSnow_A_01_Far
+name: TwnObj_StableHostelSnow_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

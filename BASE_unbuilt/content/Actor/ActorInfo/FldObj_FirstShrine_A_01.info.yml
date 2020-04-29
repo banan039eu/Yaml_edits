@@ -1,0 +1,22 @@
+aabbMax:
+  X: 14.43120002746582
+  Y: 1.350000023841858
+  Z: -74.46540069580078
+aabbMin:
+  X: -5.052810192108154
+  Y: -11.0
+  Z: -104.59200286865234
+bfres: FldObj_FirstShrine_A
+boundingForTraverse: 12.350000381469727
+bugMask: 0
+elink: FldObj_FirstShrine_A_01
+instSize: 151616
+mainModel: FldObj_FirstShrine_A_01
+name: FldObj_FirstShrine_A_01
+profile: MapConstPassive
+sortKey: -14
+tags:
+  tag3c39db92: 1010424722
+  tag84f40ec6: !u 0x84f40ec6
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

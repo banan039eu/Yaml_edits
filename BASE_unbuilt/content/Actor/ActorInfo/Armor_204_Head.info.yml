@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.13427700102329254
+  Y: 1.7929699420928955
+  Z: 0.18773700296878815
+aabbMin:
+  X: -0.13427700102329254
+  Y: 1.433590054512024
+  Z: -0.6137700080871582
+armorDefenceAddLevel: 20
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 5
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_200
+boundingForTraverse: 0.35938000679016113
+bugMask: 1
+instSize: 47868
+itemBuyingPrice: 60
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 825
+itemStainColor: -1
+itemUseIconActorName: Armor_200_Head
+mainModel: Armor_200_Head
+name: Armor_204_Head
+normal0ItemName01: Armor_203_Head
+normal0ItemName02: Item_Ore_F
+normal0ItemName03: Item_Ore_J
+normal0ItemNum01: 1
+normal0ItemNum02: 30
+normal0ItemNum03: 1
+normal0StuffNum: 3
+profile: ArmorHead
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: AmiiboOcarinaOfTime
+sortKey: 4221701
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

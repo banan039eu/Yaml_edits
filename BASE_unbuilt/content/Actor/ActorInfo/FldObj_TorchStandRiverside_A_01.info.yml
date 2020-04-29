@@ -1,0 +1,24 @@
+aabbMax:
+  X: 0.5353869795799255
+  Y: 6.104269981384277
+  Z: 0.5141869783401489
+aabbMin:
+  X: -0.48670700192451477
+  Y: -7.384369850158691
+  Z: -0.6321280002593994
+attackPower: 0
+bfres: FldObj_TorchStandRiverside_A
+boundingForTraverse: 13.488639831542969
+bugMask: 2
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 66888
+mainModel: FldObj_TorchStandRiverside_A_01
+name: FldObj_TorchStandRiverside_A_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 1.450950026512146
+slink: CandleGround
+sortKey: -16
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

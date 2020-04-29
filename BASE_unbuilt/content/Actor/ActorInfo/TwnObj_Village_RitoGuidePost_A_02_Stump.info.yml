@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.8107399940490723
+  Y: 1.70510995388031
+  Z: 0.1276089996099472
+aabbMin:
+  X: -0.4692240059375763
+  Y: -0.3011679947376251
+  Z: -0.057583000510931015
+attackPower: 0
+bfres: TwnObj_Village_RitoGuidePost_A
+boundingForTraverse: 2.0062780380249023
+bugMask: 1
+cursorOffsetY: 0.3499999940395355
+generalLife: 100
+instSize: 85872
+lookAtOffsetY: 1.399999976158142
+mainModel: TwnObj_Village_RitoGuidePost_A_02
+name: TwnObj_Village_RitoGuidePost_A_02_Stump
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.4000000059604645
+sortKey: 1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag80e91296: !u 0x80e91296
+  tagc28d054e: !u 0xc28d054e
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

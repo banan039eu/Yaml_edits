@@ -1,0 +1,42 @@
+aabbMax:
+  X: 0.3587940037250519
+  Y: 1.798840045928955
+  Z: 0.6834350228309631
+aabbMin:
+  X: -0.543071985244751
+  Y: -0.00013000000035390258
+  Z: -0.21848399937152863
+boundingForTraverse: 1.7989699840545654
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: UMii_Hylia_Backpack
+instSize: 567148
+name: Npc_Road_017
+profile: NPC
+slink: Npc_Hylia_M
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+travelerAppearGameDataName: FirstTouchdown
+travelerDeleteGameDataName: ''
+travelerRideHorseName: GameRomHorse07
+travelerRoutePoint0Name: RoadGerudo_UYD05
+travelerRoutePoint10Name: SojijiPark_JCT01
+travelerRoutePoint11Name: SojijiPark_STP00
+travelerRoutePoint12Name: D5_JCT_00
+travelerRoutePoint13Name: D5_GOAL_00
+travelerRoutePoint1Name: RoadGerudo_UYD04
+travelerRoutePoint2Name: RoadGerudo_UYD01
+travelerRoutePoint3Name: D6_JCT_00
+travelerRoutePoint4Name: D6_JCT_03
+travelerRoutePoint5Name: D6_GOAL_03
+travelerRoutePoint6Name: D6_JCT_03
+travelerRoutePoint7Name: D6_JCT_01
+travelerRoutePoint8Name: SojijiPark_ENT00
+travelerRoutePoint9Name: SojijiPark_JCT00
+travelerRouteType: ''
+traverseDist: 200.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

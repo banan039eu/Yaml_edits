@@ -1,0 +1,30 @@
+aabbMax:
+  X: 0.6973109841346741
+  Y: 0.6478270292282104
+  Z: 0.6635890007019043
+aabbMin:
+  X: -0.666782021522522
+  Y: -0.5779629945755005
+  Z: -0.6824229955673218
+attackPower: 0
+bfres: Obj_KorokIronRock_A
+boundingForTraverse: 1.225790023803711
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 34492
+mainModel: Obj_KorokIronRock_A_01
+name: Obj_KorokIronRock_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.003102000104263425
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag507efd18: 1350499608
+  tag6a7a4c11: 1786399761
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

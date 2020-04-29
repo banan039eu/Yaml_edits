@@ -1,0 +1,41 @@
+aabbMax:
+  X: 5.746860027313232
+  Y: 7.988609790802002
+  Z: 2.8650999069213867
+aabbMin:
+  X: -9.379650115966797
+  Y: -0.4279569983482361
+  Z: -4.039700031280518
+attackPower: 0
+bfres: Enemy_SiteBoss_Lsword
+boundingForTraverse: 8.416566848754883
+bugMask: 3
+cursorOffsetY: 1.5
+elink: Enemy_SiteBoss_Lsword
+enemyRank: 1
+generalLife: 800
+instSize: 357124
+lookAtOffsetY: 1.0
+name: Enemy_SiteBoss_Lsword_Castle
+pictureBookLiveSpot1: 35
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: SiteBoss
+rigidBodyCenterY: 3.5
+slink: SiteBoss_Lsword
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_SiteBoss_Lsword
+tags:
+  tag03528579: 55739769
+  tag17044493: 386155667
+  tag36565b66: 911629158
+  tag3a61e2a9: 979493545
+  tag4806038d: 1208353677
+  tag60b25e51: 1622302289
+  tag994aef4b: !u 0x994aef4b
+  tag9eb0ef08: !u 0x9eb0ef08
+  tagfd5643b5: !u 0xfd5643b5
+traverseDist: 300.0
+xlink: SiteBoss
+yLimitAlgorithm: NoLimit

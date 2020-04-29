@@ -1,0 +1,25 @@
+aabbMax:
+  X: 1.5
+  Y: 0.0
+  Z: 1.5
+aabbMin:
+  X: -1.5
+  Y: 0.0
+  Z: -1.5
+attackPower: 0
+bfres: TwnObj_Village_Hateno_A
+boundingForTraverse: 2.1213200092315674
+bugMask: 3
+cursorOffsetY: 0.5
+elink: TwnObj_Village_HatenoTrapWater_A_01
+generalLife: 100
+instSize: 32504
+mainModel: TwnObj_Village_HatenoTrapWater_A_01
+name: TwnObj_Village_HatenoTrapWater_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: -1.5
+slink: TwnObj_Village_HatenoTrapWater_A_01
+sortKey: -6
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

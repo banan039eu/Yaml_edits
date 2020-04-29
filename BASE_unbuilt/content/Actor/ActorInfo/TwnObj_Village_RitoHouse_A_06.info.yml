@@ -1,0 +1,20 @@
+aabbMax:
+  X: 5.8937602043151855
+  Y: 6.111110210418701
+  Z: 7.403960227966309
+aabbMin:
+  X: -5.8937602043151855
+  Y: -24.053300857543945
+  Z: -7.443490028381348
+bfres: TwnObj_Village_Rito_A
+boundingForTraverse: 30.164411544799805
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 123452
+isHasFar: true
+mainModel: TwnObj_Village_RitoHouse_A_06
+name: TwnObj_Village_RitoHouse_A_06
+profile: MapConstPassive
+sortKey: 2
+traverseDist: 518.9576416015625
+yLimitAlgorithm: NoLimit

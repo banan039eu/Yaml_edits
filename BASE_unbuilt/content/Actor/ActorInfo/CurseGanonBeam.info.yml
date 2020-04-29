@@ -1,0 +1,14 @@
+attackPower: 40
+bugMask: 3
+elink: GuardianBeam
+instSize: 20388
+name: CurseGanonBeam
+profile: Beam
+slink: CurseGanonBeam
+sortKey: -1
+tags:
+  tag3a61e2a9: 979493545
+  tag74831ee0: 1954750176
+  tagfd964809: !u 0xfd964809
+xlink: OnlyThruDamageToObj
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,26 @@
+aabbMax:
+  X: 1.9911199808120728
+  Y: 3.623110055923462
+  Z: 1.343400001525879
+aabbMin:
+  X: -2.097520112991333
+  Y: -0.6183180212974548
+  Z: -1.1050200462341309
+attackPower: 0
+bfres: TwnObj_Village_Hateno_A
+boundingForTraverse: 4.241427898406982
+bugMask: 1
+cursorOffsetY: 2.0999999046325684
+generalLife: 8
+instSize: 107888
+mainModel: TwnObj_Village_HatenoMessageBoard_A_01
+name: TwnObj_Village_HatenoMessageBoard_A_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 2.383820056915283
+sortKey: -15
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2a2d0822: 707594274
+  tagef748738: !u 0xef748738
+yLimitAlgorithm: NoLimit

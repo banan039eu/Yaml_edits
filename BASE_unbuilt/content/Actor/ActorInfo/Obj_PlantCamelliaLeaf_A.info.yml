@@ -1,0 +1,26 @@
+aabbMax:
+  X: 1.0257099866867065
+  Y: 3.3710200786590576
+  Z: 0.9958829879760742
+aabbMin:
+  X: -0.9401350021362305
+  Y: -0.14369399845600128
+  Z: -0.6548640131950378
+attackPower: 0
+bfres: Obj_PlantCamelliaLeaf_A
+boundingForTraverse: 3.514714002609253
+bugMask: 2
+elink: Obj_PlantCamelliaLeaf_A
+generalLife: 100
+instSize: 24184
+mainModel: Obj_PlantCamelliaLeaf_A_01
+name: Obj_PlantCamelliaLeaf_A
+profile: MapDynamicPassive
+slink: Tree_Bush_WithBushShake
+sortKey: -3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag51ed35a6: 1374500262
+  tage91ea5f6: !u 0xe91ea5f6
+yLimitAlgorithm: NoLimit

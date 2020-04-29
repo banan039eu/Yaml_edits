@@ -1,0 +1,24 @@
+aabbMax:
+  X: 0.21618600189685822
+  Y: 0.09824799746274948
+  Z: 0.2351370006799698
+aabbMin:
+  X: -0.2505289912223816
+  Y: -0.9178270101547241
+  Z: -0.23245100677013397
+attackPower: 0
+bfres: TwnObj_HunterHouse_A
+boundingForTraverse: 1.0160750150680542
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 30248
+mainModel: TwnObj_HunterHouseLamp_A_01
+name: TwnObj_HunterHouseLamp_A_01
+profile: MapConstActive
+rigidBodyCenterY: -0.5021809935569763
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

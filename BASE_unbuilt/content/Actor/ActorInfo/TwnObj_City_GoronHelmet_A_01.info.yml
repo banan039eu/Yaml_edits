@@ -1,0 +1,18 @@
+aabbMax:
+  X: 0.3479369878768921
+  Y: 0.5558080077171326
+  Z: 0.5096150040626526
+aabbMin:
+  X: -0.4445599913597107
+  Y: -0.0042050001211464405
+  Z: -0.6791890263557434
+bfres: TwnObj_City_GoronFurniture_A
+boundingForTraverse: 0.5600129961967468
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17972
+mainModel: TwnObj_City_GoronHelmet_A_01
+name: TwnObj_City_GoronHelmet_A_01
+profile: MapConstPassive
+sortKey: 2
+yLimitAlgorithm: NoLimit

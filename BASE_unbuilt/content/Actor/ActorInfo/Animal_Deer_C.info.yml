@@ -1,0 +1,42 @@
+aabbMax:
+  X: 0.8919349908828735
+  Y: 2.5614099502563477
+  Z: 1.96465003490448
+aabbMin:
+  X: -0.5859310030937195
+  Y: -0.015776999294757843
+  Z: -0.8140169978141785
+actorScale: 1.100000023841858
+animalUnitBasePlayRate: 1.0
+attackPower: 4
+bfres: Animal_Deer
+boundingForTraverse: 2.577186107635498
+bugMask: 3
+cursorOffsetY: 1.5
+drops:
+  Normal:
+  - Item_Meat_02
+elink: Animal_Deer_A
+enemyRank: 0
+generalLife: 10
+horseUnitRiddenAnimalType: 0
+instSize: 170908
+mainModel: Deer
+name: Animal_Deer_C
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+slink: Animal_Deer_A
+sortKey: 28030
+systemIsGetItemSelf: false
+systemSameGroupActorName: Animal_Deer_A
+tags:
+  tag24cd75fe: 617444862
+  tag5aa0d024: 1520488484
+  tag5e3171bc: 1580298684
+  tag6b3d3141: 1799172417
+  tagd75d5f92: !u 0xd75d5f92
+traverseDist: 80.0
+xlink: Quadruped_Animal_Ridable
+yLimitAlgorithm: NoLimit

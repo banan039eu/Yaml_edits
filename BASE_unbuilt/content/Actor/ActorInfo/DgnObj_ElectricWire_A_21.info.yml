@@ -1,0 +1,25 @@
+aabbMax:
+  X: 2.450000047683716
+  Y: 57.75
+  Z: 8.5
+aabbMin:
+  X: -2.450000047683716
+  Y: 47.650001525878906
+  Z: -8.5
+attackPower: 0
+bfres: DgnObj_ElectricWire_A
+boundingForTraverse: 10.099998474121094
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 58784
+mainModel: DgnObj_ElectricWire_A_21
+name: DgnObj_ElectricWire_A_21
+profile: MapDynamicActive
+rigidBodyCenterY: 54.793800354003906
+slink: DgnObj_ElectricWire
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

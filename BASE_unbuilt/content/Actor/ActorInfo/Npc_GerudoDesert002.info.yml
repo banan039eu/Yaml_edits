@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.4047220051288605
+  Y: 2.2985498905181885
+  Z: 0.3885450065135956
+aabbMin:
+  X: -0.4098069965839386
+  Y: -0.010227999649941921
+  Z: -0.14740100502967834
+boundingForTraverse: 2.3087780475616455
+bugMask: 3
+cursorOffsetY: 0.4000000059604645
+elink: NPC
+instSize: 368876
+name: Npc_GerudoDesert002
+profile: NPC
+slink: Npc_Gerudo_W
+sortKey: -7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

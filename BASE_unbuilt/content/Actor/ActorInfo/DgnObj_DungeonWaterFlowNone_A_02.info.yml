@@ -1,0 +1,11 @@
+attackPower: 0
+bugMask: 3
+generalLife: 100
+instSize: 9852
+name: DgnObj_DungeonWaterFlowNone_A_02
+profile: MapDynamicActive
+slink: WaterSurfaceFlow
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

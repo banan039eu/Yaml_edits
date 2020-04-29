@@ -1,0 +1,24 @@
+aabbMax:
+  X: 1.9761099815368652
+  Y: 2.1185600757598877
+  Z: 0.6438260078430176
+aabbMin:
+  X: -1.920300006866455
+  Y: -2.1144800186157227
+  Z: -0.372406005859375
+attackPower: 0
+bfres: TwnObj_StableHostel_A
+boundingForTraverse: 4.233039855957031
+bugMask: 3
+generalLife: 100
+instSize: 26556
+mainModel: TwnObj_StableHostelPinwheel_A_01
+name: TwnObj_StableHostelPinwheel_A_01
+profile: MapDynamicActive
+slink: TwnObj_StableHostelPinwheel
+sortKey: -3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag336bf311: 862712593
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,43 @@
+aabbMax:
+  X: 0.14721299707889557
+  Y: 1.7861299514770508
+  Z: 0.19359000027179718
+aabbMin:
+  X: -0.14721399545669556
+  Y: 1.3740400075912476
+  Z: -0.23094700276851654
+armorDefenceAddLevel: 4
+armorEffectAncientPowUp: true
+armorEffectEffectLevel: 1
+armorEffectEffectType: ResistAncient
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_117_Head
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_024
+boundingForTraverse: 0.412090003490448
+bugMask: 1
+instSize: 85948
+itemBuyingPrice: 800
+itemCreatingPrice: 1500
+itemSaleRevivalCount: -1
+itemSellingPrice: 375
+itemStainColor: -1
+itemUseIconActorName: Obj_Head_024
+mainModel: Armor_024_Head
+name: Armor_024_Head
+normal0ItemName01: Item_Ore_A
+normal0ItemNum01: 3
+normal0StuffNum: 1
+profile: ArmorHead
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: Dia
+sortKey: 3321334
+tags:
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,19 @@
+aabbMax:
+  X: 4.536280155181885
+  Y: 1.4445500373840332
+  Z: 4.601009845733643
+aabbMin:
+  X: -4.532660007476807
+  Y: -1.300220012664795
+  Z: -4.807129859924316
+bfres: FldObj_FourJewelStand_A
+boundingForTraverse: 2.744770050048828
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 41500
+mainModel: FldObj_FourJewelStand_A_01
+name: FldObj_FourJewelStand_A_01
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

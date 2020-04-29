@@ -1,0 +1,24 @@
+aabbMax:
+  X: 41.00830078125
+  Y: 31.197399139404297
+  Z: 39.10219955444336
+aabbMin:
+  X: -41.315399169921875
+  Y: -0.9456689953804016
+  Z: -40.2495002746582
+bfres: FldObj_CliffZora_A_Far
+boundingForTraverse: 32.14306640625
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28760
+mainModel: FldObj_CliffZora_A_01_Far
+name: FldObj_CliffZora_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff3a
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

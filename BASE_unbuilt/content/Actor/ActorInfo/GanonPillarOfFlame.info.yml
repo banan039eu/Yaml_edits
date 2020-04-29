@@ -1,0 +1,18 @@
+attackPower: 24
+bugMask: 3
+elink: GanonPillarOfFlame
+instSize: 19732
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: GanonPillarOfFlame
+profile: Bullet
+slink: GanonPillarOfFlame
+sortKey: -2
+tags:
+  tag74831ee0: 1954750176
+xlink: AscendingCurrent
+yLimitAlgorithm: NoLimit

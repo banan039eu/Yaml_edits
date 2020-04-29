@@ -1,0 +1,20 @@
+aabbMax:
+  X: 0.7448430061340332
+  Y: 1.0314799547195435
+  Z: 1.9999999949504854e-06
+aabbMin:
+  X: -0.7448430061340332
+  Y: -1.0314799547195435
+  Z: -1.9999999949504854e-06
+bfres: Obj_RecipePoster_A
+boundingForTraverse: 2.062959909439087
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18072
+mainModel: Obj_RecipePoster_A
+name: FldObj_RecipePoster_A_07
+profile: MapConstPassive
+sortKey: 0
+variationMatAnim: ChangeRecipe
+variationMatAnimFrame: 7
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,11 @@
+bugMask: 0
+elink: EfLocater_GrudgeSolid_M
+instSize: 3484
+name: EfLocater_GrudgeSolid_M
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 30.0
+yLimitAlgorithm: NoLimit

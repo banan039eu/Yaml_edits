@@ -1,0 +1,23 @@
+aabbMax:
+  X: 1.7630900144577026
+  Y: 1.4253300428390503
+  Z: 1.875380039215088
+aabbMin:
+  X: -1.7378000020980835
+  Y: -0.47308799624443054
+  Z: -1.7909899950027466
+bfres: FldObj_MountainSheiker_A
+boundingForTraverse: 1.8984179496765137
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 27608
+mainModel: FldObj_RockSheiker_A_M_02
+name: FldObj_RockSheiker_A_M_02
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag932d2d91: !u 0x932d2d91
+  tag977b149c: !u 0x977b149c
+terrainTextures:
+- !u 0xffffff42
+yLimitAlgorithm: NoLimit

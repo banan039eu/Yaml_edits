@@ -1,0 +1,16 @@
+attackPower: 50
+bugMask: 3
+elink: DragonIceBall
+instSize: 15380
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: DragonIceBall
+profile: Bullet
+slink: DragonIceBall
+sortKey: 2
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

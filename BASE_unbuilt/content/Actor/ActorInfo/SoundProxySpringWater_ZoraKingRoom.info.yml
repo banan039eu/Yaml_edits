@@ -1,0 +1,9 @@
+bugMask: 3
+instSize: 6284
+name: SoundProxySpringWater_ZoraKingRoom
+profile: SoundProxy
+slink: SoundProxySpringWater_ZoraKingRoom
+sortKey: -10
+tags:
+  tagc5b7c123: !u 0xc5b7c123
+yLimitAlgorithm: NoLimit

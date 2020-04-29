@@ -1,0 +1,19 @@
+aabbMax:
+  X: 2.1464099884033203
+  Y: 0.20000000298023224
+  Z: 2.395509958267212
+aabbMin:
+  X: -2.1824100017547607
+  Y: -0.15120600163936615
+  Z: -1.761620044708252
+bfres: Obj_FloorSetAncientTiles_A
+boundingForTraverse: 4.32882022857666
+bugMask: 0
+instSize: 17140
+mainModel: Obj_FloorSetAncientTiles_A_02
+name: Obj_FloorSetAncientTiles_A_02
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag6bddf03c: 1809707068
+yLimitAlgorithm: NoLimit

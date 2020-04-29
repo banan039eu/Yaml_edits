@@ -1,0 +1,41 @@
+aabbMax:
+  X: 0.9179689884185791
+  Y: 1.4931600093841553
+  Z: 0.1813959926366806
+aabbMin:
+  X: -0.9179689884185791
+  Y: 0.7646480202674866
+  Z: -0.14270000159740448
+armorDefenceAddLevel: 1
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_053
+boundingForTraverse: 0.7285119891166687
+bugMask: 1
+instSize: 69412
+itemBuyingPrice: 180
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 45
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_053_Upper
+name: Armor_053_Upper
+profile: ArmorUpper
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: GerudoCloth
+sortKey: 2022450
+tags:
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

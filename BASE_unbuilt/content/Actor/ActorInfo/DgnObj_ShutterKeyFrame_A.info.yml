@@ -1,0 +1,21 @@
+aabbMax:
+  X: 2.0
+  Y: 4.0
+  Z: 0.4000000059604645
+aabbMin:
+  X: -2.0
+  Y: -0.019999999552965164
+  Z: -0.4000000059604645
+bfres: DgnObj_ShutterKey_A
+boundingForTraverse: 4.019999980926514
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17652
+mainModel: DgnObj_ShutterKeyFrame_A_01
+name: DgnObj_ShutterKeyFrame_A
+profile: MapConstPassive
+sortKey: 4
+tags:
+  tag572de768: 1462626152
+  tagc28d054e: !u 0xc28d054e
+yLimitAlgorithm: NoLimit

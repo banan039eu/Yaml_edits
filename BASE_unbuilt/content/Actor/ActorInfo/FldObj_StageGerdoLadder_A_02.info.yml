@@ -1,0 +1,19 @@
+aabbMax:
+  X: 0.5400000214576721
+  Y: 5.154049873352051
+  Z: 0.17905700206756592
+aabbMin:
+  X: -0.550000011920929
+  Y: -0.031063999980688095
+  Z: -0.32503199577331543
+bfres: FldObj_StageGerdo_A
+boundingForTraverse: 5.185113906860352
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 27608
+mainModel: FldObj_StageGerdoLadder_A_02
+name: FldObj_StageGerdoLadder_A_02
+profile: MapConstPassive
+sortKey: 16
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

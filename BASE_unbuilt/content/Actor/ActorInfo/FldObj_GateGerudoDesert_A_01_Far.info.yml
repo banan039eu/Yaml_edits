@@ -1,0 +1,20 @@
+aabbMax:
+  X: 28.633800506591797
+  Y: 45.188899993896484
+  Z: 10.290300369262695
+aabbMin:
+  X: -27.99180030822754
+  Y: -2.803960084915161
+  Z: -10.211199760437012
+bfres: FldObj_GateGerudoDesert_A_Far
+boundingForTraverse: 47.99285888671875
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 50304
+mainModel: FldObj_GateGerudoDesert_A_01_Far
+name: FldObj_GateGerudoDesert_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

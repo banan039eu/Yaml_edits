@@ -1,0 +1,20 @@
+aabbMax:
+  X: 4.975150108337402
+  Y: 5.799200057983398
+  Z: 3.3397200107574463
+aabbMin:
+  X: -4.9674201011657715
+  Y: 3.0493099689483643
+  Z: -4.233739852905273
+bfres: TwnObj_Village_Sheiker_A
+boundingForTraverse: 2.749890089035034
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 112632
+mainModel: TwnObj_Village_SheikerHouseSet_A_02
+name: TwnObj_Village_SheikerHouseSet_A_02
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+yLimitAlgorithm: NoLimit

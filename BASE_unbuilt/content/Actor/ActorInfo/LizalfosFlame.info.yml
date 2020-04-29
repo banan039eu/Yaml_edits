@@ -1,0 +1,15 @@
+attackPower: 24
+bugMask: 3
+elink: LizalfosFlame
+instSize: 14196
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: LizalfosFlame
+profile: Bullet
+slink: LizalfosFlame
+sortKey: -1
+yLimitAlgorithm: NoLimit

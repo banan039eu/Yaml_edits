@@ -1,0 +1,24 @@
+aabbMax:
+  X: 26.780099868774414
+  Y: -0.0027540000155568123
+  Z: 90.11840057373047
+aabbMin:
+  X: -26.771299362182617
+  Y: -3.4679598808288574
+  Z: -14.955300331115723
+attackPower: 0
+bfres: FldObj_KnightDoll_A
+boundingForTraverse: 3.465204954147339
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 48448
+mainModel: FldObj_KnightDollBallSwitch_A_01
+name: FldObj_DollStand
+profile: MapConstActive
+rigidBodyCenterY: -0.4075720012187958
+sortKey: -6
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

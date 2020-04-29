@@ -1,0 +1,30 @@
+aabbMax:
+  X: 1.036679983139038
+  Y: 1.7842600345611572
+  Z: 1.1759300231933594
+aabbMin:
+  X: -1.1170400381088257
+  Y: -0.031098999083042145
+  Z: -1.2191499471664429
+attackPower: 0
+bfres: Enemy_Octarock_Item_PampasGrass
+boundingForTraverse: 1.8153589963912964
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Octarock_Grass
+instSize: 28992
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Item_PampasGrass
+name: OctObj_Grass_08
+profile: Bullet
+slink: OctObj_Grass
+sortKey: 4
+tags:
+  tag9ef05488: !u 0x9ef05488
+  tagff2ecb67: !u 0xff2ecb67
+yLimitAlgorithm: NoLimit

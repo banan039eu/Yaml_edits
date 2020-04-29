@@ -1,0 +1,11 @@
+bugMask: 2
+elink: FlyLocater
+instSize: 4756
+name: FlyLocater
+profile: EffectLocater
+slink: FlyLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+traverseDist: 30.0
+yLimitAlgorithm: NoLimit

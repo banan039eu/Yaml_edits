@@ -1,0 +1,69 @@
+Chemical:
+  Burnable: 1
+aabbMax:
+  X: 0.17734800279140472
+  Y: 0.05709800124168396
+  Z: 0.7143059968948364
+aabbMin:
+  X: -0.06561099737882614
+  Y: -0.05694599822163582
+  Z: -0.7143059968948364
+attackPower: 10
+bfres: Weapon_Bow_029
+boundingForTraverse: 0.11404400318861008
+bowArrowName: ''
+bowIsLeadShot: false
+bowIsRapidFire: false
+bowLeadShotNum: 0
+bowRapidFireNum: 0
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Bow_029
+generalLife: 45
+instSize: 60192
+itemBuyingPrice: 50
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 10
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Bow_029
+name: Priest_Boss_Weapon_Bow_029
+profile: WeaponBow
+slink: Priest_Boss_Weapon_Bow_029
+sortKey: -11
+systemIsGetItemSelf: false
+systemSameGroupActorName: Weapon_Bow_029
+tags:
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag49b834f7: 1236808951
+  tag653623d0: 1698046928
+  tagb51794dc: !u 0xb51794dc
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 16
+weaponCommonPoweredSharpAddAtkMin: 11
+weaponCommonPoweredSharpAddLifeMax: 23
+weaponCommonPoweredSharpAddLifeMin: 20
+weaponCommonPoweredSharpAddRapidFireMax: 1.2999999523162842
+weaponCommonPoweredSharpAddRapidFireMin: 1.100000023841858
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 0
+weaponCommonSharpWeaponAddAtkMax: 10
+weaponCommonSharpWeaponAddAtkMin: 6
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 9
+weaponCommonSharpWeaponAddLifeMin: 5
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+xlink: Weapon
+yLimitAlgorithm: NoLimit

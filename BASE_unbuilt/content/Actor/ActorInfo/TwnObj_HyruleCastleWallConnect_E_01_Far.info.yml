@@ -1,0 +1,23 @@
+aabbMax:
+  X: 5.1073899269104
+  Y: 13.628600120544434
+  Z: 3.971820116043091
+aabbMin:
+  X: -5.0137200355529785
+  Y: -1.780769944190979
+  Z: -3.7181999683380127
+bfres: TwnObj_HyruleCastleWall_A_Far
+boundingForTraverse: 15.409370422363281
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: TwnObj_HyruleCastleWallConnect_E_01_Far
+name: TwnObj_HyruleCastleWallConnect_E_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag03528579: 55739769
+  tag57fd54ce: 1476220110
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 3000.0
+yLimitAlgorithm: NoLimit

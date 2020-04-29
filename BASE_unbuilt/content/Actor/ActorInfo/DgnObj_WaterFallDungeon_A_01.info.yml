@@ -1,0 +1,29 @@
+aabbMax:
+  X: 4.597020149230957
+  Y: 0.7645609974861145
+  Z: 4.052680015563965
+aabbMin:
+  X: -4.802509784698486
+  Y: -36.916099548339844
+  Z: -7.164730072021484
+attackPower: 0
+bfres: DgnObj_IbutsuWaterPlane_A
+boundingForTraverse: 37.680660247802734
+bugMask: 3
+cursorOffsetY: 0.5
+elink: DgnObj_WaterFallDungeon_A_01
+generalLife: 100
+instSize: 25600
+mainModel: DgnObj_IbutsuWaterFall_A_01
+name: DgnObj_WaterFallDungeon_A_01
+profile: MapConstActive
+slink: FldObj_WaterFallZora_A_S_02
+sortKey: -26
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tag202a0750: 539625296
+  tag572de768: 1462626152
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

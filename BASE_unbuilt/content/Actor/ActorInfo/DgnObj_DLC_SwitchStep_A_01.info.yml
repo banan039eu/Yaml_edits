@@ -1,0 +1,26 @@
+aabbMax:
+  X: 1.2900400161743164
+  Y: 0.329912006855011
+  Z: 1.2900400161743164
+aabbMin:
+  X: -1.2900400161743164
+  Y: -0.05000099912285805
+  Z: -1.2900400161743164
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuObj_B
+boundingForTraverse: 0.37991300225257874
+bugMask: 3
+elink: SwitchStep
+generalLife: 100
+instSize: 34392
+mainModel: DgnObj_DLC_SwitchStep_A_01
+name: DgnObj_DLC_SwitchStep_A_01
+profile: MapDynamicActive
+slink: SwitchStep
+sortKey: -5
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2c608f30: 744525616
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

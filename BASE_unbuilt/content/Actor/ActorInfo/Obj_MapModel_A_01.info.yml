@@ -1,0 +1,24 @@
+aabbMax:
+  X: 6.0
+  Y: 6.0
+  Z: 13.5
+aabbMin:
+  X: -6.0
+  Y: -6.0
+  Z: 0.0
+attackPower: 0
+bfres: Obj_MapModel_A
+boundingForTraverse: 12.0
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 21092
+mainModel: Obj_MapModel_A_01
+name: Obj_MapModel_A_01
+profile: MapDynamicActive
+sortKey: -9
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+yLimitAlgorithm: NoLimit

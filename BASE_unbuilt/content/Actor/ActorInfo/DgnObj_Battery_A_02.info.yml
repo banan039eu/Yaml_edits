@@ -1,0 +1,26 @@
+aabbMax:
+  X: 11.574299812316895
+  Y: 11.182299613952637
+  Z: 9.559040069580078
+aabbMin:
+  X: -10.53320026397705
+  Y: -0.270904004573822
+  Z: -11.574299812316895
+attackPower: 0
+bfres: DgnObj_Battery_A
+boundingForTraverse: 11.453203201293945
+bugMask: 3
+cursorOffsetY: 0.5
+elink: DgnObj_Battery_A_02
+generalLife: 100
+instSize: 52156
+mainModel: DgnObj_Battery_A_02
+name: DgnObj_Battery_A_02
+profile: MapDynamicActive
+rigidBodyCenterY: 3.4554901123046875
+slink: DgnObj_Battery_A_02
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

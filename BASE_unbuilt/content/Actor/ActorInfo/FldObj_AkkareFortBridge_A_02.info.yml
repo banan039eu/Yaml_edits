@@ -1,0 +1,20 @@
+aabbMax:
+  X: 39.15769958496094
+  Y: 5.50137996673584
+  Z: 18.000699996948242
+aabbMin:
+  X: -73.36810302734375
+  Y: -68.67420196533203
+  Z: -39.404598236083984
+bfres: FldObj_AkkareFort_A
+boundingForTraverse: 74.17558288574219
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 132576
+isHasFar: true
+mainModel: FldObj_AkkareFortBridge_A_02
+name: FldObj_AkkareFortBridge_A_02
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 626.3226928710938
+yLimitAlgorithm: NoLimit

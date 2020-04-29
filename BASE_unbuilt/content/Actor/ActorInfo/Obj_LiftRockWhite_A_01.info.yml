@@ -1,0 +1,41 @@
+aabbMax:
+  X: 0.6317309737205505
+  Y: 0.6195480227470398
+  Z: 0.6549630165100098
+aabbMin:
+  X: -0.5279359817504883
+  Y: -0.28995299339294434
+  Z: -0.7187529802322388
+attackPower: 4
+bfres: Obj_LiftRock_A
+boundingForTraverse: 0.9095010161399841
+bugMask: 3
+drops:
+  Normal:
+  - PutRupee
+  - PutRupee_Blue
+  - PutRupee_Red
+  - PutRupee_Purple
+  - Animal_Insect_F
+  - Animal_Insect_H
+  - Animal_Insect_A
+  - Animal_Insect_KimoP
+generalLife: 1
+instSize: 42568
+mainModel: Obj_LiftRockWhite_A_01
+name: Obj_LiftRockWhite_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.09779000282287598
+slink: Obj_LiftRock
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag25cd2b4d: 634202957
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagff2ecb67: !u 0xff2ecb67
+terrainTextures:
+- !u 0xffffff04
+yLimitAlgorithm: NoLimit

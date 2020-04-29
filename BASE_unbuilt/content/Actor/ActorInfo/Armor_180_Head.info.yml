@@ -1,0 +1,41 @@
+aabbMax:
+  X: 0.1705320030450821
+  Y: 2.1424999237060547
+  Z: 0.20495599508285522
+aabbMin:
+  X: -0.1705320030450821
+  Y: 1.4355499744415283
+  Z: -0.144896999001503
+armorDefenceAddLevel: 4
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: Quietness
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_180
+boundingForTraverse: 0.7069500088691711
+bugMask: 1
+instSize: 73844
+itemBuyingPrice: 50
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 15
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_180_Head
+name: Armor_180_Head
+profile: ArmorHead
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: PhantomGanon
+sortKey: 6021850
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

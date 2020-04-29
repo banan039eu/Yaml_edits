@@ -1,0 +1,23 @@
+aabbMax:
+  X: 0.34730198979377747
+  Y: 1.5442500114440918
+  Z: 0.7020940184593201
+aabbMin:
+  X: -0.5041199922561646
+  Y: 0.0
+  Z: -0.2527430057525635
+boundingForTraverse: 1.5442500114440918
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: UMii_Hylia_Backpack
+instSize: 569132
+name: Npc_HutagoHatago_Woman_01
+profile: NPC
+slink: Npc_Hylia_W
+sortKey: -3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+xlink: Npc
+yLimitAlgorithm: NoLimit

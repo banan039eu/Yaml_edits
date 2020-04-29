@@ -1,0 +1,23 @@
+aabbMax:
+  X: 0.22837799787521362
+  Y: 1.2155200242996216
+  Z: 0.2642199993133545
+aabbMin:
+  X: -0.23493100702762604
+  Y: -0.0028550000861287117
+  Z: -0.4204930067062378
+bfres: Npc_Rito_Moto
+boundingForTraverse: 1.2183749675750732
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: NPC
+instSize: 282540
+mainModel: Npc_Rito_Moto
+name: Npc_HighMountain001
+profile: NPC
+slink: Npc_Rito_G
+sortKey: -14
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.21325699985027313
+  Y: 0.9428709745407104
+  Z: 0.21700599789619446
+aabbMin:
+  X: -0.21325699985027313
+  Y: 0.0005859999801032245
+  Z: -0.11736100167036057
+armorDefenceAddLevel: 5
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_217_Lower
+armorStarNum: 2
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_215
+boundingForTraverse: 0.9422850012779236
+bugMask: 1
+instSize: 25200
+itemBuyingPrice: 60
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 265
+itemStainColor: -1
+itemUseIconActorName: Armor_215_Lower
+mainModel: Armor_215_Lower
+name: Armor_216_Lower
+normal0ItemName01: Armor_215_Lower
+normal0ItemName02: Item_Ore_C
+normal0ItemName03: Item_Ore_J
+normal0ItemNum01: 1
+normal0ItemNum02: 1
+normal0ItemNum03: 1
+normal0StuffNum: 3
+profile: ArmorLower
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: AmiiboSkywardSword
+sortKey: 4523719
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

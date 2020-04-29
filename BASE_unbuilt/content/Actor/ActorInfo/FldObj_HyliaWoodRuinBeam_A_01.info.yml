@@ -1,0 +1,20 @@
+aabbMax:
+  X: 4.153580188751221
+  Y: 6.536190032958984
+  Z: 4.460529804229736
+aabbMin:
+  X: -5.039120197296143
+  Y: -0.625495970249176
+  Z: -5.360960006713867
+bfres: FldObj_HyliaWoodRuin_A
+boundingForTraverse: 7.161685943603516
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 62436
+mainModel: FldObj_HyliaWoodRuinBeam_A_01
+name: FldObj_HyliaWoodRuinBeam_A_01
+profile: MapConstPassive
+sortKey: 2
+tags:
+  tagc60f8acb: !u 0xc60f8acb
+yLimitAlgorithm: NoLimit

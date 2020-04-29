@@ -1,0 +1,31 @@
+aabbMax:
+  X: 2.564189910888672
+  Y: 2.9447600841522217
+  Z: 1.957610011100769
+aabbMin:
+  X: -2.2938499450683594
+  Y: -1.108780026435852
+  Z: -2.6338300704956055
+attackPower: 0
+bfres: Obj_TreeTropicalLow_A
+boundingForTraverse: 4.053540229797363
+bugMask: 2
+cursorOffsetY: 0.5
+elink: Obj_TreeTropicalLow_A_01
+generalLife: 100
+instSize: 21244
+mainModel: Obj_TreeTropicalLow_A_01
+name: Obj_TreeTropicalLow_A_01
+profile: MapDynamicPassive
+slink: Tree_Bush_Vine
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag572de768: 1462626152
+  tag9adf6fdd: !u 0x9adf6fdd
+  tage91ea5f6: !u 0xe91ea5f6
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

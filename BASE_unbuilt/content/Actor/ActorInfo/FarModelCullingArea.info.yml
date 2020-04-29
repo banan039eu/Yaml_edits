@@ -1,0 +1,7 @@
+bugMask: 0
+instSize: 3980
+name: FarModelCullingArea
+profile: Area
+sortKey: 0
+traverseDist: 8000.0
+yLimitAlgorithm: NoLimit

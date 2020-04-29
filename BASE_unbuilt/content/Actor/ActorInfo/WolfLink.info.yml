@@ -1,0 +1,33 @@
+aabbMax:
+  X: 0.39637500047683716
+  Y: 1.3034000396728516
+  Z: 0.9741349816322327
+aabbMin:
+  X: -0.2550179958343506
+  Y: -0.017371999099850655
+  Z: -1.4810899496078491
+actorScale: 1.2000000476837158
+animalUnitBasePlayRate: 1.0
+attackPower: 10
+bfres: Animal_WLink
+boundingForTraverse: 1.3207720518112183
+bugMask: 3
+cursorOffsetY: 0.699999988079071
+elink: WolfLink
+enemyRank: 0
+generalLife: 24
+instSize: 173840
+mainModel: Animal_WLink
+name: WolfLink
+profile: WolfLink
+slink: WolfLink
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag16a3afed: 379826157
+  tag27b417c1: 666113985
+  tag6b3d3141: 1799172417
+traverseDist: 200.0
+xlink: WolfLink
+yLimitAlgorithm: NoLimit

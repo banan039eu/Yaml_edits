@@ -1,0 +1,18 @@
+aabbMax:
+  X: 2.0
+  Y: 0.75
+  Z: 0.20000000298023224
+aabbMin:
+  X: -1.9500000476837158
+  Y: -0.75
+  Z: -0.20000000298023224
+bfres: TwnObj_Village_Sheiker_A
+boundingForTraverse: 1.5
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17268
+mainModel: TwnObj_Village_SheikerAirWall_A_01
+name: TwnObj_Village_SheikerAirWall_A_01
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

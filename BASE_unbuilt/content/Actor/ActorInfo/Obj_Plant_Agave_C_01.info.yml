@@ -1,0 +1,30 @@
+aabbMax:
+  X: 1.7605299949645996
+  Y: 3.053849935531616
+  Z: 1.673050045967102
+aabbMin:
+  X: -2.0701100826263428
+  Y: -0.130172997713089
+  Z: -1.730870008468628
+attackPower: 0
+bfres: Obj_Plant_Agave_C
+boundingForTraverse: 3.184022903442383
+bugMask: 2
+cursorOffsetY: 0.5
+elink: Obj_Plant_Agave_C_01
+generalLife: 100
+instSize: 24148
+mainModel: Obj_Plant_Agave_C_01
+name: Obj_Plant_Agave_C_01
+profile: MapDynamicPassive
+slink: Plant_WithBushShake
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag206f0b59: 544148313
+  tag51ed35a6: 1374500262
+  tag55ef2d02: 1441737986
+  taga05f8040: !u 0xa05f8040
+  tage91ea5f6: !u 0xe91ea5f6
+yLimitAlgorithm: NoLimit

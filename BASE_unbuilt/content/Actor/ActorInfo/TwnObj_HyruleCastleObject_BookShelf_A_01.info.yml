@@ -1,0 +1,23 @@
+aabbMax:
+  X: 5.429969787597656
+  Y: 11.647299766540527
+  Z: 0.0
+aabbMin:
+  X: -5.429969787597656
+  Y: 0.0
+  Z: -2.1275999546051025
+bfres: TwnObj_HyruleCastleInside_Library_A
+boundingForTraverse: 11.647299766540527
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 91568
+mainModel: TwnObj_HyruleCastleObject_BookShelf_A_01
+name: TwnObj_HyruleCastleObject_BookShelf_A_01
+profile: MapConstPassive
+sortKey: 6
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+terrainTextures:
+- !u 0xffffff53
+yLimitAlgorithm: NoLimit

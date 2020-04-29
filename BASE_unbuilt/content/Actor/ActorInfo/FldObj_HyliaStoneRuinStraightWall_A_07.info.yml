@@ -1,0 +1,23 @@
+aabbMax:
+  X: 3.8248000144958496
+  Y: 2.5004100799560547
+  Z: 0.6499999761581421
+aabbMin:
+  X: -3.734499931335449
+  Y: -0.6479730010032654
+  Z: -0.6500020027160645
+bfres: FldObj_HyliaStoneRuin_A
+boundingForTraverse: 3.1483829021453857
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 40092
+isHasFar: true
+mainModel: FldObj_HyliaStoneRuinStraightWall_A_07
+name: FldObj_HyliaStoneRuinStraightWall_A_07
+profile: MapConstPassive
+sortKey: 1
+tags:
+  tag6bddf03c: 1809707068
+  tagdeb8e664: !u 0xdeb8e664
+traverseDist: 400.0
+yLimitAlgorithm: NoLimit

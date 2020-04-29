@@ -1,0 +1,25 @@
+aabbMax:
+  X: 1.0
+  Y: 9.5
+  Z: 1.0
+aabbMin:
+  X: -1.0
+  Y: -0.20000000298023224
+  Z: -1.0
+attackPower: 0
+bfres: DgnObj_IbutsuWindPillar_A
+boundingForTraverse: 9.699999809265137
+bugMask: 3
+elink: DgnObj_PillarCrack_A
+generalLife: 1
+instSize: 37248
+mainModel: DgnObj_IbutsuWindPillar_A_01
+name: DgnObj_PillarCrack_A
+profile: MapDynamicActive
+rigidBodyCenterY: 4.893400192260742
+slink: BreakablePillar
+sortKey: 19
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

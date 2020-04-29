@@ -1,0 +1,24 @@
+aabbMax:
+  X: 1.4206500053405762
+  Y: 3.173229932785034
+  Z: 0.8459929823875427
+aabbMin:
+  X: -1.4136899709701538
+  Y: -0.006876000203192234
+  Z: -0.8212080001831055
+boundingForTraverse: 3.1801059246063232
+bugMask: 3
+cursorOffsetY: 0.8999999761581421
+elink: NPC
+instSize: 328748
+name: Npc_Gaman03_DLC2nd
+profile: NPC
+slink: Npc_GamanBrothers
+sortKey: -26
+systemIsGetItemSelf: false
+systemSameGroupActorName: Npc_Goron_Camp003
+tags:
+  tagc2b19615: !u 0xc2b19615
+  tagf92947a1: !u 0xf92947a1
+xlink: Npc
+yLimitAlgorithm: NoLimit

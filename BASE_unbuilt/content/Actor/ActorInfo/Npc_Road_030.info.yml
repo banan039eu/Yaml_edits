@@ -1,0 +1,44 @@
+aabbMax:
+  X: 0.3562450110912323
+  Y: 1.7762800455093384
+  Z: 0.6834350228309631
+aabbMin:
+  X: -0.543071985244751
+  Y: -0.00013000000035390258
+  Z: -0.21848399937152863
+boundingForTraverse: 1.7764099836349487
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: UMii_Hylia_Backpack
+instSize: 600588
+name: Npc_Road_030
+profile: NPC
+slink: Npc_Hylia_M
+sortKey: -3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+travelerAppearGameDataName: FirstTouchdown
+travelerDeleteGameDataName: ''
+travelerRideHorseName: ''
+travelerRoutePoint0Name: DesertGerudo_UYD00
+travelerRoutePoint10Name: DesertGerudo_JCT08
+travelerRoutePoint11Name: DesertGerudo_JCT01
+travelerRoutePoint12Name: DesertGerudo_JCT00
+travelerRoutePoint13Name: DesertGerudo_STP00
+travelerRoutePoint14Name: B7_JCT_03
+travelerRoutePoint15Name: B7_GOAL_03
+travelerRoutePoint1Name: DesertGerudo_JCT14
+travelerRoutePoint2Name: DesertGerudo_JCT12
+travelerRoutePoint3Name: DesertGerudo_JCT10
+travelerRoutePoint4Name: DesertGerudo_JCT09
+travelerRoutePoint5Name: C7_JCT_20
+travelerRoutePoint6Name: C7_JCT_21
+travelerRoutePoint7Name: DesertGerudo_JCT04
+travelerRoutePoint8Name: DesertGerudo_JCT05
+travelerRoutePoint9Name: DesertGerudo_JCT06
+travelerRouteType: ''
+traverseDist: 200.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

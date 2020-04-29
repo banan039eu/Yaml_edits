@@ -1,0 +1,23 @@
+aabbMax:
+  X: 1.848520040512085
+  Y: 7.398940086364746
+  Z: 0.28637099266052246
+aabbMin:
+  X: -1.848520040512085
+  Y: -0.07024499773979187
+  Z: -0.28637099266052246
+bfres: TwnObj_HyruleCastleWall_A
+boundingForTraverse: 7.469184875488281
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 39324
+mainModel: TwnObj_HyruleCastleWallFlag_A_02
+name: TwnObj_HyruleCastleWallFlag_A_02
+profile: MapConstPassive
+sortKey: -2
+tags:
+  tag03528579: 55739769
+  taga1c9da5d: !u 0xa1c9da5d
+  tagc5b7c123: !u 0xc5b7c123
+traverseDist: 400.0
+yLimitAlgorithm: NoLimit

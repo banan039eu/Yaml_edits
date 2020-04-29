@@ -1,0 +1,9 @@
+bugMask: 3
+instSize: 6284
+name: SoundProxyInDoorOnlyWater
+profile: SoundProxy
+slink: SoundProxyInDoorOnlyWater
+sortKey: -15
+tags:
+  tagc5b7c123: !u 0xc5b7c123
+yLimitAlgorithm: NoLimit

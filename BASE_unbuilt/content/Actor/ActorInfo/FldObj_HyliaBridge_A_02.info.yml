@@ -1,0 +1,21 @@
+aabbMax:
+  X: 11.373299598693848
+  Y: 0.75
+  Z: 117.0
+aabbMin:
+  X: -11.373299598693848
+  Y: -108.27799987792969
+  Z: -104.0
+bfres: FldObj_HyliaBridge_A
+boundingForTraverse: 109.02799987792969
+bugMask: 0
+instSize: 140096
+isHasFar: true
+mainModel: FldObj_HyliaBridge_A_02
+name: FldObj_HyliaBridge_A_02
+profile: MapConstPassive
+sortKey: 1
+tags:
+  tag3c39db92: 1010424722
+traverseDist: 1500.0
+yLimitAlgorithm: NoLimit

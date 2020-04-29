@@ -1,0 +1,22 @@
+aabbMax:
+  X: 57.48569869995117
+  Y: 15.32509994506836
+  Z: 33.30970001220703
+aabbMin:
+  X: -57.707401275634766
+  Y: -46.58509826660156
+  Z: -21.63759994506836
+bfres: FldObj_RockOrange_A
+boundingForTraverse: 61.91019821166992
+bugMask: 0
+instSize: 31736
+mainModel: FldObj_CliffOrangeTop_A_02
+name: FldObj_CliffOrangeTop_A_02
+profile: MapConstPassive
+sortKey: -1
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff15
+traverseDist: 800.0
+yLimitAlgorithm: NoLimit

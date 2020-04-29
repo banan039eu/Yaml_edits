@@ -1,0 +1,45 @@
+aabbMax:
+  X: 0.3338660001754761
+  Y: 0.1945990025997162
+  Z: 0.30870699882507324
+aabbMin:
+  X: -0.28235098719596863
+  Y: -0.19460700452327728
+  Z: -0.9069740176200867
+bfres: Item_RoastFish_07
+boundingForTraverse: 0.3892059922218323
+bugMask: 1
+cureItemEffectLevel: 0
+cureItemEffectType: None
+cureItemEffectiveTime: 9000
+cureItemHitPointRecover: 6
+cursorOffsetY: 0.30000001192092896
+elink: GetItem
+generalLife: 100
+instSize: 37048
+itemBuyingPrice: 38
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 15
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Item_RoastFish_07
+name: Item_RoastFish_07
+profile: Item
+sortKey: 63050
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag14185415: 337138709
+  tag80e484a4: !u 0x80e484a4
+  tag812ee444: !u 0x812ee444
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  taga1418569: !u 0xa1418569
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,26 @@
+aabbMax:
+  X: 3.91579008102417
+  Y: 4.9338698387146
+  Z: 2.11722993850708
+aabbMin:
+  X: 2.346290111541748
+  Y: 0.8829349875450134
+  Z: 1.0371999740600586
+attackPower: 0
+bfres: FldObj_DLC_HeroMapRelief_A
+boundingForTraverse: 4.050934791564941
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 1
+instSize: 48164
+mainModel: FldObj_DLC_HeroMapRelief_Mark_A_03
+name: FldObj_DLC_HeroMapRelief_Mark_A_03
+profile: MapDynamicActive
+sortKey: 2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2a2d0822: 707594274
+  tagef748738: !u 0xef748738
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,52 @@
+aabbMax:
+  X: 0.3523559868335724
+  Y: 1.5837899446487427
+  Z: 0.7020940184593201
+aabbMin:
+  X: -0.5041199922561646
+  Y: -0.0034149999264627695
+  Z: -0.2527430057525635
+boundingForTraverse: 1.5872050523757935
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: UMii_Hylia_Backpack
+instSize: 577132
+name: Npc_Road_008
+profile: NPC
+slink: Npc_Hylia_W
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+travelerAppearGameDataName: FirstTouchdown
+travelerDeleteGameDataName: ''
+travelerRideHorseName: GameRomHorse01
+travelerRoutePoint0Name: G6_GOAL_30
+travelerRoutePoint10Name: H6_JCT_31
+travelerRoutePoint11Name: H6_JCT_10
+travelerRoutePoint12Name: H6_JCT_11
+travelerRoutePoint13Name: H6_JCT_00
+travelerRoutePoint14Name: H6_JCT_01
+travelerRoutePoint15Name: I7_RD_JCT_00
+travelerRoutePoint16Name: I7_RD_JCT_01
+travelerRoutePoint17Name: I7_JCT_70
+travelerRoutePoint18Name: I7_JCT_71
+travelerRoutePoint19Name: I7_RD_JCT_02
+travelerRoutePoint1Name: G6_JCT_30
+travelerRoutePoint20Name: I7_RD_JCT_04
+travelerRoutePoint21Name: I7_RD_02
+travelerRoutePoint22Name: I7_JCT_31
+travelerRoutePoint23Name: I7_GOAL_31
+travelerRoutePoint2Name: RoadFutago_JCT06
+travelerRoutePoint3Name: G6_JCT_10
+travelerRoutePoint4Name: G6_JCT_11
+travelerRoutePoint5Name: RoadKakariko_JCT00
+travelerRoutePoint6Name: RoadKakariko_JCT01
+travelerRoutePoint7Name: RoadKakariko_JCT02
+travelerRoutePoint8Name: H6_RD_00
+travelerRoutePoint9Name: H6_JCT_30
+travelerRouteType: ''
+traverseDist: 200.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

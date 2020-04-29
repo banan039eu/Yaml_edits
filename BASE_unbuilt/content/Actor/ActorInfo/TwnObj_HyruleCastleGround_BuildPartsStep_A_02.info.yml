@@ -1,0 +1,21 @@
+aabbMax:
+  X: 2.773289918899536
+  Y: 13.85789966583252
+  Z: 6.424170017242432
+aabbMin:
+  X: -2.773289918899536
+  Y: -3.169100046157837
+  Z: -18.21030044555664
+bfres: TwnObj_HyruleCastleGround_A
+boundingForTraverse: 17.027000427246094
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 63076
+mainModel: TwnObj_HyruleCastleGround_BuildPartsStep_A_02
+name: TwnObj_HyruleCastleGround_BuildPartsStep_A_02
+profile: MapConstPassive
+sortKey: -2
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

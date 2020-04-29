@@ -1,0 +1,20 @@
+aabbMax:
+  X: 10.511899948120117
+  Y: 19.52669906616211
+  Z: 12.312000274658203
+aabbMin:
+  X: -16.197999954223633
+  Y: -1.044659972190857
+  Z: -8.94456958770752
+bfres: FldObj_RanchRuin_A_Far
+boundingForTraverse: 20.571359634399414
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: FldObj_RanchRuin_Silo_A_01_Far
+name: FldObj_RanchRuin_Silo_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

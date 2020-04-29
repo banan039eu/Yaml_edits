@@ -1,0 +1,18 @@
+aabbMax:
+  X: 4.85407018661499
+  Y: 6.871210098266602
+  Z: 18.104000091552734
+aabbMin:
+  X: -4.440120220184326
+  Y: -7.907380104064941
+  Z: -13.389100074768066
+bfres: TwnObj_City_Goron_A
+boundingForTraverse: 14.778590202331543
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 83084
+mainModel: TwnObj_City_GoronBridge_A_04
+name: TwnObj_City_GoronBridge_A_04
+profile: MapConstPassive
+sortKey: 8
+yLimitAlgorithm: NoLimit

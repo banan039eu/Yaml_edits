@@ -1,0 +1,22 @@
+aabbMax:
+  X: 2.8577699661254883
+  Y: 31.241100311279297
+  Z: 2.584980010986328
+aabbMin:
+  X: -2.5099799633026123
+  Y: -0.3740369975566864
+  Z: -2.751120090484619
+bfres: TwnObj_HyruleCastleInside_Library_A_Far
+boundingForTraverse: 31.615137100219727
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: TwnObj_HyruleCastleInside_LibraryPillar_A_01_Far
+name: TwnObj_HyruleCastleInside_LibraryPillar_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+yLimitAlgorithm: NoLimit

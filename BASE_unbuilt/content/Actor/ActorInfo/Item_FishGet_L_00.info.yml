@@ -1,0 +1,34 @@
+aabbMax:
+  X: 0.30399999022483826
+  Y: 0.15383799374103546
+  Z: 0.3422960042953491
+aabbMin:
+  X: -0.27026399970054626
+  Y: -0.15383799374103546
+  Z: -0.8533390164375305
+bfres: Animal_Bass
+boundingForTraverse: 0.3076759874820709
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: GetItem
+generalLife: 100
+instSize: 50900
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Bass_Boneless
+name: Item_FishGet_L_00
+profile: Item
+slink: Item_FishGet
+sortKey: 34030
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag653623d0: 1698046928
+  tage0194f30: !u 0xe0194f30
+variationMatAnim: Bass_Color
+variationMatAnimFrame: 1
+yLimitAlgorithm: NoLimit

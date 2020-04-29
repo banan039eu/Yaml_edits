@@ -1,0 +1,24 @@
+aabbMax:
+  X: 91.20899963378906
+  Y: 13.336400032043457
+  Z: 69.91419982910156
+aabbMin:
+  X: -87.76129913330078
+  Y: -8.09846019744873
+  Z: -70.93229675292969
+bfres: Obj_IcicleMountain_A_Far
+boundingForTraverse: 21.434860229492188
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38044
+mainModel: Obj_IcicleMountainCover_A_02_Far
+name: Obj_IcicleMountainCover_A_02_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag3c39db92: 1010424722
+  tag57fd54ce: 1476220110
+terrainTextures:
+- !u 0xff373108
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,19 @@
+attackPower: 0
+bugMask: 3
+elink: Priest_Boss_EarthRelease_Normal
+instSize: 13160
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: Priest_Boss_EarthRelease_Normal
+profile: Bullet
+slink: Priest_Boss_EarthRelease_Normal
+sortKey: -2
+tags:
+  tag49b834f7: 1236808951
+traverseDist: 99999.0
+xlink: AscendingCurrent
+yLimitAlgorithm: NoLimit

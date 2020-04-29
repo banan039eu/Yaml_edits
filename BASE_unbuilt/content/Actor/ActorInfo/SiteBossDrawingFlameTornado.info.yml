@@ -1,0 +1,16 @@
+attackPower: 24
+bugMask: 1
+elink: SiteBossDrawingFlameTornado
+instSize: 14348
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: SiteBossDrawingFlameTornado
+profile: Bullet
+sortKey: 1
+tags:
+  tag74831ee0: 1954750176
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,40 @@
+aabbMax:
+  X: 1.2258800268173218
+  Y: 2.3529698848724365
+  Z: 1.5262199640274048
+aabbMin:
+  X: -0.5356969833374023
+  Y: -0.008217000402510166
+  Z: -0.9693480134010315
+animalUnitBasePlayRate: 0.949999988079071
+attackPower: 5
+bfres: Horse_Link
+boundingForTraverse: 2.361186981201172
+bugMask: 3
+elink: Horse
+generalLife: 240
+horseASVariation: Normal
+horseGearTopChargeNum: 4
+horseNature: 2
+horseUnitRiddenAnimalType: 1
+instSize: 331228
+lookAtOffsetY: 0.10000000149011612
+mainModel: Horse_Link
+name: GameRomHorse09
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Horse
+rigidBodyCenterY: -1.5
+slink: Horse
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: GameRomHorse
+tags:
+  tag0f21f135: 253882677
+  tag24cd75fe: 617444862
+  tag5aa0d024: 1520488484
+  tag6b3d3141: 1799172417
+traverseDist: 200.0
+xlink: Horse
+yLimitAlgorithm: NoLimit

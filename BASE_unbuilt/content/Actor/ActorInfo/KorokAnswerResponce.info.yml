@@ -1,0 +1,11 @@
+attackPower: 0
+bugMask: 1
+elink: KorokAnswerResponce
+generalLife: 100
+instSize: 6552
+name: KorokAnswerResponce
+profile: MapConstActive
+sortKey: -38
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

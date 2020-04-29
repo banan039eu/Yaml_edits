@@ -1,0 +1,22 @@
+aabbMax:
+  X: 43.723201751708984
+  Y: 128.33700561523438
+  Z: 110.21299743652344
+aabbMin:
+  X: -51.67250061035156
+  Y: -45.893699645996094
+  Z: -93.0322036743164
+bfres: FldObj_FirstPlateau_A_Far
+boundingForTraverse: 174.230712890625
+bugMask: 0
+instSize: 28312
+mainModel: FldObj_FirstPlateauSouthPlatform_A_01_Far
+name: FldObj_FirstPlateauSouthPlatform_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+terrainTextures:
+- !u 0xff1d1110
+traverseDist: 6000.0
+yLimitAlgorithm: NoLimit

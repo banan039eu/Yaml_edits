@@ -1,0 +1,19 @@
+aabbMax:
+  X: 2.661449909210205
+  Y: 0.37337300181388855
+  Z: 44.394901275634766
+aabbMin:
+  X: -2.5593299865722656
+  Y: -10.720399856567383
+  Z: -42.43159866333008
+bfres: FldObj_BridgeWood_A
+boundingForTraverse: 11.093772888183594
+bugMask: 0
+instSize: 59876
+isHasFar: true
+mainModel: FldObj_BridgeWoodThin_A_01
+name: FldObj_BridgeWoodThin_A_01
+profile: MapConstPassive
+sortKey: -6
+traverseDist: 586.9833374023438
+yLimitAlgorithm: NoLimit

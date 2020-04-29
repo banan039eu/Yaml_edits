@@ -1,0 +1,28 @@
+aabbMax:
+  X: 2.081199884414673
+  Y: 5.5822601318359375
+  Z: 2.081199884414673
+aabbMin:
+  X: -2.081199884414673
+  Y: -12.0
+  Z: -2.081199884414673
+attackPower: 4
+bfres: DgnObj_DLC_WallSpikeBox_A
+boundingForTraverse: 17.582260131835938
+bugMask: 3
+generalLife: 100
+instSize: 60844
+mainModel: DgnObj_DLC_WallSpikeBox_A_01
+name: DLC_WallSpikeMovableBox_A
+profile: MapDynamicActive
+rigidBodyCenterY: -3.899399995803833
+slink: DLC_WallSpikeMovableBox_A
+sortKey: -33
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag7dd56981: 2111138177
+  tagdfaad2df: !u 0xdfaad2df
+traverseDist: 300.0
+xlink: OnlyThruDamageToObj
+yLimitAlgorithm: NoLimit

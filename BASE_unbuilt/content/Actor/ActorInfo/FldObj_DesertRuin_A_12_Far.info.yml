@@ -1,0 +1,21 @@
+aabbMax:
+  X: 1.776919960975647
+  Y: 1.6283799409866333
+  Z: 1.6029900312423706
+aabbMin:
+  X: -1.8797500133514404
+  Y: 0.007350999861955643
+  Z: -1.6718000173568726
+bfres: FldObj_DesertRuin_A_Far
+boundingForTraverse: 1.621029019355774
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: FldObj_DesertRuin_A_12_Far
+name: FldObj_DesertRuin_A_12_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

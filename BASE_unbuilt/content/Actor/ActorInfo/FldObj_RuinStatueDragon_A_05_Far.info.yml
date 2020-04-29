@@ -1,0 +1,20 @@
+aabbMax:
+  X: 3.699350118637085
+  Y: 23.799800872802734
+  Z: 4.588759899139404
+aabbMin:
+  X: -3.3493800163269043
+  Y: -0.7244799733161926
+  Z: -4.2898101806640625
+bfres: FldObj_RuinStatueDragon_A_Far
+boundingForTraverse: 24.524280548095703
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: FldObj_RuinStatueDragon_A_05_Far
+name: FldObj_RuinStatueDragon_A_05_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

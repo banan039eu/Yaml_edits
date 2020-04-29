@@ -1,0 +1,19 @@
+aabbMax:
+  X: 3.9450199604034424
+  Y: 0.6083809733390808
+  Z: 20.131999969482422
+aabbMin:
+  X: -3.932490110397339
+  Y: -0.5557349920272827
+  Z: -0.060554999858140945
+bfres: FldObj_BridgeLog_A_Far
+boundingForTraverse: 20.192554473876953
+bugMask: 0
+instSize: 17140
+mainModel: FldObj_BridgeLog_A_01_Far
+name: FldObj_BridgeLog_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

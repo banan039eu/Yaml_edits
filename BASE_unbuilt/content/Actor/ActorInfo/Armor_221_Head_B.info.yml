@@ -1,0 +1,40 @@
+aabbMax:
+  X: 0.18603500723838806
+  Y: 1.7748299837112427
+  Z: 0.20019499957561493
+aabbMin:
+  X: -0.18603500723838806
+  Y: 1.2177799940109253
+  Z: -0.17907500267028809
+armorDefenceAddLevel: 4
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: Quietness
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 2
+armorNextRankName: Armor_222_Head
+armorStarNum: 2
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_220
+boundingForTraverse: 0.5570499897003174
+bugMask: 1
+instSize: 61904
+itemBuyingPrice: 400
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 210
+itemStainColor: -1
+itemUseIconActorName: Armor_220_Head
+mainModel: Armor_220_Head_B
+name: Armor_221_Head_B
+profile: ArmorHead
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: SheikMask
+sortKey: 2721724
+tags:
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tagd1e9663c: !u 0xd1e9663c
+yLimitAlgorithm: NoLimit

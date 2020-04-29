@@ -1,0 +1,67 @@
+aabbMax:
+  X: 6.349400043487549
+  Y: 8.213919639587402
+  Z: 5.70334005355835
+aabbMin:
+  X: -6.206049919128418
+  Y: -0.6967999935150146
+  Z: -5.508540153503418
+attackPower: 12
+bfres: Obj_TreeWillow_A
+boundingForTraverse: 8.910719871520996
+bugMask: 3
+drops:
+  Normal:
+  - Obj_FireWoodBundle
+  Normal2:
+  - Obj_FireWoodBundle
+elink: Obj_TreeWillow_A_01_Trunk
+generalLife: 12
+instSize: 140576
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Obj_Log_TreeWillow_A_01
+name: Obj_TreeWillow_A_01_Trunk
+profile: WeaponSmallSword
+rigidBodyCenterY: 3.248110055923462
+slink: Tree_L_Trunk_WithLeaf
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag170cf1e2: 386724322
+  tag2b533845: 726874181
+  tag399f6f14: 966749972
+  tag6a7a4c11: 1786399761
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 150.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 0
+weaponCommonPoweredSharpAddAtkMin: 0
+weaponCommonPoweredSharpAddLifeMax: 0
+weaponCommonPoweredSharpAddLifeMin: 0
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 0
+weaponCommonSharpWeaponAddAtkMax: 0
+weaponCommonSharpWeaponAddAtkMin: 0
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 0
+weaponCommonSharpWeaponAddLifeMin: 0
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+yLimitAlgorithm: NoLimit

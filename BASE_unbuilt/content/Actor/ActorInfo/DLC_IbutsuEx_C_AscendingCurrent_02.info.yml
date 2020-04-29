@@ -1,0 +1,9 @@
+bugMask: 1
+elink: DLC_IbutsuEx_C_AscendingCurrent_02
+instSize: 7152
+name: DLC_IbutsuEx_C_AscendingCurrent_02
+profile: SoleTag
+sortKey: 9
+traverseDist: 100.0
+xlink: AscendingCurrent
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,29 @@
+aabbMax:
+  X: 9.99668025970459
+  Y: 9.99668025970459
+  Z: 2.8936400413513184
+aabbMin:
+  X: -9.99668025970459
+  Y: -9.99668025970459
+  Z: -2.9179599285125732
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuObj_A
+boundingForTraverse: 19.99336051940918
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 210044
+mainModel: DgnObj_DLC_SpurGearToothL_B_01
+name: DgnObj_DLC_SpurGearToothL_B_01
+profile: MapDynamicActive
+slink: DgnObj_DLC_SpurGearToothL_B_01
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tag2c608f30: 744525616
+  tagbeabf785: !u 0xbeabf785
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

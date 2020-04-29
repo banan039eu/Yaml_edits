@@ -1,0 +1,10 @@
+attackPower: 0
+bugMask: 1
+generalLife: 100
+instSize: 14524
+name: Obj_Oil
+profile: MapDynamicActive
+sortKey: -8
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

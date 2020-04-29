@@ -1,0 +1,23 @@
+aabbMax:
+  X: 3.389539957046509
+  Y: 0.05050700157880783
+  Z: 8.360790252685547
+aabbMin:
+  X: -3.066159963607788
+  Y: -5.324490070343018
+  Z: -0.05133499950170517
+attackPower: 0
+bfres: FldObj_EnemyBaseRiverside_A
+boundingForTraverse: 5.374997138977051
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 30160
+mainModel: FldObj_EnemyBaseRiverside_Slope_A_01
+name: FldObj_EnemyBaseRiverside_Slope_A_01
+profile: MapConstActive
+rigidBodyCenterY: -2.4710700511932373
+sortKey: 8
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

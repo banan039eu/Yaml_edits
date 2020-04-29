@@ -1,0 +1,14 @@
+attackPower: 100
+bugMask: 1
+generalLife: 1
+instSize: 36396
+name: CarryBox
+profile: MapDynamicActive
+sortKey: 4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag74831ee0: 1954750176
+  taged5fbd86: !u 0xed5fbd86
+  tagff2ecb67: !u 0xff2ecb67
+yLimitAlgorithm: NoLimit

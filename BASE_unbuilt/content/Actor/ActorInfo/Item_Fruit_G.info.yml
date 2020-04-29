@@ -1,0 +1,61 @@
+aabbMax:
+  X: 0.2554610073566437
+  Y: 0.2628360092639923
+  Z: 0.25633201003074646
+aabbMin:
+  X: -0.25567498803138733
+  Y: -0.3502179980278015
+  Z: -0.25633201003074646
+bfres: Obj_FruitCoconut_A
+boundingForTraverse: 0.6130539774894714
+bugMask: 3
+cureItemEffectLevel: 0
+cureItemEffectType: None
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 4
+cursorOffsetY: 0.5
+elink: GetItem
+generalLife: 100
+homeArea:
+- name: EastHateru
+- name: GerudoDesert
+- name: HateruSea
+instSize: 38160
+itemBuyingPrice: 16
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 4
+itemStainColor: 13
+itemUseIconActorName: ''
+mainModel: Obj_FruitCoconut_A_01
+motorcycleEnergy:
+  add: 75.0
+name: Item_Fruit_G
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+slink: Item_Fruit
+sortKey: 31020
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag14185415: 337138709
+  tag163ee7d0: 373221328
+  tag682e5129: 1747865897
+  tag7de11d78: 2111905144
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb0f85060: !u 0xb0f85060
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagd53a8775: !u 0xd53a8775
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tage97dcd22: !u 0xe97dcd22
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

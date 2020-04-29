@@ -1,0 +1,32 @@
+aabbMax:
+  X: 1.3149199485778809
+  Y: 0.5617089867591858
+  Z: 1.0446900129318237
+aabbMin:
+  X: -1.0430999994277954
+  Y: -0.36093300580978394
+  Z: -1.058609962463379
+attackPower: 0
+bfres: Obj_Plant_Juniperus_A
+boundingForTraverse: 0.9226419925689697
+bugMask: 2
+generalLife: 100
+instSize: 22436
+mainModel: Obj_Plant_Juniperus_B_Gray
+name: Obj_Plant_Juniperus_B_Gray
+profile: MapDynamicPassive
+slink: Plant
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag1f4b9ede: 525049566
+  tag31409cea: 826318058
+  tag4436fdc7: 1144454599
+  tag51ed35a6: 1374500262
+  tag55ef2d02: 1441737986
+  tag7de11d78: 2111905144
+  tag85aee6eb: !u 0x85aee6eb
+  tag98bfe8b4: !u 0x98bfe8b4
+  tage9411376: !u 0xe9411376
+yLimitAlgorithm: NoLimit

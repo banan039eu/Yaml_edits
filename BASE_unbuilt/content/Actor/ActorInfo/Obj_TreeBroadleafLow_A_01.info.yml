@@ -1,0 +1,26 @@
+aabbMax:
+  X: 2.438800096511841
+  Y: 5.209080219268799
+  Z: 2.381309986114502
+aabbMin:
+  X: -2.6925899982452393
+  Y: -0.576537013053894
+  Z: -1.9469799995422363
+bfres: Obj_TreeBroadleafLow_A
+boundingForTraverse: 5.785616874694824
+bugMask: 2
+elink: Obj_TreeBroadleafLow_A_01
+instSize: 43468
+mainModel: Obj_TreeBroadleafLow_A_01
+name: Obj_TreeBroadleafLow_A_01
+profile: MapConstPassive
+slink: Tree_Bush_WithBushShake
+sortKey: -3
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag572de768: 1462626152
+  tag9adf6fdd: !u 0x9adf6fdd
+  tage91ea5f6: !u 0xe91ea5f6
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

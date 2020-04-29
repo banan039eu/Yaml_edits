@@ -1,0 +1,48 @@
+aabbMax:
+  X: 0.06333500146865845
+  Y: 0.06221099942922592
+  Z: 0.8925489783287048
+aabbMin:
+  X: -0.06221099942922592
+  Y: -0.06221099942922592
+  Z: -0.08547800034284592
+arrowArrowDeletePer: 0
+arrowArrowNum: 1
+arrowDeleteTime: -1
+arrowDeleteTimeWithChemical: 0
+arrowEnemyShootNumForDelete: 8
+attackPower: 40
+bfres: Weapon_Arrow_002
+boundingForTraverse: 0.12442299723625183
+bugMask: 3
+cursorOffsetY: 0.20000000298023224
+elink: BombArrow_A
+homeArea:
+- name: CentralHyrule
+- name: EastHateru
+- name: WestHateru
+instSize: 51184
+itemBuyingPrice: 50
+itemCreatingPrice: -1
+itemSaleRevivalCount: 50
+itemSellingPrice: 1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Arrow_002
+name: BombArrow_A
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Bullet
+slink: BombArrow_A
+sortKey: 14604
+tags:
+  tag19f6c13a: 435601722
+  tag2755f107: 659943687
+  tag2cef9fdc: 753901532
+  tag336bf311: 862712593
+  tag80e484a4: !u 0x80e484a4
+  tag9b44906f: !u 0x9b44906f
+  tage0194f30: !u 0xe0194f30
+xlink: Weapon
+yLimitAlgorithm: NoLimit

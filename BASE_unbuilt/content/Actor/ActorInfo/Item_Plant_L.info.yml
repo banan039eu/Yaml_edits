@@ -1,0 +1,55 @@
+aabbMax:
+  X: 0.6445109844207764
+  Y: 1.65857994556427
+  Z: 0.5599889755249023
+aabbMin:
+  X: -0.7763339877128601
+  Y: -0.21293899416923523
+  Z: -0.9494510293006897
+bfres: Obj_FlowerChemical_A
+boundingForTraverse: 1.8715189695358276
+bugMask: 3
+cureItemEffectLevel: 1
+cureItemEffectType: ResistElectric
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 0
+cursorOffsetY: 0.5
+drops:
+  Normal:
+  - Item_PlantGet_L
+elink: Item_Plant_L
+generalLife: 1
+instSize: 36316
+itemBuyingPrice: 12
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 3
+itemStainColor: 13
+itemUseIconActorName: Item_PlantGet_L
+lookAtOffsetY: 1.100000023841858
+mainModel: Obj_FlowerChemical_B_01
+name: Item_Plant_L
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+slink: Item_PlantLeaf
+sortKey: 31470
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_PlantGet_L
+tags:
+  tag1f4b9ede: 525049566
+  tag55ef2d02: 1441737986
+  tag682e5129: 1747865897
+  tag85c817c3: !u 0x85c817c3
+  tag960721f7: !u 0x960721f7
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  taga4a8ba48: !u 0xa4a8ba48
+  tagbbf08f85: !u 0xbbf08f85
+  tagc2ac3213: !u 0xc2ac3213
+  tagd1e37dd4: !u 0xd1e37dd4
+  tagd902a8a2: !u 0xd902a8a2
+  tage0194f30: !u 0xe0194f30
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

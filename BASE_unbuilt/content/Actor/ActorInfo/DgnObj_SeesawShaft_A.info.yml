@@ -1,0 +1,10 @@
+attackPower: 0
+bugMask: 0
+generalLife: 100
+instSize: 8172
+name: DgnObj_SeesawShaft_A
+profile: MapDynamicActive
+sortKey: -23
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

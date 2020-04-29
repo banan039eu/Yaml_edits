@@ -1,0 +1,10 @@
+bugMask: 0
+elink: DungeonBird_test
+instSize: 3476
+name: DungeonBird_test
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+traverseDist: 1500.0
+yLimitAlgorithm: NoLimit

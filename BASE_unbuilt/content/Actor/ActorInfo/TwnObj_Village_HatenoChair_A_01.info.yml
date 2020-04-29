@@ -1,0 +1,18 @@
+aabbMax:
+  X: 0.3012070059776306
+  Y: 1.14274001121521
+  Z: 0.3823939859867096
+aabbMin:
+  X: -0.3012070059776306
+  Y: 0.0
+  Z: -0.3823939859867096
+bfres: TwnObj_Village_HatenoFurniture_A
+boundingForTraverse: 1.14274001121521
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: TwnObj_Village_HatenoChair_A_01
+name: TwnObj_Village_HatenoChair_A_01
+profile: MapConstPassive
+sortKey: -4
+yLimitAlgorithm: NoLimit

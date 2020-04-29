@@ -1,0 +1,22 @@
+aabbMax:
+  X: 79.36720275878906
+  Y: 69.67019653320312
+  Z: 43.93280029296875
+aabbMin:
+  X: -84.94670104980469
+  Y: -92.25569915771484
+  Z: -30.506200790405273
+bfres: FldObj_BowMark_A
+boundingForTraverse: 161.9259033203125
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 51968
+isHasFar: true
+mainModel: FldObj_BowMark_A_01
+name: SeekerSimbol2
+profile: MapConstPassive
+sortKey: -14
+terrainTextures:
+- !u 0xffff4608
+traverseDist: 680.3890991210938
+yLimitAlgorithm: NoLimit

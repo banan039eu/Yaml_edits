@@ -1,0 +1,13 @@
+attackPower: 10
+bugMask: 1
+instSize: 9516
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: Explode
+profile: Bullet
+sortKey: 0
+yLimitAlgorithm: NoLimit

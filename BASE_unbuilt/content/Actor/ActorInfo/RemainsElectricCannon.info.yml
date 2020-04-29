@@ -1,0 +1,18 @@
+attackPower: 60
+bugMask: 3
+elink: RemainsElectricCannon
+enemyRank: 0
+generalLife: 2000
+instSize: 17452
+name: RemainsElectricCannon
+profile: Enemy
+slink: RemainsElectricCannon
+sortKey: 10
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag3d2fc55b: 1026540891
+  tag7027cedd: 1881657053
+  tag74831ee0: 1954750176
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

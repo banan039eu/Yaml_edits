@@ -1,0 +1,22 @@
+aabbMax:
+  X: 2.634200096130371
+  Y: 8.882760047912598
+  Z: 1.3063000440597534
+aabbMin:
+  X: -1.0520000457763672
+  Y: -0.5001729726791382
+  Z: -1.1067099571228027
+attackPower: 0
+bfres: TwnObj_SmallOasis_A
+boundingForTraverse: 9.382932662963867
+bugMask: 0
+generalLife: 100
+instSize: 92776
+mainModel: TwnObj_SmallOasisCrowsNest_A_01
+name: TwnObj_SmallOasisCrowsNest_A_01
+profile: MapConstActive
+rigidBodyCenterY: 4.556449890136719
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

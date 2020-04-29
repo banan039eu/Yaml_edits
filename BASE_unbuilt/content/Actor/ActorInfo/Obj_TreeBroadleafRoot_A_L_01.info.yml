@@ -1,0 +1,22 @@
+aabbMax:
+  X: 1.7162200212478638
+  Y: 0.22996599972248077
+  Z: 1.674090027809143
+aabbMin:
+  X: -1.4603099822998047
+  Y: -0.8729869723320007
+  Z: -3.1475799083709717
+bfres: Obj_TreeBroadleaf_A
+boundingForTraverse: 1.1029529571533203
+bugMask: 0
+instSize: 17460
+mainModel: Obj_TreeBroadleafRoot_A_L_01
+name: Obj_TreeBroadleafRoot_A_L_01
+profile: MapConstPassive
+sortKey: -2
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  taga40dd51c: !u 0xa40dd51c
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

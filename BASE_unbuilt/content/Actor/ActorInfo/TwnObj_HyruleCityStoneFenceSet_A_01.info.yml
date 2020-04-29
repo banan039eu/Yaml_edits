@@ -1,0 +1,21 @@
+aabbMax:
+  X: 139.21400451660156
+  Y: 7.53863000869751
+  Z: 138.95199584960938
+aabbMin:
+  X: -139.14199829101562
+  Y: 0.5328559875488281
+  Z: -40.006900787353516
+bfres: TwnObj_HyruleCity_A
+boundingForTraverse: 7.005774021148682
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 76808
+mainModel: TwnObj_HyruleCityStoneFenceSet_A_01
+name: TwnObj_HyruleCityStoneFenceSet_A_01
+profile: MapConstPassive
+sortKey: -2
+tags:
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 400.0
+yLimitAlgorithm: NoLimit

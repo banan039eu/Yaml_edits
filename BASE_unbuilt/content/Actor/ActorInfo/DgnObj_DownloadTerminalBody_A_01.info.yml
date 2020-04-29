@@ -1,0 +1,25 @@
+aabbMax:
+  X: 1.9788800477981567
+  Y: 7.0
+  Z: 1.9788800477981567
+aabbMin:
+  X: -1.9788800477981567
+  Y: 2.5243399143218994
+  Z: -1.9788800477981567
+attackPower: 0
+bfres: DgnObj_ItemDownloadTerminalBody_B
+boundingForTraverse: 4.4756598472595215
+bugMask: 3
+cursorOffsetY: 0.5
+elink: DgnObj_ItemDownloadTerminalBody_B
+generalLife: 100
+instSize: 34440
+mainModel: DgnObj_ItemDownloadTerminalBody_B_01
+name: DgnObj_DownloadTerminalBody_A_01
+profile: MapConstActive
+rigidBodyCenterY: 5.913400173187256
+slink: TerminalBody
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

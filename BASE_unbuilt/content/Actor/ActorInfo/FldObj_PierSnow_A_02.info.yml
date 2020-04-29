@@ -1,0 +1,19 @@
+aabbMax:
+  X: 2.575890064239502
+  Y: 1.474910020828247
+  Z: 12.942099571228027
+aabbMin:
+  X: -2.4064199924468994
+  Y: -3.4801700115203857
+  Z: -2.6500799655914307
+bfres: FldObj_PierSnow_A
+boundingForTraverse: 4.955080032348633
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38044
+mainModel: FldObj_PierSnow_A_02
+name: FldObj_PierSnow_A_02
+profile: MapConstPassive
+sortKey: -3
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

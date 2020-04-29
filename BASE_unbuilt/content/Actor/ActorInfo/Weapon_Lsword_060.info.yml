@@ -1,0 +1,67 @@
+Chemical:
+  Capaciter: 1
+aabbMax:
+  X: 0.1842470020055771
+  Y: 0.04830799996852875
+  Z: 1.557770013809204
+aabbMin:
+  X: -0.1842470020055771
+  Y: -0.04830799996852875
+  Z: -0.5111129879951477
+attackPower: 60
+bfres: Weapon_Lsword_060
+boundingForTraverse: 0.09661699831485748
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Lsword_060
+generalLife: 35
+instSize: 49152
+itemBuyingPrice: 30
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 8
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Lsword_060
+name: Weapon_Lsword_060
+profile: WeaponLargeSword
+slink: Weapon_Lsword_MetalWide
+sortKey: 12225
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+  tagef2efe5d: !u 0xef2efe5d
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 23
+weaponCommonPoweredSharpAddAtkMin: 13
+weaponCommonPoweredSharpAddLifeMax: 30
+weaponCommonPoweredSharpAddLifeMin: 19
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 2.0
+weaponCommonPoweredSharpAddThrowMin: 1.5
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 1
+weaponCommonSharpWeaponAddAtkMax: 12
+weaponCommonSharpWeaponAddAtkMin: 6
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 18
+weaponCommonSharpWeaponAddLifeMin: 6
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: Weapon
+yLimitAlgorithm: NoLimit

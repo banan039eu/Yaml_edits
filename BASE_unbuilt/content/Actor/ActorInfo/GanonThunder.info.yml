@@ -1,0 +1,18 @@
+attackPower: 24
+bugMask: 3
+elink: LastBossThunder
+instSize: 14760
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: GanonThunder
+profile: Bullet
+slink: GanonThunder
+sortKey: 0
+tags:
+  tag3a61e2a9: 979493545
+  tag74831ee0: 1954750176
+yLimitAlgorithm: NoLimit

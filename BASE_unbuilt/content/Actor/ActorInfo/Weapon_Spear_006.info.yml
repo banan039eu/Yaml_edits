@@ -1,0 +1,75 @@
+Chemical:
+  Burnable: 1
+aabbMax:
+  X: 0.1538659930229187
+  Y: 0.3108600080013275
+  Z: 2.298190116882324
+aabbMin:
+  X: -0.13597600162029266
+  Y: -0.3167850077152252
+  Z: -0.39457300305366516
+attackPower: 12
+bfres: Weapon_Spear_006
+boundingForTraverse: 0.6276450157165527
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Spear_006
+generalLife: 20
+homeArea:
+- name: HateruSea
+- name: HyruleHill
+- name: CentralHyrule
+instSize: 46992
+itemBuyingPrice: 24
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 15
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Spear_006
+name: Weapon_Spear_006
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponSpear
+slink: Weapon_Spear_WoodWithBoneHeavy
+sortKey: 13512
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag39ad2326: 967648038
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+  tagef2efe5d: !u 0xef2efe5d
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 7
+weaponCommonPoweredSharpAddAtkMin: 5
+weaponCommonPoweredSharpAddLifeMax: 9
+weaponCommonPoweredSharpAddLifeMin: 5
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 2.0
+weaponCommonPoweredSharpAddThrowMin: 1.5
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 6
+weaponCommonSharpWeaponAddAtkMax: 4
+weaponCommonSharpWeaponAddAtkMin: 2
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 4
+weaponCommonSharpWeaponAddLifeMin: 2
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: Weapon
+yLimitAlgorithm: NoLimit

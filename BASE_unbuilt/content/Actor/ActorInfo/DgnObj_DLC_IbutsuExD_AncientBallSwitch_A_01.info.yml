@@ -1,0 +1,26 @@
+aabbMax:
+  X: 4.0
+  Y: 4.0
+  Z: 4.0
+aabbMin:
+  X: -4.0
+  Y: 2.635770082473755
+  Z: -4.0
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuEx_D
+boundingForTraverse: 1.3642300367355347
+bugMask: 3
+generalLife: 100
+instSize: 40228
+mainModel: DgnObj_DLC_IbutsuExD_AncientBallSwitch_A_01
+name: DgnObj_DLC_IbutsuExD_AncientBallSwitch_A_01
+profile: MapConstActive
+rigidBodyCenterY: 1.9559299945831299
+slink: AncientBallSwitch
+sortKey: 51
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

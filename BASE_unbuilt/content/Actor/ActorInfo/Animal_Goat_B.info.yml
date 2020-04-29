@@ -1,0 +1,33 @@
+aabbMax:
+  X: 0.5073410272598267
+  Y: 1.8921699523925781
+  Z: 1.7072900533676147
+aabbMin:
+  X: -0.48753800988197327
+  Y: -0.11949899792671204
+  Z: -0.8383659720420837
+attackPower: 0
+bfres: Animal_Goat_Cattle
+boundingForTraverse: 2.0116689205169678
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Animal_Goat_A
+enemyRank: 0
+generalLife: 100
+instSize: 136892
+mainModel: Goat_Cattle
+name: Animal_Goat_B
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+rigidBodyCenterY: 0.5070769786834717
+slink: Animal_Goat_A
+sortKey: 28021
+systemIsGetItemSelf: false
+systemSameGroupActorName: Animal_Goat_A
+tags:
+  tag24cd75fe: 617444862
+  tagfa5c683e: !u 0xfa5c683e
+xlink: Quadruped_Animal
+yLimitAlgorithm: NoLimit

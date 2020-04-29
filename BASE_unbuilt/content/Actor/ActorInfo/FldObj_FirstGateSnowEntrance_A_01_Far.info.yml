@@ -1,0 +1,23 @@
+aabbMax:
+  X: 37.56999969482422
+  Y: 16.59910011291504
+  Z: 3.0556600093841553
+aabbMin:
+  X: -19.392799377441406
+  Y: -0.5973889827728271
+  Z: -9.45952033996582
+bfres: FldObj_FirstGateSnow_A_Far
+boundingForTraverse: 17.196489334106445
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 90480
+mainModel: FldObj_FirstGateSnowEntrance_A_01_Far
+name: FldObj_FirstGateSnowEntrance_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+terrainTextures:
+- !u 0xffffff08
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

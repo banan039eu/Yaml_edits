@@ -1,0 +1,25 @@
+aabbMax:
+  X: 1.0
+  Y: 9.5
+  Z: 1.0
+aabbMin:
+  X: -1.0
+  Y: 0.0
+  Z: -1.0
+attackPower: 0
+bfres: DgnObj_FallDownPillar_A
+boundingForTraverse: 9.5
+bugMask: 3
+cursorOffsetY: 0.5
+elink: DgnObj_FallDownPillar_A_01
+generalLife: 1
+instSize: 46732
+mainModel: DgnObj_FallDownPillar_A_01
+name: DgnObj_FallDownPillar_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 4.75
+slink: BreakablePillar
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

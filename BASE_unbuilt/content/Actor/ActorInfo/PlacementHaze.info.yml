@@ -1,0 +1,10 @@
+bugMask: 0
+elink: PlacementHaze
+instSize: 3476
+name: PlacementHaze
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+traverseDist: 100.0
+yLimitAlgorithm: NoLimit

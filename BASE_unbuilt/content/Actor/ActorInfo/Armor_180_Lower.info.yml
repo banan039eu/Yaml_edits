@@ -1,0 +1,41 @@
+aabbMax:
+  X: 0.2243649959564209
+  Y: 0.9428709745407104
+  Z: 0.239096999168396
+aabbMin:
+  X: -0.2243649959564209
+  Y: -0.0014029999729245901
+  Z: -0.13695000112056732
+armorDefenceAddLevel: 4
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: Quietness
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_180
+boundingForTraverse: 0.9442740082740784
+bugMask: 1
+instSize: 46884
+itemBuyingPrice: 50
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 15
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_180_Lower
+name: Armor_180_Lower
+profile: ArmorLower
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: PhantomGanon
+sortKey: 6023850
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

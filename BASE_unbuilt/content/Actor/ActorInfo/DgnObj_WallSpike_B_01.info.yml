@@ -1,0 +1,27 @@
+aabbMax:
+  X: 2.0608699321746826
+  Y: 0.0
+  Z: 2.450000047683716
+aabbMin:
+  X: -2.0608699321746826
+  Y: -1.6322599649429321
+  Z: -2.450000047683716
+attackPower: 4
+bfres: DgnObj_WallSpike_B
+boundingForTraverse: 1.6322599649429321
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 25920
+mainModel: DgnObj_WallSpike_B_01
+name: DgnObj_WallSpike_B_01
+profile: MapConstActive
+rigidBodyCenterY: -0.75
+slink: DgnObj_WallSpike_RemainsWater
+sortKey: 7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagdfaad2df: !u 0xdfaad2df
+xlink: OnlyThruDamageToObj
+yLimitAlgorithm: NoLimit

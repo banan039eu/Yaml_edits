@@ -1,0 +1,20 @@
+aabbMax:
+  X: 1.788699984550476
+  Y: 3.3985400199890137
+  Z: 1.5534700155258179
+aabbMin:
+  X: -1.7231500148773193
+  Y: 0.0
+  Z: -1.741960048675537
+bfres: TwnObj_City_GerudoFurniture_A
+boundingForTraverse: 3.3985400199890137
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38748
+mainModel: TwnObj_GerudoAudienceRoomVase_A_01
+name: TwnObj_GerudoAudienceRoomVase_A_01
+profile: MapConstPassive
+sortKey: 9
+terrainTextures:
+- !u 0xffffff3b
+yLimitAlgorithm: NoLimit

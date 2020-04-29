@@ -1,0 +1,29 @@
+aabbMax:
+  X: 0.949999988079071
+  Y: 4.0
+  Z: 1.0499999523162842
+aabbMin:
+  X: -0.949999988079071
+  Y: 0.0
+  Z: -1.0499999523162842
+attackPower: 0
+bfres: DgnObj_ElectricPillar_A
+boundingForTraverse: 4.0
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 53004
+mainModel: DgnObj_ElectricPillar_A_01
+name: DgnObj_ElectricPillar_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.5601400136947632
+slink: DgnObj_ElectricPillar
+sortKey: 17
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagc2ac3213: !u 0xc2ac3213
+  taged5fbd86: !u 0xed5fbd86
+traverseDist: 99999.0
+xlink: DgnObj_ConstrainedSlider
+yLimitAlgorithm: NoLimit

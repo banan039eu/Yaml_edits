@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.5985620021820068
+  Y: 1.9536099433898926
+  Z: 0.5927079916000366
+aabbMin:
+  X: -0.5985620021820068
+  Y: -0.2125989943742752
+  Z: -0.5612170100212097
+attackPower: 0
+bfres: Obj_CursedStatue_A
+boundingForTraverse: 2.1662089824676514
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Obj_CursedStatue
+generalLife: 100
+instSize: 36288
+mainModel: Obj_CursedStatue_A_01
+name: Obj_CursedStatue
+profile: MapDynamicActive
+rigidBodyCenterY: 0.7519239783287048
+slink: Obj_CursedStatue
+sortKey: -9
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagdeb2c8bd: !u 0xdeb2c8bd
+yLimitAlgorithm: NoLimit

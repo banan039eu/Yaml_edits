@@ -1,0 +1,58 @@
+aabbMax:
+  X: 0.0840890035033226
+  Y: 0.2647550106048584
+  Z: 0.08511500060558319
+aabbMin:
+  X: -0.08614200353622437
+  Y: -0.3990750014781952
+  Z: -0.09045100212097168
+bfres: Obj_PlantCarrot_A
+boundingForTraverse: 0.6638299822807312
+bugMask: 3
+cureItemEffectLevel: 1
+cureItemEffectType: MovingSpeed
+cureItemEffectiveTime: 300
+cureItemHitPointRecover: 2
+cursorOffsetY: 0.5
+elink: Item_PlantGet_M
+generalLife: 1
+homeArea:
+- name: WestHateru
+- name: HyruleHill
+- name: CentralHyrule
+instSize: 36948
+itemBuyingPrice: 16
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 4
+itemStainColor: 10
+itemUseIconActorName: Item_PlantGet_M
+lookAtOffsetY: 0.10000000149011612
+mainModel: Obj_Get_PlantCarrot_A_01
+motorcycleEnergy:
+  add: 50.0
+name: Item_PlantGet_M
+pictureBookLiveSpot1: 24
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+rigidBodyCenterY: -0.14000000059604645
+slink: Item_PlantRootGet
+sortKey: 31480
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_PlantGet_M
+tags:
+  tag14185415: 337138709
+  tag682e5129: 1747865897
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagbbf08f85: !u 0xbbf08f85
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

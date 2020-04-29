@@ -1,0 +1,15 @@
+attackPower: 0
+bugMask: 3
+elink: ExpandFireField_Golem_Little
+instSize: 14736
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: ExpandFireField_Golem_Little
+profile: Bullet
+slink: ExpandFireField_Golem
+sortKey: 0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.38218098878860474
+  Y: 1.4821799993515015
+  Z: 0.3586609959602356
+aabbMin:
+  X: -0.38218098878860474
+  Y: -0.2714790105819702
+  Z: -0.130963996052742
+attackPower: 0
+bfres: FldObj_KorokPinwheel_A
+boundingForTraverse: 1.7536590099334717
+bugMask: 3
+cursorOffsetY: 0.5
+elink: FldObj_KorokPinwheel_A_01
+generalLife: 100
+instSize: 27936
+mainModel: FldObj_KorokPinwheel_A_01
+name: FldObj_KorokPinwheel_A_01
+profile: MapDynamicActive
+slink: FldObj_KorokPinwheel_A_01
+sortKey: -32
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag63efc18d: 1676657037
+yLimitAlgorithm: NoLimit

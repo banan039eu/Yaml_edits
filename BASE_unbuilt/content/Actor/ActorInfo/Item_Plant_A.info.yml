@@ -1,0 +1,57 @@
+aabbMax:
+  X: 0.41436898708343506
+  Y: 1.7670400142669678
+  Z: 0.5750759840011597
+aabbMin:
+  X: -0.5138959884643555
+  Y: -0.16792899370193481
+  Z: -0.6252840161323547
+bfres: Obj_Plant_Herb_A
+boundingForTraverse: 1.9349689483642578
+bugMask: 3
+cureItemEffectLevel: 0
+cureItemEffectType: None
+cureItemHitPointRecover: 4
+cursorOffsetY: 0.6000000238418579
+drops:
+  Normal:
+  - Item_PlantGet_A
+elink: Item_Plant_A
+generalLife: 1
+instSize: 46780
+itemBuyingPrice: 12
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 3
+itemStainColor: 7
+itemUseIconActorName: Item_PlantGet_A
+lookAtOffsetY: 1.2000000476837158
+mainModel: Obj_Plant_Herb_A_01
+name: Item_Plant_A
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+slink: Item_PlantLeaf
+sortKey: 31410
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_PlantGet_A
+tags:
+  tag14185415: 337138709
+  tag1f4b9ede: 525049566
+  tag55ef2d02: 1441737986
+  tag682e5129: 1747865897
+  tag7de11d78: 2111905144
+  tag85aee6eb: !u 0x85aee6eb
+  tag85c817c3: !u 0x85c817c3
+  tag960721f7: !u 0x960721f7
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  taga4a8ba48: !u 0xa4a8ba48
+  tagaf6a810c: !u 0xaf6a810c
+  tagbbf08f85: !u 0xbbf08f85
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

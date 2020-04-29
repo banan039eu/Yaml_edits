@@ -1,0 +1,26 @@
+aabbMax:
+  X: 18.587200164794922
+  Y: 18.587200164794922
+  Z: 50.31639862060547
+aabbMin:
+  X: -18.587200164794922
+  Y: -18.587200164794922
+  Z: -42.779998779296875
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuEx_C
+boundingForTraverse: 37.174400329589844
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 367668
+mainModel: DgnObj_DLC_IbutsuEx_C_CylinderWall_A_01
+name: DgnObj_DLC_IbutsuEx_C_CylinderWall_A_01
+profile: MapConstActive
+rigidBodyCenterY: -1.3428399562835693
+sortKey: 11
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

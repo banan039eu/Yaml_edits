@@ -1,0 +1,30 @@
+aabbMax:
+  X: 2.2161600589752197
+  Y: 1.9698200225830078
+  Z: 2.1933701038360596
+aabbMin:
+  X: -1.887910008430481
+  Y: -0.2880040109157562
+  Z: -2.3471500873565674
+attackPower: 0
+bfres: Obj_Plant_Fern_C
+boundingForTraverse: 2.257823944091797
+bugMask: 2
+cursorOffsetY: 0.5
+elink: Plant_Fern_C
+generalLife: 100
+instSize: 24148
+mainModel: Obj_Plant_Fern_C
+name: Plant_Fern_C
+profile: MapDynamicPassive
+slink: Plant_WithBushShake
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag206f0b59: 544148313
+  tag50fb41e2: 1358643682
+  tag51ed35a6: 1374500262
+  tag55ef2d02: 1441737986
+  tage91ea5f6: !u 0xe91ea5f6
+yLimitAlgorithm: NoLimit

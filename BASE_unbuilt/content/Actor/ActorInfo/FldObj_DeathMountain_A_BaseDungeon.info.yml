@@ -1,0 +1,28 @@
+aabbMax:
+  X: 506.0
+  Y: 404.25
+  Z: 574.5
+aabbMin:
+  X: -431.25
+  Y: -190.0
+  Z: -614.5
+attackPower: 0
+bfres: FldObj_DeathMountainDgn_A
+boundingForTraverse: 594.25
+bugMask: 1
+elink: FldObj_DeathMountain_A_BaseDungeon
+generalLife: 100
+instSize: 148452
+mainModel: FldObj_DeathMountainDgn_A
+name: FldObj_DeathMountain_A_BaseDungeon
+profile: MapDynamicActive
+rigidBodyCenterY: -16.497499465942383
+sortKey: -6
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+terrainTextures:
+- !u 0xffffff32
+traverseDist: 10000.0
+yLimitAlgorithm: NoLimit

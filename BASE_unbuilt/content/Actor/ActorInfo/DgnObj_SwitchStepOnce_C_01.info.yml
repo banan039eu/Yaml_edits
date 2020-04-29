@@ -1,0 +1,27 @@
+aabbMax:
+  X: 1.2929699420928955
+  Y: 0.29988300800323486
+  Z: 1.2929699420928955
+aabbMin:
+  X: -1.2929699420928955
+  Y: -0.33909401297569275
+  Z: -1.2929699420928955
+attackPower: 0
+bfres: DgnObj_SwitchStepOnce_C
+boundingForTraverse: 0.6389769911766052
+bugMask: 3
+cursorOffsetY: 0.5
+elink: SwitchStep
+generalLife: 100
+instSize: 34392
+mainModel: DgnObj_SwitchStepOnce_C_01
+name: DgnObj_SwitchStepOnce_C_01
+profile: MapDynamicActive
+slink: SwitchStep
+sortKey: 15
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2c608f30: 744525616
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

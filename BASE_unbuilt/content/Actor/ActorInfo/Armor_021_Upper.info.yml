@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.9179689884185791
+  Y: 1.4980499744415283
+  Z: 0.19543500244617462
+aabbMin:
+  X: -0.9179689884185791
+  Y: 0.6552910208702087
+  Z: -0.14086900651454926
+armorDefenceAddLevel: 4
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: ResistAncient
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_099_Upper
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 1
+bfres: Armor_021
+boundingForTraverse: 0.8427590131759644
+bugMask: 3
+instSize: 82772
+itemBuyingPrice: 500
+itemCreatingPrice: 2000
+itemSaleRevivalCount: -1
+itemSellingPrice: 125
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_021_Upper
+name: Armor_021_Upper
+normal0ItemName01: Item_Enemy_26
+normal0ItemName02: Item_Enemy_27
+normal0ItemName03: Item_Enemy_30
+normal0ItemNum01: 20
+normal0ItemNum02: 5
+normal0ItemNum03: 3
+normal0StuffNum: 3
+profile: ArmorUpper
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: Ancient
+slink: Armor_Upper_StoneHeavy
+sortKey: 3422164
+tags:
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

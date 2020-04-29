@@ -1,0 +1,16 @@
+attackPower: 0
+baseScaleX: 0.5
+baseScaleY: 0.5
+baseScaleZ: 0.5
+bugMask: 1
+generalLife: 100
+instSize: 10924
+name: BoxWater
+profile: MapDynamicActive
+sortKey: -28
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tag63efc18d: 1676657037
+yLimitAlgorithm: NoLimit

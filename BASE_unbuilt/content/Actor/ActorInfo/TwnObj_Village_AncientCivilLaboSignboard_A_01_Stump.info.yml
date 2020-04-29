@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.6632450222969055
+  Y: 2.205359935760498
+  Z: 0.1571269929409027
+aabbMin:
+  X: -0.6910229921340942
+  Y: -0.30000001192092896
+  Z: -0.056657999753952026
+attackPower: 0
+bfres: TwnObj_Village_HatenoGuidePost_A
+boundingForTraverse: 2.5053598880767822
+bugMask: 1
+cursorOffsetY: 0.3499999940395355
+generalLife: 100
+instSize: 66928
+lookAtOffsetY: 2.0
+mainModel: TwnObj_Village_AncientCivilLaboSignboard_A_01
+name: TwnObj_Village_AncientCivilLaboSignboard_A_01_Stump
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.4000000059604645
+sortKey: -31
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag80e91296: !u 0x80e91296
+  tagc28d054e: !u 0xc28d054e
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

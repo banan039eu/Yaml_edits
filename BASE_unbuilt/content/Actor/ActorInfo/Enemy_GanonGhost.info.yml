@@ -1,0 +1,26 @@
+aabbMax:
+  X: 26.984399795532227
+  Y: 27.794700622558594
+  Z: 100.61499786376953
+aabbMin:
+  X: -26.984399795532227
+  Y: -33.12080001831055
+  Z: -184.375
+bfres: Enemy_GanonGhost
+boundingForTraverse: 60.91550064086914
+bugMask: 1
+cursorOffsetY: 0.5
+elink: Enemy_GanonGhost
+generalLife: 100
+instSize: 43812
+mainModel: GanonGhost
+name: Enemy_GanonGhost
+profile: DemoNPC
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag336bf311: 862712593
+  tag84f40ec6: !u 0x84f40ec6
+  tagfd5643b5: !u 0xfd5643b5
+yLimitAlgorithm: NoLimit

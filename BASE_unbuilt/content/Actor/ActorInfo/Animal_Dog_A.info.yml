@@ -1,0 +1,38 @@
+aabbMax:
+  X: 0.4652419984340668
+  Y: 0.9177089929580688
+  Z: 0.830007016658783
+aabbMin:
+  X: -0.46618399024009705
+  Y: -0.009437999688088894
+  Z: -1.1044600009918213
+animalUnitBasePlayRate: 1.0
+attackPower: 0
+bfres: Animal_Dog
+boundingForTraverse: 0.9271469712257385
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Animal_Dog_A
+enemyRank: 0
+generalLife: 100
+homeArea:
+- name: TamulPlateau
+- name: HeburaMountains
+- name: EastHateru
+instSize: 148592
+mainModel: Dog
+name: Animal_Dog_A
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+slink: Animal_Dog_A
+sortKey: 28110
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag24cd75fe: 617444862
+  tag6b3d3141: 1799172417
+  tagfa5c683e: !u 0xfa5c683e
+xlink: Quadruped_Animal
+yLimitAlgorithm: NoLimit

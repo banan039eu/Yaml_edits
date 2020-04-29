@@ -1,0 +1,48 @@
+aabbMax:
+  X: 5.321549892425537
+  Y: 7.851990222930908
+  Z: 7.782320022583008
+aabbMin:
+  X: -8.533269882202148
+  Y: -4.030710220336914
+  Z: -23.204200744628906
+attackPower: 60
+bfres: Enemy_Sandworm
+boundingForTraverse: 11.882699966430664
+bugMask: 3
+drops:
+  Normal:
+  - Item_Enemy_25
+  Normal2:
+  - Item_Enemy_24
+  Normal3:
+  - TBox_Field_Iron_Sandworm
+elink: Enemy_Sandworm
+enemyRank: 1
+generalLife: 1500
+homeArea:
+- name: GerudoDesert
+- name: ''
+- name: ''
+instSize: 202188
+mainModel: Sandworm
+name: Enemy_Sandworm
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Sandworm
+rigidBodyCenterY: -0.25
+slink: Enemy_Sandworm
+sortKey: 1400
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag16a3afed: 379826157
+  tag2be89673: 736663155
+  tag35b5afc9: 901099465
+  tag4806038d: 1208353677
+  tag994aef4b: !u 0x994aef4b
+  tag9eb0ef08: !u 0x9eb0ef08
+  tagaf85ec67: !u 0xaf85ec67
+  tagb0c9e79a: !u 0xb0c9e79a
+yLimitAlgorithm: NoLimit

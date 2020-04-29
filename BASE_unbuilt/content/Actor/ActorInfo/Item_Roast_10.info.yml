@@ -1,0 +1,45 @@
+aabbMax:
+  X: 0.2554610073566437
+  Y: 0.2628360092639923
+  Z: 0.25633201003074646
+aabbMin:
+  X: -0.26459699869155884
+  Y: -0.3502179980278015
+  Z: -0.25633201003074646
+bfres: Item_Roast_10
+boundingForTraverse: 0.6130539774894714
+bugMask: 1
+cureItemEffectLevel: 0
+cureItemEffectType: None
+cureItemEffectiveTime: 9000
+cureItemHitPointRecover: 6
+cursorOffsetY: 0.5
+elink: GetItem
+generalLife: 100
+instSize: 35832
+itemBuyingPrice: 15
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 6
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Item_Roast_10
+name: Item_Roast_10
+profile: Item
+sortKey: 61020
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag14185415: 337138709
+  tag2b2b5fbc: 724262844
+  tag80e484a4: !u 0x80e484a4
+  tag812ee444: !u 0x812ee444
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

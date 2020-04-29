@@ -1,0 +1,20 @@
+bugMask: 0
+generalLife: 100
+instSize: 3108
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: Obj_ProofBook
+profile: Item
+sortKey: 52113
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag1c0c8d23: 470584611
+  tag2cef9fdc: 753901532
+  tag4850af43: 1213247299
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,20 @@
+aabbMax:
+  X: 8.64957046508789
+  Y: 1.8890600204467773
+  Z: 5.477459907531738
+aabbMin:
+  X: -20.371000289916992
+  Y: -2.979749917984009
+  Z: -6.251810073852539
+bfres: TwnObj_City_Gerudo_A
+boundingForTraverse: 4.868810176849365
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 451064
+mainModel: TwnObj_City_GerudoClothShopInsideSet_A_01
+name: TwnObj_City_GerudoClothShopInsideSet_A_01
+profile: MapConstPassive
+sortKey: 2
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+yLimitAlgorithm: NoLimit

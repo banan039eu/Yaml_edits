@@ -1,0 +1,28 @@
+aabbMax:
+  X: 2.627890110015869
+  Y: -2.4259300231933594
+  Z: 1.899999976158142
+aabbMin:
+  X: -2.627890110015869
+  Y: -4.199999809265137
+  Z: -1.899999976158142
+attackPower: 4
+bfres: DgnObj_FloorSpike_A
+boundingForTraverse: 1.7740700244903564
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 25920
+mainModel: DgnObj_FloorSpike_A_01
+name: DgnObj_FloorSpike_A_01
+profile: MapConstActive
+rigidBodyCenterY: -3.719059944152832
+slink: DgnObj_RemainsElectricRailRollingObj
+sortKey: 28
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagdfaad2df: !u 0xdfaad2df
+traverseDist: 99999.0
+xlink: OnlyThruDamageToObj
+yLimitAlgorithm: NoLimit

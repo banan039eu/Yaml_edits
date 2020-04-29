@@ -1,0 +1,33 @@
+aabbMax:
+  X: 0.2554610073566437
+  Y: 0.2628360092639923
+  Z: 0.25633201003074646
+aabbMin:
+  X: -0.25567498803138733
+  Y: -0.3502179980278015
+  Z: -0.25633201003074646
+bfres: Obj_FruitCoconut_A
+boundingForTraverse: 0.6130539774894714
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 18016
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Obj_FruitCoconut_A_01
+name: Obj_KorokNuts
+profile: Item
+sortKey: 52013
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2cef9fdc: 753901532
+  tag4850af43: 1213247299
+  tag9b44906f: !u 0x9b44906f
+  tagdeb2c8bd: !u 0xdeb2c8bd
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

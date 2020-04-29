@@ -1,0 +1,7 @@
+bugMask: 1
+instSize: 4428
+name: AreaCulling_InnerOn
+profile: Area
+sortKey: 0
+traverseDist: 8000.0
+yLimitAlgorithm: NoLimit

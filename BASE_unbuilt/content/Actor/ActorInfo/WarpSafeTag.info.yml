@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 4632
+name: WarpSafeTag
+profile: ComplexTag
+sortKey: 0
+yLimitAlgorithm: NoLimit

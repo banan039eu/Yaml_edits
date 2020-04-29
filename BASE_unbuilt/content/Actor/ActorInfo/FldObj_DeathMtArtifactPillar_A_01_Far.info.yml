@@ -1,0 +1,20 @@
+aabbMax:
+  X: 11.447699546813965
+  Y: 15.823100090026855
+  Z: 5.4658098220825195
+aabbMin:
+  X: -3.5192999839782715
+  Y: -3.474709987640381
+  Z: -5.966460227966309
+bfres: FldObj_DeathMtArtifact_A_Far
+boundingForTraverse: 19.297809600830078
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 39772
+mainModel: FldObj_DeathMtArtifactPillar_A_01_Far
+name: FldObj_DeathMtArtifactPillar_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

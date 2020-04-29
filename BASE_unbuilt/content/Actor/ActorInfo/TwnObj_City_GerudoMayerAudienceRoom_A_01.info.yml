@@ -1,0 +1,21 @@
+aabbMax:
+  X: 22.169700622558594
+  Y: 10.22089958190918
+  Z: 48.5885009765625
+aabbMin:
+  X: -22.254199981689453
+  Y: -12.662500381469727
+  Z: -28.666200637817383
+bfres: TwnObj_City_Gerudo_A
+boundingForTraverse: 22.883399963378906
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 358964
+mainModel: TwnObj_City_GerudoMayerAudienceRoom_A_01
+name: TwnObj_City_GerudoMayerAudienceRoom_A_01
+profile: MapConstPassive
+sortKey: -29
+tags:
+  tag03528579: 55739769
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

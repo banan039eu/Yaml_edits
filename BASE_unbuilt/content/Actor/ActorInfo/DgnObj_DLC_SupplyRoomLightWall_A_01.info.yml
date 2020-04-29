@@ -1,0 +1,21 @@
+aabbMax:
+  X: 28.69339942932129
+  Y: 26.516199111938477
+  Z: 28.69339942932129
+aabbMin:
+  X: -28.69339942932129
+  Y: 4.202889919281006
+  Z: -28.69339942932129
+bfres: DgnObj_DLC_SupplyRoom_A
+boundingForTraverse: 22.313308715820312
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 32600
+mainModel: DgnObj_DLC_SupplyRoomLightWall_A_01
+name: DgnObj_DLC_SupplyRoomLightWall_A_01
+profile: MapConstPassive
+sortKey: -5
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+traverseDist: 800.0
+yLimitAlgorithm: NoLimit

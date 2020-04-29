@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 2496
+name: BasinTag
+profile: ComplexTag
+sortKey: 0
+yLimitAlgorithm: NoLimit

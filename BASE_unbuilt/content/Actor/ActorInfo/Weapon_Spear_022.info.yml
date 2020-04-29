@@ -1,0 +1,72 @@
+Chemical:
+  Capaciter: 1
+aabbMax:
+  X: 0.0360959991812706
+  Y: 0.17929300665855408
+  Z: 2.2808399200439453
+aabbMin:
+  X: -0.10858599841594696
+  Y: -0.17138800024986267
+  Z: -0.4179840087890625
+attackPower: 7
+bfres: Weapon_Spear_022
+boundingForTraverse: 0.35068100690841675
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: WeaponSpear
+generalLife: 12
+homeArea:
+- name: EastHateru
+- name: WestHateru
+- name: HyruleHill
+instSize: 46928
+itemBuyingPrice: 20
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 7
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Spear_022
+name: Weapon_Spear_022
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponSpear
+slink: Weapon_Spear_WoodWithMetal
+sortKey: 13031
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 6
+weaponCommonPoweredSharpAddAtkMin: 5
+weaponCommonPoweredSharpAddLifeMax: 6
+weaponCommonPoweredSharpAddLifeMin: 4
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 2.0
+weaponCommonPoweredSharpAddThrowMin: 1.5
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 1
+weaponCommonSharpWeaponAddAtkMax: 4
+weaponCommonSharpWeaponAddAtkMin: 3
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 3
+weaponCommonSharpWeaponAddLifeMin: 2
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: Weapon
+yLimitAlgorithm: NoLimit

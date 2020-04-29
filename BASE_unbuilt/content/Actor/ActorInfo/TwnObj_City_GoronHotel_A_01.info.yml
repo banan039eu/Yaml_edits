@@ -1,0 +1,20 @@
+aabbMax:
+  X: 11.64579963684082
+  Y: 15.887299537658691
+  Z: 10.045100212097168
+aabbMin:
+  X: -17.767900466918945
+  Y: -7.099909782409668
+  Z: -20.74250030517578
+bfres: TwnObj_City_Goron_A
+boundingForTraverse: 22.98720932006836
+bugMask: 0
+instSize: 199348
+mainModel: TwnObj_City_GoronHotel_A_01
+name: TwnObj_City_GoronHotel_A_01
+profile: MapConstPassive
+sortKey: -7
+terrainTextures:
+- !u 0xffffff22
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

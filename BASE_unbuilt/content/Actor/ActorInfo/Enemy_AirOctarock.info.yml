@@ -1,0 +1,37 @@
+aabbMax:
+  X: 1.261299967765808
+  Y: 2.8165199756622314
+  Z: 1.269819974899292
+aabbMin:
+  X: -1.2114100456237793
+  Y: -1.552780032157898
+  Z: -1.1325299739837646
+attackPower: 0
+bfres: Enemy_AirOctarock
+boundingForTraverse: 4.36929988861084
+bugMask: 3
+cursorOffsetY: 3.0
+elink: Enemy_AirOctarock
+enemyRank: 0
+generalLife: 8
+instSize: 117188
+mainModel: AirOctarock
+name: Enemy_AirOctarock
+pictureBookLiveSpot1: 20
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+rigidBodyCenterY: 1.666890025138855
+slink: Enemy_AirOctarock
+sortKey: 305
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2bf99ca0: 737778848
+  tag33b0a8cc: 867215564
+  tag35960905: 899025157
+  tag559ef706: 1436481286
+  tag994aef4b: !u 0x994aef4b
+  tage7a26d8b: !u 0xe7a26d8b
+traverseDist: 150.0
+yLimitAlgorithm: LimitYDiff

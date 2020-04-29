@@ -1,0 +1,15 @@
+attackPower: 0
+bugMask: 3
+elink: ExpandIceField_Chuchu
+instSize: 14616
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: ExpandIceField
+profile: Bullet
+slink: ExpandIceField
+sortKey: 0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,35 @@
+aabbMax:
+  X: 0.06219499930739403
+  Y: 0.06219499930739403
+  Z: 0.14392100274562836
+aabbMin:
+  X: -0.06219499930739403
+  Y: -0.06433100253343582
+  Z: -1.2666000127792358
+arrowArrowDeletePer: 0
+arrowArrowNum: 1
+arrowDeleteTime: -1
+arrowDeleteTimeWithChemical: 0
+arrowEnemyShootNumForDelete: 8
+attackPower: 40
+bfres: Weapon_Arrow_020
+boundingForTraverse: 0.12652599811553955
+bugMask: 3
+cursorOffsetY: 0.20000000298023224
+elink: Weapon_Arrow_020
+instSize: 52496
+itemBuyingPrice: 50
+itemCreatingPrice: -1
+itemSaleRevivalCount: 50
+itemSellingPrice: 1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: Weapon_Arrow_020
+profile: Bullet
+slink: BombArrow_A
+sortKey: -2
+tags:
+  tag19f6c13a: 435601722
+  tag336bf311: 862712593
+xlink: Weapon
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,18 @@
+aabbMax:
+  X: 3.2564001083374023
+  Y: 2.811530113220215
+  Z: 4.247320175170898
+aabbMin:
+  X: -3.191159963607788
+  Y: -5.446290016174316
+  Z: -4.299630165100098
+bfres: TwnObj_Village_Sheiker_A
+boundingForTraverse: 8.257820129394531
+bugMask: 0
+instSize: 58724
+mainModel: TwnObj_Village_SheikerBridgeWood_A_02
+name: TwnObj_Village_SheikerBridgeWood_A_02
+profile: MapConstPassive
+sortKey: -5
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

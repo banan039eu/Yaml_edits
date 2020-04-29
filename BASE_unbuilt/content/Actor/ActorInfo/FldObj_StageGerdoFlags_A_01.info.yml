@@ -1,0 +1,23 @@
+aabbMax:
+  X: 31.180999755859375
+  Y: 4.279839992523193
+  Z: 0.3073819875717163
+aabbMin:
+  X: -30.692899703979492
+  Y: -6.337299823760986
+  Z: -0.414355993270874
+bfres: FldObj_StageGerdo_A
+boundingForTraverse: 10.61713981628418
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 50560
+mainModel: FldObj_StageGerdoFlags_A_01
+name: FldObj_StageGerdoFlags_A_01
+profile: MapConstPassive
+sortKey: -18
+tags:
+  tagc5b7c123: !u 0xc5b7c123
+terrainTextures:
+- !u 0xffffff47
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

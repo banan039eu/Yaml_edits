@@ -1,0 +1,10 @@
+bugMask: 1
+instSize: 5432
+name: DungeonRotateTagShuttle
+profile: SoleTag
+sortKey: -4
+tags:
+  tag03528579: 55739769
+  tag05a5e004: 94756868
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

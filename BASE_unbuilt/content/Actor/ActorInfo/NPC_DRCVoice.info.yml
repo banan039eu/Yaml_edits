@@ -1,0 +1,12 @@
+bugMask: 3
+instSize: 19140
+name: NPC_DRCVoice
+profile: NPC
+slink: Npc_Terminal
+sortKey: 1001
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  taga4d26234: !u 0xa4d26234
+xlink: Npc_NoFootstep
+yLimitAlgorithm: NoLimit

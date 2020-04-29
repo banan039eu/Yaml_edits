@@ -1,0 +1,77 @@
+Chemical:
+  Capaciter: 1
+aabbMax:
+  X: 0.167836993932724
+  Y: 0.05097600072622299
+  Z: 1.2101399898529053
+aabbMin:
+  X: -0.167836993932724
+  Y: -0.05097600072622299
+  Z: -0.21699699759483337
+attackPower: 30
+bfres: Weapon_Sword_070
+boundingForTraverse: 0.10195200145244598
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Sword_070
+generalLife: 40
+instSize: 62608
+itemBuyingPrice: 1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Sword_070
+masterSwordSearchEvilDist: 70.0
+masterSwordSleepActorName: Weapon_Sword_056
+masterSwordTrueFormActorName: Weapon_Sword_072
+masterSwordTrueFormAttackPower: 60
+name: Weapon_Sword_070
+pictureBookLiveSpot1: 21
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: 26
+profile: WeaponSmallSword
+slink: Weapon_Sword_070
+sortKey: 11000
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag4850af43: 1213247299
+  tag4873f474: 1215558772
+  tag7025851a: 1881507098
+  tagb51794dc: !u 0xb51794dc
+  tagc43b7064: !u 0xc43b7064
+  tagdcd7e698: !u 0xdcd7e698
+  tagdeb2c8bd: !u 0xdeb2c8bd
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 0
+weaponCommonPoweredSharpAddAtkMin: 0
+weaponCommonPoweredSharpAddLifeMax: 0
+weaponCommonPoweredSharpAddLifeMin: 0
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 0
+weaponCommonSharpWeaponAddAtkMax: 0
+weaponCommonSharpWeaponAddAtkMin: 0
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 0
+weaponCommonSharpWeaponAddLifeMin: 0
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: ChemicalWeapon
+yLimitAlgorithm: NoLimit

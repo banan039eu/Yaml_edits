@@ -1,0 +1,32 @@
+aabbMax:
+  X: 0.6632450222969055
+  Y: 2.205359935760498
+  Z: 0.1571269929409027
+aabbMin:
+  X: -0.6910229921340942
+  Y: 1.100000023841858
+  Z: -0.05172299966216087
+attackPower: 0
+bfres: TwnObj_Village_HatenoGuidePost_A
+boundingForTraverse: 1.1053600311279297
+bugMask: 3
+cursorOffsetY: 0.5
+elink: TwnObj_Village_AncientCivilLaboSignboard_A_01_Trunk
+generalLife: 8
+instSize: 55932
+mainModel: TwnObj_Village_AncientCivilLaboSignboard_A_01_Trunk
+name: TwnObj_Village_AncientCivilLaboSignboard_A_01_Trunk
+profile: MapDynamicPassive
+rigidBodyCenterY: 1.712980031967163
+slink: FldObj_SignboardWood_A_01_Trunk
+sortKey: -30
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2a2d0822: 707594274
+  tag80e91296: !u 0x80e91296
+  tagc28d054e: !u 0xc28d054e
+  tagc2ac3213: !u 0xc2ac3213
+  tagef748738: !u 0xef748738
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,20 @@
+aabbMax:
+  X: 0.4909859895706177
+  Y: 2.074810028076172
+  Z: 0.25351598858833313
+aabbMin:
+  X: -0.53364497423172
+  Y: 0.0
+  Z: -0.353534996509552
+bfres: DgnObj_DLC_IbutsuObj_B
+boundingForTraverse: 2.074810028076172
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 50320
+mainModel: DgnObj_DLC_SwordLight_A_01
+name: DgnObj_DLC_SwordLight_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag86e61f3c: !u 0x86e61f3c
+yLimitAlgorithm: NoLimit

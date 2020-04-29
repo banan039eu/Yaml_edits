@@ -1,0 +1,21 @@
+aabbMax:
+  X: 1.1253700256347656
+  Y: 1.399999976158142
+  Z: 1.0564500093460083
+aabbMin:
+  X: -0.68756502866745
+  Y: -1.637120008468628
+  Z: -1.0624500513076782
+bfres: DgnObj_DLC_IbutsuEx_D
+boundingForTraverse: 3.0371201038360596
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17860
+mainModel: DgnObj_DLC_IbutsuExD_FireBox_A_01
+name: DgnObj_DLC_IbutsuExD_FireBox_A_01
+profile: MapConstPassive
+sortKey: 62
+tags:
+  tag86e61f3c: !u 0x86e61f3c
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,19 @@
+bugMask: 0
+generalLife: 100
+instSize: 3108
+itemBuyingPrice: 100
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: Obj_Photo_Enemy
+profile: Item
+sortKey: 50001
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag17919f47: 395419463
+  tag2cef9fdc: 753901532
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

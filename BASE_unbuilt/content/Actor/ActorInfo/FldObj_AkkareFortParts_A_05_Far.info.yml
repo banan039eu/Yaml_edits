@@ -1,0 +1,21 @@
+aabbMax:
+  X: 4.0317702293396
+  Y: 0.3000029921531677
+  Z: 4.372300148010254
+aabbMin:
+  X: -3.5608999729156494
+  Y: -31.32349967956543
+  Z: -4.372300148010254
+bfres: FldObj_AkkareFort_A_Far
+boundingForTraverse: 31.623502731323242
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 59748
+mainModel: FldObj_AkkareFortParts_A_05_Far
+name: FldObj_AkkareFortParts_A_05_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

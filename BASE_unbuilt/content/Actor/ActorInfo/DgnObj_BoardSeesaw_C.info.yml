@@ -1,0 +1,27 @@
+aabbMax:
+  X: 10.800000190734863
+  Y: 1.1265599727630615
+  Z: 5.130000114440918
+aabbMin:
+  X: -10.800000190734863
+  Y: -0.5865640044212341
+  Z: -5.130000114440918
+attackPower: 0
+bfres: DgnObj_BoardSeesaw_C
+boundingForTraverse: 1.7131240367889404
+bugMask: 2
+generalLife: 100
+instSize: 32476
+mainModel: DgnObj_BoardSeesaw_C_01
+name: DgnObj_BoardSeesaw_C
+profile: MapDynamicActive
+rigidBodyCenterY: 0.27000001072883606
+slink: DgnObj_BoardSeesaw
+sortKey: -7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2c608f30: 744525616
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

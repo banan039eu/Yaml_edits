@@ -1,0 +1,35 @@
+aabbMax:
+  X: 2.0101799964904785
+  Y: 2.0230000019073486
+  Z: 2.0186100006103516
+aabbMin:
+  X: -2.014359951019287
+  Y: -2.0088698863983154
+  Z: -2.028359889984131
+attackPower: 4
+baseScaleX: 1.75
+baseScaleY: 1.75
+baseScaleZ: 1.75
+bfres: Obj_RemainsWaterChaseBullet_A
+boundingForTraverse: 4.031869888305664
+bugMask: 3
+cursorOffsetY: 0.5
+elink: RemainsWaterChaseBullet
+instSize: 43880
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Obj_RemainsWaterChaseBullet_A_01
+name: RemainsWaterChaseBullet
+profile: Bullet
+slink: RemainsWaterChaseBullet
+sortKey: 0
+tags:
+  tag336bf311: 862712593
+  tag35960905: 899025157
+  tag6c5267d2: 1817339858
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,18 @@
+aabbMax:
+  X: 0.34836798906326294
+  Y: 2.5804901123046875
+  Z: 0.34836798906326294
+aabbMin:
+  X: -0.34836798906326294
+  Y: -0.012206999585032463
+  Z: -0.34836798906326294
+bfres: TwnObj_Village_Zora_A
+boundingForTraverse: 2.5926969051361084
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 19956
+mainModel: TwnObj_Village_ZoraPillar_B_05
+name: TwnObj_Village_ZoraPillar_B_05
+profile: MapConstPassive
+sortKey: -14
+yLimitAlgorithm: NoLimit

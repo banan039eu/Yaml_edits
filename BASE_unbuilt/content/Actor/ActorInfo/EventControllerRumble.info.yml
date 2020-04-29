@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 5016
+name: EventControllerRumble
+profile: System
+sortKey: 0
+yLimitAlgorithm: NoLimit

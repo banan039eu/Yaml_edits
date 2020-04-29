@@ -1,0 +1,23 @@
+aabbMax:
+  X: 9.089730262756348
+  Y: 2.933419942855835
+  Z: 6.262239933013916
+aabbMin:
+  X: -5.648739814758301
+  Y: -0.37208399176597595
+  Z: -7.7417402267456055
+attackPower: 0
+bfres: FldObj_SheepFence_A
+boundingForTraverse: 3.305504083633423
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 52276
+mainModel: FldObj_SheepFence_A_01
+name: FldObj_SheepFence_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 1.9532500505447388
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,24 @@
+aabbMax:
+  X: 123.20500183105469
+  Y: 6.849999904632568
+  Z: 64.3561019897461
+aabbMin:
+  X: -230.70899963378906
+  Y: -331.760009765625
+  Z: -149.3560028076172
+bfres: FldObj_CliffAkkareEnd_A
+boundingForTraverse: 338.6100158691406
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 29912
+isHasFar: true
+mainModel: FldObj_CliffAkkareEnd_A_02
+name: FldObj_CliffAkkareEnd_A_02
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xff4c1f00
+traverseDist: 913.434326171875
+yLimitAlgorithm: NoLimit

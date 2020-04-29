@@ -1,0 +1,36 @@
+aabbMax:
+  X: 0.6527169942855835
+  Y: 0.8461970090866089
+  Z: 0.5650420188903809
+aabbMin:
+  X: -0.6246169805526733
+  Y: -0.14254599809646606
+  Z: -0.6928399801254272
+attackPower: 0
+bfres: Obj_FlowerLupinus_A
+boundingForTraverse: 0.988743007183075
+bugMask: 2
+cursorOffsetY: 0.5
+elink: Obj_FlowerLupinus_C
+generalLife: 100
+instSize: 33588
+mainModel: Obj_FlowerLupinus_C
+name: Obj_FlowerLupinus_C
+profile: MapDynamicPassive
+slink: Plant
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag206f0b59: 544148313
+  tag3909a11f: 956932383
+  tag50fb41e2: 1358643682
+  tag51ed35a6: 1374500262
+  tag55ef2d02: 1441737986
+  tag7de11d78: 2111905144
+  tage91ea5f6: !u 0xe91ea5f6
+  tage9411376: !u 0xe9411376
+  tagef94310b: !u 0xef94310b
+  tagf47b2e0d: !u 0xf47b2e0d
+  tagf5f5d49c: !u 0xf5f5d49c
+yLimitAlgorithm: NoLimit

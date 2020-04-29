@@ -1,0 +1,19 @@
+aabbMax:
+  X: 21.81879997253418
+  Y: 8.718720436096191
+  Z: 5.146309852600098
+aabbMin:
+  X: -79.81829833984375
+  Y: -9.611220359802246
+  Z: -20.82040023803711
+bfres: TwnObj_City_Gerudo_A
+boundingForTraverse: 18.329940795898438
+bugMask: 0
+instSize: 214812
+isHasFar: true
+mainModel: TwnObj_City_GerudoMainGate_A_01
+name: TwnObj_City_GerudoMainGate_A_01
+profile: MapConstPassive
+sortKey: -15
+traverseDist: 604.9017333984375
+yLimitAlgorithm: NoLimit

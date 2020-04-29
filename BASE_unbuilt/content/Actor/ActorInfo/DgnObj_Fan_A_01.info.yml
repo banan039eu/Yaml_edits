@@ -1,0 +1,24 @@
+aabbMax:
+  X: 1.9510400295257568
+  Y: 0.651868999004364
+  Z: 1.355239987373352
+aabbMin:
+  X: -1.9510300159454346
+  Y: 0.0
+  Z: -2.1486799716949463
+attackPower: 0
+bfres: DgnObj_Fan_A
+boundingForTraverse: 0.651868999004364
+bugMask: 2
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 19784
+mainModel: DgnObj_Fan_A_01
+name: DgnObj_Fan_A_01
+profile: MapConstActive
+slink: DgnObj_Fan_A_01
+sortKey: -29
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

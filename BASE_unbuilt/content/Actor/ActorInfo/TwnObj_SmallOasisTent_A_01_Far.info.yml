@@ -1,0 +1,25 @@
+aabbMax:
+  X: 7.0510101318359375
+  Y: 6.591559886932373
+  Z: 7.9317097663879395
+aabbMin:
+  X: -7.014150142669678
+  Y: -0.4644030034542084
+  Z: -7.740970134735107
+attackPower: 0
+bfres: TwnObj_SmallOasis_A_Far
+boundingForTraverse: 7.055963039398193
+bugMask: 0
+generalLife: 100
+instSize: 18988
+mainModel: TwnObj_SmallOasisTent_A_01_Far
+name: TwnObj_SmallOasisTent_A_01_Far
+profile: MapConstActive
+rigidBodyCenterY: 0.9475370049476624
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

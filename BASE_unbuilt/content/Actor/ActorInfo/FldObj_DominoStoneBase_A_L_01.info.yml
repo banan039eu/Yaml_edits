@@ -1,0 +1,19 @@
+aabbMax:
+  X: 3.38070011138916
+  Y: 0.4397290050983429
+  Z: 3.3963000774383545
+aabbMin:
+  X: -3.3808300495147705
+  Y: -2.832350015640259
+  Z: -3.365230083465576
+bfres: FldObj_AncientPillar_A
+boundingForTraverse: 3.2720789909362793
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 29912
+mainModel: FldObj_DominoStoneBase_A_L_01
+name: FldObj_DominoStoneBase_A_L_01
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

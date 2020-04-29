@@ -1,0 +1,25 @@
+aabbMax:
+  X: 0.42088401317596436
+  Y: 2.1594901084899902
+  Z: 0.30997198820114136
+aabbMin:
+  X: -0.4013969898223877
+  Y: -0.00405499991029501
+  Z: -0.3726249933242798
+bfres: Npc_Hylia_Drag
+boundingForTraverse: 2.1635448932647705
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Npc_SmallOasis008
+instSize: 315164
+mainModel: Npc_Hylia_Drag
+name: Npc_SmallOasis008
+profile: NPC
+slink: Npc_SmallOasis008
+sortKey: 3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag46dea404: 1188996100
+xlink: Npc
+yLimitAlgorithm: NoLimit

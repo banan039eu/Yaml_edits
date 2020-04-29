@@ -1,0 +1,8 @@
+bugMask: 1
+instSize: 3956
+name: DgnObj_DLC_Gondola_Create_Tag
+profile: SoleTag
+sortKey: -1
+tags:
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

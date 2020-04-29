@@ -1,0 +1,19 @@
+aabbMax:
+  X: 128.6719970703125
+  Y: 2.406480073928833
+  Z: 10.245499610900879
+aabbMin:
+  X: -31.63629913330078
+  Y: -76.4656982421875
+  Z: -5.952320098876953
+bfres: FldObj_DeathMtArtifact_A
+boundingForTraverse: 78.87217712402344
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 61028
+mainModel: FldObj_DeathMtArtifactBridge_A_01
+name: FldObj_DeathMtArtifactBridge_A_01
+profile: MapConstPassive
+sortKey: -2
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

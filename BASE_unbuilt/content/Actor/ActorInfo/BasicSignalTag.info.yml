@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 4560
+name: BasicSignalTag
+profile: ComplexTag
+sortKey: 0
+yLimitAlgorithm: NoLimit

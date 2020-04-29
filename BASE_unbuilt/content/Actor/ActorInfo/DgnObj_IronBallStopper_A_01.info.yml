@@ -1,0 +1,28 @@
+aabbMax:
+  X: 1.0371099710464478
+  Y: 2.5
+  Z: 0.3070310056209564
+aabbMin:
+  X: -1.0371099710464478
+  Y: 0.11059100180864334
+  Z: -0.3070310056209564
+attackPower: 0
+bfres: DgnObj_IronBallStopper_A
+boundingForTraverse: 2.389409065246582
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Shutter
+generalLife: 100
+instSize: 50428
+mainModel: DgnObj_IronBallStopper_A_01
+name: DgnObj_IronBallStopper_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 1.399999976158142
+slink: SS_object_ShutterFence
+sortKey: 7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag7dd56981: 2111138177
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

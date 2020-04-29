@@ -1,0 +1,29 @@
+aabbMax:
+  X: 1.5
+  Y: 1.5
+  Z: 1.5057300329208374
+aabbMin:
+  X: -1.5
+  Y: -1.5
+  Z: -1.5057300329208374
+attackPower: 0
+bfres: DgnObj_AncientBall_C
+boundingForTraverse: 3.0
+bugMask: 3
+cursorOffsetY: 0.5
+elink: DgnObj_AncientBall_05
+generalLife: 100
+instSize: 61164
+mainModel: DgnObj_AncientBall_C_01
+name: DgnObj_AncientBall_05
+profile: MapDynamicActive
+slink: DgnObj_AncientBall_05
+sortKey: -25
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tagc2ac3213: !u 0xc2ac3213
+  tagd369c30f: !u 0xd369c30f
+xlink: DgnObj_ConstrainedSlider
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.2311359941959381
+  Y: 0.8371260166168213
+  Z: 0.17785200476646423
+aabbMin:
+  X: -0.30686700344085693
+  Y: -9.000000318337698e-06
+  Z: -0.42066100239753723
+bfres: TwnObj_Village_SheikerFurniture_A
+boundingForTraverse: 0.8371350169181824
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 46812
+mainModel: TwnObj_Village_SheikerFlowervase_A_03
+name: TwnObj_Village_SheikerFlowervase_A_03
+profile: MapConstPassive
+sortKey: 24
+tags:
+  tag0d23ee8c: 220458636
+  tag8fda6cdd: !u 0x8fda6cdd
+yLimitAlgorithm: NoLimit

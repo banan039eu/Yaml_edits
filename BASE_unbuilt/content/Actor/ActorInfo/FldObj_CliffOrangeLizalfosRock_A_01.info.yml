@@ -1,0 +1,20 @@
+aabbMax:
+  X: 0.6827419996261597
+  Y: 1.2269400358200073
+  Z: 0.073014996945858
+aabbMin:
+  X: -0.7330999970436096
+  Y: -1.2269400358200073
+  Z: -0.17128600180149078
+bfres: FldObj_CliffOrange_A
+boundingForTraverse: 2.4538800716400146
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: FldObj_CliffOrangeLizalfosRock_A_01
+name: FldObj_CliffOrangeLizalfosRock_A_01
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffffff15
+yLimitAlgorithm: NoLimit

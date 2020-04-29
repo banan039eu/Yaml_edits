@@ -1,0 +1,7 @@
+bugMask: 3
+instSize: 4296
+name: SoundTriggerTag
+profile: ComplexTag
+slink: TriggerTag
+sortKey: 0
+yLimitAlgorithm: NoLimit

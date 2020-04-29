@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.8647279739379883
+  Y: 2.9150400161743164
+  Z: 0.9956730008125305
+aabbMin:
+  X: -0.882964015007019
+  Y: -0.02724600024521351
+  Z: -1.1396700143814087
+attackPower: 0
+bfres: Enemy_Octarock_Item_TreeBroadleaf_SS
+boundingForTraverse: 2.9422860145568848
+bugMask: 3
+elink: Octarock_Grass
+instSize: 37628
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: OctObj_Grass_07
+profile: Bullet
+slink: OctObj_Grass
+sortKey: 4
+tags:
+  tag49bfd376: 1237308278
+  tagff2ecb67: !u 0xff2ecb67
+yLimitAlgorithm: NoLimit

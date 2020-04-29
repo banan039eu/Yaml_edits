@@ -1,0 +1,29 @@
+aabbMax:
+  X: 7.484119892120361
+  Y: 13.814299583435059
+  Z: 14.594799995422363
+aabbMin:
+  X: -7.529990196228027
+  Y: -1.523959994316101
+  Z: -9.443670272827148
+attackPower: 0
+bfres: DgnObj_DungeonEntrance_A
+boundingForTraverse: 15.33825969696045
+bugMask: 3
+elink: DgnObj_DungeonEntranceSP
+generalLife: 100
+instSize: 116688
+isHasFar: true
+mainModel: DgnObj_DungeonEntrance_B_01
+name: DgnObj_DungeonEntranceSP
+profile: MapDynamicActive
+rigidBodyCenterY: 4.140120029449463
+slink: DgnObj_DungeonEntrance
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag28a3a540: 681813312
+  tag63efc18d: 1676657037
+traverseDist: 528.342041015625
+yLimitAlgorithm: NoLimit

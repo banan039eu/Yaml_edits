@@ -1,0 +1,20 @@
+aabbMax:
+  X: 0.2367819994688034
+  Y: 0.41348400712013245
+  Z: 0.2435619980096817
+aabbMin:
+  X: -0.2367819994688034
+  Y: -0.3025459945201874
+  Z: -0.2367819994688034
+bfres: TwnObj_StableHostel_A
+boundingForTraverse: 0.7160300016403198
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 29144
+mainModel: TwnObj_StableHosteLamp_A_02
+name: TwnObj_StableHosteLamp_A_02
+profile: MapConstPassive
+sortKey: 1
+tags:
+  tag0d23ee8c: 220458636
+yLimitAlgorithm: NoLimit

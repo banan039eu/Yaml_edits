@@ -1,0 +1,10 @@
+attackPower: 0
+bugMask: 1
+generalLife: 100
+instSize: 14764
+name: DLC_TwnObj_HatenoLinkHouse_Check_Photo
+profile: MapDynamicActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

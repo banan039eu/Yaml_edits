@@ -1,0 +1,32 @@
+aabbMax:
+  X: 40.90639877319336
+  Y: 127.02200317382812
+  Z: 83.1636962890625
+aabbMin:
+  X: -40.90639877319336
+  Y: -18.329500198364258
+  Z: -80.95780181884766
+attackPower: 0
+bfres: DgnObj_IbutsuWaterField_A
+boundingForTraverse: 145.35150146484375
+bugMask: 3
+elink: RemainsWater
+generalLife: 100
+instSize: 528676
+isHasFar: true
+mainModel: DgnObj_IbutsuWaterField_A_01
+name: RemainsWater
+profile: Remains
+slink: RemainsWater
+sortKey: -12
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag336bf311: 862712593
+  tagb54a7a34: !u 0xb54a7a34
+  tagc28d054e: !u 0xc28d054e
+  tagcd60a1be: !u 0xcd60a1be
+  tagfd5643b5: !u 0xfd5643b5
+traverseDist: 800.0
+xlink: RemainsWater
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,23 @@
+aabbMax:
+  X: 2.0068299770355225
+  Y: 3.6231400966644287
+  Z: 0.6852790117263794
+aabbMin:
+  X: -1.2249699831008911
+  Y: -0.22765499353408813
+  Z: -0.7148100137710571
+bfres: FldObj_TwoWheels_A
+boundingForTraverse: 3.850795030593872
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 48256
+mainModel: FldObj_RockTwoWheels_A_01
+name: Obj_WakkaRock_01
+profile: MapConstPassive
+sortKey: -1
+tags:
+  tag977b149c: !u 0x977b149c
+terrainTextures:
+- !u 0xff4c1f00
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

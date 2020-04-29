@@ -1,0 +1,25 @@
+aabbMax:
+  X: 135.7209930419922
+  Y: -21.715200424194336
+  Z: -21.368499755859375
+aabbMin:
+  X: -255.70700073242188
+  Y: -157.38900756835938
+  Z: -177.39300537109375
+bfres: FldObj_CliffWhite_B
+boundingForTraverse: 135.67381286621094
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 43132
+isHasFar: true
+mainModel: FldObj_CliffWhiteWall_B_07
+name: FldObj_CliffWhiteWall_B_07
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- 522064384
+- !u 0xffffff4c
+traverseDist: 921.3780517578125
+yLimitAlgorithm: NoLimit

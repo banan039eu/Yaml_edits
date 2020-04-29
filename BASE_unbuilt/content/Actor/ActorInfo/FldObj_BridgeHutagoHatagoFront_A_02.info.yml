@@ -1,0 +1,27 @@
+aabbMax:
+  X: 5.786960124969482
+  Y: 7.617720127105713
+  Z: 34.38059997558594
+aabbMin:
+  X: -12.355299949645996
+  Y: -41.13610076904297
+  Z: -8.698820114135742
+attackPower: 0
+bfres: FldObj_BridgeHutagoHatagoFront_A
+boundingForTraverse: 48.753822326660156
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 113520
+isHasFar: true
+mainModel: FldObj_BridgeHutagoHatagoFront_A_02
+name: FldObj_BridgeHutagoHatagoFront_A_02
+profile: MapConstActive
+rigidBodyCenterY: -6.339620113372803
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+terrainTextures:
+- !u 0xffffff04
+traverseDist: 546.7437744140625
+yLimitAlgorithm: NoLimit

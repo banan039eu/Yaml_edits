@@ -1,0 +1,19 @@
+aabbMax:
+  X: 22.812599182128906
+  Y: 3.7089099884033203
+  Z: 5.898509979248047
+aabbMin:
+  X: -23.053499221801758
+  Y: -20.121000289916992
+  Z: -5.922490119934082
+bfres: TwnObj_RuinedTown_A
+boundingForTraverse: 23.829910278320312
+bugMask: 0
+instSize: 119160
+isHasFar: true
+mainModel: TwnObj_RuinedTownBrokenBridge_A_01
+name: TwnObj_RuinedTownBrokenBridge_A_01
+profile: MapConstPassive
+sortKey: -2
+traverseDist: 547.3649291992188
+yLimitAlgorithm: NoLimit

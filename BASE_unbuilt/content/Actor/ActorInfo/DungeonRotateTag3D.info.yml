@@ -1,0 +1,10 @@
+bugMask: 1
+instSize: 4904
+name: DungeonRotateTag3D
+profile: SoleTag
+sortKey: -8
+tags:
+  tag03528579: 55739769
+  tag05a5e004: 94756868
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

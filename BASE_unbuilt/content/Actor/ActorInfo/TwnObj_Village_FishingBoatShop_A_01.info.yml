@@ -1,0 +1,24 @@
+aabbMax:
+  X: 3.6558799743652344
+  Y: 8.34807014465332
+  Z: 8.637639999389648
+aabbMin:
+  X: -5.277440071105957
+  Y: -1.3324899673461914
+  Z: -6.123809814453125
+attackPower: 0
+bfres: TwnObj_Village_Fishing_A
+boundingForTraverse: 9.680560111999512
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 300756
+mainModel: TwnObj_Village_FishingBoatShop_A_01
+name: TwnObj_Village_FishingBoatShop_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: -1.2497299909591675
+sortKey: -4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

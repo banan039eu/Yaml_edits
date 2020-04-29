@@ -1,0 +1,48 @@
+aabbMax:
+  X: 1.0707600116729736
+  Y: 1.3552000522613525
+  Z: 1.1240899562835693
+aabbMin:
+  X: -1.0648499727249146
+  Y: -0.7122610211372375
+  Z: -1.1226199865341187
+attackPower: 2
+bfres: Enemy_Chuchu
+boundingForTraverse: 2.0674610137939453
+bugMask: 3
+cursorOffsetY: 1.2000000476837158
+drops:
+  Normal:
+  - Item_Enemy_15
+  Normal2:
+  - Item_Enemy_15
+elink: Enemy_Chuchu_Fire_Middle
+enemyRank: 3
+generalLife: 20
+instSize: 195448
+invalidWeathers:
+- Rain
+- HeavyRain
+- Snow
+- HeavySnow
+- ThunderRain
+- BlueskyRain
+mainModel: Chuchu_Fire_Middle
+name: Enemy_Chuchu_Fire_Middle
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: GelEnemy
+slink: Enemy_Chuchu_Fire_Middle
+sortKey: 10101
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_Chuchu_Fire_Junior
+tags:
+  tag00336c07: 3369991
+  tag0814022a: 135529002
+  tag16a3afed: 379826157
+  tag35960905: 899025157
+  tag613df80a: 1631451146
+  tag994aef4b: !u 0x994aef4b
+  tagb0c9e79a: !u 0xb0c9e79a
+yLimitAlgorithm: NoLimit

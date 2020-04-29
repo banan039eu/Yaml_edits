@@ -1,0 +1,32 @@
+aabbMax:
+  X: 32.25
+  Y: 171.1750030517578
+  Z: 78.1093978881836
+aabbMin:
+  X: -31.031299591064453
+  Y: -8.255660057067871
+  Z: -75.5
+attackPower: 70
+bfres: DgnObj_IbutsuElectricField_A
+boundingForTraverse: 179.4306640625
+bugMask: 3
+elink: RemainsElectric
+generalLife: 100
+instSize: 583936
+isHasFar: true
+mainModel: DgnObj_IbutsuElectricField_A_01
+name: RemainsElectric
+profile: Remains
+rigidBodyCenterY: 70.0
+slink: RemainsElectric
+sortKey: -8
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag336bf311: 862712593
+  tagb54a7a34: !u 0xb54a7a34
+  tagc28d054e: !u 0xc28d054e
+  tagcd60a1be: !u 0xcd60a1be
+  tagfd5643b5: !u 0xfd5643b5
+traverseDist: 1500.0
+yLimitAlgorithm: NoLimit

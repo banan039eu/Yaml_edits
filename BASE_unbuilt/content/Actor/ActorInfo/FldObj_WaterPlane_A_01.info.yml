@@ -1,0 +1,19 @@
+aabbMax:
+  X: 5.0
+  Y: 0.0
+  Z: 5.0
+aabbMin:
+  X: -5.0
+  Y: 0.0
+  Z: -5.0
+bfres: FldObj_WaterPlane_A
+boundingForTraverse: 7.071067810058594
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18468
+mainModel: FldObj_WaterPlane_A_01
+name: FldObj_WaterPlane_A_01
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

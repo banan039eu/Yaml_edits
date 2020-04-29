@@ -1,0 +1,33 @@
+aabbMax:
+  X: 0.8855829834938049
+  Y: 3.3084399700164795
+  Z: 0.6478379964828491
+aabbMin:
+  X: -0.5517240166664124
+  Y: -0.40882501006126404
+  Z: -0.5369409918785095
+attackPower: 0
+bfres: Obj_TreeCactus_A
+boundingForTraverse: 3.7172648906707764
+bugMask: 2
+cursorOffsetY: 0.5
+elink: Obj_TreeCactusMini_A_01
+generalLife: 100
+instSize: 36120
+mainModel: Obj_TreeCactusMini_A_01
+name: Obj_TreeCactusMini_A_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 2.066770076751709
+slink: Tree_Bush_Cactus
+sortKey: -5
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag572de768: 1462626152
+  tag9adf6fdd: !u 0x9adf6fdd
+  taga40dd51c: !u 0xa40dd51c
+  tage91ea5f6: !u 0xe91ea5f6
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

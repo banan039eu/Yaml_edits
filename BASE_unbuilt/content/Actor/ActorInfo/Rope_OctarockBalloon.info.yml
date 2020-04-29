@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.031982000917196274
+  Y: 0.0
+  Z: 0.027710000053048134
+aabbMin:
+  X: -0.03198299929499626
+  Y: -1.75
+  Z: -0.027710000053048134
+bfres: Obj_Rope_Octarock
+boundingForTraverse: 1.75
+bugMask: 3
+generalLife: 1
+instSize: 39380
+mainModel: Obj_Rope_Octarock
+name: Rope_OctarockBalloon
+profile: Rope
+slink: Rope
+sortKey: -10
+tags:
+  tag51e73965: 1374108005
+yLimitAlgorithm: NoLimit

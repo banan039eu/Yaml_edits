@@ -1,0 +1,18 @@
+aabbMax:
+  X: 0.6627780199050903
+  Y: 0.9921560287475586
+  Z: 0.5341489911079407
+aabbMin:
+  X: -0.6627780199050903
+  Y: -0.031183000653982162
+  Z: -0.45978400111198425
+bfres: TwnObj_Village_SheikerFurniture_A
+boundingForTraverse: 1.023339033126831
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+mainModel: TwnObj_Village_SheikerFrogStatue_A_01
+name: TwnObj_Village_SheikerFrogStatue_A_01
+profile: MapConstPassive
+sortKey: -4
+yLimitAlgorithm: NoLimit

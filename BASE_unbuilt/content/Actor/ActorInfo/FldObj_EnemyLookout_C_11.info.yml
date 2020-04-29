@@ -1,0 +1,19 @@
+aabbMax:
+  X: 6.013609886169434
+  Y: 0.2705009877681732
+  Z: 1.2000700235366821
+aabbMin:
+  X: -5.975130081176758
+  Y: -0.016990000382065773
+  Z: -1.179010033607483
+bfres: FldObj_EnemyLookout_C
+boundingForTraverse: 0.28749099373817444
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 88220
+mainModel: FldObj_EnemyLookout_C_11
+name: FldObj_EnemyLookout_C_11
+profile: MapConstPassive
+sortKey: 5
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

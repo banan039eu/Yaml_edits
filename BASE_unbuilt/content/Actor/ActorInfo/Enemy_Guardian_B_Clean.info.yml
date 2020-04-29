@@ -1,0 +1,46 @@
+aabbMax:
+  X: 4.113279819488525
+  Y: 5.793109893798828
+  Z: 4.6875
+aabbMin:
+  X: -4.113279819488525
+  Y: -0.3858470022678375
+  Z: -3.1269500255584717
+attackPower: 0
+bfres: Enemy_Guardian_B
+boundingForTraverse: 6.178956985473633
+bugMask: 3
+cursorOffsetY: 2.4000000953674316
+drops:
+  Normal:
+  - Item_Enemy_27
+  - Item_Enemy_28
+  - Item_Enemy_26
+  - Item_Enemy_29
+  - Item_Enemy_30
+  - Item_Enemy_31
+elink: Enemy_Guardian_B_Clean
+enemyRank: 10
+generalLife: 1500
+instSize: 98712
+mainModel: Enemy_Guardian_B
+name: Enemy_Guardian_B_Clean
+pictureBookLiveSpot1: 28
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Guardian
+rigidBodyCenterY: 1.113569974899292
+slink: Enemy_Guardian_B
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_Guardian_B
+tags:
+  tag0e3e49b1: 238963121
+  tag17044493: 386155667
+  tag3a61e2a9: 979493545
+  tag4806038d: 1208353677
+  tag994aef4b: !u 0x994aef4b
+  tagb0c9e79a: !u 0xb0c9e79a
+traverseDist: 200.0
+xlink: Guardian
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,10 @@
+bugMask: 0
+elink: Aurora
+instSize: 3484
+name: Aurora
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+traverseDist: 1500.0
+yLimitAlgorithm: NoLimit

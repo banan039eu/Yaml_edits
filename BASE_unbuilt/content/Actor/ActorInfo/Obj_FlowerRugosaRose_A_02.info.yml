@@ -1,0 +1,34 @@
+aabbMax:
+  X: 0.8057900071144104
+  Y: 1.3153200149536133
+  Z: 1.0850800275802612
+aabbMin:
+  X: -1.2431000471115112
+  Y: -0.21308299899101257
+  Z: -1.160599946975708
+attackPower: 0
+bfres: Obj_FlowerRugosaRose_A
+boundingForTraverse: 1.5284030437469482
+bugMask: 2
+cursorOffsetY: 0.5
+elink: Obj_FlowerRugosaRose_A_02
+generalLife: 100
+instSize: 23252
+mainModel: Obj_FlowerRugosaRose_A_02
+name: Obj_FlowerRugosaRose_A_02
+profile: MapDynamicPassive
+slink: Plant
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag50fb41e2: 1358643682
+  tag51ed35a6: 1374500262
+  tag55ef2d02: 1441737986
+  tag7de11d78: 2111905144
+  tagd902a8a2: !u 0xd902a8a2
+  tage91ea5f6: !u 0xe91ea5f6
+  tagef94310b: !u 0xef94310b
+  tagf47b2e0d: !u 0xf47b2e0d
+  tagf5f5d49c: !u 0xf5f5d49c
+yLimitAlgorithm: NoLimit

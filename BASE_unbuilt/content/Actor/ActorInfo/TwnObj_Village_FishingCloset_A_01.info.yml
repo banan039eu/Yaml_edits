@@ -1,0 +1,20 @@
+aabbMax:
+  X: 0.8999339938163757
+  Y: 1.791159987449646
+  Z: 0.31988900899887085
+aabbMin:
+  X: -0.8999339938163757
+  Y: -0.00016500000492669642
+  Z: -0.32155799865722656
+bfres: TwnObj_Village_Fishing_A
+boundingForTraverse: 1.7913249731063843
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38044
+mainModel: TwnObj_Village_FishingCloset_A_01
+name: TwnObj_Village_FishingCloset_A_01
+profile: MapConstPassive
+sortKey: 4
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,19 @@
+aabbMax:
+  X: 8.475179672241211
+  Y: 5.362850189208984
+  Z: 10.091500282287598
+aabbMin:
+  X: -8.47404956817627
+  Y: -16.37619972229004
+  Z: -8.664199829101562
+bfres: FldObj_StageGerdo_A
+boundingForTraverse: 21.739049911499023
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38492
+mainModel: FldObj_StageGerdoRoof_S_A_01
+name: FldObj_StageGerdoRoof_S_A_01
+profile: MapConstPassive
+sortKey: 15
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

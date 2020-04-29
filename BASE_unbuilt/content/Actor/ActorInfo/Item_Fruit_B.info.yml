@@ -1,0 +1,64 @@
+aabbMax:
+  X: 0.16323800384998322
+  Y: 0.1641799956560135
+  Z: 0.16449199616909027
+aabbMin:
+  X: -0.15196099877357483
+  Y: -0.1687770038843155
+  Z: -0.12646399438381195
+bfres: Obj_FruitRaspberry_A
+boundingForTraverse: 0.332956999540329
+bugMask: 3
+cureItemEffectLevel: 0
+cureItemEffectType: None
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 2
+cursorOffsetY: 0.4000000059604645
+elink: GetItem
+generalLife: 100
+homeArea:
+- name: GerudoHighlands
+- name: HeburaMountains
+- name: GerudoDesert
+instSize: 38544
+itemBuyingPrice: 12
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 3
+itemStainColor: 11
+itemUseIconActorName: ''
+mainModel: Obj_FruitRaspberry_A_01
+motorcycleEnergy:
+  add: 75.0
+name: Item_Fruit_B
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+rigidBodyCenterY: 0.005644000135362148
+slink: Item_Fruit
+sortKey: 31030
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag14185415: 337138709
+  tag1f4b9ede: 525049566
+  tag25f0da52: 636541522
+  tag682e5129: 1747865897
+  tag85aee6eb: !u 0x85aee6eb
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  taga4a8ba48: !u 0xa4a8ba48
+  tagb0f85060: !u 0xb0f85060
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagca2515c1: !u 0xca2515c1
+  tagd53a8775: !u 0xd53a8775
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tage97dcd22: !u 0xe97dcd22
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

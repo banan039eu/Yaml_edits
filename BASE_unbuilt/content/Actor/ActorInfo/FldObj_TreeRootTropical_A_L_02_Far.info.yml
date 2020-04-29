@@ -1,0 +1,20 @@
+aabbMax:
+  X: 1.7806999683380127
+  Y: 2.1307599544525146
+  Z: 6.2270002365112305
+aabbMin:
+  X: -4.447909832000732
+  Y: -25.166900634765625
+  Z: -12.934800148010254
+bfres: FldObj_TreeRootTropical_A_Far
+boundingForTraverse: 27.29766082763672
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18292
+mainModel: FldObj_TreeRootTropical_A_L_02_Far
+name: FldObj_TreeRootTropical_A_L_02_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

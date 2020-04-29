@@ -1,0 +1,23 @@
+aabbMax:
+  X: 29.250900268554688
+  Y: 7.7625298500061035
+  Z: 19.650299072265625
+aabbMin:
+  X: -26.16080093383789
+  Y: -30.025699615478516
+  Z: 3.7436599731445312
+bfres: FldObj_CliffWhiteLumpRock_A
+boundingForTraverse: 37.788230895996094
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18548
+mainModel: FldObj_CliffWhiteLumpRock_A_01
+name: FldObj_CliffWhiteLumpRock_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffff1d11
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

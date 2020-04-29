@@ -1,0 +1,28 @@
+aabbMax:
+  X: 6.0
+  Y: 0.375
+  Z: 3.0
+aabbMin:
+  X: -6.0
+  Y: -0.07500000298023224
+  Z: -3.0
+attackPower: 0
+bfres: DgnObj_BoardNet_A
+boundingForTraverse: 0.44999998807907104
+bugMask: 2
+generalLife: 100
+instSize: 31548
+mainModel: DgnObj_BoardNet_A_01
+name: DgnObj_BoardLight_A
+profile: MapDynamicActive
+rigidBodyCenterY: 0.15000000596046448
+slink: DgnObj_BoardIron_A
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag507efd18: 1350499608
+  taga98fb48d: !u 0xa98fb48d
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,29 @@
+aabbMax:
+  X: 12.86709976196289
+  Y: 10.867799758911133
+  Z: 11.798600196838379
+aabbMin:
+  X: -12.879899978637695
+  Y: -1.5185999870300293
+  Z: -13.651700019836426
+attackPower: 0
+bfres: TwnObj_FairySpring_B_Far
+boundingForTraverse: 12.38640022277832
+bugMask: 1
+cursorOffsetY: 0.5
+elink: TwnObj_FairySpring_A_01
+generalLife: 100
+instSize: 85124
+mainModel: TwnObj_FairySpring_B_01_Far
+name: TwnObj_FairySpring_B_01_Far
+profile: MapConstActive
+rigidBodyCenterY: 5.611400127410889
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag57fd54ce: 1476220110
+  tag779a93f6: 2006619126
+  tag921c2372: !u 0x921c2372
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

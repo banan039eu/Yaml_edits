@@ -1,0 +1,50 @@
+aabbMax:
+  X: 0.21362300217151642
+  Y: 0.9428709745407104
+  Z: 0.21700599789619446
+aabbMin:
+  X: -0.21362300217151642
+  Y: 0.0005869999877177179
+  Z: -0.13365599513053894
+armorDefenceAddLevel: 12
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_060_Lower
+armorStarNum: 3
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_005
+boundingForTraverse: 0.9422839879989624
+bugMask: 1
+instSize: 49712
+itemBuyingPrice: 880
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 220
+itemStainColor: -1
+itemUseIconActorName: Armor_005_Lower
+mainModel: Armor_005_Lower
+name: Armor_039_Lower
+normal0ItemName01: Armor_035_Lower
+normal0ItemName02: BeeHome
+normal0ItemName03: Item_Enemy_39
+normal0ItemNum01: 1
+normal0ItemNum02: 5
+normal0ItemNum03: 2
+normal0StuffNum: 3
+profile: ArmorLower
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: Korok
+sortKey: 4723022
+tags:
+  tag1c0c8d23: 470584611
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

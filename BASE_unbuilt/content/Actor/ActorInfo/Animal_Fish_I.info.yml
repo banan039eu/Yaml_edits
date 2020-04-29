@@ -1,0 +1,51 @@
+aabbMax:
+  X: 0.27612099051475525
+  Y: 0.46710601449012756
+  Z: 0.5020679831504822
+aabbMin:
+  X: -0.2343360036611557
+  Y: -0.29559001326560974
+  Z: -1.118899941444397
+bfres: Animal_Salmon
+boundingForTraverse: 0.7626960277557373
+bugMask: 3
+cureItemEffectLevel: 16
+cureItemEffectType: LifeMaxUp
+cureItemHitPointRecover: 16
+cursorOffsetY: 0.30000001192092896
+drops:
+  Normal:
+  - Item_FishGet_I
+elink: Fish
+generalLife: 1
+instSize: 85652
+itemBuyingPrice: 40
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 10
+itemStainColor: -1
+itemUseIconActorName: Item_FishGet_I
+mainModel: Salmon
+name: Animal_Fish_I
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: CapturedActor
+slink: Fish
+sortKey: 34040
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_FishGet_I
+tags:
+  tag14185415: 337138709
+  tag168ce9a9: 378333609
+  tag24cd75fe: 617444862
+  tag294c7640: 692876864
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagac9f717f: !u 0xac9f717f
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

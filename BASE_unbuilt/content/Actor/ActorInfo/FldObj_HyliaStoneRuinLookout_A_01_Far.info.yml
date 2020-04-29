@@ -1,0 +1,23 @@
+aabbMax:
+  X: 7.403500080108643
+  Y: 13.053799629211426
+  Z: 6.115240097045898
+aabbMin:
+  X: -4.285930156707764
+  Y: -0.41531801223754883
+  Z: -6.065450191497803
+bfres: FldObj_HyliaStoneRuin_A_Far
+boundingForTraverse: 13.469118118286133
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 16884
+mainModel: FldObj_HyliaStoneRuinLookout_A_01_Far
+name: FldObj_HyliaStoneRuinLookout_A_01_Far
+profile: MapConstPassive
+sortKey: -3
+tags:
+  tag57fd54ce: 1476220110
+  tag6bddf03c: 1809707068
+  tagdeb8e664: !u 0xdeb8e664
+traverseDist: 800.0
+yLimitAlgorithm: NoLimit

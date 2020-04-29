@@ -1,0 +1,43 @@
+aabbMax:
+  X: 1.186769962310791
+  Y: 3.9177401065826416
+  Z: 1.3688100576400757
+aabbMin:
+  X: -1.5694600343704224
+  Y: -0.008206999860703945
+  Z: -1.1883399486541748
+attackPower: 5
+bfres: Enemy_Wizzrobe
+boundingForTraverse: 3.9259469509124756
+bugMask: 3
+cursorOffsetY: 1.2000000476837158
+drops:
+  Normal:
+  - Weapon_Sword_048
+elink: Enemy_Wizzrobe_Fire
+enemyRank: 10
+generalLife: 150
+homeArea:
+- name: CentralHyrule
+- name: HyruleForest
+- name: GerudoHighlands
+instSize: 307096
+mainModel: Wizzrobe
+name: Enemy_Wizzrobe_Fire
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+slink: Enemy_Wizzrobe_Fire
+sortKey: 400
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tag35960905: 899025157
+  tag469ac903: 1184549123
+  tag994aef4b: !u 0x994aef4b
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagd3231bed: !u 0xd3231bed
+traverseDist: 150.0
+yLimitAlgorithm: LimitYDiff

@@ -1,0 +1,18 @@
+aabbMax:
+  X: 0.8582280278205872
+  Y: 0.7710689902305603
+  Z: 0.1608940064907074
+aabbMin:
+  X: -0.634518027305603
+  Y: -3.768019914627075
+  Z: -0.2075739949941635
+bfres: TwnObj_TempleOfTime_B
+boundingForTraverse: 4.539089202880859
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17268
+mainModel: TwnObj_TempleOfTime_WallPlant_B_02
+name: TwnObj_TempleOfTime_WallPlant_B_02
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

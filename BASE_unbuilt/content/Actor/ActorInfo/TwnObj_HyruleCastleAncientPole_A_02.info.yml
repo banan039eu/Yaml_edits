@@ -1,0 +1,26 @@
+aabbMax:
+  X: 97.87539672851562
+  Y: 71.18499755859375
+  Z: 78.23069763183594
+aabbMin:
+  X: -104.08499908447266
+  Y: -6.5
+  Z: -95.0864028930664
+bfres: TwnObj_HyruleCastleAncientPole_B
+boundingForTraverse: 77.68499755859375
+bugMask: 0
+cursorOffsetY: 0.5
+elink: TwnObj_HyruleCastleAncientPole_A_02
+instSize: 18432
+isHasFar: true
+mainModel: TwnObj_HyruleCastleAncientPole_B_02
+name: TwnObj_HyruleCastleAncientPole_A_02
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag3c39db92: 1010424722
+  taga1c9da5d: !u 0xa1c9da5d
+terrainTextures:
+- !u 0xffff1c03
+traverseDist: 766.133056640625
+yLimitAlgorithm: NoLimit

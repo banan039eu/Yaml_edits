@@ -1,0 +1,50 @@
+aabbMax:
+  X: 0.163565993309021
+  Y: 0.11471299827098846
+  Z: 0.5606719851493835
+aabbMin:
+  X: -0.17969100177288055
+  Y: -0.14675000309944153
+  Z: -0.609112024307251
+arrowArrowDeletePer: 0
+arrowArrowNum: 10
+arrowDeleteTime: 0
+arrowDeleteTimeWithChemical: 0
+arrowEnemyShootNumForDelete: 0
+bfres: Item_ArrowFire_A
+boundingForTraverse: 0.2614629864692688
+bugMask: 3
+cursorOffsetY: 0.20000000298023224
+generalLife: 100
+instSize: 40584
+itemBuyingPrice: 140
+itemCreatingPrice: 10
+itemSaleRevivalCount: 50
+itemSellingPrice: 2
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Item_ArrowFire_A
+name: Obj_FireArrow_A_02
+normal0ItemName01: NormalArrow
+normal0ItemName02: Item_Ore_B
+normal0ItemNum01: 10
+normal0ItemNum02: 1
+normal0StuffNum: 2
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+slink: Obj_Arrow
+sortKey: 22
+systemIsGetItemSelf: true
+systemSameGroupActorName: FireArrow
+tags:
+  tag19f6c13a: 435601722
+  tag2755f107: 659943687
+  tag2cef9fdc: 753901532
+  tag80e484a4: !u 0x80e484a4
+  tag9b44906f: !u 0x9b44906f
+  tagd1e9663c: !u 0xd1e9663c
+  tagdeb2c8bd: !u 0xdeb2c8bd
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

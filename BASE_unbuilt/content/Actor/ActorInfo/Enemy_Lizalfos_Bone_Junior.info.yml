@@ -1,0 +1,57 @@
+aabbMax:
+  X: 0.9586099982261658
+  Y: 2.867140054702759
+  Z: 2.732609987258911
+aabbMin:
+  X: -1.1511199474334717
+  Y: -0.00801900029182434
+  Z: -1.5556999444961548
+attackPower: 10
+bfres: Enemy_Lizalfos_Bone
+boundingForTraverse: 2.8751590251922607
+bugMask: 3
+cursorOffsetY: 1.0
+drops:
+  Normal:
+  - Item_Enemy_04
+  Normal2:
+  - Item_Enemy_03
+elink: Enemy_Lizalfos_Bone_Junior
+enemyRank: 22
+generalLife: 1
+homeArea:
+- name: GerudoDesert
+- name: HyruleHill
+- name: TabantaFrontier
+instSize: 477024
+invalidTimes:
+- Morning_A2
+- Morning_B
+- Noon_A
+- Noon_B
+- Evening_A
+- Evening_B
+mainModel: Lizalfos_Bone
+name: Enemy_Lizalfos_Bone_Junior
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+slink: Enemy_Lizalfos_Bone_Junior
+sortKey: 701
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag1ac8f200: 449376768
+  tag35960905: 899025157
+  tag3ed0b27e: 1053864574
+  tag72d6e7a4: 1926686628
+  tag82ed5778: !u 0x82ed5778
+  tag994aef4b: !u 0x994aef4b
+  taga4c7ba34: !u 0xa4c7ba34
+  taga7e979db: !u 0xa7e979db
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagf2e5b2f2: !u 0xf2e5b2f2
+traverseDist: 150.0
+xlink: Biped_Enemy
+yLimitAlgorithm: NoLimit

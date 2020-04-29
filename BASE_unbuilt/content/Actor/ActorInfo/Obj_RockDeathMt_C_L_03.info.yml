@@ -1,0 +1,22 @@
+aabbMax:
+  X: 9.254630088806152
+  Y: 4.654880046844482
+  Z: 8.867520332336426
+aabbMin:
+  X: -8.092559814453125
+  Y: -2.233609914779663
+  Z: -7.2283101081848145
+bfres: Obj_RockDeathMt_A
+boundingForTraverse: 6.888490200042725
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+mainModel: Obj_RockDeathMt_C_L_03
+name: Obj_RockDeathMt_C_L_03
+profile: MapConstPassive
+sortKey: 3
+tags:
+  tag977b149c: !u 0x977b149c
+terrainTextures:
+- !u 0xffffff32
+yLimitAlgorithm: NoLimit

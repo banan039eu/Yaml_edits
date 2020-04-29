@@ -1,0 +1,28 @@
+aabbMax:
+  X: 6.0
+  Y: 7.545330047607422
+  Z: 7.495329856872559
+aabbMin:
+  X: 0.0
+  Y: 0.1914220005273819
+  Z: 0.14142100512981415
+attackPower: 0
+bfres: DgnObj_WindShutter_A
+boundingForTraverse: 7.353908061981201
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Shutter
+generalLife: 100
+instSize: 26612
+mainModel: DgnObj_WindShutter_A_01
+name: DgnObj_WindShutter_A
+profile: MapDynamicActive
+rigidBodyCenterY: 3.700000047683716
+slink: DgnObj_WindShutter_A
+sortKey: -3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag7dd56981: 2111138177
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,64 @@
+Chemical:
+  Burnable: 1
+aabbMax:
+  X: 0.3239330053329468
+  Y: 0.06231699883937836
+  Z: 1.2538199424743652
+aabbMin:
+  X: -0.7070189714431763
+  Y: -0.06198100000619888
+  Z: -1.2538199424743652
+attackPower: 28
+bfres: Weapon_Bow_080
+boundingForTraverse: 0.12429799884557724
+bowArrowName: ''
+bowIsLeadShot: true
+bowIsRapidFire: false
+bowLeadShotNum: 3
+bowRapidFireNum: 0
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Bow_028
+generalLife: 60
+instSize: 49748
+itemBuyingPrice: 380
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 120
+itemStainColor: -1
+itemUseIconActorName: ''
+name: Weapon_Bow_080
+profile: WeaponBow
+slink: Weapon_Bow_WoodWithMetal
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag653623d0: 1698046928
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 23
+weaponCommonPoweredSharpAddAtkMin: 14
+weaponCommonPoweredSharpAddLifeMax: 50
+weaponCommonPoweredSharpAddLifeMin: 21
+weaponCommonPoweredSharpAddRapidFireMax: 1.2999999523162842
+weaponCommonPoweredSharpAddRapidFireMin: 1.100000023841858
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 0
+weaponCommonSharpWeaponAddAtkMax: 13
+weaponCommonSharpWeaponAddAtkMin: 6
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 20
+weaponCommonSharpWeaponAddLifeMin: 10
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+xlink: Weapon
+yLimitAlgorithm: NoLimit

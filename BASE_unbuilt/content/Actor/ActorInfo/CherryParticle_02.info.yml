@@ -1,0 +1,11 @@
+bugMask: 0
+elink: CherryParticle
+instSize: 3476
+name: CherryParticle_02
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+  tagac9f717f: !u 0xac9f717f
+traverseDist: 30.0
+yLimitAlgorithm: NoLimit

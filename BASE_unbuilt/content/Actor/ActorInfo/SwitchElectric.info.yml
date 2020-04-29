@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.5415040254592896
+  Y: 1.6791900396347046
+  Z: 0.5816199779510498
+aabbMin:
+  X: -0.5429689884185791
+  Y: 7.79999973019585e-05
+  Z: -0.581466019153595
+attackPower: 0
+bfres: DgnObj_SwitchElectric_B
+boundingForTraverse: 1.6791119575500488
+bugMask: 3
+elink: SwitchElectric
+generalLife: 100
+instSize: 86612
+mainModel: DgnObj_SwitchElectric_B_01
+name: SwitchElectric
+profile: MapDynamicActive
+rigidBodyCenterY: 0.8999999761581421
+slink: SwitchElectric
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag51e73965: 1374108005
+yLimitAlgorithm: NoLimit

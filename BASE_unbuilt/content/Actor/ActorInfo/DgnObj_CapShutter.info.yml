@@ -1,0 +1,25 @@
+aabbMax:
+  X: 2.0
+  Y: 0.0
+  Z: 2.0
+aabbMin:
+  X: -2.0
+  Y: -0.10000000149011612
+  Z: 0.0
+attackPower: 0
+bfres: DgnObj_CapShutter_A
+boundingForTraverse: 0.10000000149011612
+bugMask: 3
+generalLife: 100
+instSize: 25636
+mainModel: DgnObj_CapShutter_01
+name: DgnObj_CapShutter
+profile: MapDynamicActive
+slink: DgnObj_CapShutter
+sortKey: -6
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag7dd56981: 2111138177
+  tagc28d054e: !u 0xc28d054e
+yLimitAlgorithm: NoLimit

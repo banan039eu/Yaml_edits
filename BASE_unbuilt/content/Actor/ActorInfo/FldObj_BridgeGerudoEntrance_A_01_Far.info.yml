@@ -1,0 +1,21 @@
+aabbMax:
+  X: 29.784700393676758
+  Y: 11.990900039672852
+  Z: 8.9345703125
+aabbMin:
+  X: -28.582500457763672
+  Y: -8.947230339050293
+  Z: -8.19752025604248
+bfres: FldObj_BridgeGerudoEntrance_A_Far
+boundingForTraverse: 20.938129425048828
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: FldObj_BridgeGerudoEntrance_A_01_Far
+name: FldObj_BridgeGerudoEntrance_A_01_Far
+profile: MapConstPassive
+sortKey: -11
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

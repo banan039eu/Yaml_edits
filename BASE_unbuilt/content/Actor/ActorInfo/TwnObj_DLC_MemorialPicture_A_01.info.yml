@@ -1,0 +1,18 @@
+aabbMax:
+  X: 0.7645180225372314
+  Y: 0.4706369936466217
+  Z: 0.09823700040578842
+aabbMin:
+  X: -0.7665910124778748
+  Y: -0.4670110046863556
+  Z: 0.0
+bfres: TwnObj_DLC_MemorialPicture_A
+boundingForTraverse: 0.9376479983329773
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 27352
+mainModel: TwnObj_DLC_MemorialPicture_A_01
+name: TwnObj_DLC_MemorialPicture_A_01
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

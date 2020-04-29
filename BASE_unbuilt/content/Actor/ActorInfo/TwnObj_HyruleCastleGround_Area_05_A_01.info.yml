@@ -1,0 +1,24 @@
+aabbMax:
+  X: 49.59600067138672
+  Y: 37.892601013183594
+  Z: 28.056800842285156
+aabbMin:
+  X: -49.59600067138672
+  Y: -43.257598876953125
+  Z: -27.86680030822754
+bfres: TwnObj_HyruleCastleGround_A
+boundingForTraverse: 81.15019989013672
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 191860
+isHasFar: true
+mainModel: TwnObj_HyruleCastleGround_Area_05_A_01
+name: TwnObj_HyruleCastleGround_Area_05_A_01
+profile: MapConstPassive
+sortKey: -6
+tags:
+  tag572de768: 1462626152
+  tag84f40ec6: !u 0x84f40ec6
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 613.8705444335938
+yLimitAlgorithm: NoLimit

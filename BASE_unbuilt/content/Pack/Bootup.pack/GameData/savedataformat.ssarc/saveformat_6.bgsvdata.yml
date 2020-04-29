@@ -1,0 +1,37 @@
+file_list:
+- IsCommon: false
+  IsCommonAtSameAccount: false
+  IsSaveSecureCode: true
+  file_name: caption.sav
+- - DataName: AlbumPictureIndex
+    HashValue: -2141965789
+  - DataName: IsGet_Obj_AmiiboItem
+    HashValue: -1981035804
+  - DataName: CaptionPictSize
+    HashValue: -1603829114
+  - DataName: SeakSensorPictureIndex
+    HashValue: -1601600756
+  - DataName: AoC_HardMode_Enabled
+    HashValue: -451782942
+  - DataName: FamouseValue
+    HashValue: -376498252
+  - DataName: SaveDistrictName
+    HashValue: -227599870
+  - DataName: LastSaveTime_Lower
+    HashValue: 195546944
+  - DataName: GameClear
+    HashValue: 280051862
+  - DataName: IsChangedByDebug
+    HashValue: 896767904
+  - DataName: SaveLocationName
+    HashValue: 1188193974
+  - DataName: IsSaveByAuto
+    HashValue: 1254838276
+  - DataName: LastSaveTime_Upper
+    HashValue: 1801612287
+  - DataName: IsLogicalDelete
+    HashValue: 1836936580
+save_info:
+- directory_num: 8
+  is_build_machine: true
+  revision: 18203

@@ -1,0 +1,29 @@
+aabbMax:
+  X: 0.4949580132961273
+  Y: 1.0
+  Z: 0.5
+aabbMin:
+  X: -0.5050420165061951
+  Y: 0.0
+  Z: -0.5
+attackPower: 4
+bfres: FldObj_KorokStone_A
+boundingForTraverse: 1.0
+bugMask: 3
+generalLife: 1
+instSize: 39644
+mainModel: FldObj_KorokStone_A_03
+name: FldObj_KorokStoneLift_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.5
+slink: Obj_LiftRock
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag25cd2b4d: 634202957
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagff2ecb67: !u 0xff2ecb67
+yLimitAlgorithm: NoLimit

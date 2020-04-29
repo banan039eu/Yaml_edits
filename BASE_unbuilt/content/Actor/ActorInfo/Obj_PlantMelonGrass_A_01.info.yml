@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.6118080019950867
+  Y: 0.5840029716491699
+  Z: 0.9492130279541016
+aabbMin:
+  X: -0.6471269726753235
+  Y: -0.055886998772621155
+  Z: -1.3321199417114258
+attackPower: 0
+bfres: Obj_PlantMelonAGrass_A
+boundingForTraverse: 0.6398900151252747
+bugMask: 2
+cursorOffsetY: 0.5
+elink: Obj_PlantMelonGrass_A_01
+generalLife: 100
+instSize: 23620
+mainModel: Obj_PlantMelonAGrass_A_01
+name: Obj_PlantMelonGrass_A_01
+profile: MapDynamicPassive
+slink: Plant_Vine
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tage91ea5f6: !u 0xe91ea5f6
+yLimitAlgorithm: NoLimit

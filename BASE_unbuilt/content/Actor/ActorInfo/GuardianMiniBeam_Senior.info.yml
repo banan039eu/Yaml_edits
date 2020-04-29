@@ -1,0 +1,13 @@
+attackPower: 20
+bugMask: 3
+elink: GuardianMiniBeam
+instSize: 16068
+name: GuardianMiniBeam_Senior
+profile: Beam
+slink: GuardianMiniBeam
+sortKey: 11
+tags:
+  tag3a61e2a9: 979493545
+  tag3d2fc55b: 1026540891
+xlink: OnlyThruDamageToObj
+yLimitAlgorithm: NoLimit

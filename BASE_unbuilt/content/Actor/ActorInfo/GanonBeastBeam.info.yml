@@ -1,0 +1,13 @@
+attackPower: 72
+bugMask: 3
+elink: GanonBeastBeam
+instSize: 13316
+name: GanonBeastBeam
+profile: LineBeam
+slink: GanonBeastBeam
+sortKey: -1
+tags:
+  tag336bf311: 862712593
+  tagfd964809: !u 0xfd964809
+xlink: OnlyThruDamageToObj
+yLimitAlgorithm: NoLimit

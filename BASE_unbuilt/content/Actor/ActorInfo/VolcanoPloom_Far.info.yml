@@ -1,0 +1,10 @@
+bugMask: 0
+elink: VolcanoPloom_Far
+instSize: 3476
+name: VolcanoPloom_Far
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+traverseDist: 10000.0
+yLimitAlgorithm: NoLimit

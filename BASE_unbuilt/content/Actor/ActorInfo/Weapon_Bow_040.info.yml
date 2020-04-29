@@ -1,0 +1,77 @@
+Chemical:
+  Burnable: 1
+aabbMax:
+  X: 0.5111370086669922
+  Y: 0.05029299855232239
+  Z: 0.7440969944000244
+aabbMin:
+  X: -0.2336290031671524
+  Y: -0.05029299855232239
+  Z: -0.8851590156555176
+attackPower: 14
+bfres: Weapon_Bow_040
+boundingForTraverse: 0.10058599710464478
+bowArrowName: ''
+bowIsLeadShot: false
+bowIsRapidFire: true
+bowLeadShotNum: 0
+bowRapidFireNum: 2
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Bow_040
+generalLife: 18
+homeArea:
+- name: GerudoHighlands
+- name: ''
+- name: ''
+instSize: 53144
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Bow_040
+name: Weapon_Bow_040
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponBow
+slink: Weapon_Bow_Wood
+sortKey: 14590
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 6
+weaponCommonPoweredSharpAddAtkMin: 5
+weaponCommonPoweredSharpAddLifeMax: 10
+weaponCommonPoweredSharpAddLifeMin: 5
+weaponCommonPoweredSharpAddRapidFireMax: 1.2999999523162842
+weaponCommonPoweredSharpAddRapidFireMin: 1.100000023841858
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 0
+weaponCommonSharpWeaponAddAtkMax: 4
+weaponCommonSharpWeaponAddAtkMin: 2
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 4
+weaponCommonSharpWeaponAddLifeMin: 2
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+xlink: Weapon
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,50 @@
+aabbMax:
+  X: 0.19982899725437164
+  Y: 1.8964799642562866
+  Z: 0.20251500606536865
+aabbMin:
+  X: -0.19982899725437164
+  Y: 1.3574199676513672
+  Z: -0.26147499680519104
+armorDefenceAddLevel: 20
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: ResistBurn
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 1
+armorNextRankName: ''
+armorStarNum: 5
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_030
+boundingForTraverse: 0.5390599966049194
+bugMask: 3
+instSize: 69316
+itemBuyingPrice: 2393
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 600
+itemStainColor: -1
+itemUseIconActorName: Armor_011_Head
+mainModel: Armor_030_Head
+name: Armor_076_Head
+normal0ItemName01: Armor_075_Head
+normal0ItemName02: Animal_Insect_AB
+normal0ItemName03: Item_Enemy_34
+normal0ItemNum01: 1
+normal0ItemNum02: 5
+normal0ItemNum03: 2
+normal0StuffNum: 3
+profile: ArmorHead
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: Goron
+slink: Armor_Head_MetalHeavy
+sortKey: 2321070
+tags:
+  tag1c0c8d23: 470584611
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

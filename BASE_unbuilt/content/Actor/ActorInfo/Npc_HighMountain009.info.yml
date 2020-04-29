@@ -1,0 +1,23 @@
+aabbMax:
+  X: 0.5871269702911377
+  Y: 2.638659954071045
+  Z: 0.4004549980163574
+aabbMin:
+  X: -0.6687290072441101
+  Y: -0.006173000205308199
+  Z: -0.7503250241279602
+bfres: Npc_Rito_Hearts
+boundingForTraverse: 2.6448330879211426
+bugMask: 3
+cursorOffsetY: 0.4000000059604645
+elink: NPC
+instSize: 308340
+mainModel: Npc_Rito_Hearts
+name: Npc_HighMountain009
+profile: NPC
+slink: Npc_HighMountain009
+sortKey: -12
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

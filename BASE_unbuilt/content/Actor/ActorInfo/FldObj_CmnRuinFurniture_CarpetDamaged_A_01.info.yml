@@ -1,0 +1,18 @@
+aabbMax:
+  X: 1.925920009613037
+  Y: 0.02500000037252903
+  Z: 2.9080100059509277
+aabbMin:
+  X: -1.9621299505233765
+  Y: 0.02500000037252903
+  Z: -2.9071900844573975
+bfres: FldObj_CmnRuinFurniture_A
+boundingForTraverse: 3.497623920440674
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17524
+mainModel: FldObj_CmnRuinFurniture_CarpetDamaged_A_01
+name: FldObj_CmnRuinFurniture_CarpetDamaged_A_01
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

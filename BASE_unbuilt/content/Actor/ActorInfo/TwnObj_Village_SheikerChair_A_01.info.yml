@@ -1,0 +1,20 @@
+aabbMax:
+  X: 0.4411979913711548
+  Y: 0.699999988079071
+  Z: 0.3499999940395355
+aabbMin:
+  X: -0.4411979913711548
+  Y: 0.0016830000095069408
+  Z: -0.3499999940395355
+bfres: TwnObj_Village_SheikerFurniture_A
+boundingForTraverse: 0.6983169913291931
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+mainModel: TwnObj_Village_SheikerChair_A_01
+name: TwnObj_Village_SheikerChair_A_01
+profile: MapConstPassive
+sortKey: 6
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+yLimitAlgorithm: NoLimit

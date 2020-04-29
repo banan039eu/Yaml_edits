@@ -1,0 +1,22 @@
+aabbMax:
+  X: 75.88670349121094
+  Y: 0.8084750175476074
+  Z: 18.76020050048828
+aabbMin:
+  X: -109.51100158691406
+  Y: -61.562599182128906
+  Z: -65.48269653320312
+bfres: FldObj_FirstEdge_A_Far
+boundingForTraverse: 62.37107467651367
+bugMask: 0
+instSize: 28536
+mainModel: FldObj_FirstEdge_A_01_Far
+name: FldObj_FirstEdge_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+terrainTextures:
+- !u 0xff1d1110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

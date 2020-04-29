@@ -1,0 +1,23 @@
+aabbMax:
+  X: 0.4047220051288605
+  Y: 2.2985498905181885
+  Z: 0.29496100544929504
+aabbMin:
+  X: -0.4098069965839386
+  Y: -0.010227999649941921
+  Z: -0.14740100502967834
+boundingForTraverse: 2.3087780475616455
+bugMask: 3
+cursorOffsetY: 0.4000000059604645
+elink: NPC
+instSize: 371420
+name: Npc_oasis005
+profile: NPC
+slink: Npc_Gerudo_W
+sortKey: -8
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag46dea404: 1188996100
+xlink: Npc
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,33 @@
+aabbMax:
+  X: 6.677680015563965
+  Y: 16.75670051574707
+  Z: 12.97659969329834
+aabbMin:
+  X: -7.790019989013672
+  Y: -1.5142099857330322
+  Z: -13.632499694824219
+attackPower: 0
+bfres: TwnObj_FairySpringClose_A
+boundingForTraverse: 18.270910263061523
+bugMask: 3
+cursorOffsetY: 0.5
+elink: TwnObj_FairySpringClose_A_01
+farModelCulling:
+  center:
+    X: 0.0
+    Y: 18.270910263061523
+    Z: 0.0
+  height: 36.54182052612305
+  radius: 18.270910263061523
+generalLife: 100
+instSize: 873404
+mainModel: TwnObj_FairySpringClose_A_01
+name: TwnObj_FairySpringClose_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 5.611400127410889
+slink: TwnObj_FairySpringClose_A_01
+sortKey: 4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

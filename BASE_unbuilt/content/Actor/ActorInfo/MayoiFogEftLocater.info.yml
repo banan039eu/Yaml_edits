@@ -1,0 +1,10 @@
+bugMask: 0
+elink: MayoiFogEftLocater
+instSize: 3476
+name: MayoiFogEftLocater
+profile: EffectLocater
+sortKey: -2
+tags:
+  tag572de768: 1462626152
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

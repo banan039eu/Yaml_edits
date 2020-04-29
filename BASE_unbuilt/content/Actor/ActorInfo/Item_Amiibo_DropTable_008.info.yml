@@ -1,0 +1,22 @@
+bugMask: 1
+drops:
+  Normal:
+  - Animal_Fish_A
+  - Animal_Fish_L
+  - Animal_Fish_C
+  - Animal_Fish_J
+  - Animal_Fish_D
+  - Animal_Fish_X
+  - Animal_Fish_E
+  - Animal_Fish_H
+  - Animal_Fish_F
+  - Animal_Fish_G
+  - Item_Meat_01
+  - Item_Meat_02
+  - Item_Meat_06
+  - Item_Meat_07
+instSize: 8196
+name: Item_Amiibo_DropTable_008
+profile: System
+sortKey: 4
+yLimitAlgorithm: NoLimit

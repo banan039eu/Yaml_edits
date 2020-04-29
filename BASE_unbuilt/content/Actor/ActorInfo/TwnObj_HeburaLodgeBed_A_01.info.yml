@@ -1,0 +1,25 @@
+aabbMax:
+  X: 1.156749963760376
+  Y: 1.3468400239944458
+  Z: 2.098099946975708
+aabbMin:
+  X: -1.138890027999878
+  Y: 0.006909000221639872
+  Z: -1.842419981956482
+attackPower: 0
+bfres: TwnObj_HeburaLodge_A
+boundingForTraverse: 1.3399310111999512
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 23388
+mainModel: TwnObj_HeburaLodgeBed_A_01
+name: TwnObj_HeburaLodgeBed_A_01
+profile: MapConstActive
+rigidBodyCenterY: 0.4710719883441925
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag28a3a540: 681813312
+yLimitAlgorithm: NoLimit

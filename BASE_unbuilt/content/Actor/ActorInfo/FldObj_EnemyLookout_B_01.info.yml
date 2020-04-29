@@ -1,0 +1,20 @@
+aabbMax:
+  X: 2.2655301094055176
+  Y: 5.460219860076904
+  Z: 2.1564600467681885
+aabbMin:
+  X: -2.558079957962036
+  Y: -1.7000000476837158
+  Z: -2.253570079803467
+bfres: FldObj_ScaffoldWood_B
+boundingForTraverse: 7.160220146179199
+bugMask: 0
+instSize: 48704
+mainModel: FldObj_EnemyLookout_B_01
+name: FldObj_EnemyLookout_B_01
+profile: MapConstPassive
+sortKey: 6
+tags:
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 400.0
+yLimitAlgorithm: NoLimit

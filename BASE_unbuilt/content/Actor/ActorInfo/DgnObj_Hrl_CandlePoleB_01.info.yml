@@ -1,0 +1,22 @@
+aabbMax:
+  X: 0.4894390106201172
+  Y: 3.885890007019043
+  Z: 0.4894390106201172
+aabbMin:
+  X: -0.4894390106201172
+  Y: -0.0011530000483617187
+  Z: -0.489437997341156
+attackPower: 0
+bfres: DgnObj_Candle_A
+boundingForTraverse: 3.887042999267578
+bugMask: 1
+generalLife: 100
+instSize: 64468
+mainModel: DgnObj_Hrl_CandlePoleB_01
+name: DgnObj_Hrl_CandlePoleB_01
+profile: MapConstActive
+rigidBodyCenterY: 1.7310600280761719
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.36086800694465637
+  Y: 0.7352250218391418
+  Z: 0.3679879903793335
+aabbMin:
+  X: -0.2135930061340332
+  Y: 9.999999747378752e-06
+  Z: -0.18800599873065948
+boundingForTraverse: 0.7352150082588196
+bugMask: 3
+cursorOffsetY: 0.3499999940395355
+elink: NPC
+instSize: 498092
+name: Npc_HatenoVillage029
+profile: NPC
+slink: Npc_Hylia_B
+sortKey: -10
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

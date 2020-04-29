@@ -1,0 +1,23 @@
+aabbMax:
+  X: 0.38877299427986145
+  Y: 1.7089899778366089
+  Z: 0.3682909905910492
+aabbMin:
+  X: -0.3831140100955963
+  Y: 0.0010590000310912728
+  Z: -0.09938900172710419
+bfres: Link
+boundingForTraverse: 1.7079310417175293
+bugMask: 3
+elink: Player_GameRom
+instSize: 1099572
+mainModel: Link
+name: GameROMPlayer
+profile: Player
+slink: GameROMPlayer
+sortKey: 0
+tags:
+  tag0fee9a49: 267295305
+  tag84f40ec6: !u 0x84f40ec6
+xlink: Player
+yLimitAlgorithm: NoLimit

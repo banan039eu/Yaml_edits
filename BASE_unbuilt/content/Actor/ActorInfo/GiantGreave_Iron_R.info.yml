@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.14397700130939484
+  Y: 1.0744400024414062
+  Z: 0.9105110168457031
+aabbMin:
+  X: -1.6151200532913208
+  Y: -0.9460530281066895
+  Z: -0.7626839876174927
+bfres: Enemy_Giant
+boundingForTraverse: 2.0204930305480957
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 30288
+mainModel: Enemy_Giant_Greave_Iron_R
+name: GiantGreave_Iron_R
+profile: GiantArmor
+sortKey: 10
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

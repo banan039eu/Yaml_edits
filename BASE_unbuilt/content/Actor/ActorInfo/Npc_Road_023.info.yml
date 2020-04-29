@@ -1,0 +1,46 @@
+aabbMax:
+  X: 0.3587940037250519
+  Y: 1.798840045928955
+  Z: 0.6834350228309631
+aabbMin:
+  X: -0.543071985244751
+  Y: -0.00013000000035390258
+  Z: -0.21848399937152863
+boundingForTraverse: 1.7989699840545654
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: UMii_Hylia_Backpack
+instSize: 567532
+name: Npc_Road_023
+profile: NPC
+slink: Npc_Hylia_M
+sortKey: -4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+travelerAppearGameDataName: FirstTouchdown
+travelerDeleteGameDataName: ''
+travelerRideHorseName: GameRomHorse03
+travelerRoutePoint0Name: F5_GOAL_02
+travelerRoutePoint10Name: G5_JCT_10
+travelerRoutePoint11Name: F6_JCT_70
+travelerRoutePoint12Name: F6_JCT_71
+travelerRoutePoint13Name: F5_JCT_70
+travelerRoutePoint14Name: F5_JCT_71
+travelerRoutePoint15Name: F6_JCT_72
+travelerRoutePoint16Name: F6_JCT_00
+travelerRoutePoint17Name: F6_GOAL_00
+travelerRoutePoint1Name: F5_JCT_02
+travelerRoutePoint2Name: RoadLanayru_JCT06
+travelerRoutePoint3Name: RoadLanayru_JCT05
+travelerRoutePoint4Name: RoadLanayru_JCT04
+travelerRoutePoint5Name: F5_JCT_10
+travelerRoutePoint6Name: F5_JCT_11
+travelerRoutePoint7Name: RoadLanayru_JCT03
+travelerRoutePoint8Name: RoadLanayru_JCT02
+travelerRoutePoint9Name: RoadLanayru_JCT01
+travelerRouteType: ''
+traverseDist: 200.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

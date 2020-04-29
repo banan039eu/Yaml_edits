@@ -1,0 +1,41 @@
+aabbMax:
+  X: 9.726119995117188
+  Y: 7.655849933624268
+  Z: 7.958970069885254
+aabbMin:
+  X: -4.550069808959961
+  Y: 0.09627299755811691
+  Z: -8.998769760131836
+attackPower: 0
+bfres: Enemy_SiteBoss_Spear
+boundingForTraverse: 7.559576988220215
+bugMask: 3
+elink: Enemy_SiteBoss_Spear_Castle
+enemyRank: 1
+generalLife: 800
+instSize: 345376
+mainModel: SiteBoss_Spear
+name: Enemy_SiteBoss_Spear_Castle
+pictureBookLiveSpot1: 36
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: SiteBoss
+rigidBodyCenterY: 1.25
+slink: SiteBoss_Spear
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_SiteBoss_Spear
+tags:
+  tag03528579: 55739769
+  tag17044493: 386155667
+  tag35b5afc9: 901099465
+  tag36565b66: 911629158
+  tag3a61e2a9: 979493545
+  tag4806038d: 1208353677
+  tag60b25e51: 1622302289
+  tag994aef4b: !u 0x994aef4b
+  tag9eb0ef08: !u 0x9eb0ef08
+  tagfd5643b5: !u 0xfd5643b5
+traverseDist: 300.0
+xlink: SiteBoss
+yLimitAlgorithm: NoLimit

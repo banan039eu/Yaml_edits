@@ -1,0 +1,24 @@
+aabbMax:
+  X: 6.2719597816467285
+  Y: 41.23270034790039
+  Z: 34.172698974609375
+aabbMin:
+  X: -29.654399871826172
+  Y: -1.3060200214385986
+  Z: -36.0098991394043
+bfres: FldObj_GerudoCave_A_Far
+boundingForTraverse: 42.538719177246094
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 41948
+mainModel: FldObj_GerudoCave_A_04_Far
+name: FldObj_GerudoCave_A_04_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff47
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

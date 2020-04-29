@@ -1,0 +1,23 @@
+aabbMax:
+  X: 1.6836400032043457
+  Y: 2.5552000999450684
+  Z: 1.8338299989700317
+aabbMin:
+  X: -1.7155499458312988
+  Y: -0.33511000871658325
+  Z: -1.9964799880981445
+bfres: Obj_RockWhite_B
+boundingForTraverse: 2.890310049057007
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: Obj_RockWhite_B_M_02
+name: Obj_RockWhite_B_M_02
+profile: MapConstPassive
+sortKey: -2
+tags:
+  tag932d2d91: !u 0x932d2d91
+  tag977b149c: !u 0x977b149c
+terrainTextures:
+- !u 0xffff1e12
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,20 @@
+aabbMax:
+  X: 1.7488600015640259
+  Y: 4.08027982711792
+  Z: 1.9088399410247803
+aabbMin:
+  X: -1.7454400062561035
+  Y: -0.33239901065826416
+  Z: -1.2337000370025635
+bfres: FldObj_KingsTomb_A
+boundingForTraverse: 4.412679195404053
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 27608
+mainModel: FldObj_KingsTomb_A_01
+name: FldObj_KingsTomb_A_01
+profile: MapConstPassive
+sortKey: -13
+terrainTextures:
+- !u 0xffffff08
+yLimitAlgorithm: NoLimit

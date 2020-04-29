@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.2156980037689209
+  Y: 0.9428709745407104
+  Z: 0.22640399634838104
+aabbMin:
+  X: -0.2156980037689209
+  Y: 0.0005869999877177179
+  Z: -0.13450999557971954
+armorDefenceAddLevel: 8
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: ResistElectric
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_105_Lower
+armorStarNum: 3
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_046
+boundingForTraverse: 0.9422839879989624
+bugMask: 1
+instSize: 48768
+itemBuyingPrice: 4058
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 610
+itemStainColor: -1
+itemUseIconActorName: Armor_046_Lower
+mainModel: Armor_046_Lower
+name: Armor_104_Lower
+normal0ItemName01: Armor_103_Lower
+normal0ItemName02: Item_Enemy_16
+normal0ItemName03: Item_Fruit_C
+normal0ItemNum01: 1
+normal0ItemNum02: 5
+normal0ItemNum03: 5
+normal0StuffNum: 3
+profile: ArmorLower
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: Rubber
+sortKey: 2223172
+tags:
+  tag1c0c8d23: 470584611
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

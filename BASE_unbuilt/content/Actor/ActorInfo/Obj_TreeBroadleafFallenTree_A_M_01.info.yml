@@ -1,0 +1,21 @@
+aabbMax:
+  X: 7.010049819946289
+  Y: 2.2634999752044678
+  Z: 1.6125500202178955
+aabbMin:
+  X: -6.429379940032959
+  Y: -0.931693971157074
+  Z: -1.707509994506836
+bfres: Obj_TreeBroadleaf_A
+boundingForTraverse: 3.1951940059661865
+bugMask: 0
+instSize: 49408
+mainModel: Obj_TreeBroadleafFallenTree_A_M_01
+name: Obj_TreeBroadleafFallenTree_A_M_01
+profile: MapConstPassive
+sortKey: -2
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  taga40dd51c: !u 0xa40dd51c
+yLimitAlgorithm: NoLimit

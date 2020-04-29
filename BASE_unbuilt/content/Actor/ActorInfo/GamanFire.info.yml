@@ -1,0 +1,30 @@
+aabbMax:
+  X: 1.0085899829864502
+  Y: 2.7490899562835693
+  Z: 1.1389800310134888
+aabbMin:
+  X: -1.2345999479293823
+  Y: -0.29506799578666687
+  Z: -1.120270013809204
+attackPower: 0
+bfres: FldObj_Gaman_A
+boundingForTraverse: 3.0441579818725586
+bugMask: 2
+cursorOffsetY: 3.0
+generalLife: 100
+instSize: 45596
+lookAtOffsetY: 3.0
+mainModel: FldObj_GamanFire_A_01
+name: GamanFire
+profile: MapConstActive
+rigidBodyCenterY: 1.2101999521255493
+slink: CandleGround
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag51c0c6bb: 1371588283
+  tag6308f367: 1661530983
+terrainTextures:
+- !u 0xffffff22
+yLimitAlgorithm: NoLimit

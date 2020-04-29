@@ -1,0 +1,20 @@
+aabbMax:
+  X: 11.759200096130371
+  Y: 11.427200317382812
+  Z: 6.439859867095947
+aabbMin:
+  X: -6.962430000305176
+  Y: 0.24020899832248688
+  Z: -5.57889986038208
+bfres: TwnObj_Village_Hateno_A
+boundingForTraverse: 11.186991691589355
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 210584
+mainModel: TwnObj_Village_HatenoPharmacySet_A_01
+name: TwnObj_Village_HatenoPharmacySet_A_01
+profile: MapConstPassive
+sortKey: 1
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,23 @@
+aabbMax:
+  X: 5.0
+  Y: 0.0
+  Z: 5.0
+aabbMin:
+  X: -5.0
+  Y: 0.0
+  Z: -5.0
+bfres: Dm_IbutsuWater_A
+boundingForTraverse: 7.071067810058594
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 23676
+mainModel: Dm_IbutsuWater_Plate
+name: Dm_IbutsuWater_Plate
+profile: DemoNPC
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,29 @@
+aabbMax:
+  X: 1.5370899438858032
+  Y: 2.376729965209961
+  Z: 1.3236900568008423
+aabbMin:
+  X: -1.5380899906158447
+  Y: -0.21837399899959564
+  Z: -1.5273100137710571
+attackPower: 0
+bfres: Enemy_Octarock_Item_Plant_HopBush
+boundingForTraverse: 2.5951039791107178
+bugMask: 3
+elink: Octarock_Grass
+instSize: 30144
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Item_Plant_HopBush
+name: OctObj_Grass_05
+profile: Bullet
+slink: OctObj_Grass
+sortKey: 2
+tags:
+  tag9ef05488: !u 0x9ef05488
+  tagff2ecb67: !u 0xff2ecb67
+yLimitAlgorithm: NoLimit

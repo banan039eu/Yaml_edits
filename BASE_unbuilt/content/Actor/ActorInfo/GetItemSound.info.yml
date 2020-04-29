@@ -1,0 +1,9 @@
+bugMask: 2
+instSize: 3176
+name: GetItemSound
+profile: SoundSystemActor
+slink: GetItemSound
+sortKey: 0
+tags:
+  tagc5b7c123: !u 0xc5b7c123
+yLimitAlgorithm: NoLimit

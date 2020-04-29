@@ -1,0 +1,23 @@
+aabbMax:
+  X: 0.400613009929657
+  Y: 0.09712100028991699
+  Z: 0.2096560001373291
+aabbMin:
+  X: -0.3493399918079376
+  Y: -0.0006539999740198255
+  Z: -0.2096560001373291
+bfres: Npc_Hylia_Diary
+boundingForTraverse: 0.09777499735355377
+bugMask: 1
+cursorOffsetY: 0.30000001192092896
+generalLife: 100
+instSize: 34632
+mainModel: Npc_Hylia_Diary
+name: Obj_DiaryGerudo_A_01
+profile: DemoNPC
+sortKey: -4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag09405f8a: 155213706
+yLimitAlgorithm: NoLimit

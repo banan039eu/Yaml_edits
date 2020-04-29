@@ -1,0 +1,30 @@
+aabbMax:
+  X: 0.7133790254592896
+  Y: 1.1298799514770508
+  Z: 0.5288090109825134
+aabbMin:
+  X: -0.7041019797325134
+  Y: 0.0
+  Z: -0.5107420086860657
+attackPower: 0
+bfres: Obj_TBox_Field_Iron
+boundingForTraverse: 1.1298799514770508
+bugMask: 3
+elink: OctObj_Stone_01
+instSize: 30668
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+lookAtOffsetY: 0.800000011920929
+mainModel: TBox_Field_Iron
+name: OctObj_Stone_TBox
+profile: Bullet
+slink: OctObj_Stone_TBox
+sortKey: 0
+tags:
+  tag5d3f94a2: 1564447906
+  tagff2ecb67: !u 0xff2ecb67
+yLimitAlgorithm: NoLimit

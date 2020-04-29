@@ -1,0 +1,24 @@
+aabbMax:
+  X: 8.20740032196045
+  Y: 15.602299690246582
+  Z: 7.296870231628418
+aabbMin:
+  X: -6.395209789276123
+  Y: -0.6118280291557312
+  Z: -7.597559928894043
+bfres: TwnObj_HyruleCastleInside_PrincessRoom_A
+boundingForTraverse: 16.214128494262695
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 377692
+mainModel: TwnObj_HyruleCastleInside_PrincessRoom_A_02
+name: TwnObj_HyruleCastleInside_PrincessRoom_A_02
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+terrainTextures:
+- !u 0xff522622
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,19 @@
+aabbMax:
+  X: 2.86476993560791
+  Y: 0.2282869964838028
+  Z: 2.536370038986206
+aabbMin:
+  X: -1.2403600215911865
+  Y: -0.030059000477194786
+  Z: -1.9102799892425537
+bfres: TwnObj_City_GoronArtifact_B
+boundingForTraverse: 0.25834599137306213
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18292
+mainModel: TwnObj_City_GoronTile_B_02
+name: TwnObj_City_GoronTile_B_02
+profile: MapConstPassive
+sortKey: -2
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

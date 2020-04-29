@@ -1,0 +1,45 @@
+aabbMax:
+  X: 0.28252100944519043
+  Y: 1.2998000383377075
+  Z: 0.9832820296287537
+aabbMin:
+  X: -0.2813589870929718
+  Y: -0.012684999965131283
+  Z: -1.5869699716567993
+actorScale: 1.399999976158142
+animalUnitBasePlayRate: 1.0
+attackPower: 14
+bfres: Animal_Wolf
+boundingForTraverse: 1.3124849796295166
+bugMask: 3
+cursorOffsetY: 0.699999988079071
+drops:
+  Normal:
+  - Item_Meat_02
+  - Item_Meat_11
+elink: Animal_Wolf_B
+enemyRank: 1
+generalLife: 30
+homeArea:
+- name: GerudoDesert
+- name: GerudoHighlands
+- name: ''
+instSize: 158520
+mainModel: Wolf
+name: Animal_Wolf_B
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+slink: Animal_Wolf_A
+sortKey: 28071
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag24cd75fe: 617444862
+  tag6b3d3141: 1799172417
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagac9f717f: !u 0xac9f717f
+  tagd975ef0e: !u 0xd975ef0e
+xlink: Quadruped_Animal
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,65 @@
+aabbMax:
+  X: 0.39983800053596497
+  Y: 0.6022469997406006
+  Z: 0.3583010137081146
+aabbMin:
+  X: -0.3673290014266968
+  Y: -0.02617499977350235
+  Z: -0.17295199632644653
+bfres: Obj_FruitBanana_A
+boundingForTraverse: 0.6284220218658447
+bugMask: 3
+cureItemEffectLevel: 2
+cureItemEffectType: AttackUp
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 2
+cursorOffsetY: 0.5
+elink: GetItem
+generalLife: 100
+homeArea:
+- name: WestHateru
+- name: CentralHyrule
+- name: FironeGrassland
+instSize: 38096
+itemBuyingPrice: 20
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 5
+itemStainColor: 3
+itemUseIconActorName: ''
+mainModel: Obj_FruitBanana_A_01
+motorcycleEnergy:
+  add: 75.0
+name: Item_Fruit_H
+pictureBookLiveSpot1: 23
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+rigidBodyCenterY: 0.329598993062973
+slink: Item_Fruit
+sortKey: 31100
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag14185415: 337138709
+  tag25f0da52: 636541522
+  tag3909a11f: 956932383
+  tag682e5129: 1747865897
+  tag7de11d78: 2111905144
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb0f85060: !u 0xb0f85060
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagd53a8775: !u 0xd53a8775
+  tagd902a8a2: !u 0xd902a8a2
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tage97dcd22: !u 0xe97dcd22
+  tagef2efe5d: !u 0xef2efe5d
+  tagf47b2e0d: !u 0xf47b2e0d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,10 @@
+bugMask: 3
+elink: AscendingCurrent_WindRelic_Top
+instSize: 7872
+name: AscendingCurrent_WindRelic_Top
+profile: SoleTag
+slink: AscendingCurrent_WindRelic_Top
+sortKey: 0
+traverseDist: 100.0
+xlink: AscendingCurrent
+yLimitAlgorithm: NoLimit

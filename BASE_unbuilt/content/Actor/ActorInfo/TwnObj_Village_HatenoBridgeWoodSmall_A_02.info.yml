@@ -1,0 +1,18 @@
+aabbMax:
+  X: 4.032549858093262
+  Y: 1.5666999816894531
+  Z: 13.741299629211426
+aabbMin:
+  X: -3.995840072631836
+  Y: -3.134510040283203
+  Z: -2.8578898906707764
+bfres: TwnObj_Village_Hateno_A
+boundingForTraverse: 4.701210021972656
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 27608
+mainModel: TwnObj_Village_HatenoBridgeWoodSmall_A_02
+name: TwnObj_Village_HatenoBridgeWoodSmall_A_02
+profile: MapConstPassive
+sortKey: -1
+yLimitAlgorithm: NoLimit

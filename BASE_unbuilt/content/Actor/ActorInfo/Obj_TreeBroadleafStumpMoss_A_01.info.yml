@@ -1,0 +1,25 @@
+aabbMax:
+  X: 5.02455997467041
+  Y: 4.446979999542236
+  Z: 4.0907697677612305
+aabbMin:
+  X: -3.93900990486145
+  Y: -2.9938299655914307
+  Z: -2.896320104598999
+bfres: Obj_TreeBroadleaf_A
+boundingForTraverse: 7.440810203552246
+bugMask: 0
+instSize: 29464
+mainModel: Obj_TreeBroadleafStumpMoss_A_01
+name: Obj_TreeBroadleafStumpMoss_A_01
+profile: MapConstPassive
+sortKey: -2
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag48409b2e: 1212193582
+  tag882953b0: !u 0x882953b0
+  taga40dd51c: !u 0xa40dd51c
+  tagc28d054e: !u 0xc28d054e
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,7 @@
+bugMask: 1
+cursorOffsetY: 0.5
+instSize: 2788
+name: ActorObserverByActorTagTag
+profile: AreaManagementForOthers
+sortKey: 0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,29 @@
+aabbMax:
+  X: 12.9375
+  Y: 20.86720085144043
+  Z: 7.730710029602051
+aabbMin:
+  X: -12.56309986114502
+  Y: -7.579659938812256
+  Z: -32.6057014465332
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuEx_A
+boundingForTraverse: 28.446861267089844
+bugMask: 0
+cursorOffsetY: 0.5
+elink: Lift
+generalLife: 100
+instSize: 223452
+mainModel: DgnObj_DLC_IbutsuExLift_A_01
+name: DgnObj_DLC_IbutsuExLift_A_01
+profile: MapConstActive
+rigidBodyCenterY: 10.912199974060059
+sortKey: -62
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag3c39db92: 1010424722
+  tag7dd56981: 2111138177
+  tag84f40ec6: !u 0x84f40ec6
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

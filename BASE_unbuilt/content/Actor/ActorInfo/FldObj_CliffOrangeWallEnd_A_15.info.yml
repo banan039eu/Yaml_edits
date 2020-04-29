@@ -1,0 +1,20 @@
+aabbMax:
+  X: 182.031005859375
+  Y: 78.77400207519531
+  Z: 93.34860229492188
+aabbMin:
+  X: -163.10299682617188
+  Y: -66.9832992553711
+  Z: -109.17400360107422
+bfres: FldObj_CliffOrangeEnd_A
+boundingForTraverse: 145.75729370117188
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 31448
+isHasFar: true
+mainModel: FldObj_CliffOrangeWallEnd_A_15
+name: FldObj_CliffOrangeWallEnd_A_15
+profile: MapConstPassive
+sortKey: -3
+traverseDist: 900.1660766601562
+yLimitAlgorithm: NoLimit

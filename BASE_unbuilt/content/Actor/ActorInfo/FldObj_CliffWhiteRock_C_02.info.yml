@@ -1,0 +1,18 @@
+aabbMax:
+  X: 6.179590225219727
+  Y: 4.573949813842773
+  Z: 5.538280010223389
+aabbMin:
+  X: -4.701429843902588
+  Y: -1.7632499933242798
+  Z: -3.6972498893737793
+bfres: FldObj_CliffWhite_C
+boundingForTraverse: 6.337200164794922
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28760
+mainModel: FldObj_CliffWhiteRock_C_02
+name: FldObj_CliffWhiteRock_C_02
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

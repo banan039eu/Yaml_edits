@@ -1,0 +1,25 @@
+aabbMax:
+  X: 4.341030120849609
+  Y: 5.29010009765625
+  Z: 4.678229808807373
+aabbMin:
+  X: -4.305009841918945
+  Y: -2.1989400386810303
+  Z: -4.179780006408691
+bfres: Obj_TreeBroadleaf_B
+boundingForTraverse: 7.489039897918701
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 70792
+mainModel: Obj_TreeBroadleafHoleStump_B_L_01
+name: Obj_TreeBroadleafHoleStump_B_L_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag48409b2e: 1212193582
+  tag882953b0: !u 0x882953b0
+  tagc28d054e: !u 0xc28d054e
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

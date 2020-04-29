@@ -1,0 +1,18 @@
+attackPower: 0
+bugMask: 1
+elink: SiteBossSpearShockWave
+instSize: 10588
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: SiteBossSpearShockWave
+profile: Bullet
+sortKey: 0
+tags:
+  tagc28d054e: !u 0xc28d054e
+  tagc5b7c123: !u 0xc5b7c123
+  tagfd964809: !u 0xfd964809
+yLimitAlgorithm: NoLimit

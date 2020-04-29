@@ -1,0 +1,26 @@
+aabbMax:
+  X: 1.600000023841858
+  Y: 1.600000023841858
+  Z: 0.9967899918556213
+aabbMin:
+  X: -1.600000023841858
+  Y: -1.6343300342559814
+  Z: -1.0
+attackPower: 0
+bfres: DgnObj_WindGenerator_A
+boundingForTraverse: 3.23432993888855
+bugMask: 3
+generalLife: 100
+instSize: 58320
+mainModel: DgnObj_WindGenerator_A_01
+name: DgnObj_WindGenerator_A
+profile: MapConstActive
+rigidBodyCenterY: -0.3495739996433258
+slink: WindGenerator
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2c608f30: 744525616
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

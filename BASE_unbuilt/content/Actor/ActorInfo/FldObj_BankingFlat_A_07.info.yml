@@ -1,0 +1,20 @@
+aabbMax:
+  X: 12.482000350952148
+  Y: 1.5
+  Z: 13.781700134277344
+aabbMin:
+  X: -12.017999649047852
+  Y: -0.46216800808906555
+  Z: -14.255900382995605
+bfres: FldObj_Banking_A
+boundingForTraverse: 1.9621679782867432
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: FldObj_BankingFlat_A_07
+name: FldObj_BankingFlat_A_07
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffffff08
+yLimitAlgorithm: NoLimit

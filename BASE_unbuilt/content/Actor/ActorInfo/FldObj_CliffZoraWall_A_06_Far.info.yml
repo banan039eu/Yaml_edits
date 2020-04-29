@@ -1,0 +1,22 @@
+aabbMax:
+  X: 35.85660171508789
+  Y: 28.800100326538086
+  Z: 22.640199661254883
+aabbMin:
+  X: -38.92729949951172
+  Y: -18.787900924682617
+  Z: -25.000999450683594
+bfres: FldObj_CliffZora_A_Far
+boundingForTraverse: 47.5880012512207
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18292
+mainModel: FldObj_CliffZoraWall_A_06_Far
+name: FldObj_CliffZoraWall_A_06_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,73 @@
+aabbMax:
+  X: 0.5120530128479004
+  Y: 0.03610499948263168
+  Z: 0.38060900568962097
+aabbMin:
+  X: -0.24916499853134155
+  Y: -0.16237099468708038
+  Z: -0.38060900568962097
+attackPower: 0
+bfres: Weapon_Shield_013
+boundingForTraverse: 0.19847600162029266
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Shield_013
+generalLife: 10
+homeArea:
+- name: WestHateru
+- name: LanayruWaterSources
+- name: ''
+instSize: 61704
+itemBuyingPrice: 45
+itemCreatingPrice: 10
+itemSaleRevivalCount: -1
+itemSellingPrice: 15
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Shield_013
+name: Weapon_Shield_013
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponShield
+rigidBodyCenterY: -0.08083999902009964
+slink: Weapon_Shield_Ancient
+sortKey: 15540
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag5e27ef10: 1579675408
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 18
+weaponCommonPoweredSharpAddAtkMax: 0
+weaponCommonPoweredSharpAddAtkMin: 0
+weaponCommonPoweredSharpAddLifeMax: 3
+weaponCommonPoweredSharpAddLifeMin: 3
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 11
+weaponCommonPoweredSharpWeaponAddGuardMin: 7
+weaponCommonRank: 9
+weaponCommonSharpWeaponAddAtkMax: 0
+weaponCommonSharpWeaponAddAtkMin: 0
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 6
+weaponCommonSharpWeaponAddGuardMin: 3
+weaponCommonSharpWeaponAddLifeMax: 2
+weaponCommonSharpWeaponAddLifeMin: 1
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+xlink: Weapon
+yLimitAlgorithm: NoLimit

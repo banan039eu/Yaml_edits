@@ -1,0 +1,24 @@
+aabbMax:
+  X: 79.47270202636719
+  Y: 158.9290008544922
+  Z: 62.793399810791016
+aabbMin:
+  X: -73.25350189208984
+  Y: -14.762100219726562
+  Z: -94.49109649658203
+bfres: FldObj_CliffSaw_A
+boundingForTraverse: 173.69110107421875
+bugMask: 0
+instSize: 49664
+isHasFar: true
+mainModel: FldObj_CliffSaw_A_01
+name: FldObj_CliffSaw_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- 522064384
+- !u 0xffffff4c
+traverseDist: 719.234375
+yLimitAlgorithm: NoLimit

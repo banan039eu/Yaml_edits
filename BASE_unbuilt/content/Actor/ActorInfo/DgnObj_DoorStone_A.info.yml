@@ -1,0 +1,26 @@
+aabbMax:
+  X: 6.0
+  Y: 0.44999998807907104
+  Z: 3.0
+aabbMin:
+  X: -6.0
+  Y: -0.7169650197029114
+  Z: -3.0002601146698
+attackPower: 0
+bfres: DgnObj_DoorStone_A
+boundingForTraverse: 1.1669650077819824
+bugMask: 3
+generalLife: 100
+instSize: 34508
+mainModel: DgnObj_DoorStoneL_A_01
+name: DgnObj_DoorStone_A
+profile: MapDynamicActive
+rigidBodyCenterY: 0.20000000298023224
+slink: DgnObj_DoorStone
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tagb51794dc: !u 0xb51794dc
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,20 @@
+aabbMax:
+  X: 7.148330211639404
+  Y: 9.081520080566406
+  Z: 1.2434699535369873
+aabbMin:
+  X: -2.771009922027588
+  Y: 1.5854400396347046
+  Z: -8.635689735412598
+bfres: TwnObj_Village_Hateno_A
+boundingForTraverse: 7.496079921722412
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 111928
+mainModel: TwnObj_Village_HatenoSakuradaHouseSet_A_03
+name: TwnObj_Village_HatenoSakuradaHouseSet_A_03
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+yLimitAlgorithm: NoLimit

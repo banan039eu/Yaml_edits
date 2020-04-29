@@ -1,0 +1,7 @@
+bugMask: 1
+cursorOffsetY: 0.5
+instSize: 340
+name: LinkTagNAnd
+profile: LinkTag
+sortKey: 0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,40 @@
+aabbMax:
+  X: 1.25285005569458
+  Y: 3.232140064239502
+  Z: 0.6661390066146851
+aabbMin:
+  X: -1.0600700378417969
+  Y: -0.0036379999946802855
+  Z: -0.60555100440979
+attackPower: 10
+bfres: Enemy_Assassin_Boss
+boundingForTraverse: 3.2357780933380127
+bugMask: 3
+cursorOffsetY: 2.200000047683716
+elink: Enemy_Assassin_Senior
+enemyRank: 42
+generalLife: 300
+homeArea:
+- name: GerudoHighlands
+- name: ''
+- name: ''
+instSize: 274496
+mainModel: Assassin_Boss
+name: Enemy_Assassin_Senior
+pictureBookLiveSpot1: 21
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+slink: Assassin_Senior
+sortKey: 1102
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag336bf311: 862712593
+  tag36565b66: 911629158
+  tag994aef4b: !u 0x994aef4b
+  tagd679f846: !u 0xd679f846
+  tagdeb2c8bd: !u 0xdeb2c8bd
+traverseDist: 150.0
+xlink: Assassin_Senior
+yLimitAlgorithm: LimitYDiff

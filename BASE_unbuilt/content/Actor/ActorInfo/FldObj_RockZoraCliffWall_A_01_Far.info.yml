@@ -1,0 +1,24 @@
+aabbMax:
+  X: 36.130401611328125
+  Y: 3.4343299865722656
+  Z: 33.890098571777344
+aabbMin:
+  X: -40.02090072631836
+  Y: -100.60199737548828
+  Z: -28.496299743652344
+bfres: FldObj_RockZora_A_Far
+boundingForTraverse: 104.03633117675781
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17492
+mainModel: FldObj_RockZoraCliffWall_A_01_Far
+name: FldObj_RockZoraCliffWall_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xff331d11
+traverseDist: 3000.0
+yLimitAlgorithm: NoLimit

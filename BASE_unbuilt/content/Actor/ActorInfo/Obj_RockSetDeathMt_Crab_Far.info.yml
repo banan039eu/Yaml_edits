@@ -1,0 +1,21 @@
+aabbMax:
+  X: 86.76300048828125
+  Y: 29.864999771118164
+  Z: 92.62300109863281
+aabbMin:
+  X: -82.76349639892578
+  Y: -13.453900337219238
+  Z: -49.00740051269531
+bfres: Obj_RockDeathMt_Crab_Far
+boundingForTraverse: 43.31890106201172
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28760
+mainModel: Obj_RockSetDeathMt_Crab_Far
+name: Obj_RockSetDeathMt_Crab_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

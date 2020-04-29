@@ -1,0 +1,25 @@
+aabbMax:
+  X: 1.5
+  Y: 1.0468499660491943
+  Z: 0.22835899889469147
+aabbMin:
+  X: 0.13739599287509918
+  Y: -0.6868320107460022
+  Z: -0.22715799510478973
+attackPower: 0
+bfres: FldObj_SearchStone_A
+boundingForTraverse: 1.7336820363998413
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 26156
+mainModel: FldObj_SearchStone_A_02
+name: FldObj_SearchStone_A_02
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.09506600350141525
+sortKey: -21
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag921c2372: !u 0x921c2372
+yLimitAlgorithm: NoLimit

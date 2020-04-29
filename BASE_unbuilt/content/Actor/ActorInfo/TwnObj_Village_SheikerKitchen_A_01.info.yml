@@ -1,0 +1,18 @@
+aabbMax:
+  X: 5.900000095367432
+  Y: 2.5168399810791016
+  Z: 10.285799980163574
+aabbMin:
+  X: -6.317840099334717
+  Y: -11.949299812316895
+  Z: -5.349999904632568
+bfres: TwnObj_Village_Sheiker_A
+boundingForTraverse: 14.466139793395996
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38044
+mainModel: TwnObj_Village_SheikerKitchen_A_01
+name: TwnObj_Village_SheikerKitchen_A_01
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

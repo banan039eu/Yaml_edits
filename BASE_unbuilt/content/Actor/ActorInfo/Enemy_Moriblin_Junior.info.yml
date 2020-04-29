@@ -1,0 +1,49 @@
+aabbMax:
+  X: 2.0624899864196777
+  Y: 4.439219951629639
+  Z: 3.8224899768829346
+aabbMin:
+  X: -2.125920057296753
+  Y: -0.03470800071954727
+  Z: -1.0935699939727783
+attackPower: 2
+bfres: Enemy_Moriblin
+boundingForTraverse: 4.473927974700928
+bugMask: 3
+cursorOffsetY: 0.75
+drops:
+  Normal:
+  - Item_Enemy_07
+  Normal2:
+  - Item_Enemy_06
+elink: Moriblin
+enemyRank: 12
+generalLife: 56
+homeArea:
+- name: CentralHyrule
+- name: EastHateru
+- name: LanayruWaterSources
+instSize: 418708
+mainModel: Moriblin_Blue
+name: Enemy_Moriblin_Junior
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+slink: Moriblin
+sortKey: 600
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag255b5760: 626743136
+  tag35960905: 899025157
+  tag485bf81d: 1213986845
+  tag82ed5778: !u 0x82ed5778
+  tag8fda6cdd: !u 0x8fda6cdd
+  tag994aef4b: !u 0x994aef4b
+  taga7e979db: !u 0xa7e979db
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagf2e5b2f2: !u 0xf2e5b2f2
+traverseDist: 150.0
+xlink: Biped_Enemy
+yLimitAlgorithm: LimitYDiff

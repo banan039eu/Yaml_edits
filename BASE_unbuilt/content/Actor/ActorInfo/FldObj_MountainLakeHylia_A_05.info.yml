@@ -1,0 +1,24 @@
+aabbMax:
+  X: 40.010501861572266
+  Y: 56.01259994506836
+  Z: -3.3932900428771973
+aabbMin:
+  X: -42.507198333740234
+  Y: -6.139050006866455
+  Z: -106.11299896240234
+bfres: FldObj_MountainLakeHylia_A
+boundingForTraverse: 62.151649475097656
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18548
+isHasFar: true
+mainModel: FldObj_MountainLakeHylia_A_05
+name: FldObj_MountainLakeHylia_A_05
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff54
+traverseDist: 631.75927734375
+yLimitAlgorithm: NoLimit

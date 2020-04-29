@@ -1,0 +1,22 @@
+aabbMax:
+  X: 18.547500610351562
+  Y: 17.173500061035156
+  Z: 17.04330062866211
+aabbMin:
+  X: -20.587299346923828
+  Y: -1.8933600187301636
+  Z: -23.71739959716797
+bfres: FldObj_SkullRockSnow_A_Far
+boundingForTraverse: 19.06686019897461
+bugMask: 0
+instSize: 28760
+mainModel: FldObj_SkullRockSnow_A_01_Far
+name: FldObj_SkullRockSnow_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+terrainTextures:
+- !u 0xffffff08
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

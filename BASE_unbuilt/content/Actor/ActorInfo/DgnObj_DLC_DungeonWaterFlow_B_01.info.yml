@@ -1,0 +1,24 @@
+aabbMax:
+  X: 5.0
+  Y: 2.0
+  Z: 5.0
+aabbMin:
+  X: -5.0
+  Y: 0.0
+  Z: -5.0
+attackPower: 0
+bfres: DgnObj_DLC_DungeonWaterFlow_A
+boundingForTraverse: 2.0
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 29136
+mainModel: DgnObj_DLC_DungeonWaterFlow_B_01
+name: DgnObj_DLC_DungeonWaterFlow_B_01
+profile: MapDynamicActive
+rigidBodyCenterY: -0.11053100228309631
+slink: WaterSurfaceWallFlow
+sortKey: -34
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

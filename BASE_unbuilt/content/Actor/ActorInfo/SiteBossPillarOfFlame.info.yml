@@ -1,0 +1,18 @@
+attackPower: 24
+bugMask: 3
+elink: SiteBossPillarOfFlame
+instSize: 18388
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: SiteBossPillarOfFlame
+profile: Bullet
+slink: SiteBossPillarOfFlame
+sortKey: 1
+tags:
+  tag74831ee0: 1954750176
+xlink: AscendingCurrent
+yLimitAlgorithm: NoLimit

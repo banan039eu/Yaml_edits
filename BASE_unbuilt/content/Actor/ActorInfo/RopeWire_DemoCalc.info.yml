@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.24987800419330597
+  Y: 0.12493900209665298
+  Z: 0.24987800419330597
+aabbMin:
+  X: -0.24987800419330597
+  Y: -10.124799728393555
+  Z: -0.24987800419330597
+bfres: DgnObj_RopeWire_A
+boundingForTraverse: 10.249738693237305
+bugMask: 3
+generalLife: 1
+instSize: 47892
+mainModel: DgnObj_RopeWire_A_01
+name: RopeWire_DemoCalc
+profile: Rope
+slink: RopeWire
+sortKey: -12
+tags:
+  tagc5b7c123: !u 0xc5b7c123
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,21 @@
+aabbMax:
+  X: 4.1305999755859375
+  Y: 4.006800174713135
+  Z: 0.998445987701416
+aabbMin:
+  X: -3.909830093383789
+  Y: -0.34278300404548645
+  Z: -1.1140400171279907
+bfres: FldObj_RanchRuin_A
+boundingForTraverse: 4.349583148956299
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 39708
+mainModel: FldObj_RanchRuin_Fence_A_02
+name: FldObj_RanchRuin_Fence_A_02
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffffff2a
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

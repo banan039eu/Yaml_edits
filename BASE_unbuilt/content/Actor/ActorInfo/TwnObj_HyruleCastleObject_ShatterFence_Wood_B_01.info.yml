@@ -1,0 +1,29 @@
+aabbMax:
+  X: 3.416490077972412
+  Y: 9.072190284729004
+  Z: 0.37683001160621643
+aabbMin:
+  X: -3.416440010070801
+  Y: -0.0021329999435693026
+  Z: -0.37681299448013306
+attackPower: 0
+bfres: TwnObj_HyruleCastleInside_Corridor_A
+boundingForTraverse: 9.074323654174805
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 33900
+mainModel: TwnObj_HyruleCastleObject_ShatterFence_Wood_B_01
+name: TwnObj_HyruleCastleObject_ShatterFence_Wood_B_01
+profile: MapDynamicActive
+rigidBodyCenterY: 4.0
+slink: DgnObj_FenceDynamic_A
+sortKey: -22
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

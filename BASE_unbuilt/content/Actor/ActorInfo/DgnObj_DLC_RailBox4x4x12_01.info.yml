@@ -1,0 +1,27 @@
+aabbMax:
+  X: 2.0
+  Y: 12.0
+  Z: 2.0984699726104736
+aabbMin:
+  X: -2.0
+  Y: -1.9999999949504854e-06
+  Z: -2.0984699726104736
+attackPower: 0
+bfres: DgnObj_DLC_BoxParts_A
+boundingForTraverse: 12.000001907348633
+bugMask: 3
+elink: DgnObj_DLC_RailBox4x4x12_01
+generalLife: 100
+instSize: 51836
+mainModel: DgnObj_DLC_RailBox4x4x12_01
+name: DgnObj_DLC_RailBox4x4x12_01
+profile: MapDynamicActive
+rigidBodyCenterY: 6.0
+slink: DgnObj_DLC_RailBox4x4x12_01
+sortKey: -20
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag507efd18: 1350499608
+  tagfce54acb: !u 0xfce54acb
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,26 @@
+aabbMax:
+  X: 132.0850067138672
+  Y: 75.17350006103516
+  Z: 99.99729919433594
+aabbMin:
+  X: -132.5
+  Y: -83.17649841308594
+  Z: -69.21929931640625
+attackPower: 0
+bfres: DgnObj_IbutsuWindSit_A_Far
+boundingForTraverse: 158.35000610351562
+bugMask: 1
+elink: Test_SitRemainsWind
+generalLife: 100
+instSize: 29780
+mainModel: DgnObj_IbutsuWindSit_A_01_Far
+name: SitRemainsWind_Far
+profile: MapConstActive
+rigidBodyCenterY: 35.09450149536133
+sortKey: -4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+traverseDist: 100000.0
+yLimitAlgorithm: NoLimit

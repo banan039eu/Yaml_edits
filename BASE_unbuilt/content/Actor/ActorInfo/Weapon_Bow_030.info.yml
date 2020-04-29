@@ -1,0 +1,77 @@
+Chemical:
+  Capaciter: 1
+aabbMax:
+  X: 0.23373599350452423
+  Y: 0.07141099870204926
+  Z: 0.9232630133628845
+aabbMin:
+  X: -0.457273006439209
+  Y: -0.07269299775362015
+  Z: -0.9232630133628845
+attackPower: 36
+bfres: Weapon_Bow_030
+boundingForTraverse: 0.14410400390625
+bowArrowName: ''
+bowIsLeadShot: false
+bowIsRapidFire: false
+bowLeadShotNum: 5
+bowRapidFireNum: 3
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Bow
+generalLife: 50
+homeArea:
+- name: HeburaMountains
+- name: TamulPlateau
+- name: CentralHyrule
+instSize: 49140
+itemBuyingPrice: 50
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 16
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Bow_030
+name: Weapon_Bow_030
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponBow
+slink: Weapon_Bow_Metal
+sortKey: 14532
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 11
+weaponCommonPoweredSharpAddAtkMin: 7
+weaponCommonPoweredSharpAddLifeMax: 25
+weaponCommonPoweredSharpAddLifeMin: 11
+weaponCommonPoweredSharpAddRapidFireMax: 1.2999999523162842
+weaponCommonPoweredSharpAddRapidFireMin: 1.100000023841858
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 0
+weaponCommonSharpWeaponAddAtkMax: 6
+weaponCommonSharpWeaponAddAtkMin: 3
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 10
+weaponCommonSharpWeaponAddLifeMin: 5
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+xlink: Weapon
+yLimitAlgorithm: NoLimit

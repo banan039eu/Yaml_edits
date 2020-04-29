@@ -1,0 +1,13 @@
+bugMask: 1
+generalLife: 100
+instSize: 14144
+name: NPC_CaptionVoice
+profile: DemoNPC
+sortKey: 1001
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2a2d0822: 707594274
+  tag81bb74bd: !u 0x81bb74bd
+xlink: Npc
+yLimitAlgorithm: NoLimit

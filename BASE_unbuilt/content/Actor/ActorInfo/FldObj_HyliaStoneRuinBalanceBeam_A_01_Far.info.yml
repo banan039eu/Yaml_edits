@@ -1,0 +1,23 @@
+aabbMax:
+  X: 11.165800094604492
+  Y: 6.841650009155273
+  Z: 6.888790130615234
+aabbMin:
+  X: -16.375
+  Y: -0.11411400139331818
+  Z: -8.04263973236084
+bfres: FldObj_HyliaStoneRuin_A_Far
+boundingForTraverse: 6.955763816833496
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 117496
+mainModel: FldObj_HyliaStoneRuinBalanceBeam_A_01_Far
+name: FldObj_HyliaStoneRuinBalanceBeam_A_01_Far
+profile: MapConstPassive
+sortKey: -15
+tags:
+  tag57fd54ce: 1476220110
+  tag6bddf03c: 1809707068
+  tagdeb8e664: !u 0xdeb8e664
+traverseDist: 800.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,8 @@
+bugMask: 3
+elink: VolcanoEruption
+instSize: 7300
+name: VolcanoEruption
+profile: SoleTag
+slink: VolcanoEruption
+sortKey: 16
+yLimitAlgorithm: NoLimit

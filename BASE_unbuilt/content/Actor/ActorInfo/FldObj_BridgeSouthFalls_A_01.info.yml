@@ -1,0 +1,19 @@
+aabbMax:
+  X: 1.9310799837112427
+  Y: 21.440399169921875
+  Z: 112.39099884033203
+aabbMin:
+  X: -57.89580154418945
+  Y: -49.98929977416992
+  Z: -112.40699768066406
+bfres: FldObj_BridgeSouthFalls_A
+boundingForTraverse: 71.42970275878906
+bugMask: 0
+instSize: 103380
+isHasFar: true
+mainModel: FldObj_BridgeSouthFalls_A_01
+name: FldObj_BridgeSouthFalls_A_01
+profile: MapConstPassive
+sortKey: -4
+traverseDist: 732.6228637695312
+yLimitAlgorithm: NoLimit

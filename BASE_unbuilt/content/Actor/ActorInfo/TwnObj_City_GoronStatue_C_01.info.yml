@@ -1,0 +1,24 @@
+aabbMax:
+  X: 72.24040222167969
+  Y: 123.01799774169922
+  Z: 79.18319702148438
+aabbMin:
+  X: -69.72820281982422
+  Y: 14.646499633789062
+  Z: -37.81760025024414
+bfres: TwnObj_City_GoronStatue_A
+boundingForTraverse: 108.37149810791016
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 50816
+isHasFar: true
+mainModel: TwnObj_City_GoronStatue_C_01
+name: TwnObj_City_GoronStatue_C_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag3c39db92: 1010424722
+terrainTextures:
+- 959455767
+traverseDist: 683.9681396484375
+yLimitAlgorithm: NoLimit

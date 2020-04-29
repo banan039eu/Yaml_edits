@@ -1,0 +1,22 @@
+aabbMax:
+  X: 67.06639862060547
+  Y: 58.96889877319336
+  Z: 32.291500091552734
+aabbMin:
+  X: -69.79509735107422
+  Y: -14.991399765014648
+  Z: -9.832019805908203
+bfres: FldObj_CliffOrange_A_Far
+boundingForTraverse: 73.96029663085938
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18932
+mainModel: FldObj_CliffOrange_A_07_Far
+name: FldObj_CliffOrange_A_07_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+traverseDist: 8000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,52 @@
+aabbMax:
+  X: 0.1573300063610077
+  Y: 0.16274799406528473
+  Z: 0.5170230269432068
+aabbMin:
+  X: -0.14598700404167175
+  Y: -0.12055400013923645
+  Z: -0.6184819936752319
+arrowArrowDeletePer: 0
+arrowArrowNum: 5
+arrowDeleteTime: 0
+arrowDeleteTimeWithChemical: 0
+arrowEnemyShootNumForDelete: 0
+bfres: Item_ArrowAncient_A
+boundingForTraverse: 0.2833020091056824
+bugMask: 3
+cursorOffsetY: 0.20000000298023224
+generalLife: 100
+instSize: 41996
+itemBuyingPrice: 400
+itemCreatingPrice: 400
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Item_ArrowAncient_A
+name: Obj_AncientArrow_B_01
+normal0ItemName01: Item_Enemy_28
+normal0ItemName02: Item_Enemy_29
+normal0ItemName03: NormalArrow
+normal0ItemNum01: 5
+normal0ItemNum02: 5
+normal0ItemNum03: 5
+normal0StuffNum: 3
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+slink: Obj_Arrow
+sortKey: 62
+systemIsGetItemSelf: true
+systemSameGroupActorName: AncientArrow
+tags:
+  tag19f6c13a: 435601722
+  tag2755f107: 659943687
+  tag2cef9fdc: 753901532
+  tag80e484a4: !u 0x80e484a4
+  tag9b44906f: !u 0x9b44906f
+  tagd1e9663c: !u 0xd1e9663c
+  tagdeb2c8bd: !u 0xdeb2c8bd
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

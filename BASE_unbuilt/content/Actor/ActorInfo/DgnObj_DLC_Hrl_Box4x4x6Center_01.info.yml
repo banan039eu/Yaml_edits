@@ -1,0 +1,18 @@
+aabbMax:
+  X: 2.0
+  Y: 6.0
+  Z: 2.0
+aabbMin:
+  X: -2.0
+  Y: 0.0
+  Z: -2.0
+bfres: DgnObj_DLC_Hrl_BoxParts_A
+boundingForTraverse: 6.0
+bugMask: 0
+instSize: 17140
+mainModel: DgnObj_DLC_Hrl_Box4x4x6Center_01
+name: DgnObj_DLC_Hrl_Box4x4x6Center_01
+profile: MapConstPassive
+sortKey: -18
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

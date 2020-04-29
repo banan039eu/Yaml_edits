@@ -1,0 +1,20 @@
+aabbMax:
+  X: 20.328399658203125
+  Y: 27.76129913330078
+  Z: 13.775300025939941
+aabbMin:
+  X: -19.665800094604492
+  Y: -0.047178998589515686
+  Z: -13.775300025939941
+bfres: FldObj_SpiderMountain_A
+boundingForTraverse: 27.8084774017334
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 73032
+isHasFar: true
+mainModel: FldObj_SpiderMountainWall_A_05
+name: FldObj_SpiderMountainWall_A_05
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 548.5651245117188
+yLimitAlgorithm: NoLimit

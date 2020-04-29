@@ -1,0 +1,28 @@
+aabbMax:
+  X: 3.56072998046875
+  Y: 1.3676199913024902
+  Z: 3.56072998046875
+aabbMin:
+  X: -3.56072998046875
+  Y: 0.7360079884529114
+  Z: -3.56072998046875
+attackPower: 0
+bfres: DgnObj_SwitchCapstan_B
+boundingForTraverse: 0.6316120028495789
+bugMask: 3
+cursorOffsetY: 0.5
+elink: DgnObj_SwitchCapstan_A
+generalLife: 100
+instSize: 31340
+mainModel: DgnObj_SwitchCapstan_B_01
+name: DgnObj_SwitchCapstan_B_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.9644179940223694
+slink: DgnObj_SwitchCapstan_A
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag6a7a4c11: 1786399761
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

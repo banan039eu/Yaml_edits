@@ -1,0 +1,17 @@
+aabbMax:
+  X: 0.02529899962246418
+  Y: 2.4311299324035645
+  Z: 0.9420740008354187
+aabbMin:
+  X: -0.07623299956321716
+  Y: 1.5389900207519531
+  Z: 0.3900650143623352
+bfres: SklHorse_Mane_GrabbedModel
+boundingForTraverse: 0.8921399712562561
+bugMask: 1
+instSize: 26632
+mainModel: SklHorse_Mane_GrabbedModel
+name: Horse_Link_Mane_Grabbed_Bone
+profile: HorseReins
+sortKey: 0
+yLimitAlgorithm: NoLimit

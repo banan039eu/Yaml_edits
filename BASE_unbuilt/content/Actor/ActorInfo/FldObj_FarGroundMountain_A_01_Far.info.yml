@@ -1,0 +1,24 @@
+aabbMax:
+  X: 17389.19921875
+  Y: 1063.02001953125
+  Z: 14530.400390625
+aabbMin:
+  X: -20211.19921875
+  Y: -1737.449951171875
+  Z: -20575.69921875
+bfres: FldObj_FarGroundMountain_A_Far
+boundingForTraverse: 2800.469970703125
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+mainModel: FldObj_FarGroundMountain_A_01_Far
+name: FldObj_FarGroundMountain_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag84f40ec6: !u 0x84f40ec6
+terrainTextures:
+- 1277104896
+traverseDist: 100000.0
+yLimitAlgorithm: NoLimit

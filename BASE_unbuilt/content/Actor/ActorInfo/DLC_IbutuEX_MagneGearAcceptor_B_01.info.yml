@@ -1,0 +1,13 @@
+attackPower: 0
+bugMask: 1
+generalLife: 100
+instSize: 5884
+name: DLC_IbutuEX_MagneGearAcceptor_B_01
+profile: MapConstActive
+sortKey: -62
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag7fe6e43f: 2145838143
+  tagc3155b04: !u 0xc3155b04
+yLimitAlgorithm: NoLimit

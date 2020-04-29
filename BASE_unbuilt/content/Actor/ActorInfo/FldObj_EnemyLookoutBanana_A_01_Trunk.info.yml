@@ -1,0 +1,36 @@
+aabbMax:
+  X: 0.5918070077896118
+  Y: 11.651399612426758
+  Z: 0.38913100957870483
+aabbMin:
+  X: -0.6824550032615662
+  Y: 1.100000023841858
+  Z: -0.7143300175666809
+attackPower: 12
+bfres: FldObj_EnemyBaseBanana_A
+boundingForTraverse: 10.551399230957031
+bugMask: 3
+cursorOffsetY: 0.5
+drops:
+  Normal:
+  - Obj_FireWoodBundle
+  Normal2:
+  - Obj_FireWoodBundle
+elink: FldObj_EnemyLookoutBanana_A_01_Trunk
+generalLife: 12
+instSize: 87268
+mainModel: FldObj_Log_EnemyLookoutBanana_A_01
+name: FldObj_EnemyLookoutBanana_A_01_Trunk
+profile: MapDynamicPassive
+rigidBodyCenterY: 6.382190227508545
+slink: FldObj_EnemyLookoutBanana_A_01_Trunk
+sortKey: 3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0f5e860e: 257852942
+  tag6a7a4c11: 1786399761
+  tagc28d054e: !u 0xc28d054e
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

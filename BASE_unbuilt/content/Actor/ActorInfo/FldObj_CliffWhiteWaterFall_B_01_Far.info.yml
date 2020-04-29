@@ -1,0 +1,24 @@
+aabbMax:
+  X: 57.41910171508789
+  Y: 47.59450149536133
+  Z: 34.649600982666016
+aabbMin:
+  X: -43.23569869995117
+  Y: -4.063769817352295
+  Z: -22.334199905395508
+bfres: FldObj_CliffWhite_B_Far
+boundingForTraverse: 51.65827178955078
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 39676
+mainModel: FldObj_CliffWhiteWaterFall_B_01_Far
+name: FldObj_CliffWhiteWaterFall_B_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- 522064384
+- !u 0xffffff4c
+yLimitAlgorithm: NoLimit

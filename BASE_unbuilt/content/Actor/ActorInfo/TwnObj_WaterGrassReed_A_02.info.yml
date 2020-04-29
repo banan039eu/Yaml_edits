@@ -1,0 +1,33 @@
+aabbMax:
+  X: 0.6559849977493286
+  Y: 1.7386800050735474
+  Z: 0.7074379920959473
+aabbMin:
+  X: -0.6929730176925659
+  Y: -0.4757010042667389
+  Z: -0.6553869843482971
+attackPower: 0
+bfres: Obj_Plant_WaterGrassReed_A
+boundingForTraverse: 2.214380979537964
+bugMask: 2
+elink: TwnObj_WaterGrassReed_A_02
+generalLife: 100
+instSize: 23252
+mainModel: Obj_Plant_WaterGrassReed_A_02
+name: TwnObj_WaterGrassReed_A_02
+profile: MapDynamicPassive
+slink: Plant_WithGrassShake
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag04ed2c94: 82652308
+  tag33a8d85c: 866703452
+  tag4436fdc7: 1144454599
+  tag50fb41e2: 1358643682
+  tag51ed35a6: 1374500262
+  tag71b038f6: 1907374326
+  tagb8f1226a: !u 0xb8f1226a
+  tagcc42661b: !u 0xcc42661b
+  tage91ea5f6: !u 0xe91ea5f6
+yLimitAlgorithm: NoLimit

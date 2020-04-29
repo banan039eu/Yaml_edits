@@ -1,0 +1,39 @@
+aabbMax:
+  X: 1.1541999578475952
+  Y: 0.20993000268936157
+  Z: 0.54093998670578
+aabbMin:
+  X: -1.1532200574874878
+  Y: -0.21397699415683746
+  Z: -0.7641599774360657
+attackPower: 0
+bfres: Animal_Pigeon_GlideModel
+boundingForTraverse: 0.42390701174736023
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 1
+instSize: 99500
+invalidTimes:
+- Night_A
+- Night_B
+invalidWeathers:
+- HeavyRain
+- Snow
+- HeavySnow
+- ThunderRain
+mainModel: Pigeon_GlideModel
+name: Animal_Pigeon_Swarm_HeapMeasure
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Swarm
+sortKey: -16
+systemIsGetItemSelf: false
+systemSameGroupActorName: Animal_Pigeon_A
+tags:
+  tag0f21f135: 253882677
+  tag24cd75fe: 617444862
+  tagc28d054e: !u 0xc28d054e
+  tagc5b7c123: !u 0xc5b7c123
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

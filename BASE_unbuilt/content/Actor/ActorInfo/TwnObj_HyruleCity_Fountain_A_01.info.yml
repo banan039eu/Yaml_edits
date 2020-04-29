@@ -1,0 +1,21 @@
+aabbMax:
+  X: 20.967500686645508
+  Y: 14.711899757385254
+  Z: 20.969999313354492
+aabbMin:
+  X: -20.967500686645508
+  Y: -0.12249000370502472
+  Z: -20.967500686645508
+bfres: TwnObj_HyruleCity_A
+boundingForTraverse: 14.834389686584473
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 220252
+mainModel: TwnObj_HyruleCity_Fountain_A_01
+name: TwnObj_HyruleCity_Fountain_A_01
+profile: MapConstPassive
+sortKey: -12
+tags:
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

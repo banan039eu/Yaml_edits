@@ -1,0 +1,79 @@
+Chemical:
+  Burnable: 1
+aabbMax:
+  X: 0.1830880045890808
+  Y: 0.06524699926376343
+  Z: 0.7753310203552246
+aabbMin:
+  X: -0.1319579929113388
+  Y: -0.06524699926376343
+  Z: -0.7753310203552246
+attackPower: 14
+bfres: Weapon_Bow_002
+boundingForTraverse: 0.13049300014972687
+bowArrowName: ''
+bowIsLeadShot: false
+bowIsRapidFire: false
+bowLeadShotNum: 0
+bowRapidFireNum: 0
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Bow
+generalLife: 36
+homeArea:
+- name: CentralHyrule
+- name: FironeGrassland
+- name: EastHateru
+instSize: 49012
+itemBuyingPrice: 70
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 18
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Bow_002
+name: Weapon_Bow_002
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponBow
+slink: Weapon_Bow_WoodWithMetal
+sortKey: 14111
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag86329440: !u 0x86329440
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 11
+weaponCommonPoweredSharpAddAtkMin: 7
+weaponCommonPoweredSharpAddLifeMax: 11
+weaponCommonPoweredSharpAddLifeMin: 7
+weaponCommonPoweredSharpAddRapidFireMax: 1.2999999523162842
+weaponCommonPoweredSharpAddRapidFireMin: 1.100000023841858
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 5
+weaponCommonSharpWeaponAddAtkMax: 6
+weaponCommonSharpWeaponAddAtkMin: 3
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 6
+weaponCommonSharpWeaponAddLifeMin: 3
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+xlink: Weapon
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,25 @@
+aabbMax:
+  X: 0.6129999756813049
+  Y: 1.8264600038528442
+  Z: 1.0592299699783325
+aabbMin:
+  X: -0.6129999756813049
+  Y: -0.3096260130405426
+  Z: -1.0271899700164795
+attackPower: 0
+bfres: FldObj_RuinStatueOwl_A
+boundingForTraverse: 2.1360859870910645
+bugMask: 2
+elink: FldObj_DarkWoodsCandle
+generalLife: 100
+instSize: 50024
+mainModel: FldObj_RuinStatueOwlCandle_A_01
+name: FldObj_DarkWoodsCandleOn
+profile: MapDynamicActive
+rigidBodyCenterY: 0.8105310201644897
+slink: CandleGround
+sortKey: -41
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 400.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,22 @@
+aabbMax:
+  X: 2.1099300384521484
+  Y: 0.19776399433612823
+  Z: 0.7696729898452759
+aabbMin:
+  X: -1.8560500144958496
+  Y: -0.15000000596046448
+  Z: -0.827360987663269
+bfres: TwnObj_HyruleCity_A
+boundingForTraverse: 0.3477639853954315
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38172
+mainModel: TwnObj_HyruleCity_FlowerBed_A_01
+name: TwnObj_HyruleCity_FlowerBed_A_01
+profile: MapConstPassive
+sortKey: -6
+tags:
+  taga1c9da5d: !u 0xa1c9da5d
+terrainTextures:
+- !u 0xffffff18
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,32 @@
+aabbMax:
+  X: 1.6152299642562866
+  Y: 1.135740041732788
+  Z: 0.8955079913139343
+aabbMin:
+  X: -1.6152299642562866
+  Y: -0.0438230000436306
+  Z: -1.0439499616622925
+bfres: Item_Parastole2_Vagrant
+boundingForTraverse: 1.179563045501709
+bugMask: 1
+elink: PlayerStole2
+generalLife: 100
+instSize: 35684
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Item_Parastole2_Vagrant
+name: PlayerStole2_Vagrant
+profile: PlayerItem
+sortKey: 50043
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag1c0c8d23: 470584611
+  tag4850af43: 1213247299
+  tag76970ea4: 1989611172
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,9 @@
+bugMask: 3
+elink: Camera
+instSize: 64428
+name: GameRomCamera
+profile: Camera
+slink: Camera
+sortKey: 0
+xlink: Camera
+yLimitAlgorithm: NoLimit

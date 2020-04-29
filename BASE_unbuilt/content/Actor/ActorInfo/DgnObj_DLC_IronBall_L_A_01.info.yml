@@ -1,0 +1,29 @@
+aabbMax:
+  X: 2.5
+  Y: 2.5
+  Z: 2.5
+aabbMin:
+  X: -2.5
+  Y: -2.5
+  Z: -2.5
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuObj_B
+boundingForTraverse: 5.0
+bugMask: 2
+elink: IronBall
+generalLife: 100
+instSize: 31468
+mainModel: DgnObj_DLC_IronBall_L_A_01
+name: DgnObj_DLC_IronBall_L_A_01
+profile: MapDynamicActive
+slink: DgnObj_DLC_IronBall_L_A_01
+sortKey: -7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag507efd18: 1350499608
+  tag8e8a8052: !u 0x8e8a8052
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,38 @@
+aabbMax:
+  X: 1.4206500053405762
+  Y: 3.173229932785034
+  Z: 2.1846799850463867
+aabbMin:
+  X: -1.9487500190734863
+  Y: -0.4327259957790375
+  Z: -0.8212080001831055
+boundingForTraverse: 3.6059560775756836
+bugMask: 3
+cursorOffsetY: 0.8999999761581421
+elink: UMii_Goron_M_Backpack
+instSize: 356876
+name: Npc_Road_007
+profile: NPC
+slink: Npc_Goron_M
+sortKey: 5
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+travelerAppearGameDataName: FirstTouchdown
+travelerDeleteGameDataName: ''
+travelerRideHorseName: ''
+travelerRoutePoint0Name: RoadDeathMtEnt_UYD00
+travelerRoutePoint1Name: RoadDeathMtEnt_JCT03
+travelerRoutePoint2Name: RoadDeathMtEnt_JCT02
+travelerRoutePoint3Name: RoadDeathMtEnt_JCT01
+travelerRoutePoint4Name: RoadDeathMtEnt_JCT00
+travelerRoutePoint5Name: H3_MID_00
+travelerRoutePoint6Name: RoadDeathMtEnt_STP00
+travelerRoutePoint7Name: H3_JCT_11
+travelerRoutePoint8Name: H3_JCT_02
+travelerRoutePoint9Name: H3_GOAL_02
+travelerRouteType: ''
+traverseDist: 200.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

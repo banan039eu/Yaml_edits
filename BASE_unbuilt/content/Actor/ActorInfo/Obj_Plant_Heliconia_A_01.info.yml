@@ -1,0 +1,35 @@
+aabbMax:
+  X: 1.4895600080490112
+  Y: 1.440459966659546
+  Z: 1.6922500133514404
+aabbMin:
+  X: -1.4810700416564941
+  Y: -0.5052989721298218
+  Z: -1.3495399951934814
+attackPower: 0
+bfres: Obj_Plant_Heliconia_A
+boundingForTraverse: 1.9457590579986572
+bugMask: 2
+cursorOffsetY: 0.5
+elink: Obj_Plant_Heliconia_A_01
+generalLife: 100
+instSize: 24148
+mainModel: Obj_Plant_Heliconia_A_01
+name: Obj_Plant_Heliconia_A_01
+profile: MapDynamicPassive
+slink: Plant
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag1f4b9ede: 525049566
+  tag206f0b59: 544148313
+  tag4436fdc7: 1144454599
+  tag50fb41e2: 1358643682
+  tag51ed35a6: 1374500262
+  tag55ef2d02: 1441737986
+  tagb827b886: !u 0xb827b886
+  tagb8f1226a: !u 0xb8f1226a
+  tage91ea5f6: !u 0xe91ea5f6
+  tage9411376: !u 0xe9411376
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,32 @@
+aabbMax:
+  X: 1.6100800037384033
+  Y: 0.33507201075553894
+  Z: 1.773800015449524
+aabbMin:
+  X: -2.072619915008545
+  Y: -0.18976399302482605
+  Z: -1.5814100503921509
+attackPower: 0
+bfres: Obj_Plant_WaterSeaweed_A
+boundingForTraverse: 0.524836003780365
+bugMask: 2
+cursorOffsetY: 0.5
+elink: Obj_Plant_WaterSeaweed_A_01
+generalLife: 100
+instSize: 21932
+mainModel: Obj_Plant_WaterSeaweed_A_01
+name: Obj_Plant_WaterSeaweed_A_01
+profile: MapDynamicPassive
+slink: Plant
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag04ed2c94: 82652308
+  tag3b5d3796: 995964822
+  tag50fb41e2: 1358643682
+  tag50fce56f: 1358751087
+  tag51ed35a6: 1374500262
+  tag85aee6eb: !u 0x85aee6eb
+  tage91ea5f6: !u 0xe91ea5f6
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,24 @@
+aabbMax:
+  X: 50.1614990234375
+  Y: 11.486300468444824
+  Z: 53.24610137939453
+aabbMin:
+  X: -45.48149871826172
+  Y: -0.9437680244445801
+  Z: -10.69260025024414
+bfres: FldObj_CliffYellow_A
+boundingForTraverse: 12.430068969726562
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 39196
+isHasFar: true
+mainModel: FldObj_CliffYellowWall_A_10
+name: FldObj_CliffYellowWall_A_10
+profile: MapConstPassive
+sortKey: -6
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- 1279139584
+traverseDist: 615.0466918945312
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,19 @@
+aabbMax:
+  X: 1.6796200275421143
+  Y: 1.191290020942688
+  Z: 1.931339979171753
+aabbMin:
+  X: -1.41497004032135
+  Y: -0.2779110074043274
+  Z: -1.6866199970245361
+bfres: FldObj_GerudoDesertRock
+boundingForTraverse: 1.4692009687423706
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28760
+mainModel: FldObj_GerudoDesertRock_A_13
+name: FldObj_GerudoDesertRock_A_13
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

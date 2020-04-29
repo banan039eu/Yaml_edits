@@ -1,0 +1,36 @@
+aabbMax:
+  X: 0.42574599385261536
+  Y: 6.101970195770264
+  Z: 0.4532420039176941
+aabbMin:
+  X: -0.4408169984817505
+  Y: 1.100000023841858
+  Z: -0.4351699948310852
+attackPower: 12
+bfres: FldObj_ScaffoldWood_A
+boundingForTraverse: 5.001969814300537
+bugMask: 3
+cursorOffsetY: 0.5
+drops:
+  Normal:
+  - Obj_FireWoodBundle
+  Normal2:
+  - Obj_FireWoodBundle
+elink: FldObj_ScaffoldWood_A_03_Trunk
+generalLife: 12
+instSize: 73152
+mainModel: FldObj_Log_ScaffoldWood_A_03
+name: FldObj_ScaffoldWood_A_03_Trunk
+profile: MapDynamicPassive
+rigidBodyCenterY: 3.600990056991577
+slink: FldObj_ScaffoldWood_A_03_Trunk
+sortKey: -5
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0f5e860e: 257852942
+  tag6a7a4c11: 1786399761
+  tagc28d054e: !u 0xc28d054e
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

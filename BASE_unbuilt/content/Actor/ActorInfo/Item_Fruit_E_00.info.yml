@@ -1,0 +1,34 @@
+aabbMax:
+  X: 0.21981100738048553
+  Y: 0.2519429922103882
+  Z: 0.23178799450397491
+aabbMin:
+  X: -0.2289070039987564
+  Y: -0.19522599875926971
+  Z: -0.23241199553012848
+bfres: Obj_Plant_Lotus_A
+boundingForTraverse: 0.4471690058708191
+bugMask: 3
+cursorOffsetY: 0.4000000059604645
+elink: GetItem
+generalLife: 100
+instSize: 38160
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Obj_FruitLotusSeeds_A
+name: Item_Fruit_E_00
+profile: Item
+rigidBodyCenterY: 0.05000000074505806
+slink: Item_Fruit
+sortKey: 31090
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag653623d0: 1698046928
+  tagd53a8775: !u 0xd53a8775
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

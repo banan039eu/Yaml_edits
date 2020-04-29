@@ -1,0 +1,50 @@
+aabbMax:
+  X: 0.16356399655342102
+  Y: 0.11471600085496902
+  Z: 0.5723599791526794
+aabbMin:
+  X: -0.1796949952840805
+  Y: -0.14675000309944153
+  Z: -0.609112024307251
+arrowArrowDeletePer: 0
+arrowArrowNum: 10
+arrowDeleteTime: 0
+arrowDeleteTimeWithChemical: 0
+arrowEnemyShootNumForDelete: 0
+bfres: Item_ArrowIce_A
+boundingForTraverse: 0.26146599650382996
+bugMask: 3
+cursorOffsetY: 0.20000000298023224
+generalLife: 100
+instSize: 40584
+itemBuyingPrice: 140
+itemCreatingPrice: 10
+itemSaleRevivalCount: 50
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Item_ArrowIce_A
+name: Obj_IceArrow_A_02
+normal0ItemName01: NormalArrow
+normal0ItemName02: Item_Ore_C
+normal0ItemNum01: 10
+normal0ItemNum02: 1
+normal0StuffNum: 2
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+slink: Obj_Arrow
+sortKey: 32
+systemIsGetItemSelf: true
+systemSameGroupActorName: IceArrow
+tags:
+  tag19f6c13a: 435601722
+  tag2755f107: 659943687
+  tag2cef9fdc: 753901532
+  tag80e484a4: !u 0x80e484a4
+  tag9b44906f: !u 0x9b44906f
+  tagd1e9663c: !u 0xd1e9663c
+  tagdeb2c8bd: !u 0xdeb2c8bd
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

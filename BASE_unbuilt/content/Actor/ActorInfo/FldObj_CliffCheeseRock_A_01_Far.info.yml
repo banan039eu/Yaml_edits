@@ -1,0 +1,22 @@
+aabbMax:
+  X: 14.401599884033203
+  Y: 20.322200775146484
+  Z: 15.44950008392334
+aabbMin:
+  X: -9.577449798583984
+  Y: -0.9698389768600464
+  Z: -9.62816047668457
+bfres: FldObj_CliffCheese_A_Far
+boundingForTraverse: 21.29203987121582
+bugMask: 0
+instSize: 27608
+mainModel: FldObj_CliffCheeseRock_A_01_Far
+name: FldObj_CliffCheeseRock_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff3c
+yLimitAlgorithm: NoLimit

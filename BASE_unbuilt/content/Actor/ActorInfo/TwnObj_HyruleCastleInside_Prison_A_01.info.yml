@@ -1,0 +1,25 @@
+aabbMax:
+  X: 70.07710266113281
+  Y: 29.643699645996094
+  Z: 43.59880065917969
+aabbMin:
+  X: -65.33989715576172
+  Y: -3.0296599864959717
+  Z: -100.48500061035156
+bfres: TwnObj_HyruleCastleInside_Prison_A
+boundingForTraverse: 32.67335891723633
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 284832
+mainModel: TwnObj_HyruleCastleInside_Prison_A_01
+name: TwnObj_HyruleCastleInside_Prison_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+terrainTextures:
+- !u 0xff531d11
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

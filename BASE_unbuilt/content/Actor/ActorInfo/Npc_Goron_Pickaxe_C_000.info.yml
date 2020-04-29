@@ -1,0 +1,55 @@
+aabbMax:
+  X: 1.56358003616333
+  Y: 0.2419459968805313
+  Z: 2.498579978942871
+aabbMin:
+  X: -1.56358003616333
+  Y: -0.2419459968805313
+  Z: -0.9810469746589661
+attackPower: 0
+bfres: Npc_Goron_Pickaxe_C_000
+boundingForTraverse: 0.4838919937610626
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 26980
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Npc_Goron_Pickaxe_C_000
+name: Npc_Goron_Pickaxe_C_000
+profile: WeaponSmallSword
+slink: Npc_Goron_Pickaxe_C_000
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  taga86b29f1: !u 0xa86b29f1
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 0
+weaponCommonPoweredSharpAddAtkMin: 0
+weaponCommonPoweredSharpAddLifeMax: 0
+weaponCommonPoweredSharpAddLifeMin: 0
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 0
+weaponCommonSharpWeaponAddAtkMax: 0
+weaponCommonSharpWeaponAddAtkMin: 0
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 0
+weaponCommonSharpWeaponAddLifeMin: 0
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+yLimitAlgorithm: NoLimit

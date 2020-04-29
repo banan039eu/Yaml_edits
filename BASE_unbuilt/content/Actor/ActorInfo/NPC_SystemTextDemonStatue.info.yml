@@ -1,0 +1,12 @@
+bugMask: 1
+instSize: 15208
+name: NPC_SystemTextDemonStatue
+profile: NPC
+sortKey: 1001
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag09405f8a: 155213706
+  tag2a2d0822: 707594274
+xlink: Npc
+yLimitAlgorithm: NoLimit

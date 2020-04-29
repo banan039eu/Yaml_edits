@@ -1,0 +1,13 @@
+attackPower: 12
+bugMask: 3
+elink: BeamosBeam
+instSize: 15412
+name: BeamosBeam
+profile: LineBeam
+slink: BeamosBeam
+sortKey: -8
+tags:
+  tag3a61e2a9: 979493545
+  tag3d2fc55b: 1026540891
+xlink: OnlyThruDamageToObj
+yLimitAlgorithm: NoLimit

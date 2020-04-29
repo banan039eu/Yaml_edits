@@ -1,0 +1,35 @@
+aabbMax:
+  X: 8.557120323181152
+  Y: 7.407589912414551
+  Z: 5.511149883270264
+aabbMin:
+  X: -8.535289764404297
+  Y: -0.6718500256538391
+  Z: -13.759900093078613
+attackPower: 0
+bfres: FldObj_GoronCannon_A
+boundingForTraverse: 8.079440116882324
+bugMask: 3
+cursorOffsetY: 0.5
+elink: FldObj_GoronCannon_YunBo
+farModelCulling:
+  center:
+    X: 0.0
+    Y: 3.25
+    Z: 0.0
+  height: 3.25
+  radius: 14.0
+generalLife: 100
+instSize: 217168
+mainModel: FldObj_GoronCannon_A_01
+name: FldObj_GoronCannon_YunBo
+profile: MapDynamicActive
+rigidBodyCenterY: 4.350780010223389
+slink: FldObj_GoronCannon_YunBo
+sortKey: 10
+systemIsGetItemSelf: false
+systemSameGroupActorName: FldObj_GoronCannon_A_01
+terrainTextures:
+- !u 0xffffff22
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

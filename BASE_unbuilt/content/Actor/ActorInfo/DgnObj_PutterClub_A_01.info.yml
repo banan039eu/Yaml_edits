@@ -1,0 +1,25 @@
+aabbMax:
+  X: 2.51200008392334
+  Y: 1.2357900142669678
+  Z: 3.75
+aabbMin:
+  X: -5.300000190734863
+  Y: -19.987499237060547
+  Z: -3.75
+attackPower: 0
+bfres: DgnObj_PutterClub_A
+boundingForTraverse: 21.223289489746094
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 48532
+mainModel: DgnObj_PutterClub_A_01
+name: DgnObj_PutterClub_A_01
+profile: MapConstActive
+rigidBodyCenterY: -17.238399505615234
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+yLimitAlgorithm: NoLimit

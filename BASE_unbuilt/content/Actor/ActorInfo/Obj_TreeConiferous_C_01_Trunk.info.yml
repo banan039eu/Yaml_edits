@@ -1,0 +1,67 @@
+aabbMax:
+  X: 3.381279945373535
+  Y: 14.823699951171875
+  Z: 3.2141799926757812
+aabbMin:
+  X: -4.837870121002197
+  Y: -1.6702200174331665
+  Z: -5.265729904174805
+attackPower: 12
+bfres: Obj_TreeConiferous_C
+boundingForTraverse: 16.493919372558594
+bugMask: 3
+drops:
+  Normal:
+  - Obj_FireWoodBundle
+  Normal2:
+  - Obj_FireWoodBundle
+elink: Obj_TreeConiferous_C_01_Trunk
+generalLife: 12
+instSize: 176160
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Obj_Log_TreeConiferous_C_01
+name: Obj_TreeConiferous_C_01_Trunk
+profile: WeaponLargeSword
+rigidBodyCenterY: 6.009960174560547
+slink: Tree_L_Trunk_WithLeaf
+sortKey: 14
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag170cf1e2: 386724322
+  tag2b533845: 726874181
+  tag6a7a4c11: 1786399761
+  tag7f961a16: 2140543510
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 150.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 0
+weaponCommonPoweredSharpAddAtkMin: 0
+weaponCommonPoweredSharpAddLifeMax: 0
+weaponCommonPoweredSharpAddLifeMin: 0
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 0
+weaponCommonSharpWeaponAddAtkMax: 0
+weaponCommonSharpWeaponAddAtkMin: 0
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 0
+weaponCommonSharpWeaponAddLifeMin: 0
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+yLimitAlgorithm: NoLimit

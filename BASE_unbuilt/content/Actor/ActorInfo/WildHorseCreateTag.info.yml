@@ -1,0 +1,7 @@
+bugMask: 1
+instSize: 2320
+name: WildHorseCreateTag
+profile: SoleTag
+sortKey: 2
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

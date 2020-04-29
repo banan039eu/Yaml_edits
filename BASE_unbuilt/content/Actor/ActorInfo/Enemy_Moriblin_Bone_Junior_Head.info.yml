@@ -1,0 +1,46 @@
+aabbMax:
+  X: 0.41256600618362427
+  Y: 1.6072800159454346
+  Z: 1.6246399879455566
+aabbMin:
+  X: -0.36314600706100464
+  Y: -0.08874300122261047
+  Z: -0.4764559864997864
+attackPower: 10
+bfres: Enemy_Moriblin_Bone
+boundingForTraverse: 1.6960229873657227
+bugMask: 3
+cursorOffsetY: 1.0499999523162842
+elink: Stal_Bokoblin_Junior_Head
+enemyRank: 0
+generalLife: 1
+instSize: 83460
+invalidTimes:
+- Morning_A2
+- Morning_B
+- Noon_A
+- Noon_B
+- Evening_A
+- Evening_B
+mainModel: Moriblin_Bone_Head
+name: Enemy_Moriblin_Bone_Junior_Head
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+rigidBodyCenterY: 0.30000001192092896
+slink: Enemy_Moriblin_Bone_Junior_Head
+sortKey: 10604
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_Moriblin_Bone_Junior
+tags:
+  tag0c6690b5: 208048309
+  tag35960905: 899025157
+  tag72d6e7a4: 1926686628
+  tag82ed5778: !u 0x82ed5778
+  tag8fda6cdd: !u 0x8fda6cdd
+  tag994aef4b: !u 0x994aef4b
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagff2ecb67: !u 0xff2ecb67
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,19 @@
+aabbMax:
+  X: 62.49330139160156
+  Y: 22.922500610351562
+  Z: 55.266300201416016
+aabbMin:
+  X: -60.413299560546875
+  Y: 0.39355701208114624
+  Z: -89.95249938964844
+bfres: TwnObj_City_Gerudo_A
+boundingForTraverse: 22.52894401550293
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 73116
+mainModel: TwnObj_City_GerudoWaterFall_A_02
+name: TwnObj_City_GerudoWaterFall_A_02
+profile: MapConstPassive
+sortKey: 26
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

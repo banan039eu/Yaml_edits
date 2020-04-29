@@ -1,0 +1,43 @@
+aabbMax:
+  X: 0.29768499732017517
+  Y: 0.5105900168418884
+  Z: 0.29475900530815125
+aabbMin:
+  X: -0.2978990077972412
+  Y: 0.0
+  Z: -0.2511489987373352
+bfres: Item_Ore_C
+boundingForTraverse: 0.5105900168418884
+bugMask: 1
+cursorOffsetY: 0.3499999940395355
+elink: GetItem
+generalLife: 100
+instSize: 50804
+itemBuyingPrice: 1040
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 260
+itemStainColor: 1
+itemUseIconActorName: ''
+mainModel: Item_Ore_C
+motorcycleEnergy:
+  add: 75.0
+name: Item_Ore_C
+profile: Item
+rigidBodyCenterY: 0.10000000149011612
+sortKey: 36080
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag5de93bac: 1575566252
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagbd7fd9d5: !u 0xbd7fd9d5
+  tagc2ac3213: !u 0xc2ac3213
+  tagd1e9663c: !u 0xd1e9663c
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.3600429892539978
+  Y: 1.962249994277954
+  Z: 0.21983900666236877
+aabbMin:
+  X: -0.37476998567581177
+  Y: -0.00013800000306218863
+  Z: -0.34993600845336914
+bfres: Npc_Shiekah_Heir
+boundingForTraverse: 1.962388038635254
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: NPC
+instSize: 342572
+mainModel: Npc_Shiekah_Heir
+name: Npc_Kakariko002
+profile: NPC
+slink: Npc_Kakariko002
+sortKey: -15
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+traverseDist: 500.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

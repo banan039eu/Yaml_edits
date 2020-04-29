@@ -1,0 +1,24 @@
+aabbMax:
+  X: 5.284979820251465
+  Y: 45.2859992980957
+  Z: 5.850689888000488
+aabbMin:
+  X: -5.291629791259766
+  Y: -0.032756999135017395
+  Z: -4.337019920349121
+bfres: FldObj_RockOrange_A_Far
+boundingForTraverse: 45.318756103515625
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 29912
+mainModel: FldObj_RockOrangePillar_A_02_Far
+name: FldObj_RockOrangePillar_A_02_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff15
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

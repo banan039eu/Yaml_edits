@@ -1,0 +1,20 @@
+aabbMax:
+  X: 19.90180015563965
+  Y: 2.875760078430176
+  Z: 17.367900848388672
+aabbMin:
+  X: -20.255699157714844
+  Y: -3.2475900650024414
+  Z: -18.337400436401367
+bfres: FldObj_DeathMtFootPrint_A
+boundingForTraverse: 6.123350143432617
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+mainModel: FldObj_DeathMtFootPrint_A_01
+name: FldObj_DeathMtFootPrint_A
+profile: MapConstPassive
+sortKey: 9
+terrainTextures:
+- !u 0xffffff32
+yLimitAlgorithm: NoLimit

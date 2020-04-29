@@ -1,0 +1,29 @@
+aabbMax:
+  X: 0.8157600164413452
+  Y: 4.155290126800537
+  Z: 0.6758919954299927
+aabbMin:
+  X: -1.5306700468063354
+  Y: -0.8911669850349426
+  Z: -0.9192429780960083
+attackPower: 0
+bfres: TwnObj_City_GoronArtifact_B
+boundingForTraverse: 5.046456813812256
+bugMask: 1
+cursorOffsetY: 1.2999999523162842
+generalLife: 1
+instSize: 69656
+mainModel: TwnObj_City_GoronSignboard_B_01
+name: TwnObj_City_GoronSignboard_B_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 1.5582599639892578
+sortKey: -8
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2a2d0822: 707594274
+  tagef748738: !u 0xef748738
+terrainTextures:
+- !u 0xffffff22
+traverseDist: 50.0
+yLimitAlgorithm: NoLimit

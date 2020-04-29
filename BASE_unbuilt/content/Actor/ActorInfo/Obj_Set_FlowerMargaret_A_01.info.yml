@@ -1,0 +1,25 @@
+attackPower: 0
+bugMask: 2
+elink: Obj_FlowerMarguerite_A_01
+generalLife: 100
+instSize: 8148
+name: Obj_Set_FlowerMargaret_A_01
+profile: MapDynamicPassive
+slink: Plant
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag206f0b59: 544148313
+  tag3d4375d9: 1027831257
+  tag50fb41e2: 1358643682
+  tag51ed35a6: 1374500262
+  tag55ef2d02: 1441737986
+  tag7de11d78: 2111905144
+  tagd902a8a2: !u 0xd902a8a2
+  tage91ea5f6: !u 0xe91ea5f6
+  tage97dcd22: !u 0xe97dcd22
+  tagef94310b: !u 0xef94310b
+  tagf47b2e0d: !u 0xf47b2e0d
+  tagf5f5d49c: !u 0xf5f5d49c
+yLimitAlgorithm: NoLimit

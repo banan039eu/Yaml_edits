@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.9179689884185791
+  Y: 1.4931600093841553
+  Z: 0.19018599390983582
+aabbMin:
+  X: -0.9179689884185791
+  Y: 0.634788990020752
+  Z: -0.14709100127220154
+armorDefenceAddLevel: 12
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_214_Upper
+armorStarNum: 4
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 1
+bfres: Armor_210
+boundingForTraverse: 0.8583710193634033
+bugMask: 1
+instSize: 131724
+itemBuyingPrice: 60
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 755
+itemStainColor: -1
+itemUseIconActorName: Armor_210_Upper
+mainModel: Armor_210_Upper
+name: Armor_213_Upper
+normal0ItemName01: Armor_212_Upper
+normal0ItemName02: Item_Ore_D
+normal0ItemName03: Item_Ore_J
+normal0ItemNum01: 1
+normal0ItemNum02: 5
+normal0ItemNum03: 1
+normal0StuffNum: 3
+profile: ArmorUpper
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: AmiiboTwilightPrincess
+sortKey: 4422712
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

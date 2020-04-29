@@ -1,0 +1,35 @@
+aabbMax:
+  X: 1.5724200010299683
+  Y: 5.405320167541504
+  Z: 1.7457200288772583
+aabbMin:
+  X: -1.7047200202941895
+  Y: -0.19903099536895752
+  Z: -1.4835699796676636
+attackPower: 0
+bfres: Obj_TreeConiferousLow_A_Snow
+boundingForTraverse: 5.604351043701172
+bugMask: 2
+cursorOffsetY: 0.5
+drops:
+  Normal:
+  - Weapon_Sword_044
+elink: Obj_TreeConiferousLow_A_Snow_01
+generalLife: 100
+instSize: 47452
+mainModel: Obj_TreeConiferousLow_A_Snow_01
+name: Obj_TreeConiferousLow_A_Snow_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 2.0861198902130127
+slink: Tree_Bush
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag572de768: 1462626152
+  tag9adf6fdd: !u 0x9adf6fdd
+  tage91ea5f6: !u 0xe91ea5f6
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

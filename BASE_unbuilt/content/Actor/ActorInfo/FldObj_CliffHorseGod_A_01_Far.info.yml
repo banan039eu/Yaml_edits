@@ -1,0 +1,22 @@
+aabbMax:
+  X: 24.012500762939453
+  Y: 1.8080500364303589
+  Z: 38.9297981262207
+aabbMin:
+  X: -33.74509811401367
+  Y: -30.377099990844727
+  Z: -32.15449905395508
+bfres: FldObj_CliffHorseGod_A_Far
+boundingForTraverse: 32.185150146484375
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: FldObj_CliffHorseGod_A_01_Far
+name: FldObj_CliffHorseGod_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+terrainTextures:
+- !u 0xffff1d11
+yLimitAlgorithm: NoLimit

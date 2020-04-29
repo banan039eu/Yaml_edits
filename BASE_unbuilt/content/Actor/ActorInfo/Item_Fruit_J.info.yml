@@ -1,0 +1,59 @@
+aabbMax:
+  X: 0.3685480058193207
+  Y: 0.6260380148887634
+  Z: 0.3819510042667389
+aabbMin:
+  X: -0.396136999130249
+  Y: -0.0011899999808520079
+  Z: -0.3741439878940582
+bfres: Obj_FruitPumpkin_A
+boundingForTraverse: 0.6272280216217041
+bugMask: 1
+cureItemEffectLevel: 2
+cureItemEffectType: DefenseUp
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 2
+cursorOffsetY: 0.4000000059604645
+elink: GetItem
+generalLife: 100
+homeArea:
+- name: WestHateru
+- name: HyruleForest
+- name: EastHateru
+instSize: 38144
+itemBuyingPrice: 20
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 5
+itemStainColor: 10
+itemUseIconActorName: ''
+mainModel: Obj_FruitPumpkin_A_01
+motorcycleEnergy:
+  add: 50.0
+name: Item_Fruit_J
+pictureBookLiveSpot1: 24
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+rigidBodyCenterY: 0.29559698700904846
+sortKey: 31495
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag14185415: 337138709
+  tag682e5129: 1747865897
+  tag7de11d78: 2111905144
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagbbf08f85: !u 0xbbf08f85
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tage97dcd22: !u 0xe97dcd22
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

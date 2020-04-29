@@ -1,0 +1,60 @@
+aabbMax:
+  X: 2.0624899864196777
+  Y: 4.439219951629639
+  Z: 3.8224899768829346
+aabbMin:
+  X: -2.125920057296753
+  Y: -0.03470800071954727
+  Z: -1.0935699939727783
+attackPower: 24
+bfres: Enemy_Moriblin
+boundingForTraverse: 4.473927974700928
+bugMask: 3
+cursorOffsetY: 0.75
+drops:
+  Normal:
+  - Item_Ore_D
+  - Item_Ore_B
+  - Item_Ore_C
+  - Item_Ore_A
+  Normal2:
+  - Item_Ore_F
+  - Item_Ore_E
+  - Item_Ore_D
+  - Item_Ore_B
+  - Item_Ore_C
+  - Item_Ore_A
+  Normal3:
+  - Item_Enemy_08
+  Normal4:
+  - Item_Enemy_07
+  Normal5:
+  - Item_Enemy_06
+elink: Moriblin
+enemyRank: 34
+generalLife: 1080
+instSize: 418964
+mainModel: Moriblin_Blue
+name: Enemy_Moriblin_Dark
+pictureBookLiveSpot1: 21
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+slink: Moriblin
+sortKey: 607
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_Moriblin_Dark
+tags:
+  tag255b5760: 626743136
+  tag36565b66: 911629158
+  tag4806038d: 1208353677
+  tag485bf81d: 1213986845
+  tag82ed5778: !u 0x82ed5778
+  tag8fda6cdd: !u 0x8fda6cdd
+  tag994aef4b: !u 0x994aef4b
+  taga7e979db: !u 0xa7e979db
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagf2e5b2f2: !u 0xf2e5b2f2
+traverseDist: 150.0
+xlink: Biped_Enemy
+yLimitAlgorithm: LimitYDiff

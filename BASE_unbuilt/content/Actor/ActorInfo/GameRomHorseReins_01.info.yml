@@ -1,0 +1,22 @@
+aabbMax:
+  X: 0.3154299855232239
+  Y: 2.4530398845672607
+  Z: 2.1736700534820557
+aabbMin:
+  X: -0.31152400374412537
+  Y: 1.8311100006103516
+  Z: 0.42163100838661194
+bfres: Horse_Link_Reins_01
+boundingForTraverse: 0.6219300031661987
+bugMask: 1
+instSize: 38640
+mainModel: Horse_Link_Reins_01
+name: GameRomHorseReins_01
+profile: HorseReins
+sortKey: 53020
+tags:
+  tag2cef9fdc: 753901532
+  tag4850af43: 1213247299
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

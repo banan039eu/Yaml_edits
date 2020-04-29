@@ -1,0 +1,22 @@
+aabbMax:
+  X: 27.372699737548828
+  Y: 1.0806900262832642
+  Z: 28.166400909423828
+aabbMin:
+  X: -24.685199737548828
+  Y: -267.2869873046875
+  Z: -23.592500686645508
+bfres: FldObj_FissureValley_A_Far
+boundingForTraverse: 268.36767578125
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 41084
+mainModel: FldObj_FissureValleyPillar_A_03_Far
+name: FldObj_FissureValleyPillar_A_03_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,28 @@
+aabbMax:
+  X: 2.0
+  Y: 4.0
+  Z: 2.25
+aabbMin:
+  X: -2.0
+  Y: 0.0
+  Z: -6.0
+attackPower: 0
+bfres: DgnObj_SliderStair_A
+boundingForTraverse: 4.0
+bugMask: 3
+elink: SliderOBJ
+generalLife: 100
+instSize: 99548
+mainModel: DgnObj_SliderStair_A_01
+name: DgnObj_SliderStair_A
+profile: MapDynamicActive
+rigidBodyCenterY: 1.3440799713134766
+slink: DgnObj_SliderStair_A
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+xlink: DgnObj_ConstrainedSlider
+yLimitAlgorithm: NoLimit

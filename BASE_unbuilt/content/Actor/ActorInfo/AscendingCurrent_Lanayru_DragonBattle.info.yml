@@ -1,0 +1,9 @@
+bugMask: 1
+elink: AscendingCurrent_Lanayru_DragonBattle
+instSize: 7232
+name: AscendingCurrent_Lanayru_DragonBattle
+profile: SoleTag
+sortKey: 0
+traverseDist: 100.0
+xlink: AscendingCurrent
+yLimitAlgorithm: NoLimit

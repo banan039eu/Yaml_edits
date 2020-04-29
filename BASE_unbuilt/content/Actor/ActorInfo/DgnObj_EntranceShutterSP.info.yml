@@ -1,0 +1,23 @@
+aabbMax:
+  X: 2.4907500743865967
+  Y: 3.9847800731658936
+  Z: 0.7209380269050598
+aabbMin:
+  X: -2.4838500022888184
+  Y: -0.015111999586224556
+  Z: -0.7813869714736938
+attackPower: 0
+bfres: DgnObj_DungeonEntrance_A
+boundingForTraverse: 3.999891996383667
+bugMask: 3
+generalLife: 100
+instSize: 48216
+mainModel: DgnObj_EntranceShutter_A_01
+name: DgnObj_EntranceShutterSP
+profile: MapDynamicActive
+rigidBodyCenterY: 2.248159885406494
+slink: DgnObj_EntranceShutter
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

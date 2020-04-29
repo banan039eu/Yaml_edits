@@ -1,0 +1,24 @@
+aabbMax:
+  X: 136.3040008544922
+  Y: 15.133099555969238
+  Z: 69.78630065917969
+aabbMin:
+  X: -144.79100036621094
+  Y: -199.23899841308594
+  Z: -49.962100982666016
+bfres: FldObj_FirstBigCliff_A
+boundingForTraverse: 214.37210083007812
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 63588
+isHasFar: true
+mainModel: FldObj_FirstBigCliff_A_02
+name: FldObj_FirstBigCliff_A_02
+profile: MapConstPassive
+sortKey: -2
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xff373108
+traverseDist: 805.5390014648438
+yLimitAlgorithm: NoLimit

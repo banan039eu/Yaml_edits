@@ -1,0 +1,21 @@
+aabbMax:
+  X: 132.0780029296875
+  Y: 15.488499641418457
+  Z: 55.44449996948242
+aabbMin:
+  X: -30.99370002746582
+  Y: -12.367300033569336
+  Z: -57.01810073852539
+bfres: TwnObj_City_Gerudo_A_Far
+boundingForTraverse: 27.85580062866211
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: TwnObj_City_GerudoOutsideRock_A_01_Far
+name: TwnObj_City_GerudoOutsideRock_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 4000.0
+yLimitAlgorithm: NoLimit

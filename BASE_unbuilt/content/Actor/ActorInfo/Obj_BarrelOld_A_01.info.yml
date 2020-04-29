@@ -1,0 +1,32 @@
+aabbMax:
+  X: 0.5342689752578735
+  Y: 1.1117199659347534
+  Z: 0.6303920149803162
+aabbMin:
+  X: -0.5298799872398376
+  Y: -0.005231999792158604
+  Z: -0.5125759840011597
+attackPower: 4
+bfres: Obj_BarrelOld_A
+boundingForTraverse: 1.1169509887695312
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Obj_BarrelOld_A_01
+generalLife: 1
+instSize: 63308
+mainModel: Obj_BarrelOld_A_01
+name: Obj_BarrelOld_A_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.5132480263710022
+slink: Barrel
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagc4154689: !u 0xc4154689
+  tagff2ecb67: !u 0xff2ecb67
+  tagff53ef86: !u 0xff53ef86
+yLimitAlgorithm: NoLimit

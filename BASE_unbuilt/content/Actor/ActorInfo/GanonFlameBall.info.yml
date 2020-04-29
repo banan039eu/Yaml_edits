@@ -1,0 +1,18 @@
+attackPower: 24
+bugMask: 3
+elink: SiteBossBigFlameBall
+instSize: 29496
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: GanonFlameBall
+profile: Bullet
+slink: GanonFlameBall
+sortKey: -2
+tags:
+  tag74831ee0: 1954750176
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

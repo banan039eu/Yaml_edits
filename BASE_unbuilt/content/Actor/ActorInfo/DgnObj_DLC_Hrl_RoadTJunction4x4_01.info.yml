@@ -1,0 +1,18 @@
+aabbMax:
+  X: 2.0
+  Y: 0.04500000178813934
+  Z: 2.0
+aabbMin:
+  X: -2.0
+  Y: 0.0
+  Z: -2.0
+bfres: DgnObj_DLC_Hrl_BoxParts_A
+boundingForTraverse: 0.04500000178813934
+bugMask: 0
+instSize: 17140
+mainModel: DgnObj_DLC_Hrl_RoadTJunction4x4_01
+name: DgnObj_DLC_Hrl_RoadTJunction4x4_01
+profile: MapConstPassive
+sortKey: -12
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

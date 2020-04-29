@@ -1,0 +1,22 @@
+aabbMax:
+  X: 3.5006299018859863
+  Y: 25.265300750732422
+  Z: 3.5006299018859863
+aabbMin:
+  X: -3.5006299018859863
+  Y: 0.043859999626874924
+  Z: -3.5006299018859863
+bfres: FldObj_AncientPillar_A
+boundingForTraverse: 25.2214412689209
+bugMask: 2
+cursorOffsetY: 0.5
+instSize: 31508
+mainModel: FldObj_DominoStone_A_L_02
+name: FldObj_DominoStone_A_L_03
+profile: MapConstPassive
+slink: DominoStoneBridgeL
+sortKey: 0
+tags:
+  taga9e2816e: !u 0xa9e2816e
+traverseDist: 800.0
+yLimitAlgorithm: NoLimit

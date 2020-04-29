@@ -1,0 +1,12 @@
+bugMask: 2
+elink: Fire_For_MapObj_L
+instSize: 4524
+name: Fire_For_MapObj_L
+profile: MapConstPassive
+slink: CandleGround
+sortKey: -17
+tags:
+  tag51c0c6bb: 1371588283
+  tag6308f367: 1661530983
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

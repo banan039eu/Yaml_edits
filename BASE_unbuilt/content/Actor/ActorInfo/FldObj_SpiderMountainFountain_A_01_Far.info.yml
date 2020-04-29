@@ -1,0 +1,21 @@
+aabbMax:
+  X: 3.9603700637817383
+  Y: 2.4907500743865967
+  Z: 3.912440061569214
+aabbMin:
+  X: -3.9010000228881836
+  Y: -0.20077599585056305
+  Z: -4.008659839630127
+bfres: FldObj_SpiderMountain_A_Far
+boundingForTraverse: 2.691525936126709
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 64480
+mainModel: FldObj_SpiderMountainFountain_A_01_Far
+name: FldObj_SpiderMountainFountain_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,68 @@
+Chemical:
+  Capaciter: 1
+aabbMax:
+  X: 0.34470000863075256
+  Y: 0.014639000408351421
+  Z: 0.24378100037574768
+aabbMin:
+  X: -0.08946999907493591
+  Y: -0.12512800097465515
+  Z: -0.34418800473213196
+attackPower: 0
+bfres: Weapon_Shield_057
+boundingForTraverse: 0.13976700603961945
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Shield
+generalLife: 90
+instSize: 42224
+itemBuyingPrice: 320
+itemCreatingPrice: 10
+itemSaleRevivalCount: -1
+itemSellingPrice: 80
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Shield_057
+name: Weapon_Shield_057
+profile: WeaponShield
+rigidBodyCenterY: -0.06550099700689316
+slink: Weapon_Shield_Metal
+sortKey: 15226
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+  tagef2efe5d: !u 0xef2efe5d
+traverseDist: 80.0
+weaponCommonGuardPower: 65
+weaponCommonPoweredSharpAddAtkMax: 0
+weaponCommonPoweredSharpAddAtkMin: 0
+weaponCommonPoweredSharpAddLifeMax: 45
+weaponCommonPoweredSharpAddLifeMin: 19
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 24
+weaponCommonPoweredSharpWeaponAddGuardMin: 13
+weaponCommonRank: 7
+weaponCommonSharpWeaponAddAtkMax: 0
+weaponCommonSharpWeaponAddAtkMin: 0
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 12
+weaponCommonSharpWeaponAddGuardMin: 7
+weaponCommonSharpWeaponAddLifeMax: 18
+weaponCommonSharpWeaponAddLifeMin: 9
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+xlink: Weapon
+yLimitAlgorithm: NoLimit

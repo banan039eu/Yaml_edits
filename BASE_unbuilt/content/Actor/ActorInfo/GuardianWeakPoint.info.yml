@@ -1,0 +1,15 @@
+attackPower: 0
+bugMask: 0
+enemyRank: 0
+generalLife: 2000
+instSize: 7624
+name: GuardianWeakPoint
+profile: GuardianComponent
+sortKey: 10924
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0e3e49b1: 238963121
+  tag17044493: 386155667
+  tag4806038d: 1208353677
+yLimitAlgorithm: NoLimit

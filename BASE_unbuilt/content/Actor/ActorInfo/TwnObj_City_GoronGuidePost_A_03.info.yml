@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.6063140034675598
+  Y: 2.20674991607666
+  Z: 0.3009360134601593
+aabbMin:
+  X: -1.1006300449371338
+  Y: -0.4923059940338135
+  Z: -0.27325600385665894
+attackPower: 0
+bfres: TwnObj_City_Goron_A
+boundingForTraverse: 2.6990559101104736
+bugMask: 1
+generalLife: 1
+instSize: 66520
+lookAtOffsetY: 1.2999999523162842
+mainModel: TwnObj_City_GoronGuidePost_A_03
+name: TwnObj_City_GoronGuidePost_A_03
+profile: MapDynamicPassive
+rigidBodyCenterY: 1.0958199501037598
+sortKey: 2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2a2d0822: 707594274
+  tagef748738: !u 0xef748738
+traverseDist: 50.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,45 @@
+aabbMax:
+  X: 10.101799964904785
+  Y: 10.267499923706055
+  Z: 16.92930030822754
+aabbMin:
+  X: -12.47599983215332
+  Y: -2.157480001449585
+  Z: -7.504059791564941
+attackPower: 60
+bfres: Enemy_Ganon
+boundingForTraverse: 12.424980163574219
+bugMask: 3
+elink: Enemy_Ganon
+enemyRank: 1
+generalLife: 8000
+homeArea:
+- name: CentralHyrule
+- name: ''
+- name: ''
+instSize: 499020
+mainModel: Ganon
+name: Enemy_Ganon
+pictureBookLiveSpot1: 28
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: LastBoss
+rigidBodyCenterY: 2.0
+slink: LastBoss
+sortKey: 1800
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag16a3afed: 379826157
+  tag17044493: 386155667
+  tag36565b66: 911629158
+  tag4806038d: 1208353677
+  tag485bf81d: 1213986845
+  tag8fda6cdd: !u 0x8fda6cdd
+  tag994aef4b: !u 0x994aef4b
+  tag9eb0ef08: !u 0x9eb0ef08
+  tagdeb2c8bd: !u 0xdeb2c8bd
+  tagfd5643b5: !u 0xfd5643b5
+traverseDist: 150.0
+xlink: Enemy_Ganon
+yLimitAlgorithm: LimitYDiff

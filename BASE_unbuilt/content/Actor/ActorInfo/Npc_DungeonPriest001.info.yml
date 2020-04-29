@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.6918280124664307
+  Y: 1.477929949760437
+  Z: 0.7204399704933167
+aabbMin:
+  X: -0.7670950293540955
+  Y: -0.04627599939703941
+  Z: -0.9209259748458862
+actorScale: 1.5
+bfres: Npc_Shiekah_Maharishi
+boundingForTraverse: 1.5242060422897339
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Npc_DungeonPriest001
+generalLife: 100
+instSize: 204028
+lookAtOffsetY: 0.15000000596046448
+name: Npc_DungeonPriest001
+profile: DemoNPC
+rigidBodyCenterY: 0.75
+slink: Npc_DungeonPriest001
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

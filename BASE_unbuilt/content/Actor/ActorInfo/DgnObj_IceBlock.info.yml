@@ -1,0 +1,31 @@
+aabbMax:
+  X: 0.6000000238418579
+  Y: 1.2000000476837158
+  Z: 0.6000000238418579
+aabbMin:
+  X: -0.6000000238418579
+  Y: 0.0
+  Z: -0.6000000238418579
+attackPower: 0
+bfres: Obj_BoxIce_A
+boundingForTraverse: 1.2000000476837158
+bugMask: 3
+elink: IceBlock
+generalLife: 30
+instSize: 41180
+mainModel: Obj_BoxIce_A_01
+name: DgnObj_IceBlock
+profile: MapDynamicActive
+rigidBodyCenterY: 0.6000000238418579
+slink: Obj_LiftRock
+sortKey: -25
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagff2ecb67: !u 0xff2ecb67
+terrainTextures:
+- !u 0xffff1d11
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,24 @@
+aabbMax:
+  X: 61.12329864501953
+  Y: 24.84950065612793
+  Z: 54.249000549316406
+aabbMin:
+  X: -55.75
+  Y: -38.92580032348633
+  Z: -54.247100830078125
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuEx_BossBattleRoom_A
+boundingForTraverse: 63.775299072265625
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 257076
+mainModel: DgnObj_DLC_IbutsuEx_BossBattleRoom_A_01
+name: DgnObj_DLC_IbutsuEx_BossBattleRoom_Demo_A_02
+profile: MapConstActive
+sortKey: 178
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+terrainTextures:
+- !u 0xffff0b0a
+yLimitAlgorithm: NoLimit

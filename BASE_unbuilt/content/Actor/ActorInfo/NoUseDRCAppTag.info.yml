@@ -1,0 +1,8 @@
+bugMask: 1
+instSize: 4616
+name: NoUseDRCAppTag
+profile: ComplexTag
+sortKey: -2
+tags:
+  tagc5b7c123: !u 0xc5b7c123
+yLimitAlgorithm: NoLimit

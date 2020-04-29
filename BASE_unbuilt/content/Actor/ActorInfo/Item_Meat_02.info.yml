@@ -1,0 +1,50 @@
+aabbMax:
+  X: 0.4684639871120453
+  Y: 0.5408809781074524
+  Z: 0.3128040134906769
+aabbMin:
+  X: -0.47256898880004883
+  Y: -0.01133199967443943
+  Z: -0.3347640037536621
+addColorA: 1.0
+addColorB: 0.0
+addColorG: 0.0
+addColorR: 0.0
+bfres: Item_Meat_02
+boundingForTraverse: 0.5522130131721497
+bugMask: 1
+cureItemEffectLevel: 0
+cureItemEffectType: None
+cureItemHitPointRecover: 6
+cursorOffsetY: 0.5
+elink: GetItem
+generalLife: 100
+instSize: 37732
+itemBuyingPrice: 60
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 15
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Item_Meat_02
+motorcycleEnergy:
+  add: 75.0
+name: Item_Meat_02
+profile: Item
+rigidBodyCenterY: 0.2026129961013794
+sortKey: 32020
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag14185415: 337138709
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  taga462bb50: !u 0xa462bb50
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

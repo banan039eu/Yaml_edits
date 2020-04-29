@@ -1,0 +1,20 @@
+aabbMax:
+  X: 2.1878600120544434
+  Y: 4.101620197296143
+  Z: 5.474790096282959
+aabbMin:
+  X: -3.5650200843811035
+  Y: -0.4499500095844269
+  Z: -6.788849830627441
+bfres: FldObj_WagonBrokenShelter_A
+boundingForTraverse: 4.551569938659668
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 98760
+mainModel: FldObj_WagonBrokenShelter_A_01
+name: FldObj_WagonBrokenShelter_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tagc60f8acb: !u 0xc60f8acb
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,28 @@
+aabbMax:
+  X: 5.663730144500732
+  Y: 19.116100311279297
+  Z: 13.308099746704102
+aabbMin:
+  X: -5.78125
+  Y: -1.523959994316101
+  Z: -4.529240131378174
+attackPower: 0
+bfres: DgnObj_DLC_ChampionsDungeonEntrance_A
+boundingForTraverse: 20.640060424804688
+bugMask: 3
+cursorOffsetY: 0.5
+elink: DgnObj_DLC_ChampionsDungeonEntrance_A_01
+generalLife: 100
+instSize: 129300
+mainModel: DgnObj_DLC_ChampionsDungeonEntrance_A_01
+name: DgnObj_DLC_ChampionsDungeonEntrance_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 4.826869964599609
+slink: DgnObj_DLC_ChampionsDungeonEntrance
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag6308f367: 1661530983
+traverseDist: 1500.0
+yLimitAlgorithm: NoLimit

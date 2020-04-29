@@ -1,0 +1,20 @@
+aabbMax:
+  X: 2.1283700466156006
+  Y: 9.66903018951416
+  Z: 2.096299886703491
+aabbMin:
+  X: -2.574039936065674
+  Y: 0.4000000059604645
+  Z: -3.171149969100952
+bfres: TwnObj_Village_Zora_A
+boundingForTraverse: 9.269030570983887
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 54784
+isHasFar: true
+mainModel: TwnObj_Village_ZoraStatue_A_01
+name: TwnObj_Village_ZoraStatue_A_01
+profile: MapConstPassive
+sortKey: -8
+traverseDist: 507.0610656738281
+yLimitAlgorithm: NoLimit

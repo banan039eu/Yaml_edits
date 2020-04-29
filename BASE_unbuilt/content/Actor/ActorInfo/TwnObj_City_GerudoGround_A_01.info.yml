@@ -1,0 +1,22 @@
+aabbMax:
+  X: 82.74449920654297
+  Y: 11.219499588012695
+  Z: 68.80000305175781
+aabbMin:
+  X: -79.31809997558594
+  Y: -1.0193300247192383
+  Z: -87.30000305175781
+bfres: TwnObj_City_Gerudo_A
+boundingForTraverse: 12.238829612731934
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 502124
+isHasFar: true
+mainModel: TwnObj_City_GerudoGround_A_01
+name: TwnObj_City_GerudoGround_A_01
+profile: MapConstPassive
+sortKey: 26
+terrainTextures:
+- !u 0xffffff3b
+traverseDist: 725.014404296875
+yLimitAlgorithm: NoLimit

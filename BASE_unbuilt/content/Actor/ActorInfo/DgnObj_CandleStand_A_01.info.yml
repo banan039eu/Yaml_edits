@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.5165889859199524
+  Y: 1.6998200416564941
+  Z: 1.705899953842163
+aabbMin:
+  X: -0.5803589820861816
+  Y: -0.5156930088996887
+  Z: 0.0
+attackPower: 0
+bfres: DgnObj_CandleStand_A
+boundingForTraverse: 2.215512990951538
+bugMask: 1
+cursorOffsetY: 0.5
+elink: DgnObj_CandleStand_A_01
+generalLife: 100
+instSize: 41864
+mainModel: DgnObj_CandleStand_A_01
+name: DgnObj_CandleStand_A_01
+profile: MapConstActive
+rigidBodyCenterY: 0.6939709782600403
+sortKey: -28
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

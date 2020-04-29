@@ -1,0 +1,20 @@
+aabbMax:
+  X: 2.9449000358581543
+  Y: 6.4686198234558105
+  Z: 16.51460075378418
+aabbMin:
+  X: -2.9449000358581543
+  Y: -0.8858979940414429
+  Z: -16.79640007019043
+bfres: TwnObj_Village_Hateno_A
+boundingForTraverse: 7.354517936706543
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 58724
+isHasFar: true
+mainModel: TwnObj_Village_HatenoWoodBridge_A_01
+name: TwnObj_Village_HatenoWoodBridge_A_01
+profile: MapConstPassive
+sortKey: -2
+traverseDist: 533.8276977539062
+yLimitAlgorithm: NoLimit

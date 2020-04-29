@@ -1,0 +1,23 @@
+aabbMax:
+  X: 0.6000000238418579
+  Y: 1.399999976158142
+  Z: 0.6000000238418579
+aabbMin:
+  X: -0.6000000238418579
+  Y: 0.0
+  Z: -0.6000000238418579
+attackPower: 0
+bfres: DgnObj_DLC_FireBox_A
+boundingForTraverse: 1.399999976158142
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 24860
+mainModel: DgnObj_DLC_FireBox_A_01
+name: DLC_DgnObj_FireBox131_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.6678299903869629
+sortKey: -31
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

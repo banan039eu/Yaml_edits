@@ -1,0 +1,18 @@
+aabbMax:
+  X: 2.930459976196289
+  Y: 1.2625199556350708
+  Z: 2.930459976196289
+aabbMin:
+  X: -2.930459976196289
+  Y: 0.0
+  Z: -3.0
+bfres: DgnObj_DLC_StartPoint_A
+boundingForTraverse: 1.2625199556350708
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 59684
+mainModel: DgnObj_DLC_StartPoint_A_01
+name: DgnObj_DLC_StartPoint_A_01
+profile: MapConstPassive
+sortKey: -18
+yLimitAlgorithm: NoLimit

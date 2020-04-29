@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.9179689884185791
+  Y: 1.4931600093841553
+  Z: 0.19677500426769257
+aabbMin:
+  X: -0.9179689884185791
+  Y: 0.6587110161781311
+  Z: -0.16076500713825226
+armorDefenceAddLevel: 8
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: AttackUp
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_228_Upper
+armorStarNum: 3
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 1
+bfres: Armor_225
+boundingForTraverse: 0.8344489932060242
+bugMask: 1
+instSize: 96484
+itemBuyingPrice: 1105
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 275
+itemStainColor: -1
+itemUseIconActorName: Armor_225_Upper
+mainModel: Armor_225_Upper
+name: Armor_227_Upper
+normal0ItemName01: Armor_226_Upper
+normal0ItemName02: Item_Enemy_33
+normal0ItemName03: Item_Enemy_50
+normal0ItemNum01: 1
+normal0ItemNum02: 5
+normal0ItemNum03: 1
+normal0StuffNum: 3
+profile: ArmorUpper
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: AmiiboMajorasMask
+sortKey: 3122728
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 4580
+name: BossCreateAreaTag
+profile: ComplexTag
+sortKey: -3
+yLimitAlgorithm: NoLimit

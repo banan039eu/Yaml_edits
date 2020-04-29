@@ -1,0 +1,20 @@
+aabbMax:
+  X: 10.147000312805176
+  Y: 65.01010131835938
+  Z: 1.8969500064849854
+aabbMin:
+  X: -10.147000312805176
+  Y: 0.0
+  Z: -1.895490050315857
+bfres: FldObj_RuinStatueKnight_A
+boundingForTraverse: 65.01010131835938
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 79372
+isHasFar: true
+mainModel: FldObj_RuinStatueKnightSword_A_01
+name: FldObj_RuinStatueKnightSword_A_01
+profile: MapConstPassive
+sortKey: -2
+traverseDist: 520.6453247070312
+yLimitAlgorithm: NoLimit

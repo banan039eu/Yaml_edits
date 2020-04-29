@@ -1,0 +1,26 @@
+aabbMax:
+  X: 2.282059907913208
+  Y: 1.5
+  Z: 2.282059907913208
+aabbMin:
+  X: -2.282059907913208
+  Y: 0.0
+  Z: -2.282059907913208
+attackPower: 0
+bfres: DgnObj_BowlIron_A
+boundingForTraverse: 1.5
+bugMask: 0
+generalLife: 100
+instSize: 37756
+mainModel: DgnObj_BowlIron_A_01
+name: DgnObj_BowlIron_B
+profile: MapDynamicActive
+rigidBodyCenterY: 0.8936840295791626
+sortKey: 14
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag507efd18: 1350499608
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

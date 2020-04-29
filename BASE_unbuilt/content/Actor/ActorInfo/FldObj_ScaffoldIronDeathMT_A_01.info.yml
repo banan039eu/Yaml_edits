@@ -1,0 +1,26 @@
+aabbMax:
+  X: 29.55590057373047
+  Y: 39.836299896240234
+  Z: 16.432199478149414
+aabbMin:
+  X: -18.743999481201172
+  Y: -2.8297901153564453
+  Z: -20.654499053955078
+attackPower: 0
+bfres: FldObj_ScaffoldIron_A
+boundingForTraverse: 42.66609191894531
+bugMask: 3
+cursorOffsetY: 0.5
+elink: FldObj_ScaffoldIronDeathMT_A_01
+generalLife: 1
+instSize: 143916
+mainModel: FldObj_ScaffoldIron_A_01
+name: FldObj_ScaffoldIronDeathMT_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 13.501500129699707
+slink: FldObj_ScaffoldIronDeathMT_A_01
+sortKey: -3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,27 @@
+aabbMax:
+  X: 13.962400436401367
+  Y: 27.067899703979492
+  Z: 13.528599739074707
+aabbMin:
+  X: -14.14009952545166
+  Y: -8.619810104370117
+  Z: -12.494799613952637
+attackPower: 0
+bfres: FldObj_IceWall_A
+boundingForTraverse: 35.68770980834961
+bugMask: 3
+elink: IceWallRuins
+generalLife: 100
+instSize: 38288
+mainModel: FldObj_IceWall_A_02
+name: IceWallRuins
+profile: MapDynamicActive
+rigidBodyCenterY: 7.01278018951416
+slink: IceWallRuins
+sortKey: -10
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag63efc18d: 1676657037
+  tagdeb2c8bd: !u 0xdeb2c8bd
+yLimitAlgorithm: NoLimit

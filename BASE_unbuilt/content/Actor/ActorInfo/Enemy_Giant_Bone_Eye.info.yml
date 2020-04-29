@@ -1,0 +1,37 @@
+aabbMax:
+  X: 0.4817279875278473
+  Y: 0.46674099564552307
+  Z: 0.4913269877433777
+aabbMin:
+  X: -0.47828999161720276
+  Y: -0.4710789918899536
+  Z: -0.4855769872665405
+attackPower: 16
+bfres: Enemy_Giant_Bone
+boundingForTraverse: 0.9378200173377991
+bugMask: 3
+cursorOffsetY: 0.7250000238418579
+elink: Enemy_Giant_Bone_Eye
+enemyRank: 0
+generalLife: 1000
+instSize: 66584
+invalidTimes:
+- Morning_A2
+- Morning_B
+- Noon_A
+- Noon_B
+- Evening_A
+- Evening_B
+mainModel: Enemy_Giant_Bone_Eye
+name: Enemy_Giant_Bone_Eye
+profile: Enemy
+slink: Enemy_Giant_Bone_Eye
+sortKey: 101305
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_Giant_Bone
+tags:
+  tag0c6690b5: 208048309
+  tag72d6e7a4: 1926686628
+  tagff2ecb67: !u 0xff2ecb67
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,24 @@
+aabbMax:
+  X: 0.6706969738006592
+  Y: 1.5127099752426147
+  Z: 0.26514700055122375
+aabbMin:
+  X: -0.6706969738006592
+  Y: 0.1251000016927719
+  Z: 0.05000000074505806
+attackPower: 0
+bfres: TwnObj_WeaponBase_A
+boundingForTraverse: 1.3876099586486816
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 22288
+mainModel: TwnObj_ShieldBase_A_01
+name: TwnObj_ShieldBase_A_01
+profile: MapConstActive
+sortKey: -5
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagbc723f22: !u 0xbc723f22
+yLimitAlgorithm: NoLimit

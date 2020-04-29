@@ -1,0 +1,47 @@
+aabbMax:
+  X: 0.14721299707889557
+  Y: 1.9189399480819702
+  Z: 0.19359000027179718
+aabbMin:
+  X: -0.14721399545669556
+  Y: 1.3740400075912476
+  Z: -0.20995700359344482
+armorDefenceAddLevel: 5
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: ResistHot
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_065_Head
+armorStarNum: 2
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_008
+boundingForTraverse: 0.5449000000953674
+bugMask: 1
+instSize: 77936
+itemBuyingPrice: 465
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 120
+itemStainColor: -1
+itemUseIconActorName: Armor_008_Head
+mainModel: Armor_008_Head
+name: Armor_040_Head
+normal0ItemName01: Armor_008_Head
+normal0ItemName02: Item_Enemy_17
+normal0ItemNum01: 1
+normal0ItemNum02: 3
+normal0StuffNum: 2
+profile: ArmorHead
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: Gerudo
+sortKey: 1921043
+tags:
+  tag1c0c8d23: 470584611
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

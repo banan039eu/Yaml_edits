@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.30652400851249695
+  Y: 0.37328600883483887
+  Z: 0.47450700402259827
+aabbMin:
+  X: -2.985650062561035
+  Y: -0.4973990023136139
+  Z: -0.47450700402259827
+attackPower: 0
+bfres: Enemy_Guardian_A_Old
+boundingForTraverse: 0.8706849813461304
+bugMask: 2
+elink: Guardian_A_BrokenLeg
+enemyRank: 0
+generalLife: 100
+instSize: 29476
+mainModel: Guardian_A_Leg_S
+name: Guardian_A_BrokenLeg_S_Moss
+profile: GuardianComponent
+slink: Guardian_A_BrokenLeg_S
+sortKey: 10911
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag17044493: 386155667
+  tag4806038d: 1208353677
+xlink: Guardian_A_BrokenLeg
+yLimitAlgorithm: NoLimit

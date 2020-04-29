@@ -1,0 +1,22 @@
+aabbMax:
+  X: 1.6463600397109985
+  Y: 7.906209945678711
+  Z: 39.5
+aabbMin:
+  X: -18.385700225830078
+  Y: -0.05000000074505806
+  Z: 12.627599716186523
+bfres: FldObj_AncientLake_A
+boundingForTraverse: 7.956210136413574
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 230016
+isHasFar: true
+mainModel: FldObj_AncientLakeEntrance_A_02
+name: FldObj_AncientLakeEntrance_A_02
+profile: MapConstPassive
+sortKey: -1
+tags:
+  tag1a0bce35: 436981301
+traverseDist: 533.5172729492188
+yLimitAlgorithm: NoLimit

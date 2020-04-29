@@ -1,0 +1,24 @@
+aabbMax:
+  X: 87.44339752197266
+  Y: 10.238699913024902
+  Z: 113.6500015258789
+aabbMin:
+  X: -51.811798095703125
+  Y: -240.3350067138672
+  Z: -47.76219940185547
+bfres: FldObj_SouthCape_A
+boundingForTraverse: 250.57369995117188
+bugMask: 0
+instSize: 52224
+isHasFar: true
+mainModel: FldObj_SouthCape_A_01
+name: FldObj_SouthCape_A_01
+profile: MapConstPassive
+sortKey: -4
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- 487657472
+- !u 0xff4c2d1f
+traverseDist: 713.180419921875
+yLimitAlgorithm: NoLimit

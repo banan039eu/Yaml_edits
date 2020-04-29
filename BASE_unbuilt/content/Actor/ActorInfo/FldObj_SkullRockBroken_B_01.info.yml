@@ -1,0 +1,18 @@
+aabbMax:
+  X: 14.378199577331543
+  Y: 13.423500061035156
+  Z: 15.820599555969238
+aabbMin:
+  X: -15.031999588012695
+  Y: -1.534440040588379
+  Z: -15.386099815368652
+bfres: FldObj_SkullRockBroken_B
+boundingForTraverse: 14.957940101623535
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+mainModel: FldObj_SkullRockBroken_B_01
+name: FldObj_SkullRockBroken_B_01
+profile: MapConstPassive
+sortKey: -6
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,18 @@
+aabbMax:
+  X: 8.44789981842041
+  Y: 2.32423996925354
+  Z: 10.348400115966797
+aabbMin:
+  X: -3.867680072784424
+  Y: -3.87746000289917
+  Z: -9.571829795837402
+bfres: TwnObj_City_Gerudo_A
+boundingForTraverse: 6.201700210571289
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 133216
+mainModel: TwnObj_City_GerudoBarInside_A_01
+name: TwnObj_City_GerudoBarInside_A_01
+profile: MapConstPassive
+sortKey: -1
+yLimitAlgorithm: NoLimit

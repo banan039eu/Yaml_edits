@@ -1,0 +1,28 @@
+aabbMax:
+  X: 1.0
+  Y: 1.0
+  Z: 1.0
+aabbMin:
+  X: -1.0
+  Y: -0.9999949932098389
+  Z: -1.0
+attackPower: 0
+bfres: DgnObj_ShutterBoxIron_A
+boundingForTraverse: 1.9999949932098389
+bugMask: 2
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 30124
+mainModel: DgnObj_ShutterBoxIron_A_01
+name: DgnObj_ShutterBoxIron_A_01
+profile: MapDynamicActive
+slink: DgnObj_SliderBlockIronSmall
+sortKey: 3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 99999.0
+xlink: DgnObj_ConstrainedSlider
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,24 @@
+aabbMax:
+  X: 6.659890174865723
+  Y: 0.35218700766563416
+  Z: 2.2860100269317627
+aabbMin:
+  X: 0.0
+  Y: -0.06402800232172012
+  Z: 0.0
+bfres: TwnObj_HyruleCastleWall_A
+boundingForTraverse: 0.4162150025367737
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38940
+mainModel: TwnObj_HyruleCastleWallRubble_A_01
+name: TwnObj_HyruleCastleWallRubble_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag03528579: 55739769
+  taga1c9da5d: !u 0xa1c9da5d
+terrainTextures:
+- !u 0xff261903
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

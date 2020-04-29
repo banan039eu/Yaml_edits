@@ -1,0 +1,22 @@
+aabbMax:
+  X: 1.4750299453735352
+  Y: 1.575659990310669
+  Z: 1.5299700498580933
+aabbMin:
+  X: -1.400629997253418
+  Y: -0.16513200104236603
+  Z: -1.5553699731826782
+bfres: FldObj_CliffYellow_A
+boundingForTraverse: 1.7407920360565186
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: FldObj_RockYellow_A_M_01
+name: FldObj_RockYellow_A_M_01
+profile: MapConstPassive
+sortKey: -5
+tags:
+  tag977b149c: !u 0x977b149c
+terrainTextures:
+- !u 0xffffff3e
+yLimitAlgorithm: NoLimit

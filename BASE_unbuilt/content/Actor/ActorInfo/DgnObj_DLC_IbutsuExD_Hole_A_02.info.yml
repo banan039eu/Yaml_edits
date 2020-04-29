@@ -1,0 +1,26 @@
+aabbMax:
+  X: 6.633430004119873
+  Y: 9.213839530944824
+  Z: 6.040800094604492
+aabbMin:
+  X: -6.5425801277160645
+  Y: -6.530710220336914
+  Z: -7.137909889221191
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuEx_D
+boundingForTraverse: 15.744549751281738
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 155760
+mainModel: DgnObj_DLC_IbutsuExD_Hole_A_02
+name: DgnObj_DLC_IbutsuExD_Hole_A_02
+profile: MapDynamicActive
+rigidBodyCenterY: 0.9845690131187439
+sortKey: 60
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

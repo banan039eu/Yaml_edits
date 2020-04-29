@@ -1,0 +1,22 @@
+aabbMax:
+  X: 57.355098724365234
+  Y: 0.12559500336647034
+  Z: 9.004280090332031
+aabbMin:
+  X: -56.07080078125
+  Y: -206.77999877929688
+  Z: -46.62110137939453
+bfres: FldObj_FirstBigCliff_A
+boundingForTraverse: 206.9055938720703
+bugMask: 0
+instSize: 38044
+isHasFar: true
+mainModel: FldObj_FirstBigFall_A_01
+name: FldObj_FirstBigFall_A_01
+profile: MapConstPassive
+sortKey: -12
+terrainTextures:
+- 487657472
+- !u 0xffff4c1f
+traverseDist: 626.3313598632812
+yLimitAlgorithm: NoLimit

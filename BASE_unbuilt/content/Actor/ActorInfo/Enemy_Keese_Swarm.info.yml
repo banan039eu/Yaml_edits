@@ -1,0 +1,40 @@
+aabbMax:
+  X: 1.2567299604415894
+  Y: 0.30322301387786865
+  Z: 0.8148679733276367
+aabbMin:
+  X: -1.2567299604415894
+  Y: -0.2507320046424866
+  Z: -0.21130399405956268
+attackPower: 6
+bfres: Enemy_Keese
+boundingForTraverse: 0.5539550185203552
+bugMask: 3
+cursorOffsetY: 0.6499999761581421
+enemyRank: 10
+generalLife: 1
+instSize: 1844364
+invalidTimes:
+- Morning_A1
+- Morning_A2
+- Morning_B
+- Noon_A
+- Noon_B
+- Evening_A
+name: Enemy_Keese_Swarm
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: EnemySwarm
+slink: Keese_Swarm
+sortKey: 10206
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_Keese
+tags:
+  tag0f21f135: 253882677
+  tag35960905: 899025157
+  tag994aef4b: !u 0x994aef4b
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagd3231bed: !u 0xd3231bed
+  tagf2e5b2f2: !u 0xf2e5b2f2
+yLimitAlgorithm: NoLimit

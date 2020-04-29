@@ -1,0 +1,22 @@
+aabbMax:
+  X: 0.17567099630832672
+  Y: -0.04329700022935867
+  Z: 0.03187600150704384
+aabbMin:
+  X: -0.19432899355888367
+  Y: -0.5834900140762329
+  Z: -0.04019299894571304
+attackPower: 0
+bfres: FldObj_Chain_A
+boundingForTraverse: 0.5401930212974548
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 21432
+mainModel: FldObj_ChainEyeBolt_A_01
+name: FldObj_ChainEyeBolt_A_01
+profile: MapDynamicActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,20 @@
+attackPower: 24
+bugMask: 3
+elink: GaleArrow
+instSize: 35492
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: SiteBossGaleArrow
+profile: Bullet
+slink: SiteBossGaleArrow
+sortKey: -4
+tags:
+  tag3a61e2a9: 979493545
+  tag74831ee0: 1954750176
+traverseDist: 300.0
+xlink: Weapon
+yLimitAlgorithm: NoLimit

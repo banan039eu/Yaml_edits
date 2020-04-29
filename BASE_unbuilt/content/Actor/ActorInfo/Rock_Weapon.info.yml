@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.11891599744558334
+  Y: 0.10867500305175781
+  Z: 0.15479500591754913
+aabbMin:
+  X: -0.12594300508499146
+  Y: -0.08778099715709686
+  Z: -0.13224099576473236
+attackPower: 1
+bfres: Obj_Rock_Weapon
+boundingForTraverse: 0.19645600020885468
+bugMask: 3
+elink: Rock_Weapon
+instSize: 36212
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Rock_Weapon
+name: Rock_Weapon
+profile: Bullet
+slink: Rock_Weapon
+sortKey: 0
+tags:
+  tag51e73965: 1374108005
+yLimitAlgorithm: NoLimit

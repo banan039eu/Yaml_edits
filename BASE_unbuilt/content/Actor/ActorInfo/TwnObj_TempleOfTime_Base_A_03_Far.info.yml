@@ -1,0 +1,21 @@
+aabbMax:
+  X: 28.626399993896484
+  Y: 16.86680030822754
+  Z: 9.356280326843262
+aabbMin:
+  X: -43.58760070800781
+  Y: -2.5177199840545654
+  Z: -21.058900833129883
+bfres: TwnObj_TempleOfTime_A_Far
+boundingForTraverse: 19.384519577026367
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17236
+mainModel: TwnObj_TempleOfTime_Base_A_03_Far
+name: TwnObj_TempleOfTime_Base_A_03_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

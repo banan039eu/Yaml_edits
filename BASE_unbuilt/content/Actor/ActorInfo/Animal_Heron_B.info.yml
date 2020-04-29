@@ -1,0 +1,47 @@
+aabbMax:
+  X: 0.21374499797821045
+  Y: 1.8347500562667847
+  Z: 0.5812900066375732
+aabbMin:
+  X: -0.2204589992761612
+  Y: -0.014178999699652195
+  Z: -0.41492900252342224
+attackPower: 0
+bfres: Animal_Egret
+boundingForTraverse: 1.8489290475845337
+bugMask: 3
+drops:
+  Normal:
+  - Item_Meat_06
+elink: Animal_Heron_B
+enemyRank: 0
+generalLife: 1
+homeArea:
+- name: HyruleHill
+- name: CentralHyrule
+- name: WestHateru
+instSize: 137572
+invalidTimes:
+- Night_A
+- Night_B
+invalidWeathers:
+- HeavyRain
+- HeavySnow
+- ThunderStorm
+- ThunderRain
+mainModel: Egret
+name: Animal_Heron_B
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+slink: Animal_Heron_A
+sortKey: 29051
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag077ca9cb: 125610443
+  tag24cd75fe: 617444862
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagac9f717f: !u 0xac9f717f
+yLimitAlgorithm: NoLimit

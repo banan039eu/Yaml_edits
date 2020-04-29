@@ -1,0 +1,32 @@
+aabbMax:
+  X: 2.3698599338531494
+  Y: 3.611259937286377
+  Z: 2.569920063018799
+aabbMin:
+  X: -2.2427899837493896
+  Y: -0.7516899704933167
+  Z: -2.2903499603271484
+attackPower: 0
+bfres: Obj_TreeZoraLow_B
+boundingForTraverse: 4.362949848175049
+bugMask: 2
+cursorOffsetY: 0.5
+elink: Obj_TreeZoraLow_B_01
+generalLife: 100
+instSize: 34572
+mainModel: Obj_TreeZoraLow_B_01
+name: Obj_TreeZoraLow_B_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.3917970061302185
+slink: Tree_Bush_Zora
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag9adf6fdd: !u 0x9adf6fdd
+  taga40dd51c: !u 0xa40dd51c
+  tage91ea5f6: !u 0xe91ea5f6
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

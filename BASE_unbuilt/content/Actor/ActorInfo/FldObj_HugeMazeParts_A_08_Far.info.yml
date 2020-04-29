@@ -1,0 +1,23 @@
+aabbMax:
+  X: 60.0
+  Y: 50.0
+  Z: 100.0
+aabbMin:
+  X: -10.0
+  Y: 39.56330108642578
+  Z: 45.0
+bfres: FldObj_HugeMaze_A_Far
+boundingForTraverse: 10.436698913574219
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 29912
+mainModel: FldObj_HugeMazeParts_A_08_Far
+name: FldObj_HugeMazeParts_A_08_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+terrainTextures:
+- !u 0xffffff47
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

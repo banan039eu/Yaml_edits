@@ -1,0 +1,23 @@
+aabbMax:
+  X: 0.476175993680954
+  Y: 2.492959976196289
+  Z: 0.29114601016044617
+aabbMin:
+  X: -0.48995599150657654
+  Y: -0.008244999684393406
+  Z: -0.7928169965744019
+bfres: Npc_Gerudo_Wedding
+boundingForTraverse: 2.501204013824463
+bugMask: 3
+cursorOffsetY: 0.5
+elink: NPC
+instSize: 436092
+mainModel: Npc_Gerudo_Wedding
+name: Npc_oasis050_2
+profile: NPC
+slink: Npc_Gerudo_W
+sortKey: -19
+systemIsGetItemSelf: false
+systemSameGroupActorName: Npc_oasis050
+xlink: Npc
+yLimitAlgorithm: NoLimit

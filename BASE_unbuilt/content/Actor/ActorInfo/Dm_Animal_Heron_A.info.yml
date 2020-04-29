@@ -1,0 +1,23 @@
+aabbMax:
+  X: 1.7722400426864624
+  Y: 1.8347599506378174
+  Z: 0.5511040091514587
+aabbMin:
+  X: -1.7722400426864624
+  Y: 8.600000001024455e-05
+  Z: -0.44516101479530334
+bfres: Animal_Egret
+boundingForTraverse: 1.8346740007400513
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 63480
+mainModel: Egret
+name: Dm_Animal_Heron_A
+profile: DemoNPC
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

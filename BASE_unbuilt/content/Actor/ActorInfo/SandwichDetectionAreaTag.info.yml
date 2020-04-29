@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 2636
+name: SandwichDetectionAreaTag
+profile: AreaManagementForOthers
+sortKey: -2
+yLimitAlgorithm: NoLimit

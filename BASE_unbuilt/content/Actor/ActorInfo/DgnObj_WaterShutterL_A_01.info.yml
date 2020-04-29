@@ -1,0 +1,28 @@
+aabbMax:
+  X: 15.156100273132324
+  Y: 27.607799530029297
+  Z: 6.5
+aabbMin:
+  X: -3.5000000934815034e-05
+  Y: 16.91200065612793
+  Z: -7.0
+attackPower: 0
+bfres: DgnObj_WaterShutter_A
+boundingForTraverse: 10.695798873901367
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Shutter
+generalLife: 100
+instSize: 132908
+mainModel: DgnObj_WaterShutterL_A_01
+name: DgnObj_WaterShutterL_A_01
+profile: MapDynamicActive
+slink: DgnObj_WaterShutter
+sortKey: -19
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tag8fda6cdd: !u 0x8fda6cdd
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

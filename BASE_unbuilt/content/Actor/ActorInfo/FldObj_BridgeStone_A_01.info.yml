@@ -1,0 +1,23 @@
+aabbMax:
+  X: 19.283599853515625
+  Y: 0.16561199724674225
+  Z: 124.23600006103516
+aabbMin:
+  X: -16.989200592041016
+  Y: -60.01210021972656
+  Z: -124.11799621582031
+bfres: FldObj_BridgeStone_A
+boundingForTraverse: 60.177711486816406
+bugMask: 0
+instSize: 69192
+isHasFar: true
+mainModel: FldObj_BridgeStone_A_01
+name: FldObj_BridgeStone_A_01
+profile: MapConstPassive
+sortKey: -5
+terrainTextures:
+- 285934336
+- 1278353181
+- !u 0xffffff52
+traverseDist: 750.9888916015625
+yLimitAlgorithm: NoLimit

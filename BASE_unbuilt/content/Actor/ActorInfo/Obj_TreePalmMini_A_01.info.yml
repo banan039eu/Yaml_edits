@@ -1,0 +1,32 @@
+aabbMax:
+  X: 3.508039951324463
+  Y: 4.882050037384033
+  Z: 3.2112300395965576
+aabbMin:
+  X: -3.3866899013519287
+  Y: -0.10000099986791611
+  Z: -3.6638600826263428
+attackPower: 0
+bfres: Obj_TreePalmMini_A
+boundingForTraverse: 4.982050895690918
+bugMask: 2
+cursorOffsetY: 0.5
+elink: Obj_TreePalmMini_A_01
+generalLife: 100
+instSize: 35084
+mainModel: Obj_TreePalmMini_A_01
+name: Obj_TreePalmMini_A_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.9716150164604187
+slink: Tree_Bush_WithBushShake
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag572de768: 1462626152
+  tag9adf6fdd: !u 0x9adf6fdd
+  tage91ea5f6: !u 0xe91ea5f6
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

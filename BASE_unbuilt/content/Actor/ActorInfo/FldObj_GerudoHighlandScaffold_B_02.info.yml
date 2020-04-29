@@ -1,0 +1,23 @@
+aabbMax:
+  X: 9.8931303024292
+  Y: 0.8860560059547424
+  Z: 7.090360164642334
+aabbMin:
+  X: -10.23550033569336
+  Y: -20.459800720214844
+  Z: -5.47721004486084
+bfres: FldObj_GerudoHighland_B
+boundingForTraverse: 21.345857620239258
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 29912
+mainModel: FldObj_GerudoHighlandScaffold_B_02
+name: FldObj_GerudoHighlandScaffold_B_02
+profile: MapConstPassive
+sortKey: -5
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffff4608
+traverseDist: 800.0
+yLimitAlgorithm: NoLimit

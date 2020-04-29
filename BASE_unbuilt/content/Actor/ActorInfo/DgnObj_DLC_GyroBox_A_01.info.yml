@@ -1,0 +1,24 @@
+aabbMax:
+  X: 8.982999801635742
+  Y: 11.492300033569336
+  Z: 8.982999801635742
+aabbMin:
+  X: -8.982999801635742
+  Y: -7.976240158081055
+  Z: -8.982999801635742
+attackPower: 0
+bfres: DgnObj_DLC_GyroBox_A
+boundingForTraverse: 19.46854019165039
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 75368
+mainModel: DgnObj_DLC_GyroBox_A_01
+name: DgnObj_DLC_GyroBox_A_01
+profile: MapConstActive
+rigidBodyCenterY: 1.991029977798462
+sortKey: -26
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

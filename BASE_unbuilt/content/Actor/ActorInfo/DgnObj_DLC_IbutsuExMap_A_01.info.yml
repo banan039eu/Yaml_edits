@@ -1,0 +1,25 @@
+aabbMax:
+  X: 153.32899475097656
+  Y: 43.60850143432617
+  Z: 152.18099975585938
+aabbMin:
+  X: -153.2100067138672
+  Y: -4.44182014465332
+  Z: -152.58599853515625
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuEx_A
+boundingForTraverse: 48.050323486328125
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 36092
+mainModel: DgnObj_DLC_IbutsuExMap_A_01
+name: DgnObj_DLC_IbutsuExMap_A_01
+profile: MapConstActive
+sortKey: -3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

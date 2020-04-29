@@ -1,0 +1,32 @@
+aabbMax:
+  X: 0.4962790012359619
+  Y: 1.3527300357818604
+  Z: 0.5500789880752563
+aabbMin:
+  X: -0.6209269762039185
+  Y: -0.16975200176239014
+  Z: -0.6040160059928894
+attackPower: 0
+bfres: Obj_Plant_Knotweed_A
+boundingForTraverse: 1.5224820375442505
+bugMask: 2
+elink: Obj_Plant_Knotweed_A
+generalLife: 100
+instSize: 23252
+mainModel: Obj_Plant_Knotweed_A_01
+name: Obj_Plant_Knotweed_A_01
+profile: MapDynamicPassive
+slink: Plant
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag3d4375d9: 1027831257
+  tag51ed35a6: 1374500262
+  tag55ef2d02: 1441737986
+  tag7de11d78: 2111905144
+  tagaf6a810c: !u 0xaf6a810c
+  tage91ea5f6: !u 0xe91ea5f6
+  tagef94310b: !u 0xef94310b
+  tagf5f5d49c: !u 0xf5f5d49c
+yLimitAlgorithm: NoLimit

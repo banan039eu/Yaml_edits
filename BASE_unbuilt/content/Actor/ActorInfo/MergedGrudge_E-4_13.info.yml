@@ -1,0 +1,29 @@
+aabbMax:
+  X: 6.736390113830566
+  Y: 11.317399978637695
+  Z: 12.477700233459473
+aabbMin:
+  X: -8.05700969696045
+  Y: -5.6809401512146
+  Z: -16.96139907836914
+attackPower: 0
+bfres: MergedGrudge_E-4_13
+boundingForTraverse: 16.998340606689453
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 124936
+mainModel: MergedGrudge_E-4_13
+name: MergedGrudge_E-4_13
+profile: MapDynamicActive
+rigidBodyCenterY: -0.8660789728164673
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag57fd54ce: 1476220110
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+  tagd229960c: !u 0xd229960c
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

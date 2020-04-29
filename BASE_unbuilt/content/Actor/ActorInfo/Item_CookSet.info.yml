@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.7192379832267761
+  Y: 0.7680079936981201
+  Z: 0.6118159890174866
+aabbMin:
+  X: -0.7192379832267761
+  Y: -0.4084469974040985
+  Z: -0.6118159890174866
+attackPower: 0
+bfres: Obj_CookSet_A
+boundingForTraverse: 1.176455020904541
+bugMask: 3
+elink: Item_CookSet
+generalLife: 100
+instSize: 51700
+lookAtOffsetY: 0.6000000238418579
+mainModel: CookSet_A
+name: Item_CookSet
+profile: MapDynamicActive
+slink: Item_CookSet
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag51c0c6bb: 1371588283
+  tag6308f367: 1661530983
+  tag8fda6cdd: !u 0x8fda6cdd
+yLimitAlgorithm: LimitYDiff

@@ -1,0 +1,23 @@
+aabbMax:
+  X: 2.8799800872802734
+  Y: 10.36870002746582
+  Z: 0.10697899758815765
+aabbMin:
+  X: -2.6714301109313965
+  Y: -1.2498400211334229
+  Z: -0.00015300000086426735
+attackPower: 0
+bfres: DgnObj_DLC_BattleRoom_Parts_D
+boundingForTraverse: 11.618539810180664
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 27880
+mainModel: DgnObj_DLC_WallMarkB_04
+name: DgnObj_DLC_WallMarkB_04
+profile: MapConstActive
+sortKey: -3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

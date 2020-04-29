@@ -1,0 +1,22 @@
+aabbMax:
+  X: 9.078929901123047
+  Y: 0.3458139896392822
+  Z: 4.10945987701416
+aabbMin:
+  X: -8.913169860839844
+  Y: -17.885400772094727
+  Z: -1.5340700149536133
+bfres: TwnObj_Village_Sheiker_A
+boundingForTraverse: 18.23121452331543
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+isHasFar: true
+mainModel: TwnObj_Village_SheikerCliff_A_01
+name: TwnObj_Village_SheikerCliff_A_01
+profile: MapConstPassive
+sortKey: -2
+terrainTextures:
+- 1279401728
+traverseDist: 518.8564453125
+yLimitAlgorithm: NoLimit

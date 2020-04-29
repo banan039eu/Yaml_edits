@@ -1,0 +1,22 @@
+aabbMax:
+  X: 5.654200077056885
+  Y: 5.842470169067383
+  Z: 5.749770164489746
+aabbMin:
+  X: -6.153140068054199
+  Y: -0.40592101216316223
+  Z: -6.169159889221191
+bfres: Obj_RockLayerMoss_A
+boundingForTraverse: 6.248391151428223
+bugMask: 0
+instSize: 38172
+mainModel: Obj_RockLayerMoss_A_L_03
+name: RockLayerMoss_A_L_03_TwoWheels
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag977b149c: !u 0x977b149c
+terrainTextures:
+- !u 0xff4c1f00
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

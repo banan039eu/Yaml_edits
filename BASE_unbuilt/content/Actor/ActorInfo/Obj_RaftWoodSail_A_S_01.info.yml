@@ -1,0 +1,30 @@
+aabbMax:
+  X: 0.42904600501060486
+  Y: 6.723330020904541
+  Z: 2.871880054473877
+aabbMin:
+  X: -1.2940200567245483
+  Y: -0.004513000138103962
+  Z: -2.738679885864258
+attackPower: 0
+bfres: Obj_RaftWood_A
+boundingForTraverse: 6.727842807769775
+bugMask: 3
+generalLife: 100
+instSize: 51288
+lookAtOffsetY: -1.0
+mainModel: Obj_RaftWoodSail_A_S_01
+name: Obj_RaftWoodSail_A_S_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.30000001192092896
+slink: Obj_RaftWoodSail
+sortKey: -9
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag6b397f22: 1798930210
+  tag74831ee0: 1954750176
+  tagaf85ec67: !u 0xaf85ec67
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

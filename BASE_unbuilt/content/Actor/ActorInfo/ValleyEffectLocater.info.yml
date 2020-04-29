@@ -1,0 +1,10 @@
+bugMask: 0
+elink: ValleyEffectLocater
+instSize: 3476
+name: ValleyEffectLocater
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

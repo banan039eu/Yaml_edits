@@ -1,0 +1,18 @@
+aabbMax:
+  X: 1.4894700050354004
+  Y: 5.231100082397461
+  Z: 0.21741899847984314
+aabbMin:
+  X: -1.4894700050354004
+  Y: -5.231100082397461
+  Z: -0.2174219936132431
+bfres: FldObj_BokoFortress_A
+boundingForTraverse: 10.462200164794922
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17588
+mainModel: FldObj_PlantBokoFortress_A_02
+name: FldObj_PlantBokoFortress_A_02
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

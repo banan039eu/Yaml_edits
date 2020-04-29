@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 4816
+name: OwnedHorseObserverTag
+profile: AreaManagementForOthers
+sortKey: 2
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,23 @@
+aabbMax:
+  X: 23.605899810791016
+  Y: 6.778289794921875
+  Z: 17.365299224853516
+aabbMin:
+  X: -19.617700576782227
+  Y: -3.477289915084839
+  Z: -19.766599655151367
+bfres: TwnObj_Village_Ichikara_A
+boundingForTraverse: 10.255579948425293
+bugMask: 2
+cursorOffsetY: 0.5
+instSize: 117168
+isHasFar: true
+mainModel: TwnObj_Village_IchikaraSpring_A_01
+name: TwnObj_Village_IchikaraSpring_A_01
+profile: MapConstPassive
+slink: TwnObj_Village_IchikaraSpring_A_01
+sortKey: -8
+tags:
+  tag572de768: 1462626152
+traverseDist: 556.9829711914062
+yLimitAlgorithm: NoLimit

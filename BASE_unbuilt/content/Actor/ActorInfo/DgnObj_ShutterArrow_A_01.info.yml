@@ -1,0 +1,28 @@
+aabbMax:
+  X: 1.7999999523162842
+  Y: 3.75
+  Z: 0.20000000298023224
+aabbMin:
+  X: -1.7999999523162842
+  Y: 0.0
+  Z: -0.20000000298023224
+attackPower: 0
+bfres: DgnObj_ShutterArrow_A
+boundingForTraverse: 3.75
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Shutter
+generalLife: 100
+instSize: 28596
+mainModel: DgnObj_ShutterArrow_A_01
+name: DgnObj_ShutterArrow_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 1.8354400396347046
+slink: SwitchShutter
+sortKey: 2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag7dd56981: 2111138177
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

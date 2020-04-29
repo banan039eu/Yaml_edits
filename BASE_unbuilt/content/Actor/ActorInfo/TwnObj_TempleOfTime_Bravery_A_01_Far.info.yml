@@ -1,0 +1,19 @@
+aabbMax:
+  X: 16.600200653076172
+  Y: 12.840700149536133
+  Z: 16.246599197387695
+aabbMin:
+  X: -14.899900436401367
+  Y: -1.9272199869155884
+  Z: -17.68720054626465
+bfres: TwnObj_TempleOfTime_A_Far
+boundingForTraverse: 14.767919540405273
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17780
+mainModel: TwnObj_TempleOfTime_Bravery_A_01_Far
+name: TwnObj_TempleOfTime_Bravery_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 4000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,21 @@
+aabbMax:
+  X: 4.051370143890381
+  Y: 13.346500396728516
+  Z: 4.051360130310059
+aabbMin:
+  X: -4.051360130310059
+  Y: 0.0
+  Z: -4.051360130310059
+bfres: FldObj_KassHouse_A
+boundingForTraverse: 13.346500396728516
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 91248
+mainModel: FldObj_KassHouse_A_01
+name: FldObj_KassHouse_A_01
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffffff4d
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

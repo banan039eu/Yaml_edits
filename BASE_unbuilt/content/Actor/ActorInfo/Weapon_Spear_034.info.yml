@@ -1,0 +1,73 @@
+Chemical:
+  Capaciter: 1
+aabbMax:
+  X: 0.05953900143504143
+  Y: 0.3068850040435791
+  Z: 2.294919967651367
+aabbMin:
+  X: -0.13499900698661804
+  Y: -0.3068850040435791
+  Z: -0.46069300174713135
+attackPower: 20
+bfres: Weapon_Spear_034
+boundingForTraverse: 0.6137700080871582
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Spear_034
+generalLife: 40
+homeArea:
+- name: HeburaMountains
+- name: CentralHyrule
+- name: FironeGrassland
+instSize: 67568
+itemBuyingPrice: 450
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 150
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Spear_034
+name: Weapon_Spear_034
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponSpear
+slink: Weapon_Spear_034
+sortKey: 13211
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag8f5d0d55: !u 0x8f5d0d55
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 16
+weaponCommonPoweredSharpAddAtkMin: 9
+weaponCommonPoweredSharpAddLifeMax: 23
+weaponCommonPoweredSharpAddLifeMin: 10
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 2.0
+weaponCommonPoweredSharpAddThrowMin: 1.5
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 0
+weaponCommonSharpWeaponAddAtkMax: 8
+weaponCommonSharpWeaponAddAtkMin: 4
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 9
+weaponCommonSharpWeaponAddLifeMin: 5
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: ChemicalWeapon
+yLimitAlgorithm: NoLimit

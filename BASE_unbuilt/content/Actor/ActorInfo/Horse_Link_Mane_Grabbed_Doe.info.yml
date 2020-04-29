@@ -1,0 +1,17 @@
+aabbMax:
+  X: 0.12145999819040298
+  Y: 2.0077900886535645
+  Z: 0.5004889965057373
+aabbMin:
+  X: -0.12145999819040298
+  Y: 1.5761699676513672
+  Z: 0.1876389980316162
+bfres: Animal_FemaleDeer
+boundingForTraverse: 0.4316200017929077
+bugMask: 1
+instSize: 26632
+mainModel: FemaleDeer_Mane_Grabbedmodel
+name: Horse_Link_Mane_Grabbed_Doe
+profile: HorseReins
+sortKey: 0
+yLimitAlgorithm: NoLimit

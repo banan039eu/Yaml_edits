@@ -1,0 +1,38 @@
+aabbMax:
+  X: 1.0726499557495117
+  Y: 2.0973000526428223
+  Z: 1.1134099960327148
+aabbMin:
+  X: -1.0934699773788452
+  Y: 0.00989999994635582
+  Z: -1.0813100337982178
+attackPower: 0
+bfres: Obj_BoxIronBreakable_A
+boundingForTraverse: 2.087399959564209
+bugMask: 3
+drops:
+  Amiibo: 1
+  Normal:
+  - Item_Fruit_A
+  - Item_Fruit_K
+  Normal2:
+  - Obj_ArrowNormal_A_01
+  - Obj_ArrowBundle_A_02
+  - Obj_ArrowBundle_A_01
+elink: Obj_BreakBoxIron
+generalLife: 60
+instSize: 35080
+mainModel: Obj_BoxIronBreakable_A_01
+name: Obj_BreakBoxIron_100enemy
+profile: MapDynamicActive
+rigidBodyCenterY: 1.0
+slink: Obj_BreakBoxIron
+sortKey: -18
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag25cd2b4d: 634202957
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagd369c30f: !u 0xd369c30f
+yLimitAlgorithm: LimitYDiff

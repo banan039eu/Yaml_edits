@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.4398989975452423
+  Y: 2.287100076675415
+  Z: 0.4763990044593811
+aabbMin:
+  X: -0.501442015171051
+  Y: -0.005872000008821487
+  Z: -0.6822630167007446
+bfres: Npc_Rito_Hero
+boundingForTraverse: 2.2929720878601074
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Dm_Npc_Rito_Hero
+instSize: 316332
+mainModel: Npc_Rito_Hero
+name: Dm_Npc_Rito_Hero
+profile: NPC
+slink: Npc
+sortKey: -18
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag74831ee0: 1954750176
+  tag84f40ec6: !u 0x84f40ec6
+  tagfd5643b5: !u 0xfd5643b5
+yLimitAlgorithm: NoLimit

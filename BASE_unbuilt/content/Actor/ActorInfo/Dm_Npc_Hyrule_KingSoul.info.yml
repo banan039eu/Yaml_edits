@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.8736330270767212
+  Y: 2.776170015335083
+  Z: 0.5041069984436035
+aabbMin:
+  X: -0.8736330270767212
+  Y: 0.00016700000560376793
+  Z: -0.6304829716682434
+bfres: Npc_King_Ghost
+boundingForTraverse: 2.776002883911133
+bugMask: 3
+cursorOffsetY: 0.44999998807907104
+elink: Dm_Npc_Hyrule_KingSoul
+instSize: 396588
+mainModel: Npc_King_Ghost
+name: Dm_Npc_Hyrule_KingSoul
+profile: NPC
+slink: Npc_King_Parasail
+sortKey: -19
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+  tagf92947a1: !u 0xf92947a1
+  tagfd5643b5: !u 0xfd5643b5
+xlink: Npc
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,12 @@
+attackPower: 0
+bugMask: 0
+elink: SandStorm_Distance_A8
+generalLife: 100
+instSize: 3992
+name: SandStorm_Distance_A8
+profile: MapConstActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 3000.0
+yLimitAlgorithm: NoLimit

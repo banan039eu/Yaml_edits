@@ -1,0 +1,23 @@
+aabbMax:
+  X: 11.375
+  Y: 13.399999618530273
+  Z: 3.700000047683716
+aabbMin:
+  X: -0.5
+  Y: -3.5
+  Z: -3.700000047683716
+bfres: TwnObj_HyruleCastleWall_A
+boundingForTraverse: 16.899999618530273
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 149828
+mainModel: TwnObj_HyruleCastleWallPartsEndBreak_A_02
+name: TwnObj_DLC_HyruleCastleWallPartsEndBreak_A_02
+profile: MapConstPassive
+sortKey: -1
+tags:
+  taga1c9da5d: !u 0xa1c9da5d
+terrainTextures:
+- !u 0xffffff53
+traverseDist: 3000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,10 @@
+bugMask: 0
+elink: LavaHaze_01
+instSize: 3476
+name: LavaHaze_01
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

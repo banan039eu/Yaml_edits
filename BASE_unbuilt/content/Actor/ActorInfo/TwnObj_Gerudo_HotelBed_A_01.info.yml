@@ -1,0 +1,18 @@
+aabbMax:
+  X: 0.9831770062446594
+  Y: 1.0329500436782837
+  Z: 2.1162500381469727
+aabbMin:
+  X: -0.9880809783935547
+  Y: 0.0
+  Z: -2.0967700481414795
+bfres: TwnObj_City_GerudoFurniture_A
+boundingForTraverse: 1.0329500436782837
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 58468
+mainModel: TwnObj_Gerudo_HotelBed_A_01
+name: TwnObj_Gerudo_HotelBed_A_01
+profile: MapConstPassive
+sortKey: 2
+yLimitAlgorithm: NoLimit

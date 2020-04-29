@@ -1,0 +1,25 @@
+aabbMax:
+  X: 48.47050094604492
+  Y: 17.501800537109375
+  Z: 44.047298431396484
+aabbMin:
+  X: -46.89189910888672
+  Y: -1.4078799486160278
+  Z: -44.3380012512207
+bfres: TwnObj_HyruleCastleInside_DiningRoom_A
+boundingForTraverse: 18.90968132019043
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 352884
+mainModel: TwnObj_HyruleCastleInside_DiningRoom_A_01
+name: TwnObj_HyruleCastleInside_DiningRoom_A_01
+profile: MapConstPassive
+sortKey: -1
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+terrainTextures:
+- !u 0xffffff52
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

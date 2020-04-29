@@ -1,0 +1,27 @@
+aabbMax:
+  X: 4.7251200675964355
+  Y: 9.798239707946777
+  Z: 0.460658997297287
+aabbMin:
+  X: -4.734370231628418
+  Y: -0.35203999280929565
+  Z: -0.35515299439430237
+attackPower: 0
+bfres: FldObj_AssassinDoor_A
+boundingForTraverse: 10.150279998779297
+bugMask: 3
+cursorOffsetY: 0.5
+elink: FldObj_AssassinDoor_A_01
+generalLife: 100
+instSize: 31296
+mainModel: FldObj_AssassinDoor_A_02
+name: FldObj_AssassinDoor_A_02
+profile: MapDynamicActive
+rigidBodyCenterY: 4.873459815979004
+slink: FldObj_AssassinDoor_A_01
+sortKey: 3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag7dd56981: 2111138177
+yLimitAlgorithm: NoLimit

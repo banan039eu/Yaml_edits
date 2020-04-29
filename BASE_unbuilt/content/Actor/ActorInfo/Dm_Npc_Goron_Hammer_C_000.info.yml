@@ -1,0 +1,24 @@
+aabbMax:
+  X: 0.8450379967689514
+  Y: 0.2418529987335205
+  Z: 1.574779987335205
+aabbMin:
+  X: -0.4370729923248291
+  Y: -0.2418529987335205
+  Z: -0.4165880084037781
+bfres: Npc_Goron_Hammer_C_000
+boundingForTraverse: 0.483705997467041
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 32764
+mainModel: Npc_Goron_Hammer_C_000
+name: Dm_Npc_Goron_Hammer_C_000
+profile: DemoEquipment
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag4ccbef03: 1288433411
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

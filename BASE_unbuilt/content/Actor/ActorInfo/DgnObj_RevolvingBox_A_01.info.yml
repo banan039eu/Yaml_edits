@@ -1,0 +1,18 @@
+aabbMax:
+  X: 14.0
+  Y: 14.0
+  Z: 18.0
+aabbMin:
+  X: -14.0
+  Y: -14.0
+  Z: -18.0
+bfres: DgnObj_RevolvingBox_A
+boundingForTraverse: 28.0
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 61284
+mainModel: DgnObj_RevolvingBox_A_01
+name: DgnObj_RevolvingBox_A_01
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,18 @@
+aabbMax:
+  X: 2.231600046157837
+  Y: 0.661080002784729
+  Z: 0.9820989966392517
+aabbMin:
+  X: -2.231600046157837
+  Y: -0.7273319959640503
+  Z: -0.5492449998855591
+bfres: DgnObj_HingeBoard_A
+boundingForTraverse: 1.3884119987487793
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17908
+mainModel: DgnObj_HingeBoard_A_02
+name: DgnObj_HingeBoard_A_02
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

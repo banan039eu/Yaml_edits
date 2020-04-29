@@ -1,0 +1,23 @@
+aabbMax:
+  X: 19.997800827026367
+  Y: 0.15425099432468414
+  Z: 13.229999542236328
+aabbMin:
+  X: -20.00950050354004
+  Y: -69.08429718017578
+  Z: -14.077799797058105
+bfres: FldObj_WaterFallLanayru_A_Far
+boundingForTraverse: 69.2385482788086
+bugMask: 0
+cursorOffsetY: 0.5
+elink: FldObj_WaterFallLanayru_A_01
+instSize: 20996
+mainModel: FldObj_WaterFallLanayru_A_01_Far
+name: FldObj_WaterFallLanayru_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

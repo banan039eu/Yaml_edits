@@ -1,0 +1,18 @@
+aabbMax:
+  X: 0.039468999952077866
+  Y: 0.059895001351833344
+  Z: 1.1519999504089355
+aabbMin:
+  X: -0.039135001599788666
+  Y: -0.03655499964952469
+  Z: 0.9491869807243347
+bfres: Weapon_SpearSheath_023
+boundingForTraverse: 0.09645000100135803
+bugMask: 1
+cursorOffsetY: 0.5
+instSize: 26112
+mainModel: Weapon_SpearSheath_023
+name: Weapon_SpearSheath_023
+profile: OptionalWeapon
+sortKey: 2
+yLimitAlgorithm: NoLimit

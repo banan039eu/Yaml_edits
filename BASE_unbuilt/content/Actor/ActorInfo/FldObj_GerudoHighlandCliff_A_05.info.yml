@@ -1,0 +1,24 @@
+aabbMax:
+  X: 125.19999694824219
+  Y: 50.47370147705078
+  Z: 49.95330047607422
+aabbMin:
+  X: -118.65499877929688
+  Y: -88.3646011352539
+  Z: -24.462400436401367
+bfres: FldObj_GerudoHighland_A
+boundingForTraverse: 138.8383026123047
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 30552
+isHasFar: true
+mainModel: FldObj_GerudoHighlandCliff_A_05
+name: FldObj_GerudoHighlandCliff_A_05
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff46
+traverseDist: 754.956787109375
+yLimitAlgorithm: NoLimit

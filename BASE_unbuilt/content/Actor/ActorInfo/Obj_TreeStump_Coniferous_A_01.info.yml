@@ -1,0 +1,23 @@
+aabbMax:
+  X: 1.3764899969100952
+  Y: 1.3218499422073364
+  Z: 1.306570053100586
+aabbMin:
+  X: -1.6251300573349
+  Y: -0.9352689981460571
+  Z: -1.1236799955368042
+bfres: Obj_TreeStump_Coniferous_A
+boundingForTraverse: 2.2571189403533936
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38556
+mainModel: Obj_TreeStump_Coniferous_A_01
+name: Obj_TreeStump_Coniferous_A_01
+profile: MapConstPassive
+sortKey: -1
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  taga40dd51c: !u 0xa40dd51c
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

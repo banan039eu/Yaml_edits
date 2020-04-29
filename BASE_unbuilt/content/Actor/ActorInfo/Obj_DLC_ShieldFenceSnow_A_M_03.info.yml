@@ -1,0 +1,28 @@
+aabbMax:
+  X: 1.2162599563598633
+  Y: 3.404789924621582
+  Z: 0.7217370271682739
+aabbMin:
+  X: -1.499400019645691
+  Y: -0.07162100076675415
+  Z: -0.30506598949432373
+attackPower: 0
+bfres: Obj_DLC_ShieldFenceSnow_A
+boundingForTraverse: 3.4764111042022705
+bugMask: 2
+cursorOffsetY: 0.5
+elink: Obj_DLC_ShieldFenceSnow_A_M_03
+generalLife: 40
+instSize: 65328
+mainModel: Obj_DLC_ShieldFenceSnow_A_M_03
+name: Obj_DLC_ShieldFenceSnow_A_M_03
+profile: MapDynamicPassive
+rigidBodyCenterY: 1.5412299633026123
+slink: Obj_ShieldFenceWood_A_M
+sortKey: -3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0ba4a61e: 195339806
+  tagff53ef86: !u 0xff53ef86
+yLimitAlgorithm: NoLimit

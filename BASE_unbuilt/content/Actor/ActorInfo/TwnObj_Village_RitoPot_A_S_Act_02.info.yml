@@ -1,0 +1,37 @@
+aabbMax:
+  X: 0.27720001339912415
+  Y: 0.9750869870185852
+  Z: 0.26908499002456665
+aabbMin:
+  X: -0.27004700899124146
+  Y: 0.0
+  Z: -0.2835789918899536
+attackPower: 4
+bfres: TwnObj_Village_RitoPot_A
+boundingForTraverse: 0.9750869870185852
+bugMask: 3
+cursorOffsetY: 0.5
+drops:
+  Normal:
+  - Obj_ArrowNormal_A_01
+  - Item_Ore_F
+  - Item_Ore_E
+  - Obj_ArrowBundle_A_01
+  - Obj_BombArrow_A_01
+elink: TwnObj_Village_RitoPot_A_S_Act_02
+generalLife: 1
+instSize: 42632
+mainModel: TwnObj_Village_RitoPot_A_S_Act_02
+name: TwnObj_Village_RitoPot_A_S_Act_02
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.41136398911476135
+slink: PotSmall
+sortKey: 12
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag25cd2b4d: 634202957
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagff2ecb67: !u 0xff2ecb67
+yLimitAlgorithm: NoLimit

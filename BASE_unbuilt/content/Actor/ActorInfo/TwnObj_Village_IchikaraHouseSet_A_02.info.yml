@@ -1,0 +1,20 @@
+aabbMax:
+  X: 7.55010986328125
+  Y: 10.17240047454834
+  Z: 5.069650173187256
+aabbMin:
+  X: -7.671420097351074
+  Y: 2.7180700302124023
+  Z: -4.801549911499023
+bfres: TwnObj_Village_Ichikara_A
+boundingForTraverse: 7.454329967498779
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 70408
+mainModel: TwnObj_Village_IchikaraHouseSet_A_02
+name: TwnObj_Village_IchikaraHouseSet_A_02
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+yLimitAlgorithm: NoLimit

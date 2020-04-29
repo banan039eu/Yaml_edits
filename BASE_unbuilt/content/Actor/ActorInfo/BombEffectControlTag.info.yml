@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 4720
+name: BombEffectControlTag
+profile: AreaManagementForOthers
+sortKey: 0
+yLimitAlgorithm: NoLimit

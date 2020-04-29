@@ -1,0 +1,41 @@
+aabbMax:
+  X: 1.0956300497055054
+  Y: 2.815429925918579
+  Z: 1.7564400434494019
+aabbMin:
+  X: -0.5204110145568848
+  Y: -0.05269400030374527
+  Z: -1.335610032081604
+animalUnitBasePlayRate: 0.949999988079071
+attackPower: 5
+bfres: Animal_Horse_Nushi
+boundingForTraverse: 2.868124008178711
+bugMask: 3
+elink: GameRomHorseNushi
+generalLife: 100
+horseASVariation: Normal
+horseGearTopChargeNum: 5
+horseNature: 2
+horseUnitRiddenAnimalType: 9
+instSize: 321500
+lookAtOffsetY: 0.20000000298023224
+mainModel: Horse_Nushi
+name: GameRomHorseNushi
+pictureBookLiveSpot1: 21
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: 26
+profile: Horse
+rigidBodyCenterY: -1.5
+slink: HorseNushi
+sortKey: 103
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag088ac6a0: 143312544
+  tag24cd75fe: 617444862
+  tag5aa0d024: 1520488484
+  tag6b3d3141: 1799172417
+  tagac9f717f: !u 0xac9f717f
+traverseDist: 200.0
+xlink: Horse
+yLimitAlgorithm: NoLimit

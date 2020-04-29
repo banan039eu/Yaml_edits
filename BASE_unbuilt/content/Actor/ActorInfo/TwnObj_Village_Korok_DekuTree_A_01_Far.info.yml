@@ -1,0 +1,24 @@
+aabbMax:
+  X: 185.49099731445312
+  Y: 180.82000732421875
+  Z: 162.1219940185547
+aabbMin:
+  X: -174.74400329589844
+  Y: -1.3724700212478638
+  Z: -179.75999450683594
+attackPower: 0
+bfres: TwnObj_Village_Korok_A_Far
+boundingForTraverse: 182.19247436523438
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 62120
+mainModel: TwnObj_Village_Korok_DekuTree_A_01_Far
+name: TwnObj_Village_Korok_DekuTree_A_01_Far
+profile: MapConstActive
+slink: TwnObj_Village_Korok_DekuTree_A_01
+sortKey: 1
+systemIsGetItemSelf: false
+systemSameGroupActorName: TwnObj_Village_Korok_DekuTree_A_02
+traverseDist: 6000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.2022700011730194
+  Y: 0.9428709745407104
+  Z: 0.21017199754714966
+aabbMin:
+  X: -0.2022709995508194
+  Y: 0.0005869999877177179
+  Z: -0.12413500249385834
+armorDefenceAddLevel: 20
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 5
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_230
+boundingForTraverse: 0.9422839879989624
+bugMask: 1
+instSize: 48296
+itemBuyingPrice: 60
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 1425
+itemStainColor: -1
+itemUseIconActorName: Armor_230_Lower
+mainModel: Armor_230_Lower
+name: Armor_234_Lower
+normal0ItemName01: Armor_233_Lower
+normal0ItemName02: Item_Ore_B
+normal0ItemName03: Item_Ore_J
+normal0ItemNum01: 1
+normal0ItemNum02: 10
+normal0ItemNum03: 1
+normal0StuffNum: 3
+profile: ArmorLower
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: AmiiboFirstHero
+sortKey: 4623731
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

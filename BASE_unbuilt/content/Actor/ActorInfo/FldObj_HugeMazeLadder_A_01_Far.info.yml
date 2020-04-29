@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.5001569986343384
+  Y: 5.005809783935547
+  Z: 0.2735700011253357
+aabbMin:
+  X: -0.5169410109519958
+  Y: -0.06870800256729126
+  Z: -0.1262650042772293
+bfres: FldObj_HugeMaze_A_Far
+boundingForTraverse: 5.074518203735352
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: FldObj_HugeMazeLadder_A_01_Far
+name: FldObj_HugeMazeLadder_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

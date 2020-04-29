@@ -1,0 +1,21 @@
+aabbMax:
+  X: 19.332000732421875
+  Y: 17.829999923706055
+  Z: 4.167870044708252
+aabbMin:
+  X: -18.558500289916992
+  Y: -1.9325499534606934
+  Z: -4.5996198654174805
+bfres: FldObj_SunazarashiRace_A_Far
+boundingForTraverse: 19.762550354003906
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 50048
+mainModel: FldObj_RaceStartGate_A_01_Far
+name: FldObj_StartGate_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

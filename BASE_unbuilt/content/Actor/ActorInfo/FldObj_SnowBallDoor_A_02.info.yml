@@ -1,0 +1,26 @@
+aabbMax:
+  X: 6.199999809265137
+  Y: 12.451199531555176
+  Z: 0.522737979888916
+aabbMin:
+  X: -6.2367401123046875
+  Y: 0.049267999827861786
+  Z: 0.04041700065135956
+attackPower: 0
+bfres: FldObj_SnowBallGate_A
+boundingForTraverse: 12.401931762695312
+bugMask: 3
+cursorOffsetY: 0.5
+elink: FldObj_SnowBallDoor_A_02
+generalLife: 100
+instSize: 44704
+mainModel: FldObj_SnowBallDoor_A_02
+name: FldObj_SnowBallDoor_A_02
+profile: MapDynamicActive
+rigidBodyCenterY: 6.199999809265137
+slink: Obj_StoneDoor_SnowBall
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

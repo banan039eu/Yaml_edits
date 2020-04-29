@@ -1,0 +1,47 @@
+aabbMax:
+  X: 0.49347901344299316
+  Y: 2.257819890975952
+  Z: 0.9565209746360779
+aabbMin:
+  X: -0.589139997959137
+  Y: -0.00481799989938736
+  Z: -0.33268800377845764
+attackPower: 4
+bfres: Enemy_Bokoblin_Bone
+boundingForTraverse: 2.26263689994812
+bugMask: 3
+cursorOffsetY: 0.6000000238418579
+drops:
+  Normal:
+  - Item_Enemy_01
+  Normal2:
+  - Item_Enemy_00
+elink: Enemy_Bokoblin_Bone_Junior
+enemyRank: 12
+generalLife: 1
+instSize: 438640
+mainModel: Bokoblin_Bone
+name: Enemy_Bokoblin_Bone_Junior_AllDay
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+slink: Stal_Bokoblin_Junior_Body
+sortKey: 10513
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_Bokoblin_Bone_Junior
+tags:
+  tag35960905: 899025157
+  tag57e2e33f: 1474487103
+  tag6b536bc9: 1800629193
+  tag72d6e7a4: 1926686628
+  tag82ed5778: !u 0x82ed5778
+  tag8fda6cdd: !u 0x8fda6cdd
+  tag994aef4b: !u 0x994aef4b
+  taga4c7ba34: !u 0xa4c7ba34
+  taga7e979db: !u 0xa7e979db
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagf2e5b2f2: !u 0xf2e5b2f2
+traverseDist: 150.0
+xlink: Biped_Enemy
+yLimitAlgorithm: LimitYDiff

@@ -1,0 +1,59 @@
+aabbMax:
+  X: 2.076620101928711
+  Y: 4.308330059051514
+  Z: 3.820930004119873
+aabbMin:
+  X: -2.124569892883301
+  Y: -0.0066650002263486385
+  Z: -1.0413600206375122
+attackPower: 10
+bfres: Enemy_Moriblin_Bone
+boundingForTraverse: 4.314995765686035
+bugMask: 3
+cursorOffsetY: 0.75
+drops:
+  Normal:
+  - Item_Enemy_07
+  Normal2:
+  - Item_Enemy_06
+elink: Enemy_Moriblin_Bone_Junior
+enemyRank: 24
+generalLife: 2
+homeArea:
+- name: HyruleForest
+- name: GerudoHighlands
+- name: EldinMountains
+instSize: 405140
+invalidTimes:
+- Morning_A2
+- Morning_B
+- Noon_A
+- Noon_B
+- Evening_A
+- Evening_B
+mainModel: Moriblin_Bone
+name: Enemy_Moriblin_Bone_Junior
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+slink: Enemy_Moriblin_Bone_Junior
+sortKey: 606
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag1ac8f200: 449376768
+  tag255b5760: 626743136
+  tag35960905: 899025157
+  tag485bf81d: 1213986845
+  tag72d6e7a4: 1926686628
+  tag82ed5778: !u 0x82ed5778
+  tag8fda6cdd: !u 0x8fda6cdd
+  tag994aef4b: !u 0x994aef4b
+  taga4c7ba34: !u 0xa4c7ba34
+  taga7e979db: !u 0xa7e979db
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagf2e5b2f2: !u 0xf2e5b2f2
+traverseDist: 150.0
+xlink: Biped_Enemy
+yLimitAlgorithm: NoLimit

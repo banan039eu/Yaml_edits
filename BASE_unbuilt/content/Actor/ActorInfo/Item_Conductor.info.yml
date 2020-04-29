@@ -1,0 +1,38 @@
+aabbMax:
+  X: 0.1326970010995865
+  Y: 0.020607000216841698
+  Z: 0.0765950009226799
+aabbMin:
+  X: -0.13220100104808807
+  Y: -0.020604999735951424
+  Z: -0.0765950009226799
+armorDefenceAddLevel: 0
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: ''
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 0
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Item_Conductor
+boundingForTraverse: 0.04121299833059311
+bugMask: 3
+elink: Item_Conductor
+instSize: 40156
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Item_Conductor
+name: Item_Conductor
+profile: ArmorExtra2
+slink: Item_Conductor
+sortKey: 0
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

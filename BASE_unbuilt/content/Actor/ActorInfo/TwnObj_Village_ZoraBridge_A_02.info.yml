@@ -1,0 +1,20 @@
+aabbMax:
+  X: 5.829639911651611
+  Y: 10.655200004577637
+  Z: 1.672860026359558
+aabbMin:
+  X: -5.829639911651611
+  Y: 0.16643600165843964
+  Z: -1.672860026359558
+bfres: TwnObj_Village_Zora_A
+boundingForTraverse: 10.488763809204102
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 31384
+isHasFar: true
+mainModel: TwnObj_Village_ZoraBridge_A_02
+name: TwnObj_Village_ZoraBridge_A_02
+profile: MapConstPassive
+sortKey: 9
+traverseDist: 512.1298217773438
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,13 @@
+attackPower: 0
+bugMask: 3
+elink: DgnObj_GoalShield_A
+generalLife: 100
+instSize: 15768
+name: DgnObj_GoalShield_A
+profile: MapDynamicActive
+slink: DgnObj_GoalShield_A
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

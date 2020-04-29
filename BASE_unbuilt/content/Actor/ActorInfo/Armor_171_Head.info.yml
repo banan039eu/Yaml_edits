@@ -1,0 +1,42 @@
+aabbMax:
+  X: 0.2512210011482239
+  Y: 1.9277299642562866
+  Z: 0.1900629997253418
+aabbMin:
+  X: -0.2512210011482239
+  Y: 1.4238300323486328
+  Z: -0.1566160023212433
+armorDefenceAddLevel: 8
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: AttackUp
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_171
+boundingForTraverse: 0.5038999915122986
+bugMask: 3
+instSize: 35020
+itemBuyingPrice: 50
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 15
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_171_Head
+name: Armor_171_Head
+profile: ArmorHead
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: Phantom
+slink: Armor_Head_MetalHeavy
+sortKey: 5521825
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

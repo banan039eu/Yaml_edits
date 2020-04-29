@@ -1,0 +1,23 @@
+aabbMax:
+  X: 3.8016300201416016
+  Y: 0.1880429983139038
+  Z: 3.4580399990081787
+aabbMin:
+  X: -3.8016300201416016
+  Y: -9.123259544372559
+  Z: -3.9702301025390625
+bfres: FldObj_CliffWhiteLakeHylia_A
+boundingForTraverse: 9.311302185058594
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38044
+mainModel: FldObj_CliffWhiteLakeHylia_A_02
+name: FldObj_CliffWhiteLakeHylia_A_02
+profile: MapConstPassive
+sortKey: 2
+tags:
+  tag03528579: 55739769
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- 1293750544
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,10 @@
+attackPower: 0
+bugMask: 1
+generalLife: 100
+instSize: 9088
+name: WaterChemicalCheckTag
+profile: MapDynamicActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

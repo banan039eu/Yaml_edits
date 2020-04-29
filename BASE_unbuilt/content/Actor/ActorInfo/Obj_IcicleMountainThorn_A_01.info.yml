@@ -1,0 +1,20 @@
+aabbMax:
+  X: 13.116499900817871
+  Y: 7.6273298263549805
+  Z: 13.116499900817871
+aabbMin:
+  X: -13.116499900817871
+  Y: -5.121860027313232
+  Z: -13.116499900817871
+bfres: Obj_IcicleMountain_A
+boundingForTraverse: 12.749189376831055
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+mainModel: Obj_IcicleMountainThorn_A_01
+name: Obj_IcicleMountainThorn_A_01
+profile: MapConstPassive
+sortKey: 24
+terrainTextures:
+- !u 0xffffff37
+yLimitAlgorithm: NoLimit

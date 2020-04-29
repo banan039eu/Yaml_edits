@@ -1,0 +1,23 @@
+aabbMax:
+  X: 9.518610000610352
+  Y: 12.860600471496582
+  Z: 0.8003950119018555
+aabbMin:
+  X: -8.270529747009277
+  Y: -1.723330020904541
+  Z: -16.510900497436523
+bfres: FldObj_AncientReactorCoverAkkare_A_01_Far
+boundingForTraverse: 14.583930969238281
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 49152
+mainModel: FldObj_AncientReactorCoverAkkare_A_01_Far
+name: FldObj_AncientReactorCoverAkkare_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+terrainTextures:
+- !u 0xff4c1f00
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

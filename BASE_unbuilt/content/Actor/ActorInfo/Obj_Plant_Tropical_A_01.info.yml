@@ -1,0 +1,36 @@
+aabbMax:
+  X: 0.9453020095825195
+  Y: 1.4379600286483765
+  Z: 1.0510599613189697
+aabbMin:
+  X: -1.021690011024475
+  Y: -0.45760300755500793
+  Z: -0.9660549759864807
+attackPower: 0
+bfres: Obj_Plant_Tropical_A
+boundingForTraverse: 1.895563006401062
+bugMask: 2
+elink: Obj_Plant_Tropical_A_01
+generalLife: 100
+instSize: 24148
+mainModel: Obj_Plant_Tropical_A_01
+name: Obj_Plant_Tropical_A_01
+profile: MapDynamicPassive
+slink: Plant
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag1f4b9ede: 525049566
+  tag206f0b59: 544148313
+  tag4436fdc7: 1144454599
+  tag50fb41e2: 1358643682
+  tag51ed35a6: 1374500262
+  tag55ef2d02: 1441737986
+  tag960721f7: !u 0x960721f7
+  taga4a8ba48: !u 0xa4a8ba48
+  tagb8f1226a: !u 0xb8f1226a
+  tagc563c8cb: !u 0xc563c8cb
+  tage91ea5f6: !u 0xe91ea5f6
+  tage9411376: !u 0xe9411376
+yLimitAlgorithm: NoLimit

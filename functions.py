@@ -45,6 +45,8 @@ def newActorinfo(csv_file, pack_name, index):
             fout.write(line.replace(csv_file[index][13], csv_file[index][0]))
         elif 'elink' in line:
             fout.write('elink: ' + csv_file[index][1] + '\n')
+        elif 'itemBuyingPrice' in line:
+            fout.write('itemBuyingPrice: 1000' + '\n')
         elif 'attackPower' in line:
             fout.write('attackPower: ' + csv_file[index][2] + '\n')
         elif 'weaponCommonGuardPower' in line:
@@ -99,6 +101,8 @@ def newGparam(pack_name, csv_file, index):
             fout.write('      IsHammer: ' + csv_file[index][8] + '\n')
         elif 'PodName: ' in line:
             fout.write('      PodName: !str32 ' + csv_file[index][9] + '\n')
+        elif 'BuyingPrice: ' in line:
+            fout.write('      BuyingPrice: 1000' + '\n')
         elif '      MagicName: ' in line:
             if csv_file[index][11] == '':
                 fout.write(line)
@@ -142,10 +146,6 @@ def newModels(pack_name, csv_file, index):
     checkAndDelete(iconPath + csv_file[index][0] + '.sbitemico')
     os.system('bfres_duplicator \"' + iconPath_base + csv_file[index][13] +'.sbitemico\" \"' + iconPath + csv_file[index][0] + '.sbitemico\"')
 
-    #os.system('del ' + ModelPath + csv_file[index][13] +'.sbfres >nul')
-    #os.system('del ' + ModelPath + csv_file[index][13] +'.Tex1.sbfres >nul')
-    #os.system('del ' + ModelPath + csv_file[index][13] +'.Tex2.sbfres >nul')
-    #os.system('del ' + iconPath + csv_file[index][13] +'.sbitemico >nul')
 
 def defineItemType(csv_file, index):
     if 'Shield' in csv_file[index][0]: return 'WeaponShield'
@@ -153,6 +153,9 @@ def defineItemType(csv_file, index):
     elif 'Lsword' in csv_file[index][0]: return 'WeaponLargeSword'
     elif 'Bow' in csv_file[index][0]: return 'WeaponBow'
     elif 'Spear' in csv_file[index][0]: return 'WeaponSpear'
+    elif 'Head' in csv_file[index][0]: return 'ArmorHead'
+    elif 'Lower' in csv_file[index][0]: return 'ArmorLower'
+    elif 'Upper' in csv_file[index][0]: return 'ArmorUpper'
     print("Cannot determine weapon profile")
     sys.exit()
 
@@ -173,27 +176,17 @@ def msytEntry(csv_file, index):
 def newDesc(pack_name, csv_file, index):
     type = defineItemType(csv_file, index)
 
-    descPath_base = "BASE_unbuilt\\content\Pack\Bootup_EUen.pack\Message\Msg_EUen.product.ssarc\ActorType\\"
     descPath = pack_name + "\\content\Pack\Bootup_EUen.pack\Message\Msg_EUen.product.ssarc\ActorType\\"
     if not os.path.exists(pack_name + "\\content\Pack\Bootup_EUen.pack\\"):
         shutil.copytree("BASE_unbuilt\\content\Pack\Bootup_EUen.pack\\",  pack_name + "\\content\Pack\Bootup_EUen.pack\\")
-    #checkAndDelete(descPath + "\\" + type + ".msyt")
     to_insert = msytEntry(csv_file, index)
-
-    #fin = open(descPath_base + "\\" + type + '.msyt', 'rt')
     fout = open(descPath + "\\" + type + '.msyt', 'a')
-    #for line in fin:
-    #    fout.write(line)
     fout.write(to_insert)
-    #fin.close()
     fout.close()
-    #os.remove(descPath + 'WeaponSmallSword.msyt')
-    #os.rename(descPath + 'WeaponSmallSword1.msyt', descPath + 'WeaponSmallSword.msyt')
 
 def newRules(pack_name):
     rulesPath = pack_name + '\\'
     checkAndDelete(rulesPath + 'rules.txt')
-    fin = open('BASE_unbuilt\\rules.txt', 'rt')
     fout = open(rulesPath + 'rules.txt', 'wt')
     fout.write('[Definition]\n')
     fout.write('titleIds = 00050000101C9300,00050000101C9400,00050000101C9500\n')
@@ -206,8 +199,6 @@ def newRules(pack_name):
     fout.close()
 
 def deleteLooseFiles(pack_name):
-    PATH = str(pathlib.Path().absolute())
-    #os.system('del ' + new_weapon + '_unbuilt')
     os.system('del /F /Q ' + pack_name + '_build\.done')
     checkAndDelete(pack_name + '_build\.done')
     if not os.path.exists('trash'):

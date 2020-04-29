@@ -1,0 +1,26 @@
+aabbMax:
+  X: 6.062459945678711
+  Y: 1.2000000476837158
+  Z: 6.062459945678711
+aabbMin:
+  X: -6.062459945678711
+  Y: -1.9919400215148926
+  Z: -6.062459945678711
+attackPower: 0
+bfres: DgnObj_SwitchTarget_A
+boundingForTraverse: 3.1919400691986084
+bugMask: 3
+generalLife: 100
+instSize: 61080
+mainModel: DgnObj_SwitchTarget_A_01
+name: DgnObj_DLC_SwitchTarget_A
+profile: MapDynamicActive
+rigidBodyCenterY: -0.6761220097541809
+slink: DgnObj_DLC_SwitchTarget_A
+sortKey: -39
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag51e73965: 1374108005
+xlink: DgnObj_ConstrainedSlider
+yLimitAlgorithm: NoLimit

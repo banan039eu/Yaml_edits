@@ -1,0 +1,21 @@
+aabbMax:
+  X: 1.4206500053405762
+  Y: 3.173229932785034
+  Z: 0.8459929823875427
+aabbMin:
+  X: -1.4136899709701538
+  Y: -0.006876000203192234
+  Z: -0.8212080001831055
+boundingForTraverse: 3.1801059246063232
+bugMask: 3
+cursorOffsetY: 0.8999999761581421
+elink: Npc_Goron
+instSize: 314860
+name: Npc_Goron010
+profile: NPC
+slink: Npc_Goron010
+sortKey: 39
+systemIsGetItemSelf: false
+systemSameGroupActorName: Npc_Goron110
+xlink: Npc
+yLimitAlgorithm: NoLimit

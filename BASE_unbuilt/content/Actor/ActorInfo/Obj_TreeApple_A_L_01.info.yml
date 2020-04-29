@@ -1,0 +1,32 @@
+aabbMax:
+  X: 5.8277997970581055
+  Y: 10.30150032043457
+  Z: 5.521120071411133
+aabbMin:
+  X: -6.063439846038818
+  Y: -1.3188300132751465
+  Z: -5.432779788970947
+attackPower: 0
+bfres: Obj_TreeApple_A
+boundingForTraverse: 11.620330810546875
+bugMask: 1
+drops:
+  Normal:
+  - Weapon_Sword_044
+elink: Obj_TreeApple_A_L_01
+generalLife: 40
+instSize: 112212
+lookAtOffsetY: 1.100000023841858
+mainModel: Obj_TreeApple_A_L_01
+name: Obj_TreeApple_A_L_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 5.047070026397705
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tage09808b3: !u 0xe09808b3
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

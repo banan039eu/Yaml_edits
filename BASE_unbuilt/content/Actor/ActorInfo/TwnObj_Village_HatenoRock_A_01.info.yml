@@ -1,0 +1,20 @@
+aabbMax:
+  X: 1.2516800165176392
+  Y: 3.430720090866089
+  Z: 1.1522200107574463
+aabbMin:
+  X: -0.9067729711532593
+  Y: 0.0
+  Z: -0.7412660121917725
+bfres: TwnObj_Village_Hateno_A
+boundingForTraverse: 3.430720090866089
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+isHasFar: true
+mainModel: TwnObj_Village_HatenoRock_A_01
+name: TwnObj_Village_HatenoRock_A_01
+profile: MapConstPassive
+sortKey: -20
+traverseDist: 502.87127685546875
+yLimitAlgorithm: NoLimit

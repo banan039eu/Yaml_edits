@@ -1,0 +1,27 @@
+aabbMax:
+  X: 2.0
+  Y: 4.0
+  Z: 2.0
+aabbMin:
+  X: -2.0
+  Y: 0.0
+  Z: -2.0
+attackPower: 0
+bfres: DgnObj_BoxIron_A
+boundingForTraverse: 4.0
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 28860
+mainModel: DgnObj_BoxIron_A_01
+name: DgnObj_BoxIron_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 2.0
+sortKey: 10
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag507efd18: 1350499608
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,21 @@
+aabbMax:
+  X: 8.022970199584961
+  Y: 2.5699100494384766
+  Z: 7.735899925231934
+aabbMin:
+  X: -9.979069709777832
+  Y: -1.0526399612426758
+  Z: -7.907780170440674
+bfres: FldObj_CliffDeathMt_B
+boundingForTraverse: 3.6225500106811523
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+mainModel: FldObj_CliffDeathMt_B_12
+name: FldObj_DeathMtGeyser_02_100enemy
+profile: MapConstPassive
+sortKey: -13
+tags:
+  tag977b149c: !u 0x977b149c
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

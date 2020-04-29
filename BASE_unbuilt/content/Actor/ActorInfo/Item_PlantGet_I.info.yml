@@ -1,0 +1,56 @@
+aabbMax:
+  X: 0.2434370070695877
+  Y: 0.6877070069313049
+  Z: 0.36876899003982544
+aabbMin:
+  X: -0.2502500116825104
+  Y: -0.426800012588501
+  Z: -0.28889700770378113
+bfres: Obj_FlowerBellflower_A
+boundingForTraverse: 1.1145069599151611
+bugMask: 3
+cureItemEffectLevel: 1
+cureItemEffectType: Quietness
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 0
+cursorOffsetY: 0.4000000059604645
+elink: Item_PlantGet_I
+generalLife: 1
+homeArea:
+- name: WestHateru
+- name: LanayruWaterSources
+- name: HyruleForest
+instSize: 36716
+itemBuyingPrice: 16
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 4
+itemStainColor: 1
+itemUseIconActorName: Item_PlantGet_I
+lookAtOffsetY: 0.10000000149011612
+mainModel: Obj_Get_FlowerBellflower_A_01
+motorcycleEnergy:
+  add: 100.0
+name: Item_PlantGet_I
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+rigidBodyCenterY: 0.30000001192092896
+slink: Item_PlantLeafGet
+sortKey: 31530
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_PlantGet_I
+tags:
+  tag682e5129: 1747865897
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagbbf08f85: !u 0xbbf08f85
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

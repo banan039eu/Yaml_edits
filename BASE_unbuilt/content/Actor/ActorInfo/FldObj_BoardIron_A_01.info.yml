@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.44999998807907104
+  Y: 0.10000000149011612
+  Z: -0.05000000074505806
+aabbMin:
+  X: -0.6055309772491455
+  Y: -0.10000000149011612
+  Z: -7.949999809265137
+attackPower: 0
+bfres: Obj_BoardIron_B
+boundingForTraverse: 0.20000000298023224
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 30844
+mainModel: Obj_BoardIron_B_01
+name: FldObj_BoardIron_A_01
+profile: MapDynamicActive
+sortKey: -15
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag507efd18: 1350499608
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagc4154689: !u 0xc4154689
+yLimitAlgorithm: NoLimit

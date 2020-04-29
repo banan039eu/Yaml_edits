@@ -1,0 +1,12 @@
+attackPower: 0
+bugMask: 0
+generalLife: 100
+instSize: 2356
+name: EnemyLookTag_Happy
+profile: MapConstActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag51c0c6bb: 1371588283
+yLimitAlgorithm: NoLimit

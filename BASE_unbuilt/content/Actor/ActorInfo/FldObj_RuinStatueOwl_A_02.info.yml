@@ -1,0 +1,18 @@
+aabbMax:
+  X: 4.94497013092041
+  Y: 13.258999824523926
+  Z: 3.3266398906707764
+aabbMin:
+  X: -4.94497013092041
+  Y: -0.005762000102549791
+  Z: -3.7883899211883545
+bfres: FldObj_RuinStatueOwl_A
+boundingForTraverse: 13.264761924743652
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 27608
+mainModel: FldObj_RuinStatueOwl_A_02
+name: FldObj_RuinStatueOwl_A_02
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

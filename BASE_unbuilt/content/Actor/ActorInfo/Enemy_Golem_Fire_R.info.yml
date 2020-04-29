@@ -1,0 +1,45 @@
+aabbMax:
+  X: 9.984990119934082
+  Y: 8.824410438537598
+  Z: 6.080619812011719
+aabbMin:
+  X: -6.526679992675781
+  Y: -0.4735429883003235
+  Z: -2.7163798809051514
+actorScale: 2.0
+attackPower: 10
+bfres: Enemy_Golem_Fire_R
+boundingForTraverse: 9.297953605651855
+bugMask: 3
+elink: Enemy_Golem_Fire_R
+enemyRank: 20
+generalLife: 1600
+instSize: 303152
+lookAtOffsetY: 6.5
+mainModel: Golem_Fire_R
+name: Enemy_Golem_Fire_R
+pictureBookLiveSpot1: 21
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: GiantEnemy
+rigidBodyCenterY: -0.1562899947166443
+slink: Enemy_Golem_Fire_R
+sortKey: 1206
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2bc52291: 734339729
+  tag2be89673: 736663155
+  tag33b0a8cc: 867215564
+  tag35b5afc9: 901099465
+  tag36565b66: 911629158
+  tag4806038d: 1208353677
+  tag60cda717: 1624090391
+  tag994aef4b: !u 0x994aef4b
+  tag9eb0ef08: !u 0x9eb0ef08
+  tagaf85ec67: !u 0xaf85ec67
+  tagb0c9e79a: !u 0xb0c9e79a
+terrainTextures:
+- !u 0xffffff32
+xlink: Enemy_Golem
+yLimitAlgorithm: NoLimit

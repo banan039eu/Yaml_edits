@@ -1,0 +1,38 @@
+aabbMax:
+  X: 0.3562450110912323
+  Y: 1.7762800455093384
+  Z: 0.6834350228309631
+aabbMin:
+  X: -0.543071985244751
+  Y: -0.00013000000035390258
+  Z: -0.21848399937152863
+boundingForTraverse: 1.7764099836349487
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: UMii_Hylia_Backpack
+instSize: 600300
+name: Npc_Road_027
+profile: NPC
+slink: Npc_Hylia_M
+sortKey: 6
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+travelerAppearGameDataName: FirstTouchdown
+travelerDeleteGameDataName: ''
+travelerRideHorseName: ''
+travelerRoutePoint0Name: H3_GOAL_03
+travelerRoutePoint1Name: H3_JCT_03
+travelerRoutePoint2Name: H3_JCT_11
+travelerRoutePoint3Name: RoadDeathMtEnt_STP00
+travelerRoutePoint4Name: H3_MID_00
+travelerRoutePoint5Name: RoadDeathMtEnt_JCT00
+travelerRoutePoint6Name: RoadDeathMtEnt_JCT01
+travelerRoutePoint7Name: RoadDeathMtEnt_JCT02
+travelerRoutePoint8Name: H3_JCT_01
+travelerRoutePoint9Name: H3_GOAL_01
+travelerRouteType: ''
+traverseDist: 200.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

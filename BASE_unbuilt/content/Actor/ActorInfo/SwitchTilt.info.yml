@@ -1,0 +1,26 @@
+aabbMax:
+  X: 1.8160300254821777
+  Y: 3.371229887008667
+  Z: 0.7220489978790283
+aabbMin:
+  X: -0.8934810161590576
+  Y: -0.0026950000319629908
+  Z: -0.7220489978790283
+attackPower: 0
+bfres: DgnObj_SwitchHit_A
+boundingForTraverse: 3.373924970626831
+bugMask: 3
+elink: SwitchHit
+generalLife: 100
+instSize: 45412
+mainModel: DgnObj_SwitchTilt_A_01
+name: SwitchTilt
+profile: MapConstActive
+rigidBodyCenterY: 1.7188700437545776
+slink: SwitchTilt
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag51e73965: 1374108005
+yLimitAlgorithm: NoLimit

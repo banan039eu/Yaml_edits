@@ -1,0 +1,32 @@
+aabbMax:
+  X: 4.015160083770752
+  Y: 0.4605419933795929
+  Z: 4.1596598625183105
+aabbMin:
+  X: -3.821549892425537
+  Y: -0.23493599891662598
+  Z: -4.118710041046143
+attackPower: 0
+bfres: FldObj_DLC_FlyShield_A
+boundingForTraverse: 0.6954780220985413
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Obj_BoardWood_Square_01
+generalLife: 42
+instSize: 59564
+mainModel: FldObj_DLC_FlyShield_A_01
+name: Obj_BoardWood_Square_01
+profile: MapDynamicActive
+rigidBodyCenterY: -0.11999999731779099
+slink: DgnObj_BoardWood_A
+sortKey: -4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0f5e860e: 257852942
+  tag214d2d09: 558705929
+  taga8bc1833: !u 0xa8bc1833
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

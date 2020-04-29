@@ -1,0 +1,50 @@
+aabbMax:
+  X: 0.14721299707889557
+  Y: 1.7939499616622925
+  Z: 0.19212499260902405
+aabbMin:
+  X: -0.14721399545669556
+  Y: 1.3740400075912476
+  Z: -0.5102540254592896
+armorDefenceAddLevel: 7
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_039_Head
+armorStarNum: 2
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_005
+boundingForTraverse: 0.4199100136756897
+bugMask: 1
+instSize: 73724
+itemBuyingPrice: 420
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 105
+itemStainColor: -1
+itemUseIconActorName: Armor_005_Head
+mainModel: Armor_005_Head
+name: Armor_035_Head
+normal0ItemName01: Armor_005_Head
+normal0ItemName02: Item_Fruit_K
+normal0ItemName03: Item_Enemy_53
+normal0ItemNum01: 1
+normal0ItemNum02: 10
+normal0ItemNum03: 2
+normal0StuffNum: 3
+profile: ArmorHead
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: Korok
+sortKey: 4721023
+tags:
+  tag1c0c8d23: 470584611
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

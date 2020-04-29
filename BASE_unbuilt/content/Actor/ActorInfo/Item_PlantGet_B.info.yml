@@ -1,0 +1,56 @@
+aabbMax:
+  X: 0.17642199993133545
+  Y: 0.20600099861621857
+  Z: 0.18512600660324097
+aabbMin:
+  X: -0.196042999625206
+  Y: -0.23688200116157532
+  Z: -0.1684180051088333
+bfres: Obj_Plant_Get_Radish_A
+boundingForTraverse: 0.4428830146789551
+bugMask: 3
+cureItemEffectLevel: 12
+cureItemEffectType: LifeMaxUp
+cureItemHitPointRecover: 10
+cursorOffsetY: 0.4000000059604645
+elink: Item_PlantGet_B
+generalLife: 1
+homeArea:
+- name: HyruleHill
+- name: EastHateru
+- name: LanayruWaterSources
+instSize: 37332
+itemBuyingPrice: 32
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 8
+itemStainColor: 11
+itemUseIconActorName: Item_PlantGet_B
+mainModel: Obj_Plant_Get_Radish_A_01
+motorcycleEnergy:
+  add: 75.0
+name: Item_PlantGet_B
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+rigidBodyCenterY: -0.0729999989271164
+slink: Item_PlantRootGet
+sortKey: 31420
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_PlantGet_B
+tags:
+  tag14185415: 337138709
+  tag682e5129: 1747865897
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagbbf08f85: !u 0xbbf08f85
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,19 @@
+aabbMax:
+  X: 10.342399597167969
+  Y: -0.06516700237989426
+  Z: 18.278200149536133
+aabbMin:
+  X: -10.320899963378906
+  Y: -45.037498474121094
+  Z: -18.360000610351562
+bfres: FldObj_BridgeWood_A_Far
+boundingForTraverse: 44.97233200073242
+bugMask: 0
+instSize: 62052
+mainModel: FldObj_BridgeWoodLarge_A_05_Far
+name: FldObj_BridgeWoodLarge_A_05_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,22 @@
+aabbMax:
+  X: 3.216710090637207
+  Y: 59.68949890136719
+  Z: 9.990480422973633
+aabbMin:
+  X: -20.535200119018555
+  Y: -46.25749969482422
+  Z: -14.21049976348877
+bfres: FldObj_FissureValley_A
+boundingForTraverse: 105.9469985961914
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 40348
+isHasFar: true
+mainModel: FldObj_FissureValleyRock_A_02
+name: FldObj_FissureValleyRock_A_02
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag932d2d91: !u 0x932d2d91
+traverseDist: 533.9093017578125
+yLimitAlgorithm: NoLimit

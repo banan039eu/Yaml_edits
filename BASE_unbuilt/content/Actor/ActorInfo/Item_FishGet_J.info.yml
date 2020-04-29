@@ -1,0 +1,57 @@
+aabbMax:
+  X: 0.23714399337768555
+  Y: 0.1350110024213791
+  Z: 0.2613160014152527
+aabbMin:
+  X: -0.18473300337791443
+  Y: -0.1350110024213791
+  Z: -0.9311950206756592
+bfres: Animal_Trout
+boundingForTraverse: 0.2700220048427582
+bugMask: 3
+cureItemEffectLevel: 3
+cureItemEffectType: ResistCold
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 4
+cursorOffsetY: 0.30000001192092896
+elink: GetItem
+generalLife: 1
+homeArea:
+- name: EldinCanyon
+- name: EldinMountains
+- name: LanayruWaterSources
+instSize: 50900
+itemBuyingPrice: 24
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 6
+itemStainColor: -1
+itemUseIconActorName: Item_FishGet_J
+mainModel: Trout_Boneless
+motorcycleEnergy:
+  add: 50.0
+name: Item_FishGet_J
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+slink: Item_FishGet
+sortKey: 34060
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_FishGet_J
+tags:
+  tag14185415: 337138709
+  tag168ce9a9: 378333609
+  tag24cd75fe: 617444862
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+variationMatAnim: Trout_Color
+variationMatAnimFrame: 1
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,30 @@
+aabbMax:
+  X: 1.743280053138733
+  Y: 1.619570016860962
+  Z: 1.6589699983596802
+aabbMin:
+  X: -1.6669600009918213
+  Y: -1.4449100494384766
+  Z: -1.7060600519180298
+attackPower: 0
+bfres: FldObj_PushRockIron_A
+boundingForTraverse: 3.0644800662994385
+bugMask: 1
+generalLife: 100
+instSize: 34492
+mainModel: FldObj_PushRockIron_A_M_01
+name: FldObj_PushRockIron_A_M_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.00786800030618906
+sortKey: -23
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag507efd18: 1350499608
+  tag6a7a4c11: 1786399761
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagc4154689: !u 0xc4154689
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

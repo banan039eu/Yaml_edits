@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.8110349774360657
+  Y: 1.5810500383377075
+  Z: 0.22204600274562836
+aabbMin:
+  X: -0.8110349774360657
+  Y: 2.8000000384054147e-05
+  Z: -0.3635070025920868
+bfres: Npc_Zora_Hero_Low
+boundingForTraverse: 1.581022024154663
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Dm_Npc_Zora_HeroSoul_Kago
+generalLife: 100
+instSize: 200996
+mainModel: Npc_Zora_Hero_Low
+name: Dm_Npc_Zora_HeroSoul_Kago
+profile: DemoNPC
+slink: Dm_Npc_Zora_HeroSoul_Kago
+sortKey: -17
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+  tagc28d054e: !u 0xc28d054e
+  tagc5b7c123: !u 0xc5b7c123
+yLimitAlgorithm: NoLimit

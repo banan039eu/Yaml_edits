@@ -1,0 +1,10 @@
+attackPower: 0
+bugMask: 0
+generalLife: 100
+instSize: 4916
+name: ConstraintConnector
+profile: MapDynamicActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

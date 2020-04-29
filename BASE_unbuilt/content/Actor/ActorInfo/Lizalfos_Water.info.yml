@@ -1,0 +1,15 @@
+attackPower: 0
+bugMask: 3
+elink: Lizalfos_Water
+instSize: 13076
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: Lizalfos_Water
+profile: Bullet
+slink: Lizalfos_Water
+sortKey: -1
+yLimitAlgorithm: NoLimit

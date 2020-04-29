@@ -1,0 +1,11 @@
+bugMask: 1
+drops:
+  Normal:
+  - Item_Ore_H
+  - Item_Ore_I
+  - Item_Ore_F
+instSize: 8196
+name: Item_Amiibo_DropTable_012
+profile: System
+sortKey: 23
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,22 @@
+aabbMax:
+  X: 14.260100364685059
+  Y: 5.091020107269287
+  Z: 4.349780082702637
+aabbMin:
+  X: -14.464300155639648
+  Y: -3.949860095977783
+  Z: -2.8747200965881348
+bfres: Obj_TreeDragonblood_A
+boundingForTraverse: 9.04088020324707
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17460
+mainModel: Obj_TreeDragonblood_Root_A_01
+name: Obj_TreeDragonblood_Root_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag170cf1e2: 386724322
+  taga40dd51c: !u 0xa40dd51c
+traverseDist: 400.0
+yLimitAlgorithm: NoLimit

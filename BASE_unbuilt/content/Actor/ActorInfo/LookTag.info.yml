@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 4480
+name: LookTag
+profile: ComplexTag
+sortKey: 0
+yLimitAlgorithm: NoLimit

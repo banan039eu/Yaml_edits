@@ -1,0 +1,24 @@
+aabbMax:
+  X: 46.490501403808594
+  Y: 54.72700119018555
+  Z: 22.43720054626465
+aabbMin:
+  X: -25.64430046081543
+  Y: -42.422698974609375
+  Z: -25.248899459838867
+bfres: TwnObj_HyruleCastleInside_FetchingWaterRoom_A
+boundingForTraverse: 97.14970397949219
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 579408
+mainModel: TwnObj_HyruleCastleInside_FetchingWaterRoom_A_01
+name: TwnObj_HyruleCastleInside_FetchingWaterRoom_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+terrainTextures:
+- 1397890321
+traverseDist: 100.0
+yLimitAlgorithm: NoLimit

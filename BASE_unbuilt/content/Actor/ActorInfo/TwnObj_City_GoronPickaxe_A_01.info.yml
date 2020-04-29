@@ -1,0 +1,18 @@
+aabbMax:
+  X: 2.666559934616089
+  Y: 3.5434799194335938
+  Z: 0.8685809969902039
+aabbMin:
+  X: -2.064160108566284
+  Y: -1.1586799621582031
+  Z: -1.4588899612426758
+bfres: TwnObj_City_GoronFurniture_A
+boundingForTraverse: 4.702159881591797
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 50240
+mainModel: TwnObj_City_GoronPickaxe_A_01
+name: TwnObj_City_GoronPickaxe_A_01
+profile: MapConstPassive
+sortKey: 4
+yLimitAlgorithm: NoLimit

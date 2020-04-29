@@ -1,0 +1,22 @@
+aabbMax:
+  X: 203.58700561523438
+  Y: 52.43939971923828
+  Z: 81.38710021972656
+aabbMin:
+  X: -103.77200317382812
+  Y: -72.82350158691406
+  Z: -112.35299682617188
+bfres: FldObj_MountainSnow_A_Far
+boundingForTraverse: 125.26290130615234
+bugMask: 0
+instSize: 29876
+mainModel: FldObj_MountainSnowTunnel_A_01_Far
+name: FldObj_MountainSnowTunnel_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+terrainTextures:
+- !u 0xffffff37
+traverseDist: 4000.0
+yLimitAlgorithm: NoLimit

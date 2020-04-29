@@ -1,0 +1,27 @@
+aabbMax:
+  X: 10.427399635314941
+  Y: 12.11359977722168
+  Z: 8.92216968536377
+aabbMin:
+  X: -11.442000389099121
+  Y: 2.197319984436035
+  Z: -9.094059944152832
+attackPower: 0
+bfres: FldObj_CliffDeathMt_B
+boundingForTraverse: 9.916279792785645
+bugMask: 1
+cursorOffsetY: 0.5
+elink: FldObj_DeathMtGeyser_YunboStorage
+generalLife: 100
+instSize: 30360
+mainModel: FldObj_CliffDeathMt_B_17
+name: FldObj_DeathMtGeyser_YunboStorage
+profile: MapDynamicPassive
+rigidBodyCenterY: 7.21081018447876
+sortKey: 6
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag977b149c: !u 0x977b149c
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,25 @@
+aabbMax:
+  X: 1.7871700525283813
+  Y: 1.7871700525283813
+  Z: 0.30000001192092896
+aabbMin:
+  X: -1.7871700525283813
+  Y: -1.7871700525283813
+  Z: -0.30000001192092896
+attackPower: 0
+bfres: DgnObj_MagneGear_A
+boundingForTraverse: 3.5743401050567627
+bugMask: 3
+generalLife: 100
+instSize: 50524
+mainModel: DgnObj_MagneGear_A_01
+name: MagneGear
+profile: MapDynamicActive
+slink: SwitchGear
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag00081950: 530768
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

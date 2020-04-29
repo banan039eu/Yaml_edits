@@ -1,0 +1,23 @@
+aabbMax:
+  X: 12.40369987487793
+  Y: 113.34400177001953
+  Z: 14.731399536132812
+aabbMin:
+  X: -16.968900680541992
+  Y: -107.83599853515625
+  Z: -17.552499771118164
+bfres: FldObj_FlightTrainingTower_A_Far
+boundingForTraverse: 221.17999267578125
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 27608
+mainModel: FldObj_FlightTrainingTower_A_01_Far
+name: FldObj_FlightTrainingTower_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff37
+yLimitAlgorithm: NoLimit

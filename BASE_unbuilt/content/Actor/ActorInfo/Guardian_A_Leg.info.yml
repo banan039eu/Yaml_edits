@@ -1,0 +1,34 @@
+aabbMax:
+  X: 7.488279819488525
+  Y: 0.7348629832267761
+  Z: 0.7104120254516602
+aabbMin:
+  X: -0.7578129768371582
+  Y: -0.8364260196685791
+  Z: -0.7104120254516602
+attackPower: 0
+bfres: Enemy_Guardian_A
+boundingForTraverse: 1.5712889432907104
+bugMask: 2
+drops:
+  Normal:
+  - Item_Enemy_27
+  - Item_Enemy_28
+  - Item_Enemy_26
+  - Item_Enemy_29
+elink: Guardian_A_Leg
+enemyRank: 0
+generalLife: 100
+instSize: 33832
+mainModel: Guardian_A_Leg
+name: Guardian_A_Leg
+profile: GuardianComponent
+slink: Guardian_A_Leg
+sortKey: 10901
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0e3e49b1: 238963121
+  tag17044493: 386155667
+  tag4806038d: 1208353677
+yLimitAlgorithm: NoLimit

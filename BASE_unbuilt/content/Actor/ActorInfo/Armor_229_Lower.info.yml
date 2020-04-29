@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.22631800174713135
+  Y: 0.9428709745407104
+  Z: 0.22005699574947357
+aabbMin:
+  X: -0.22631800174713135
+  Y: -0.00017800000205170363
+  Z: -0.14793699979782104
+armorDefenceAddLevel: 20
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: AttackUp
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 5
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_225
+boundingForTraverse: 0.9430490136146545
+bugMask: 1
+instSize: 25200
+itemBuyingPrice: 2215
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 555
+itemStainColor: -1
+itemUseIconActorName: Armor_225_Lower
+mainModel: Armor_225_Lower
+name: Armor_229_Lower
+normal0ItemName01: Armor_228_Lower
+normal0ItemName02: Item_Enemy_14
+normal0ItemName03: Item_Enemy_56
+normal0ItemNum01: 1
+normal0ItemNum02: 2
+normal0ItemNum03: 1
+normal0StuffNum: 3
+profile: ArmorLower
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: AmiiboMajorasMask
+sortKey: 3123726
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

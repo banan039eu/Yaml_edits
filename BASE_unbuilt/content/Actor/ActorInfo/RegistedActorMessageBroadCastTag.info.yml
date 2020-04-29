@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 5196
+name: RegistedActorMessageBroadCastTag
+profile: ComplexTag
+sortKey: 0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,6 @@
+bugMask: 0
+instSize: 2344
+name: FldObj_StairWood_A_M_Dummy_01
+profile: MapConstPassive
+sortKey: 15
+yLimitAlgorithm: NoLimit

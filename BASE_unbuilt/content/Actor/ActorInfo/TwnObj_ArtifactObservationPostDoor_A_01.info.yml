@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.15000000596046448
+  Y: 3.2325599193573
+  Z: 0.13387499749660492
+aabbMin:
+  X: -1.5138800144195557
+  Y: 0.0
+  Z: -0.13387499749660492
+attackPower: 0
+bfres: TwnObj_ArtifactObservationPost_A
+boundingForTraverse: 3.2325599193573
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 48260
+mainModel: TwnObj_ArtifactObservationPostDoor_A_01
+name: TwnObj_ArtifactObservationPostDoor_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 1.350000023841858
+slink: Door_WoodCommon
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2ad7fb13: 718797587
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

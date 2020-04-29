@@ -1,0 +1,8 @@
+bugMask: 1
+instSize: 6744
+name: EffectEmitter
+profile: Dummy
+sortKey: 0
+tags:
+  tagfd5643b5: !u 0xfd5643b5
+yLimitAlgorithm: NoLimit

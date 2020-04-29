@@ -1,0 +1,22 @@
+aabbMax:
+  X: 11.602499961853027
+  Y: 2.1536900997161865
+  Z: 12.496299743652344
+aabbMin:
+  X: -11.797100067138672
+  Y: -2.6796300411224365
+  Z: -11.970399856567383
+bfres: FldObj_CliffZora_A
+boundingForTraverse: 4.833320140838623
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18548
+isHasFar: true
+mainModel: FldObj_SoilRockZoraVent_A_01
+name: FldObj_SoilRockZoraVent_A_01
+profile: MapConstPassive
+sortKey: 4
+tags:
+  tag932d2d91: !u 0x932d2d91
+traverseDist: 533.85498046875
+yLimitAlgorithm: NoLimit

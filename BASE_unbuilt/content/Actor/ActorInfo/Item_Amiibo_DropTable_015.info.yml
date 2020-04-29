@@ -1,0 +1,12 @@
+bugMask: 1
+drops:
+  Normal:
+  - Item_Meat_01
+  - Item_Meat_02
+  - Item_Meat_06
+  - Item_Meat_07
+instSize: 8196
+name: Item_Amiibo_DropTable_015
+profile: System
+sortKey: 26
+yLimitAlgorithm: NoLimit

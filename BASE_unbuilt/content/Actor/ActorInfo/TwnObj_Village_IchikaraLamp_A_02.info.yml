@@ -1,0 +1,20 @@
+aabbMax:
+  X: 0.19179099798202515
+  Y: 0.795428991317749
+  Z: 0.1511330008506775
+aabbMin:
+  X: -0.20657199621200562
+  Y: 0.0
+  Z: -0.15814200043678284
+bfres: TwnObj_Village_IchikaraFurniture_A
+boundingForTraverse: 0.795428991317749
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 48832
+mainModel: TwnObj_Village_IchikaraLamp_A_02
+name: TwnObj_Village_IchikaraLamp_A_02
+profile: MapConstPassive
+sortKey: -13
+tags:
+  tag0d23ee8c: 220458636
+yLimitAlgorithm: NoLimit

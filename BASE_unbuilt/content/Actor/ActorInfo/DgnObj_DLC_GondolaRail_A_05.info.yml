@@ -1,0 +1,24 @@
+aabbMax:
+  X: 31.89929962158203
+  Y: 1.1339199542999268
+  Z: 99.0999984741211
+aabbMin:
+  X: -113.89900207519531
+  Y: -2.035290002822876
+  Z: -53.89929962158203
+attackPower: 0
+bfres: DgnObj_DLC_GondolaRail_A
+boundingForTraverse: 3.1692099571228027
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 36140
+mainModel: DgnObj_DLC_GondolaRail_A_05
+name: DgnObj_DLC_GondolaRail_A_05
+profile: MapConstActive
+rigidBodyCenterY: -0.18749099969863892
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

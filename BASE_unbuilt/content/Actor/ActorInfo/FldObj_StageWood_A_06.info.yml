@@ -1,0 +1,22 @@
+aabbMax:
+  X: 8.444649696350098
+  Y: 0.3420349955558777
+  Z: 10.23449993133545
+aabbMin:
+  X: -8.449480056762695
+  Y: -0.3048120141029358
+  Z: -0.17102700471878052
+attackPower: 0
+bfres: FldObj_StageWood_A
+boundingForTraverse: 0.6468470096588135
+bugMask: 0
+generalLife: 100
+instSize: 31660
+mainModel: FldObj_StageWood_A_06
+name: FldObj_StageWood_A_06
+profile: MapDynamicActive
+sortKey: 10
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,11 @@
+bugMask: 2
+elink: Chemical
+instSize: 4924
+name: Chemical
+profile: ActorReaction
+slink: Chemical
+sortKey: 0
+tags:
+  tagc5b7c123: !u 0xc5b7c123
+xlink: AscendingCurrent
+yLimitAlgorithm: NoLimit

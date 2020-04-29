@@ -1,0 +1,24 @@
+aabbMax:
+  X: 55.027000427246094
+  Y: 38.47079849243164
+  Z: 37.2599983215332
+aabbMin:
+  X: -65.16950225830078
+  Y: -81.25129699707031
+  Z: -43.16310119628906
+bfres: FldObj_CliffZora_A
+boundingForTraverse: 119.72209167480469
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 42844
+isHasFar: true
+mainModel: FldObj_CliffZoraHole_A_02
+name: FldObj_CliffZoraHole_A_02
+profile: MapConstPassive
+sortKey: 13
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff10
+traverseDist: 644.6204833984375
+yLimitAlgorithm: NoLimit

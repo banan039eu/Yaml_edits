@@ -1,0 +1,29 @@
+aabbMax:
+  X: 0.42156198620796204
+  Y: 0.18000000715255737
+  Z: 0.2665979862213135
+aabbMin:
+  X: -0.42156198620796204
+  Y: -0.03880799934267998
+  Z: -0.4635689854621887
+attackPower: 0
+bfres: TwnObj_Village_Korok_A
+boundingForTraverse: 0.21880799531936646
+bugMask: 3
+cursorOffsetY: 0.5
+elink: TwnObj_MasterSwordBase_A_01
+generalLife: 100
+instSize: 35084
+mainModel: TwnObj_MasterSwordBase_A_01
+name: TwnObj_MasterSwordBase_A_01
+profile: MapConstActive
+rigidBodyCenterY: 0.12363699823617935
+slink: TwnObj_MasterSwordBase_A_01
+sortKey: 1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag572de768: 1462626152
+  tagbc723f22: !u 0xbc723f22
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 4728
+name: HorseSpeedLimitTag
+profile: AreaManagementForOthers
+sortKey: 2
+yLimitAlgorithm: NoLimit

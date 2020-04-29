@@ -1,0 +1,14 @@
+attackPower: 0
+bugMask: 1
+generalLife: 100
+instSize: 9944
+name: DungeonRotateTagWaterChemicalB
+profile: MapDynamicActive
+sortKey: -7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tag05a5e004: 94756868
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

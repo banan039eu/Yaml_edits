@@ -1,0 +1,25 @@
+aabbMax:
+  X: 13.490500450134277
+  Y: 63.90700149536133
+  Z: 1.715790033340454
+aabbMin:
+  X: -23.81879997253418
+  Y: -1.806249976158142
+  Z: -2.0861198902130127
+attackPower: 0
+bfres: DgnObj_IbutsuMap_A
+boundingForTraverse: 65.71324920654297
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 28696
+mainModel: DgnObj_IbtMapWater_A_07
+name: DgnObj_IbtMapWater_A_07
+profile: MapDynamicActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

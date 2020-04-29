@@ -1,0 +1,26 @@
+aabbMax:
+  X: 2.3570899963378906
+  Y: 0.3878200054168701
+  Z: 4.107329845428467
+aabbMin:
+  X: -2.327470064163208
+  Y: -0.22437800467014313
+  Z: -0.22437800467014313
+attackPower: 0
+bfres: TwnObj_HyruleCastleInside_TrainingRoom_A
+boundingForTraverse: 0.612197995185852
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 20940
+mainModel: TwnObj_HyruleCastleObject_Shelf_A_01
+name: TwnObj_HyruleCastleObject_Shelf_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.20000000298023224
+sortKey: 1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+yLimitAlgorithm: NoLimit

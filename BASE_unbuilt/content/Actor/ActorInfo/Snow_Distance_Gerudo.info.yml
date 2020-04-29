@@ -1,0 +1,14 @@
+attackPower: 0
+bugMask: 0
+elink: Snow_Distance_Gerudo
+generalLife: 100
+instSize: 3928
+name: Snow_Distance_Gerudo
+profile: MapConstActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag572de768: 1462626152
+traverseDist: 5000.0
+yLimitAlgorithm: NoLimit

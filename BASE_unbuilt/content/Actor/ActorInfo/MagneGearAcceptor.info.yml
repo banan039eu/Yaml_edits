@@ -1,0 +1,21 @@
+aabbMax:
+  X: 1.174430012702942
+  Y: 1.174430012702942
+  Z: 1.1719000339508057
+aabbMin:
+  X: -1.174430012702942
+  Y: -1.174430012702942
+  Z: -1.0
+attackPower: 0
+bfres: DgnObj_MagneGearAcceptor_A
+boundingForTraverse: 2.348860025405884
+bugMask: 1
+generalLife: 100
+instSize: 23768
+mainModel: DgnObj_MagneGearAcceptor_A_03
+name: MagneGearAcceptor
+profile: MapConstActive
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

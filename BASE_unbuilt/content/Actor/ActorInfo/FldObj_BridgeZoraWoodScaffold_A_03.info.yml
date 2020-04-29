@@ -1,0 +1,19 @@
+aabbMax:
+  X: 6.013609886169434
+  Y: 0.20874400436878204
+  Z: 1.2172000408172607
+aabbMin:
+  X: -5.975130081176758
+  Y: -0.22328199446201324
+  Z: -1.2315499782562256
+bfres: FldObj_BridgeZora_A
+boundingForTraverse: 0.4320259988307953
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28056
+mainModel: FldObj_BridgeZoraWoodScaffold_A_03
+name: FldObj_BridgeZoraWoodScaffold_A_03
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

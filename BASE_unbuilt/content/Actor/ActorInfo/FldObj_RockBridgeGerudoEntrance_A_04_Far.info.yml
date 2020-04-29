@@ -1,0 +1,24 @@
+aabbMax:
+  X: 21.45159912109375
+  Y: 112.00199890136719
+  Z: 38.167301177978516
+aabbMin:
+  X: -47.395198822021484
+  Y: 38.977298736572266
+  Z: -19.429000854492188
+bfres: FldObj_BridgeGerudoEntrance_A_Far
+boundingForTraverse: 73.02470397949219
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38524
+mainModel: FldObj_RockBridgeGerudoEntrance_A_04_Far
+name: FldObj_RockBridgeGerudoEntrance_A_04_Far
+profile: MapConstPassive
+sortKey: -7
+tags:
+  tag57fd54ce: 1476220110
+terrainTextures:
+- 487657472
+- !u 0xffff4c1f
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

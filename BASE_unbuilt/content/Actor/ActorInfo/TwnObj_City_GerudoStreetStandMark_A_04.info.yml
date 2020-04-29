@@ -1,0 +1,19 @@
+aabbMax:
+  X: 0.9746270179748535
+  Y: 6.132750034332275
+  Z: 1.0834499597549438
+aabbMin:
+  X: -0.9746270179748535
+  Y: 3.153640031814575
+  Z: -2.3107199668884277
+bfres: TwnObj_City_Gerudo_A
+boundingForTraverse: 2.9791100025177
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28504
+mainModel: TwnObj_City_GerudoStreetStandMark_A_04
+name: TwnObj_City_GerudoStreetStandMark_A_04
+profile: MapConstPassive
+sortKey: 26
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,17 @@
+aabbMax:
+  X: 0.12744100391864777
+  Y: 2.0292699337005615
+  Z: 0.5048850178718567
+aabbMin:
+  X: -0.12030000239610672
+  Y: 1.6132800579071045
+  Z: 0.1728699952363968
+bfres: Animal_Deer
+boundingForTraverse: 0.4159899950027466
+bugMask: 1
+instSize: 26632
+mainModel: Deer_Mane_Grabbedmodel
+name: Horse_Link_Mane_Grabbed_Deer
+profile: HorseReins
+sortKey: 0
+yLimitAlgorithm: NoLimit

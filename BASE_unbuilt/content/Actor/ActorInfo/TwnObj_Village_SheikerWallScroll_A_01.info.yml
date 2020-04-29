@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.2376900017261505
+  Y: 0.028040999546647072
+  Z: 0.06228800117969513
+aabbMin:
+  X: -0.2376910001039505
+  Y: -1.87663996219635
+  Z: -0.10666699707508087
+bfres: TwnObj_Village_SheikerFurniture_A
+boundingForTraverse: 1.9046809673309326
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38492
+mainModel: TwnObj_Village_SheikerWallScroll_A_01
+name: TwnObj_Village_SheikerWallScroll_A_01
+profile: MapConstPassive
+sortKey: 2
+tags:
+  tag0d23ee8c: 220458636
+  tag8fda6cdd: !u 0x8fda6cdd
+yLimitAlgorithm: NoLimit

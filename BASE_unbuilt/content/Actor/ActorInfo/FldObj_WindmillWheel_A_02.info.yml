@@ -1,0 +1,35 @@
+aabbMax:
+  X: 9.91366958618164
+  Y: 11.184000015258789
+  Z: 9.233369827270508
+aabbMin:
+  X: -9.90110969543457
+  Y: -37.562801361083984
+  Z: -13.072799682617188
+attackPower: 0
+bfres: FldObj_Windmill_A
+boundingForTraverse: 48.746803283691406
+bugMask: 3
+cursorOffsetY: 0.5
+farModelCulling:
+  center:
+    X: 0.0
+    Y: 48.746803283691406
+    Z: 0.0
+  height: 97.49360656738281
+  radius: 48.746803283691406
+generalLife: 100
+instSize: 128468
+mainModel: FldObj_WindmillWheel_A_02
+name: FldObj_WindmillWheel_A_02
+profile: MapDynamicActive
+rigidBodyCenterY: -12.957200050354004
+slink: FldObj_WindmillWheel
+sortKey: -3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag336bf311: 862712593
+  tagd4fbe3b2: !u 0xd4fbe3b2
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

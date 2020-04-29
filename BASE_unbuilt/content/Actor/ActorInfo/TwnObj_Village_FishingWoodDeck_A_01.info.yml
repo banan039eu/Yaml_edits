@@ -1,0 +1,19 @@
+aabbMax:
+  X: 5.114930152893066
+  Y: 2.461519956588745
+  Z: 1.8333100080490112
+aabbMin:
+  X: -5.155970096588135
+  Y: -2.142280101776123
+  Z: -2.296869993209839
+bfres: TwnObj_Village_Fishing_A
+boundingForTraverse: 4.603799819946289
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+mainModel: TwnObj_Village_FishingWoodDeck_A_01
+name: TwnObj_Village_FishingWoodDeck_A_01
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

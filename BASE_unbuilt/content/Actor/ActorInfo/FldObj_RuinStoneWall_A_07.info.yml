@@ -1,0 +1,21 @@
+aabbMax:
+  X: 7.017360210418701
+  Y: 9.049969673156738
+  Z: 8.148429870605469
+aabbMin:
+  X: -1.1293599605560303
+  Y: -0.03026299923658371
+  Z: -0.04660100117325783
+bfres: FldObj_RuinStonePavement_A
+boundingForTraverse: 9.080232620239258
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 53120
+mainModel: FldObj_RuinStoneWall_A_07
+name: FldObj_RuinStoneWall_A_07
+profile: MapConstPassive
+sortKey: 18
+tags:
+  tag3c39db92: 1010424722
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

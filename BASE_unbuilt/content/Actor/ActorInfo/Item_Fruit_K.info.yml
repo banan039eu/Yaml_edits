@@ -1,0 +1,57 @@
+aabbMax:
+  X: 0.13783200085163116
+  Y: 0.23807600140571594
+  Z: 0.13783200085163116
+aabbMin:
+  X: -0.13783200085163116
+  Y: -0.17453700304031372
+  Z: -0.13783200085163116
+bfres: Obj_Acorn_A
+boundingForTraverse: 0.41261300444602966
+bugMask: 3
+cookSpiceBoostEffectiveTime: 20
+cookSpiceBoostHitPointRecover: 2
+cookSpiceBoostMaxHeartLevel: 0
+cookSpiceBoostStaminaLevel: 0
+cookSpiceBoostSuccessRate: 0
+cureItemEffectLevel: 0
+cureItemEffectType: None
+cureItemHitPointRecover: 1
+cursorOffsetY: 0.30000001192092896
+elink: GetItem
+generalLife: 100
+instSize: 38736
+itemBuyingPrice: 8
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 2
+itemStainColor: 14
+itemUseIconActorName: ''
+mainModel: Obj_Acorn_A
+motorcycleEnergy:
+  add: 75.0
+name: Item_Fruit_K
+profile: Item
+rigidBodyCenterY: 0.005644000135362148
+slink: Item_Fruit
+sortKey: 31040
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag14185415: 337138709
+  tag37921275: 932319861
+  tag38b880eb: 951615723
+  tag7de11d78: 2111905144
+  tag85c817c3: !u 0x85c817c3
+  tag97418671: !u 0x97418671
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagd53a8775: !u 0xd53a8775
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tage97dcd22: !u 0xe97dcd22
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

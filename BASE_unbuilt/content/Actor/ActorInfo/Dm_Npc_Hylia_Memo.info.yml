@@ -1,0 +1,24 @@
+aabbMax:
+  X: 0.11706099659204483
+  Y: 0.024078000336885452
+  Z: 0.08386199921369553
+aabbMin:
+  X: -0.11706099659204483
+  Y: -0.00014000000373926014
+  Z: -0.08386199921369553
+bfres: Npc_Hylia_Memo
+boundingForTraverse: 0.02421800047159195
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 33988
+mainModel: Npc_Hylia_Memo
+name: Dm_Npc_Hylia_Memo
+profile: DemoEquipment
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag4ccbef03: 1288433411
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

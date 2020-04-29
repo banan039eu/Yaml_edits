@@ -1,0 +1,9 @@
+bugMask: 1
+instSize: 4504
+name: AirWallHorse_HiddnKorok
+profile: NoCalcActor
+sortKey: 0
+tags:
+  tag03528579: 55739769
+  tag3c39db92: 1010424722
+yLimitAlgorithm: NoLimit

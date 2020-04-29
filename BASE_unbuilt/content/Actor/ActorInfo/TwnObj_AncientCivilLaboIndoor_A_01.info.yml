@@ -1,0 +1,18 @@
+aabbMax:
+  X: 10.44379997253418
+  Y: 10.0
+  Z: 9.717280387878418
+aabbMin:
+  X: -9.177639961242676
+  Y: 0.5710639953613281
+  Z: -10.273300170898438
+bfres: TwnObj_AncientCivilLavo_A
+boundingForTraverse: 9.428936004638672
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 217216
+mainModel: TwnObj_AncientCivilLaboIndoor_A_01
+name: TwnObj_AncientCivilLaboIndoor_A_01
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

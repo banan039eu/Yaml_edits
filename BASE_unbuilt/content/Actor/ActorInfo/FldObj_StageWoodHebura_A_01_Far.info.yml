@@ -1,0 +1,20 @@
+aabbMax:
+  X: 4.906239986419678
+  Y: 0.5342860221862793
+  Z: 9.904120445251465
+aabbMin:
+  X: -3.5616300106048584
+  Y: -22.796499252319336
+  Z: -3.6210100650787354
+bfres: FldObj_StageWoodHebura_A_Far
+boundingForTraverse: 23.330785751342773
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: FldObj_StageWoodHebura_A_01_Far
+name: FldObj_StageWoodHebura_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

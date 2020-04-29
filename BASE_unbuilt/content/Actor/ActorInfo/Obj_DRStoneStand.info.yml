@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.5859370231628418
+  Y: 1.7363300323486328
+  Z: 0.5683590173721313
+aabbMin:
+  X: -0.5942379832267761
+  Y: -0.006705999840050936
+  Z: -0.5917969942092896
+attackPower: 0
+bfres: Obj_DRCStoneStand_First
+boundingForTraverse: 1.7430360317230225
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 51060
+mainModel: Obj_DRCStoneStand_First
+name: Obj_DRStoneStand
+profile: MapConstActive
+rigidBodyCenterY: 0.601610004901886
+slink: Obj_DRStoneStand
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag3c39db92: 1010424722
+yLimitAlgorithm: NoLimit

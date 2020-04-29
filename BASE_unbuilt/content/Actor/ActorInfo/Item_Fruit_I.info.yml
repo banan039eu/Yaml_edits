@@ -1,0 +1,61 @@
+aabbMax:
+  X: 0.12445999681949615
+  Y: 0.14782199263572693
+  Z: 0.1171950027346611
+aabbMin:
+  X: -0.09968099743127823
+  Y: -0.11501900106668472
+  Z: -0.11246299743652344
+bfres: Obj_FruitChiliPepper_A
+boundingForTraverse: 0.26284098625183105
+bugMask: 3
+cureItemEffectLevel: 1
+cureItemEffectType: ResistCold
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 2
+cursorOffsetY: 0.30000001192092896
+elink: GetItem
+generalLife: 100
+homeArea:
+- name: GerudoDesert
+- name: TabantaFrontier
+- name: WestHateru
+instSize: 38160
+itemBuyingPrice: 12
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 3
+itemStainColor: 2
+itemUseIconActorName: ''
+mainModel: Obj_FruitChiliPepper_A_01
+motorcycleEnergy:
+  add: 75.0
+name: Item_Fruit_I
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+rigidBodyCenterY: 0.005644000135362148
+slink: Item_Fruit
+sortKey: 31070
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag14185415: 337138709
+  tag682e5129: 1747865897
+  tag7de11d78: 2111905144
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb0f85060: !u 0xb0f85060
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagd53a8775: !u 0xd53a8775
+  tagd7bc570e: !u 0xd7bc570e
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tage97dcd22: !u 0xe97dcd22
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

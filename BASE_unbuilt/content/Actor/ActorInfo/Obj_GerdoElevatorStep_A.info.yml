@@ -1,0 +1,31 @@
+aabbMax:
+  X: 4.225069999694824
+  Y: 107.70099639892578
+  Z: 4.0708699226379395
+aabbMin:
+  X: -4.179279804229736
+  Y: -0.8721879720687866
+  Z: -4.008269786834717
+attackPower: 0
+bfres: Obj_GerdoElevator_A
+boundingForTraverse: 108.57318115234375
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Obj_GerdoElevatorStep_A
+generalLife: 100
+instSize: 88620
+mainModel: Obj_GerdoElevatorStep_A_01
+name: Obj_GerdoElevatorStep_A
+profile: MapDynamicActive
+rigidBodyCenterY: -0.20000000298023224
+slink: Obj_GerdoElevatorStep_A
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+terrainTextures:
+- !u 0xffffff47
+xlink: DgnObj_ConstrainedSlider
+yLimitAlgorithm: NoLimit

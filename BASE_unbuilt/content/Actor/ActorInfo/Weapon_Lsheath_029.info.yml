@@ -1,0 +1,18 @@
+aabbMax:
+  X: 0.14858900010585785
+  Y: 0.047467999160289764
+  Z: 0.7281780242919922
+aabbMin:
+  X: -0.14858900010585785
+  Y: -0.04044799879193306
+  Z: 0.1811079978942871
+bfres: Weapon_Lsheath_029
+boundingForTraverse: 0.08791600167751312
+bugMask: 1
+instSize: 25728
+mainModel: Weapon_Lsheath_029
+name: Weapon_Lsheath_029
+profile: OptionalWeapon
+sortKey: 2
+xlink: Weapon
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,8 @@
+bugMask: 1
+instSize: 5348
+name: DemoVoiceEmitTag
+profile: SoleTag
+sortKey: 0
+tags:
+  tagfd5643b5: !u 0xfd5643b5
+yLimitAlgorithm: NoLimit

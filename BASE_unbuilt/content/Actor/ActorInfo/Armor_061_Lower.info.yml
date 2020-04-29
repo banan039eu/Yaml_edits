@@ -1,0 +1,50 @@
+aabbMax:
+  X: 0.21362300217151642
+  Y: 0.9428709745407104
+  Z: 0.21700599789619446
+aabbMin:
+  X: -0.21362300217151642
+  Y: 0.0005869999877177179
+  Z: -0.13365599513053894
+armorDefenceAddLevel: 28
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 5
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_005
+boundingForTraverse: 0.9422839879989624
+bugMask: 1
+instSize: 49712
+itemBuyingPrice: 2430
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 610
+itemStainColor: -1
+itemUseIconActorName: Armor_005_Lower
+mainModel: Armor_005_Lower
+name: Armor_061_Lower
+normal0ItemName01: Armor_060_Lower
+normal0ItemName02: Item_Enemy_48
+normal0ItemName03: Item_Ore_J
+normal0ItemNum01: 1
+normal0ItemNum02: 2
+normal0ItemNum03: 1
+normal0StuffNum: 3
+profile: ArmorLower
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: Korok
+sortKey: 4723020
+tags:
+  tag1c0c8d23: 470584611
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

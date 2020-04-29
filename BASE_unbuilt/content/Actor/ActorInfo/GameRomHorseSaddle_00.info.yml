@@ -1,0 +1,17 @@
+aabbMax:
+  X: 0.5365999937057495
+  Y: 2.107419967651367
+  Z: 0.6303709745407104
+aabbMin:
+  X: -0.5365999937057495
+  Y: 0.8681640028953552
+  Z: -0.2685549855232239
+bfres: Horse_Link_Saddle_00
+boundingForTraverse: 1.2392560243606567
+bugMask: 1
+instSize: 43992
+mainModel: Horse_Link_Saddle_00
+name: GameRomHorseSaddle_00
+profile: HorseSaddle
+sortKey: 53110
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,24 @@
+aabbMax:
+  X: 0.8881360292434692
+  Y: 0.48499399423599243
+  Z: 1.184939980506897
+aabbMin:
+  X: -0.7917450070381165
+  Y: -0.713612973690033
+  Z: -0.779636025428772
+attackPower: 0
+bfres: Enemy_Bokoblin_Bone
+boundingForTraverse: 1.1986069679260254
+bugMask: 0
+cursorOffsetY: 0.6000000238418579
+generalLife: 100
+instSize: 51992
+mainModel: Bokoblin_Pose_Am
+name: FldObj_Bokoblin_Bone
+profile: MapConstActive
+sortKey: 10515
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+yLimitAlgorithm: NoLimit

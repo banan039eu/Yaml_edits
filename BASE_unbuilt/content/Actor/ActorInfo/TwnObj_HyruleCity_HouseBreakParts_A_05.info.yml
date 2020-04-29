@@ -1,0 +1,21 @@
+aabbMax:
+  X: 5.4851298332214355
+  Y: 1.546910047531128
+  Z: 3.7734200954437256
+aabbMin:
+  X: -5.4851298332214355
+  Y: -0.048246998339891434
+  Z: -3.885190010070801
+bfres: TwnObj_HyruleCity_A
+boundingForTraverse: 1.5951570272445679
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38172
+mainModel: TwnObj_HyruleCity_HouseBreakParts_A_05
+name: TwnObj_HyruleCity_HouseBreakParts_A_05
+profile: MapConstPassive
+sortKey: 17
+tags:
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

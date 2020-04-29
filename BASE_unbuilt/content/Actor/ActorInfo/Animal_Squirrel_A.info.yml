@@ -1,0 +1,51 @@
+aabbMax:
+  X: 0.16675099730491638
+  Y: 0.7014589905738831
+  Z: 0.14381299912929535
+aabbMin:
+  X: -0.1714860051870346
+  Y: -0.010615999810397625
+  Z: -0.392549991607666
+actorScale: 1.2000000476837158
+animalUnitBasePlayRate: 1.0
+attackPower: 0
+bfres: Animal_Squirrel
+boundingForTraverse: 0.7120749950408936
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+drops:
+  Normal:
+  - Item_Fruit_K
+elink: Animal_Squirrel_A
+enemyRank: 0
+generalLife: 1
+homeArea:
+- name: CentralHyrule
+- name: HyruleHill
+- name: HyruleForest
+instSize: 141104
+invalidTimes:
+- Night_A
+- Night_B
+invalidWeathers:
+- HeavyRain
+- HeavySnow
+- ThunderStorm
+- ThunderRain
+name: Animal_Squirrel_A
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+slink: Animal_Squirrel_A
+sortKey: 28000
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag24903b32: 613432114
+  tag24cd75fe: 617444862
+  tag6b3d3141: 1799172417
+  tag7993f871: 2039740529
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagac9f717f: !u 0xac9f717f
+yLimitAlgorithm: NoLimit

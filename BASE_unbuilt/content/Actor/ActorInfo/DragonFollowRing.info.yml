@@ -1,0 +1,12 @@
+attackPower: 0
+bugMask: 1
+elink: Obj_Ring_RitoHeros
+generalLife: 100
+instSize: 11836
+name: DragonFollowRing
+profile: MapDynamicActive
+sortKey: -5
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 3000.0
+yLimitAlgorithm: NoLimit

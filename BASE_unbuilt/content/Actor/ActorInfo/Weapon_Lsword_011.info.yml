@@ -1,0 +1,72 @@
+Chemical:
+  Burnable: 1
+aabbMax:
+  X: 0.27785399556159973
+  Y: 0.1741899996995926
+  Z: 1.4016599655151367
+aabbMin:
+  X: -0.3069950044155121
+  Y: -0.16010800004005432
+  Z: -0.5048059821128845
+attackPower: 27
+bfres: Weapon_Lsword_011
+boundingForTraverse: 0.3342980146408081
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Lsword_011
+generalLife: 18
+homeArea:
+- name: CentralHyrule
+- name: TamulPlateau
+- name: HyruleForest
+instSize: 48832
+itemBuyingPrice: 69
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 25
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Lsword_011
+name: Weapon_Lsword_011
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponLargeSword
+slink: Weapon_Lsword_WoodHeavy
+sortKey: 12521
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 17
+weaponCommonPoweredSharpAddAtkMin: 10
+weaponCommonPoweredSharpAddLifeMax: 9
+weaponCommonPoweredSharpAddLifeMin: 5
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 2.0
+weaponCommonPoweredSharpAddThrowMin: 1.5
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 14
+weaponCommonSharpWeaponAddAtkMax: 9
+weaponCommonSharpWeaponAddAtkMin: 5
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 4
+weaponCommonSharpWeaponAddLifeMin: 2
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: Weapon
+yLimitAlgorithm: NoLimit

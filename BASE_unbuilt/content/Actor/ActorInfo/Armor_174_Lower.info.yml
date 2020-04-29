@@ -1,0 +1,41 @@
+aabbMax:
+  X: 0.1983640044927597
+  Y: 0.9428709745407104
+  Z: 0.20797500014305115
+aabbMin:
+  X: -0.1983640044927597
+  Y: -0.00034699999378062785
+  Z: -0.10717800259590149
+armorDefenceAddLevel: 2
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_174
+boundingForTraverse: 0.9432179927825928
+bugMask: 1
+instSize: 25560
+itemBuyingPrice: 50
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 15
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_174_Lower
+name: Armor_174_Lower
+profile: ArmorLower
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: Tingle
+sortKey: 5323815
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

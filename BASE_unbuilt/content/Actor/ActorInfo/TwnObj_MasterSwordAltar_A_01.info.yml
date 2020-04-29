@@ -1,0 +1,19 @@
+aabbMax:
+  X: 14.233699798583984
+  Y: 4.1934099197387695
+  Z: 12.18970012664795
+aabbMin:
+  X: -12.90999984741211
+  Y: -0.5984600186347961
+  Z: -48.75640106201172
+bfres: TwnObj_Village_Korok_A
+boundingForTraverse: 4.7918701171875
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 53728
+mainModel: TwnObj_MasterSwordAltar_A_01
+name: TwnObj_MasterSwordAltar_A_01
+profile: MapConstPassive
+sortKey: 2
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

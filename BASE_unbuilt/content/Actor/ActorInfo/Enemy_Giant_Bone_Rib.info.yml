@@ -1,0 +1,29 @@
+aabbMax:
+  X: 3.892630100250244
+  Y: 2.4422199726104736
+  Z: 2.9885900020599365
+aabbMin:
+  X: -0.8299790024757385
+  Y: -1.8358399868011475
+  Z: -1.6458100080490112
+attackPower: 12
+bfres: Enemy_Giant_Bone
+boundingForTraverse: 4.278059959411621
+bugMask: 3
+cursorOffsetY: 0.5
+instSize: 30884
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Enemy_Giant_Bone_Rib_1
+name: Enemy_Giant_Bone_Rib
+profile: Bullet
+rigidBodyCenterY: 0.44999998807907104
+slink: Enemy_Giant_Bone_Rib
+sortKey: 101304
+tags:
+  tagff2ecb67: !u 0xff2ecb67
+yLimitAlgorithm: NoLimit

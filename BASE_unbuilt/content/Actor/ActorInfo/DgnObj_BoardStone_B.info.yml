@@ -1,0 +1,27 @@
+aabbMax:
+  X: 4.007959842681885
+  Y: 0.30000001192092896
+  Z: 0.9941099882125854
+aabbMin:
+  X: -4.0
+  Y: 0.0
+  Z: -1.0058900117874146
+attackPower: 0
+bfres: DgnObj_BoardStone_A
+boundingForTraverse: 0.30000001192092896
+bugMask: 2
+generalLife: 100
+instSize: 30140
+mainModel: DgnObj_BoardStone_01
+name: DgnObj_BoardStone_B
+profile: MapDynamicActive
+rigidBodyCenterY: 0.15000000596046448
+slink: DgnObj_BoardStone_A
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag507efd18: 1350499608
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

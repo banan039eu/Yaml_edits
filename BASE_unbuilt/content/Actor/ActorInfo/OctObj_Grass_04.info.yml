@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.709659993648529
+  Y: 1.501889944076538
+  Z: 0.8705710172653198
+aabbMin:
+  X: -0.8719310164451599
+  Y: -0.016899999231100082
+  Z: -0.8291820287704468
+attackPower: 0
+bfres: Enemy_Octarock_Item_Plant_Foxtailgrass
+boundingForTraverse: 1.5187900066375732
+bugMask: 3
+elink: Octarock_Grass
+instSize: 28992
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: OctObj_Grass_04
+profile: Bullet
+slink: OctObj_Grass
+sortKey: 2
+tags:
+  tag9ef05488: !u 0x9ef05488
+  tagff2ecb67: !u 0xff2ecb67
+yLimitAlgorithm: NoLimit

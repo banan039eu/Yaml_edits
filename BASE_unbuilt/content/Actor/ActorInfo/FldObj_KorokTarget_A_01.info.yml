@@ -1,0 +1,25 @@
+aabbMax:
+  X: 1.128499984741211
+  Y: 1.452239990234375
+  Z: 1.0662100315093994
+aabbMin:
+  X: -1.1259100437164307
+  Y: -1.5701199769973755
+  Z: -1.0780500173568726
+attackPower: 0
+bfres: FldObj_KorokTarget_A
+boundingForTraverse: 3.02236008644104
+bugMask: 3
+cursorOffsetY: 0.5
+elink: FldObj_KorokTarget_A_01
+generalLife: 100
+instSize: 41656
+mainModel: FldObj_KorokTarget_A_01
+name: FldObj_KorokTarget_A_01
+profile: MapDynamicActive
+slink: FldObj_KorokTarget_A_01
+sortKey: -31
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

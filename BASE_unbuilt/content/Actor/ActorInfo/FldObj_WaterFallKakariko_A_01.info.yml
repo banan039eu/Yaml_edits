@@ -1,0 +1,20 @@
+aabbMax:
+  X: 36.252201080322266
+  Y: 36.43629837036133
+  Z: 28.41659927368164
+aabbMin:
+  X: -42.885799407958984
+  Y: -26.91160011291504
+  Z: -12.629199981689453
+bfres: FldObj_WaterFall_A
+boundingForTraverse: 63.347900390625
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 20196
+isHasFar: true
+mainModel: FldObj_WaterFallKakariko_A_01
+name: FldObj_WaterFallKakariko_A_01
+profile: MapConstPassive
+sortKey: -2
+traverseDist: 589.1492309570312
+yLimitAlgorithm: NoLimit

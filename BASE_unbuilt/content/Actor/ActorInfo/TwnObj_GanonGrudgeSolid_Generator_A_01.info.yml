@@ -1,0 +1,29 @@
+aabbMax:
+  X: 1.5361299514770508
+  Y: 0.6204130053520203
+  Z: 1.2958999872207642
+aabbMin:
+  X: -1.8515599966049194
+  Y: -0.1503800004720688
+  Z: -1.6171900033950806
+attackPower: 0
+bfres: TwnObj_GanonGrudgeSolid_A
+boundingForTraverse: 0.7707930207252502
+bugMask: 3
+cursorOffsetY: 0.5
+elink: TwnObj_GanonGrudgeSolid_Generator_A_01
+generalLife: 100
+instSize: 66200
+mainModel: TwnObj_GanonGrudgeSolid_Generator_A_01
+name: TwnObj_GanonGrudgeSolid_Generator_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.16414299607276917
+slink: TwnObj_GanonGrudgeSolid_Generator_A_01
+sortKey: -16
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 50.0
+yLimitAlgorithm: NoLimit

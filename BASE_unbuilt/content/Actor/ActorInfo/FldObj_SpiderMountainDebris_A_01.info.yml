@@ -1,0 +1,18 @@
+aabbMax:
+  X: 16.05139923095703
+  Y: 4.592229843139648
+  Z: 24.38920021057129
+aabbMin:
+  X: -23.220600128173828
+  Y: -2.5024900436401367
+  Z: -23.207700729370117
+bfres: FldObj_SpiderMountain_A
+boundingForTraverse: 7.094719886779785
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 51968
+mainModel: FldObj_SpiderMountainDebris_A_01
+name: FldObj_SpiderMountainDebris_A_01
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

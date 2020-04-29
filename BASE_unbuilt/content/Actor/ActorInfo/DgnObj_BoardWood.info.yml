@@ -1,0 +1,23 @@
+aabbMax:
+  X: 1.5324900150299072
+  Y: 0.14496900141239166
+  Z: 2.0286600589752197
+aabbMin:
+  X: -1.5324900150299072
+  Y: -0.6036580204963684
+  Z: 0.0
+attackPower: 0
+bfres: DgnObj_BoardWood_A
+boundingForTraverse: 0.7486270070075989
+bugMask: 2
+elink: DgnObj_BoardWood
+generalLife: 40
+instSize: 30996
+mainModel: DgnObj_BoardWood_A_01
+name: DgnObj_BoardWood
+profile: MapDynamicActive
+slink: DgnObj_BoardWood
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

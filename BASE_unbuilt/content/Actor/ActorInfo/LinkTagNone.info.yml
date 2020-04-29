@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 340
+name: LinkTagNone
+profile: LinkTag
+sortKey: 0
+yLimitAlgorithm: NoLimit

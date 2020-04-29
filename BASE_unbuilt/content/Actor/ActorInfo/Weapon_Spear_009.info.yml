@@ -1,0 +1,72 @@
+Chemical:
+  Capaciter: 1
+aabbMax:
+  X: 0.05773099884390831
+  Y: 0.21459299325942993
+  Z: 2.3560800552368164
+aabbMin:
+  X: -0.05773099884390831
+  Y: -0.2237900048494339
+  Z: -0.425258994102478
+attackPower: 18
+bfres: Weapon_Spear_009
+boundingForTraverse: 0.438383013010025
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: WeaponSpear
+generalLife: 28
+homeArea:
+- name: EldinCanyon
+- name: TamulPlateau
+- name: HeburaMountains
+instSize: 46928
+itemBuyingPrice: 69
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 30
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Spear_009
+name: Weapon_Spear_009
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponSpear
+slink: Weapon_Spear_WoodWithMetal
+sortKey: 13532
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 7
+weaponCommonPoweredSharpAddAtkMin: 5
+weaponCommonPoweredSharpAddLifeMax: 13
+weaponCommonPoweredSharpAddLifeMin: 7
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 2.0
+weaponCommonPoweredSharpAddThrowMin: 1.5
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 13
+weaponCommonSharpWeaponAddAtkMax: 4
+weaponCommonSharpWeaponAddAtkMin: 2
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 6
+weaponCommonSharpWeaponAddLifeMin: 3
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: Weapon
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,57 @@
+aabbMax:
+  X: 1.0381799936294556
+  Y: 2.637120008468628
+  Z: 1.129289984703064
+aabbMin:
+  X: -0.8860669732093811
+  Y: -0.25604501366615295
+  Z: -0.8253499865531921
+attackPower: 0
+bfres: Obj_Mineral_A
+boundingForTraverse: 2.893165111541748
+bugMask: 3
+cursorOffsetY: 1.5
+drops:
+  Normal:
+  - Item_Ore_G
+  - Item_Ore_I
+elink: Obj_Mineral_C_01
+farModelCulling:
+  center:
+    X: 0.0
+    Y: 1.350000023841858
+    Z: 0.0
+  height: 1.350000023841858
+  radius: 1.2000000476837158
+generalLife: 40
+homeArea:
+- name: EldinCanyon
+- name: EastHateru
+- name: GerudoHighlands
+instSize: 48528
+locators:
+- pos_x: 0.14000000059604645
+  pos_y: 1.399999976158142
+  pos_z: 0.9900000095367432
+  rot_x: 90.0
+  rot_y: 0.0
+  rot_z: 180.0
+  type: Trunk
+mainModel: Obj_Mineral_C_01
+name: Obj_Mineral_C_01
+pictureBookLiveSpot1: 20
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: MapDynamicPassive
+rigidBodyCenterY: 1.0749499797821045
+slink: Mineral
+sortKey: 71002
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag4186e30f: 1099358991
+  tag82c09959: !u 0x82c09959
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagbb8d80c2: !u 0xbb8d80c2
+traverseDist: 400.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,27 @@
+aabbMax:
+  X: 1.5
+  Y: 0.20999999344348907
+  Z: 1.5
+aabbMin:
+  X: -1.5
+  Y: -1.9999999949504854e-06
+  Z: -1.5
+attackPower: 0
+bfres: DgnObj_DLC_BoardWood_C
+boundingForTraverse: 0.21000200510025024
+bugMask: 3
+elink: DgnObj_DLC_BoardWood_C_01
+generalLife: 100
+instSize: 61020
+mainModel: DgnObj_DLC_BoardWood_C_01
+name: DgnObj_DLC_BoardWood_C_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.10000000149011612
+slink: DgnObj_BalloonBoard
+sortKey: -19
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

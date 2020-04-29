@@ -1,0 +1,30 @@
+aabbMax:
+  X: 4.0
+  Y: 8.0
+  Z: 0.5
+aabbMin:
+  X: -4.0
+  Y: 0.0
+  Z: -0.5
+attackPower: 0
+bfres: DgnObj_FenceDynamic_B
+boundingForTraverse: 8.0
+bugMask: 3
+elink: DgnObj_FenceDynamic_B
+generalLife: 100
+instSize: 48604
+mainModel: DgnObj_FenceDynamic_B_01
+name: DgnObj_FenceDynamic_B
+profile: MapDynamicActive
+rigidBodyCenterY: 3.7040998935699463
+slink: DgnObj_FenceDynamic_A
+sortKey: 1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tag088ac6a0: 143312544
+  tag0fee9a49: 267295305
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

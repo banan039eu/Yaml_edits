@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.2750000059604645
+  Y: 0.09807299822568893
+  Z: 0.2199999988079071
+aabbMin:
+  X: -0.2750000059604645
+  Y: 0.0
+  Z: -0.2199999988079071
+bfres: TwnObj_Village_SheikerFurniture_A
+boundingForTraverse: 0.09807299822568893
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: TwnObj_Village_SheikerPlate_A_01
+name: TwnObj_Village_SheikerPlate_A_01
+profile: MapConstPassive
+sortKey: -4
+tags:
+  tag0d23ee8c: 220458636
+  tag8fda6cdd: !u 0x8fda6cdd
+yLimitAlgorithm: NoLimit

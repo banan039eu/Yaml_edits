@@ -1,0 +1,48 @@
+aabbMax:
+  X: 3.5664100646972656
+  Y: 2.263669967651367
+  Z: 3.5664100646972656
+aabbMin:
+  X: -3.5664100646972656
+  Y: -0.34960898756980896
+  Z: -3.5664100646972656
+attackPower: 2
+bfres: DgnObj_Drone_A
+boundingForTraverse: 2.613279104232788
+bugMask: 3
+cursorOffsetY: 1.5
+drops:
+  Normal:
+  - Item_Enemy_27
+  - Item_Enemy_28
+  - Item_Enemy_26
+  - Item_Enemy_29
+  - Item_Enemy_30
+elink: RemainsFire_Drone_A_01
+enemyRank: 0
+generalLife: 1000
+homeArea:
+- name: DeathMountain
+- name: ''
+- name: ''
+instSize: 161964
+lookAtOffsetY: 1.5
+mainModel: DgnObj_Drone_A_01
+name: RemainsFire_Drone_A_01
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+rigidBodyCenterY: 0.7966859936714172
+slink: RemainsFire_Drone
+sortKey: 895
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag17044493: 386155667
+  tag35960905: 899025157
+  tag994aef4b: !u 0x994aef4b
+  tagc28d054e: !u 0xc28d054e
+  tagdeb2c8bd: !u 0xdeb2c8bd
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

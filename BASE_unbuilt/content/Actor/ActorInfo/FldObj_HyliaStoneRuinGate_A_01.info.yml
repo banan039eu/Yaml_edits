@@ -1,0 +1,23 @@
+aabbMax:
+  X: 3.598629951477051
+  Y: 6.107210159301758
+  Z: 1.682479977607727
+aabbMin:
+  X: -3.661250114440918
+  Y: -0.5
+  Z: -1.6749999523162842
+bfres: FldObj_HyliaStoneRuin_A
+boundingForTraverse: 6.607210159301758
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 96880
+isHasFar: true
+mainModel: FldObj_HyliaStoneRuinGate_A_01
+name: FldObj_HyliaStoneRuinGate_A_01
+profile: MapConstPassive
+sortKey: -8
+tags:
+  tag6bddf03c: 1809707068
+  tagdeb8e664: !u 0xdeb8e664
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

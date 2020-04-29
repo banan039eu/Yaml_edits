@@ -1,0 +1,24 @@
+aabbMax:
+  X: 64.37370300292969
+  Y: 91.6594009399414
+  Z: 40.295799255371094
+aabbMin:
+  X: -65.63150024414062
+  Y: -55.68330001831055
+  Z: -43.085601806640625
+bfres: FldObj_MountainSheiker_A
+boundingForTraverse: 147.3426971435547
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 57632
+isHasFar: true
+mainModel: FldObj_CliffSheikerWaterFall_A_01
+name: FldObj_CliffSheikerWaterFall_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffff4342
+traverseDist: 654.44677734375
+yLimitAlgorithm: NoLimit

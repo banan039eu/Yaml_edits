@@ -1,0 +1,32 @@
+aabbMax:
+  X: 2.3730199337005615
+  Y: 2.2038700580596924
+  Z: 1.9651700258255005
+aabbMin:
+  X: -2.3730199337005615
+  Y: -2.2038700580596924
+  Z: -1.9651700258255005
+actorScale: 2.0
+attackPower: 60
+bfres: Enemy_Golem_Fire_R
+boundingForTraverse: 4.407740116119385
+bugMask: 3
+elink: GolemPartFire
+instSize: 40176
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Golem_Arm_2_L_Rock_Fire_R
+name: Enemy_Golem_Fire_R_Lower_Arm_L
+profile: Bullet
+slink: Enemy_Golem_Lower_Arm_L
+sortKey: -3
+tags:
+  tag2bc52291: 734339729
+terrainTextures:
+- !u 0xffffff32
+xlink: Enemy_Golem_Arm
+yLimitAlgorithm: NoLimit

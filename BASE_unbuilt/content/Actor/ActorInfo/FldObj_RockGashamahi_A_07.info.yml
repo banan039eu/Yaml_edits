@@ -1,0 +1,21 @@
+aabbMax:
+  X: 5.286180019378662
+  Y: 5.070429801940918
+  Z: 5.339290142059326
+aabbMin:
+  X: -4.347959995269775
+  Y: -1.9188400506973267
+  Z: -3.7753100395202637
+bfres: FldObj_RockGashamahi
+boundingForTraverse: 6.989270210266113
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28760
+mainModel: FldObj_RockGashamahi_A_07
+name: FldObj_RockGashamahi_A_07
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffffff54
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,24 @@
+aabbMax:
+  X: 2.1762399673461914
+  Y: 2.0
+  Z: 2.176219940185547
+aabbMin:
+  X: -2.1768999099731445
+  Y: 0.0
+  Z: -2.1763999462127686
+attackPower: 0
+bfres: DgnObj_DLC_Hrl_BoxParts_A
+boundingForTraverse: 2.0
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 60740
+mainModel: DgnObj_DLC_Hrl_Box4x4x2Under_01
+name: DgnObj_DLC_Hrl_Box4x4x2Under_01
+profile: MapConstActive
+rigidBodyCenterY: 1.0
+sortKey: 2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

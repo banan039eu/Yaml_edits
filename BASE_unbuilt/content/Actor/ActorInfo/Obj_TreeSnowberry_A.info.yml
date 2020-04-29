@@ -1,0 +1,32 @@
+aabbMax:
+  X: 0.9095100164413452
+  Y: 1.8252899646759033
+  Z: 1.0302300453186035
+aabbMin:
+  X: -1.0501899719238281
+  Y: -0.25839000940322876
+  Z: -1.168429970741272
+attackPower: 0
+bfres: Obj_TreeSnowberry_A
+boundingForTraverse: 2.0836799144744873
+bugMask: 2
+elink: Obj_TreeSnowberry_A
+generalLife: 100
+instSize: 35600
+lookAtOffsetY: 1.100000023841858
+mainModel: Obj_TreeSnowberry_A_01
+name: Obj_TreeSnowberry_A
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.14910699427127838
+slink: Tree_Bush_Small
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag572de768: 1462626152
+  tag9adf6fdd: !u 0x9adf6fdd
+  tage91ea5f6: !u 0xe91ea5f6
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

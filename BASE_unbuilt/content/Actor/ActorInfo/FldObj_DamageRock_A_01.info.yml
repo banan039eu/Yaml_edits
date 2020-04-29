@@ -1,0 +1,31 @@
+aabbMax:
+  X: 1.7790299654006958
+  Y: 1.5723999738693237
+  Z: 2.7788898944854736
+aabbMin:
+  X: -1.7550699710845947
+  Y: -1.0618599653244019
+  Z: -2.50888991355896
+addColorA: 1.0
+addColorB: 0.0
+addColorG: 0.0
+addColorR: 0.0
+attackPower: 4
+bfres: FldObj_DamageRock_A
+boundingForTraverse: 2.6342599391937256
+bugMask: 1
+generalLife: 40
+instSize: 28340
+lookAtOffsetY: 0.5
+mainModel: FldObj_DamageRock_A_01
+name: FldObj_DamageRock_A_01
+profile: MapDynamicPassive
+sortKey: -19
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag63efc18d: 1676657037
+  tag75ede21b: 1978524187
+  tagdfaad2df: !u 0xdfaad2df
+xlink: OnlyThruDamageToObj
+yLimitAlgorithm: NoLimit

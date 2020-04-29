@@ -1,0 +1,27 @@
+aabbMax:
+  X: 1.512410044670105
+  Y: 5.214009761810303
+  Z: 0.7076050043106079
+aabbMin:
+  X: -1.512410044670105
+  Y: 0.0
+  Z: -0.7062000036239624
+attackPower: 0
+bfres: TwnObj_HyruleCastleObject_BookShelf_Iron_A
+boundingForTraverse: 5.214009761810303
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 70364
+mainModel: TwnObj_HyruleCastleObject_BookShelf_Iron_A_01
+name: TwnObj_HyruleCastleObject_BookShelf_Iron_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 2.549999952316284
+sortKey: 7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

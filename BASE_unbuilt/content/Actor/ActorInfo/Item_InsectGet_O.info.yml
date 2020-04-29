@@ -1,0 +1,58 @@
+aabbMax:
+  X: 0.3997980058193207
+  Y: 0.41065099835395813
+  Z: 0.40773800015449524
+aabbMin:
+  X: -0.5453649759292603
+  Y: -0.013159000314772129
+  Z: -0.49620699882507324
+bfres: Animal_Crab
+boundingForTraverse: 0.4238100051879883
+bugMask: 3
+cureItemEffectLevel: 2
+cureItemEffectType: DefenseUp
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 4
+cursorOffsetY: 0.30000001192092896
+elink: Insect
+generalLife: 1
+homeArea:
+- name: HateruSea
+- name: EastHateru
+- name: FironeGrassland
+instSize: 39716
+itemBuyingPrice: 32
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 8
+itemStainColor: -1
+itemUseIconActorName: Item_InsectGet_O
+mainModel: Crab_Boneless
+motorcycleEnergy:
+  add: 75.0
+name: Item_InsectGet_O
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+rigidBodyCenterY: 0.125
+slink: Item_Crab
+sortKey: 34170
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_InsectGet_O
+tags:
+  tag14185415: 337138709
+  tag168ce9a9: 378333609
+  tag24cd75fe: 617444862
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+variationMatAnim: Crab_Color
+variationMatAnimFrame: 1
+yLimitAlgorithm: NoLimit

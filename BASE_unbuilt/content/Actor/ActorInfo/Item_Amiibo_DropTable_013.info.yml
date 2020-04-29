@@ -1,0 +1,19 @@
+bugMask: 1
+drops:
+  Normal:
+  - Item_Fruit_A
+  - Item_Fruit_G
+  - Item_Fruit_B
+  - Item_Fruit_K
+  - Item_Fruit_L
+  - Item_Fruit_F
+  - Item_Fruit_I
+  - Item_Fruit_C
+  - Item_Fruit_E
+  - Item_Fruit_H
+  - Obj_ArrowBundle_A_01
+instSize: 8196
+name: Item_Amiibo_DropTable_013
+profile: System
+sortKey: 24
+yLimitAlgorithm: NoLimit

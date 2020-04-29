@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.054326001554727554
+  Y: 0.08275900036096573
+  Z: 1.0649399757385254
+aabbMin:
+  X: -0.029805999249219894
+  Y: -0.056485000997781754
+  Z: -0.08547800034284592
+arrowArrowDeletePer: 0
+arrowArrowNum: 1
+arrowDeleteTime: 90
+arrowDeleteTimeWithChemical: 90
+arrowEnemyShootNumForDelete: 0
+attackPower: 0
+bfres: Weapon_Arrow_005
+boundingForTraverse: 0.13924400508403778
+bugMask: 3
+cursorOffsetY: 0.20000000298023224
+elink: FireArrow
+homeArea:
+- name: CentralHyrule
+- name: EldinCanyon
+- name: GerudoDesert
+instSize: 63264
+itemBuyingPrice: 20
+itemCreatingPrice: -1
+itemSaleRevivalCount: 50
+itemSellingPrice: 1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Arrow_005
+name: FireArrow
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Bullet
+slink: FireArrow
+sortKey: 14601
+tags:
+  tag19f6c13a: 435601722
+  tag2755f107: 659943687
+  tag2cef9fdc: 753901532
+  tag336bf311: 862712593
+  tag80e484a4: !u 0x80e484a4
+  tag9b44906f: !u 0x9b44906f
+  tagdf7c57f6: !u 0xdf7c57f6
+  tage0194f30: !u 0xe0194f30
+xlink: Weapon
+yLimitAlgorithm: NoLimit

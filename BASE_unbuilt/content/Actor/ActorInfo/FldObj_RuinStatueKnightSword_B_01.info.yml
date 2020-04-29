@@ -1,0 +1,28 @@
+aabbMax:
+  X: 10.147000312805176
+  Y: 65.01010131835938
+  Z: 1.895419955253601
+aabbMin:
+  X: -10.147000312805176
+  Y: 0.0
+  Z: -1.895490050315857
+attackPower: 0
+bfres: FldObj_RuinStatueKnight_A
+boundingForTraverse: 65.01010131835938
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 81476
+mainModel: FldObj_RuinStatueKnightSword_B_01
+name: FldObj_RuinStatueKnightSword_B_01
+profile: MapConstActive
+rigidBodyCenterY: 36.54880142211914
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag921c2372: !u 0x921c2372
+terrainTextures:
+- !u 0xffff4608
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

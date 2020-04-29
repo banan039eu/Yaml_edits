@@ -1,0 +1,38 @@
+aabbMax:
+  X: 0.5197439789772034
+  Y: 1.0205399990081787
+  Z: 0.5197439789772034
+aabbMin:
+  X: -0.5197439789772034
+  Y: 0.0
+  Z: -0.5197439789772034
+attackPower: 4
+bfres: Obj_Barrel_A
+boundingForTraverse: 1.0205399990081787
+bugMask: 3
+drops:
+  Amiibo: 1
+  Normal:
+  - Item_Fruit_A
+  - Item_Mushroom_E
+elink: Barrel
+generalLife: 20
+instSize: 42072
+mainModel: Obj_Barrel_A
+name: Barrel
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.5132480263710022
+slink: Barrel
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag25cd2b4d: 634202957
+  tag8fda6cdd: !u 0x8fda6cdd
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tage0a7b8f3: !u 0xe0a7b8f3
+  tagff2ecb67: !u 0xff2ecb67
+  tagff53ef86: !u 0xff53ef86
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,29 @@
+aabbMax:
+  X: 0.5912730097770691
+  Y: 2.802690029144287
+  Z: 0.4094710052013397
+aabbMin:
+  X: -0.6793410181999207
+  Y: -0.0040790000930428505
+  Z: -0.7503250241279602
+bfres: Npc_Rito_Teba
+boundingForTraverse: 2.8067688941955566
+bugMask: 3
+cursorOffsetY: 0.44999998807907104
+elink: Npc_ValleyVillage031
+instSize: 259572
+mainModel: Npc_Rito_Teba
+name: Npc_ValleyVillage031
+profile: NPC
+slink: Npc_ValleyVillage031
+sortKey: -18
+systemIsGetItemSelf: false
+systemSameGroupActorName: Npc_ValleyVillage010
+tags:
+  tag03528579: 55739769
+  tagc3b0a0e6: !u 0xc3b0a0e6
+  tagf92947a1: !u 0xf92947a1
+  tagfd5643b5: !u 0xfd5643b5
+traverseDist: 2000.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

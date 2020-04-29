@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.2668190002441406
+  Y: 1.5750399827957153
+  Z: 0.21114499866962433
+aabbMin:
+  X: -0.27119600772857666
+  Y: 6.500000017695129e-05
+  Z: -0.4220989942550659
+bfres: Npc_Zora_Hero
+boundingForTraverse: 1.5749750137329102
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Dm_Npc_Zora_Hero
+instSize: 356780
+mainModel: Npc_Zora_Hero
+name: Dm_Npc_Zora_Hero
+profile: NPC
+slink: Npc
+sortKey: -16
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag74831ee0: 1954750176
+  tag84f40ec6: !u 0x84f40ec6
+  tagfd5643b5: !u 0xfd5643b5
+yLimitAlgorithm: NoLimit

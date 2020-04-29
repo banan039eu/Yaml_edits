@@ -1,0 +1,73 @@
+Chemical:
+  Burnable: 1
+aabbMax:
+  X: 0.40916499495506287
+  Y: 0.08373799920082092
+  Z: 0.4167479872703552
+aabbMin:
+  X: -0.17650699615478516
+  Y: -0.1697929948568344
+  Z: -0.6318359971046448
+attackPower: 0
+bfres: Weapon_Shield_042
+boundingForTraverse: 0.25353100895881653
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Shield
+generalLife: 16
+homeArea:
+- name: HeburaMountains
+- name: TabantaFrontier
+- name: ''
+instSize: 48060
+itemBuyingPrice: 25
+itemCreatingPrice: 10
+itemSaleRevivalCount: -1
+itemSellingPrice: 6
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Shield_042
+name: Weapon_Shield_042
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponShield
+rigidBodyCenterY: -0.07590600103139877
+slink: Weapon_Shield_WoodWithMetal
+sortKey: 15150
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 14
+weaponCommonPoweredSharpAddAtkMax: 0
+weaponCommonPoweredSharpAddAtkMin: 0
+weaponCommonPoweredSharpAddLifeMax: 8
+weaponCommonPoweredSharpAddLifeMin: 5
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 21
+weaponCommonPoweredSharpWeaponAddGuardMin: 12
+weaponCommonRank: 1
+weaponCommonSharpWeaponAddAtkMax: 0
+weaponCommonSharpWeaponAddAtkMin: 0
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 11
+weaponCommonSharpWeaponAddGuardMin: 6
+weaponCommonSharpWeaponAddLifeMax: 4
+weaponCommonSharpWeaponAddLifeMin: 2
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+xlink: Weapon
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,23 @@
+aabbMax:
+  X: 1.829609990119934
+  Y: 8.379610061645508
+  Z: 5.199999809265137
+aabbMin:
+  X: -1.829609990119934
+  Y: -0.6865500211715698
+  Z: -3.4350900650024414
+attackPower: 0
+bfres: DgnObj_Hammer_A
+boundingForTraverse: 9.066160202026367
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 38864
+mainModel: DgnObj_Hammer_A_01
+name: DgnObj_Hammer_A_01
+profile: MapConstActive
+rigidBodyCenterY: 5.552830219268799
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

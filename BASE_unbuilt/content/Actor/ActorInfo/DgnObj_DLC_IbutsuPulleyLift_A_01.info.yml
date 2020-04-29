@@ -1,0 +1,29 @@
+aabbMax:
+  X: 2.838200092315674
+  Y: 20.623699188232422
+  Z: 5.259079933166504
+aabbMin:
+  X: -2.838200092315674
+  Y: -1.373170018196106
+  Z: -5.250770092010498
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuObj_A
+boundingForTraverse: 21.996870040893555
+bugMask: 2
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 85644
+mainModel: DgnObj_DLC_IbutsuPulleyLift_A_01
+name: DgnObj_DLC_IbutsuPulleyLift_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 3.5284199714660645
+slink: DgnObj_DLC_IbutsuPulleyLift_A_01
+sortKey: 157
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2c608f30: 744525616
+  tag8fda6cdd: !u 0x8fda6cdd
+  tagaf85ec67: !u 0xaf85ec67
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

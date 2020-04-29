@@ -1,0 +1,23 @@
+aabbMax:
+  X: 0.7850710153579712
+  Y: 0.5658079981803894
+  Z: 1.0254900455474854
+aabbMin:
+  X: -0.7088199853897095
+  Y: -0.0014720000326633453
+  Z: -0.8713939785957336
+bfres: Obj_FireWood
+boundingForTraverse: 0.5672799944877625
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 24508
+mainModel: FireWood
+name: Dm_FireWoodDie
+profile: DemoNPC
+sortKey: -4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

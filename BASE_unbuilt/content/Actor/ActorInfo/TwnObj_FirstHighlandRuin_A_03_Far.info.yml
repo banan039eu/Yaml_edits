@@ -1,0 +1,21 @@
+aabbMax:
+  X: 19.7721004486084
+  Y: 10.25979995727539
+  Z: 43.63059997558594
+aabbMin:
+  X: -18.189899444580078
+  Y: -0.766726016998291
+  Z: -45.113399505615234
+bfres: TwnObj_FirstHighlandRuin_A_Far
+boundingForTraverse: 11.026524543762207
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: TwnObj_FirstHighlandRuin_A_03_Far
+name: TwnObj_FirstHighlandRuin_A_03_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

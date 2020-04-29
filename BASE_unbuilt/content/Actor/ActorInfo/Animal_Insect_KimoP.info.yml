@@ -1,0 +1,12 @@
+bugMask: 1
+instSize: 4784
+name: Animal_Insect_KimoP
+profile: EffectLocater
+sortKey: 35190
+tags:
+  tag489920ab: 1217994923
+  tag572de768: 1462626152
+  tag5ad0d068: 1523634280
+  tagac9f717f: !u 0xac9f717f
+  tagdac84a6c: !u 0xdac84a6c
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,24 @@
+aabbMax:
+  X: 1.2109400033950806
+  Y: 4.274909973144531
+  Z: 0.44206300377845764
+aabbMin:
+  X: -1.2441400289535522
+  Y: 0.0
+  Z: -2.1109399795532227
+attackPower: 0
+bfres: DgnObj_GyroTiltTerminalBody_A
+boundingForTraverse: 4.274909973144531
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 62964
+mainModel: DgnObj_GyroTiltTerminalBody_A_01
+name: DgnObj_SwitchGyroTiltBody
+profile: MapConstActive
+rigidBodyCenterY: 2.0404601097106934
+slink: DgnObj_SwitchGyroTiltBody
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

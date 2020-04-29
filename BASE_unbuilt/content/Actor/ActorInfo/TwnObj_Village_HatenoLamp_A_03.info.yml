@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.19591300189495087
+  Y: 2.0657598972320557
+  Z: 0.19259899854660034
+aabbMin:
+  X: -0.19591300189495087
+  Y: 0.0
+  Z: -0.18632400035858154
+bfres: TwnObj_Village_Hateno_A
+boundingForTraverse: 2.0657598972320557
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38620
+mainModel: TwnObj_Village_HatenoLamp_A_03
+name: TwnObj_Village_HatenoLamp_A_03
+profile: MapConstPassive
+sortKey: 6
+tags:
+  tag0d23ee8c: 220458636
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

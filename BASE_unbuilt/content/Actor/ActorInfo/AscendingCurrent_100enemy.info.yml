@@ -1,0 +1,10 @@
+bugMask: 3
+elink: Chemical
+instSize: 7968
+name: AscendingCurrent_100enemy
+profile: SoleTag
+slink: AscendingCurrent_100enemy
+sortKey: 0
+traverseDist: 100.0
+xlink: AscendingCurrent
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,14 @@
+attackPower: 0
+bugMask: 3
+elink: ElectricCable
+generalLife: 100
+instSize: 11292
+name: DgnObj_ElectricCable_FinalTrial
+profile: MapConstActive
+slink: DgnObj_ElectricCable_FinalTrial
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagc5b7c123: !u 0xc5b7c123
+yLimitAlgorithm: NoLimit

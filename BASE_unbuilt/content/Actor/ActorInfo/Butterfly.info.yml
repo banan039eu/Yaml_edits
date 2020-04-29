@@ -1,0 +1,20 @@
+bugMask: 0
+elink: Butterfly
+instSize: 3476
+invalidTimes:
+- Morning_A1
+- Evening_B
+- Night_A
+- Night_B
+invalidWeathers:
+- HeavyRain
+- HeavySnow
+- ThunderStorm
+- ThunderRain
+name: Butterfly
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+traverseDist: 30.0
+yLimitAlgorithm: NoLimit

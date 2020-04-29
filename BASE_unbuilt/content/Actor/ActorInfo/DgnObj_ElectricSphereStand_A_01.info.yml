@@ -1,0 +1,24 @@
+aabbMax:
+  X: 1.407439947128296
+  Y: 0.574999988079071
+  Z: 1.360219955444336
+aabbMin:
+  X: -1.407439947128296
+  Y: 0.0
+  Z: -1.25
+attackPower: 0
+bfres: DgnObj_ElectricSphereStand_A
+boundingForTraverse: 0.574999988079071
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 75064
+mainModel: DgnObj_ElectricSphereStand_A_01
+name: DgnObj_ElectricSphereStand_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.3697800040245056
+sortKey: 23
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

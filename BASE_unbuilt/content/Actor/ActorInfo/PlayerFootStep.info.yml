@@ -1,0 +1,10 @@
+bugMask: 2
+instSize: 4504
+name: PlayerFootStep
+profile: ActorReaction
+slink: PlayerFootStep
+sortKey: 0
+tags:
+  tagc5b7c123: !u 0xc5b7c123
+xlink: Reaction
+yLimitAlgorithm: NoLimit

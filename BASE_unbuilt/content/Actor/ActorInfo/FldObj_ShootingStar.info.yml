@@ -1,0 +1,52 @@
+aabbMax:
+  X: 0.5
+  Y: 0.5
+  Z: 0.5
+aabbMin:
+  X: -0.5
+  Y: -0.5
+  Z: -0.5
+bfres: DgnObj_StoneBall_A
+boundingForTraverse: 1.0
+bugMask: 3
+drops:
+  Normal:
+  - Item_Ore_J
+elink: FldObj_ShootingStar
+generalLife: 100
+instSize: 26700
+invalidTimes:
+- Morning_A1
+- Morning_A2
+- Morning_B
+- Noon_A
+- Noon_B
+- Evening_A
+- Evening_B
+invalidWeathers:
+- Cloudy
+- Rain
+- HeavyRain
+- Snow
+- HeavySnow
+- ThunderStorm
+- ThunderRain
+- BlueskyRain
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: DgnObj_StoneBall_01
+name: FldObj_ShootingStar
+profile: Item
+slink: FldObj_ShootingStar
+sortKey: 4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag336bf311: 862712593
+  tagb54a7a34: !u 0xb54a7a34
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

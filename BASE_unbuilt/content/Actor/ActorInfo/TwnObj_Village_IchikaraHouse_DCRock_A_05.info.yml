@@ -1,0 +1,23 @@
+aabbMax:
+  X: 20.534799575805664
+  Y: 10.390800476074219
+  Z: 18.755699157714844
+aabbMin:
+  X: -20.92620086669922
+  Y: -1.5219199657440186
+  Z: -14.224499702453613
+attackPower: 0
+bfres: TwnObj_Village_Ichikara_A
+boundingForTraverse: 11.912720680236816
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 80336
+mainModel: TwnObj_Village_IchikaraHouse_DCRock_A_05
+name: TwnObj_Village_IchikaraHouse_DCRock_A_05
+profile: MapDynamicPassive
+rigidBodyCenterY: 2.986769914627075
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

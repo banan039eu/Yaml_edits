@@ -1,0 +1,9 @@
+bugMask: 1
+instSize: 34548
+name: Self_HorseAssociationCustum
+profile: NPC
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

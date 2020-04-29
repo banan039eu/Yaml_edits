@@ -1,0 +1,44 @@
+aabbMax:
+  X: 0.800462007522583
+  Y: 0.5948960185050964
+  Z: 0.38556599617004395
+aabbMin:
+  X: -0.7328119874000549
+  Y: -0.04734399914741516
+  Z: -0.3740530014038086
+bfres: Obj_FireWoodBundle
+boundingForTraverse: 0.6422399878501892
+bugMask: 3
+cursorOffsetY: 0.4000000059604645
+drops:
+  Normal:
+  - FireWoodFromBundle
+elink: Obj_FireWoodBundle
+generalLife: 100
+instSize: 39620
+itemBuyingPrice: 12
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 2
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: FireWoodBundle
+motorcycleEnergy:
+  add: 100.0
+name: Obj_FireWoodBundle
+profile: Item
+rigidBodyCenterY: 0.2983730137348175
+slink: FireWood
+sortKey: 36010
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagbd7fd9d5: !u 0xbd7fd9d5
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+yLimitAlgorithm: NoLimit

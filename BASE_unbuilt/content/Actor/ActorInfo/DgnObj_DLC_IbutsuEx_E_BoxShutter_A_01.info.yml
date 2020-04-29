@@ -1,0 +1,27 @@
+aabbMax:
+  X: 2.081199884414673
+  Y: 4.0
+  Z: 2.081199884414673
+aabbMin:
+  X: -2.081199884414673
+  Y: -12.0
+  Z: -2.081199884414673
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuEx_E
+boundingForTraverse: 16.0
+bugMask: 3
+elink: BoxShutter
+generalLife: 100
+instSize: 55236
+mainModel: DgnObj_DLC_IbutsuEx_E_BoxShutter_A_01
+name: DgnObj_DLC_IbutsuEx_E_BoxShutter_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: -4.213850021362305
+slink: BoxShutter
+sortKey: 115
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag7dd56981: 2111138177
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

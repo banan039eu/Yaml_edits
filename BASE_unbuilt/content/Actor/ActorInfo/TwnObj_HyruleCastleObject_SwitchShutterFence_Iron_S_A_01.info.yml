@@ -1,0 +1,29 @@
+aabbMax:
+  X: 0.13500000536441803
+  Y: 6.269999980926514
+  Z: 2.285599946975708
+aabbMin:
+  X: -0.29499998688697815
+  Y: -0.4000000059604645
+  Z: -2.285599946975708
+attackPower: 0
+bfres: TwnObj_HyruleCastleInside_Prison_A
+boundingForTraverse: 6.670000076293945
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Shutter
+generalLife: 100
+instSize: 57512
+mainModel: TwnObj_HyruleCastleObject_ShutterFence_Iron_S_A_01
+name: TwnObj_HyruleCastleObject_SwitchShutterFence_Iron_S_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 2.8998899459838867
+slink: CitadelShutterSmall
+sortKey: -19
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag7dd56981: 2111138177
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+yLimitAlgorithm: NoLimit

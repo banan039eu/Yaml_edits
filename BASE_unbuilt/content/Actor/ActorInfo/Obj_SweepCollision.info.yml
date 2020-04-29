@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 6992
+name: Obj_SweepCollision
+profile: SweepCollision
+sortKey: 4
+yLimitAlgorithm: NoLimit

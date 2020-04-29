@@ -1,0 +1,41 @@
+aabbMax:
+  X: 0.14721299707889557
+  Y: 1.7724599838256836
+  Z: 0.15649400651454926
+aabbMin:
+  X: -0.14721399545669556
+  Y: 1.3740400075912476
+  Z: -0.19091199338436127
+armorDefenceAddLevel: 3
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: ClimbSpeed
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_083_Head
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_014
+boundingForTraverse: 0.3984200060367584
+bugMask: 1
+instSize: 64292
+itemBuyingPrice: 4000
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 600
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_014_Head
+name: Armor_014_Head
+profile: ArmorHead
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: Climb
+sortKey: 2921114
+tags:
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

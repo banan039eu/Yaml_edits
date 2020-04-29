@@ -1,0 +1,22 @@
+aabbMax:
+  X: 0.8469489812850952
+  Y: -4.129489898681641
+  Z: 33.60559844970703
+aabbMin:
+  X: -2.5413999557495117
+  Y: -13.10099983215332
+  Z: -26.691099166870117
+bfres: FldObj_BridgeZora_A
+boundingForTraverse: 8.97150993347168
+bugMask: 2
+cursorOffsetY: 0.5
+instSize: 29068
+mainModel: FldObj_BridgeZoraWoodThin_A_02
+name: FldObj_BridgeZoraWoodThin_A_02
+profile: MapConstPassive
+slink: BridgeZoraWood
+sortKey: -2
+tags:
+  tag572de768: 1462626152
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

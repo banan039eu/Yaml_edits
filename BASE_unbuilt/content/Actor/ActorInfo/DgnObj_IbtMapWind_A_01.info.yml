@@ -1,0 +1,25 @@
+aabbMax:
+  X: 13.490500450134277
+  Y: 60.80229949951172
+  Z: 1.806249976158142
+aabbMin:
+  X: -19.43320083618164
+  Y: -1.806249976158142
+  Z: -1.806249976158142
+attackPower: 0
+bfres: DgnObj_IbutsuMap_A
+boundingForTraverse: 62.608551025390625
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 28696
+mainModel: DgnObj_IbtMapWind_A_01
+name: DgnObj_IbtMapWind_A_01
+profile: MapDynamicActive
+sortKey: -5
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

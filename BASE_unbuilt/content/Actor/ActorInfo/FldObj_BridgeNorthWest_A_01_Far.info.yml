@@ -1,0 +1,19 @@
+aabbMax:
+  X: 15.495800018310547
+  Y: 5.151080131530762
+  Z: 52.4182014465332
+aabbMin:
+  X: -15.564200401306152
+  Y: -40.781898498535156
+  Z: -63.17380142211914
+bfres: FldObj_BridgeNorthWest_A_Far
+boundingForTraverse: 45.932979583740234
+bugMask: 0
+instSize: 28760
+mainModel: FldObj_BridgeNorthWest_A_01_Far
+name: FldObj_BridgeNorthWest_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

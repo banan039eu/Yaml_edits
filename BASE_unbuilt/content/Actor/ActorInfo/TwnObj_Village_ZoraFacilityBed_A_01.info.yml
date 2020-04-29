@@ -1,0 +1,24 @@
+aabbMax:
+  X: 0.4399999976158142
+  Y: -0.44999998807907104
+  Z: -0.6422650218009949
+aabbMin:
+  X: -0.4399999976158142
+  Y: -0.550000011920929
+  Z: -1.2154699563980103
+attackPower: 0
+bfres: TwnObj_Village_Zora_A
+boundingForTraverse: 0.10000000149011612
+bugMask: 1
+generalLife: 100
+instSize: 24936
+mainModel: TwnObj_Village_ZoraFacilityBed_A_01
+name: TwnObj_Village_ZoraFacilityBed_A_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.47125500440597534
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag28a3a540: 681813312
+yLimitAlgorithm: NoLimit

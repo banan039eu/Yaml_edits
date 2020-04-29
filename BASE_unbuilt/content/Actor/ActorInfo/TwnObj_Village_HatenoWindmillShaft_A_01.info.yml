@@ -1,0 +1,25 @@
+aabbMax:
+  X: 1.2050299644470215
+  Y: 9.533280372619629
+  Z: 0.4495689868927002
+aabbMin:
+  X: -1.0654799938201904
+  Y: 4.401169776916504
+  Z: -1.8336299657821655
+attackPower: 0
+bfres: TwnObj_Village_Hateno_A
+boundingForTraverse: 5.132111072540283
+bugMask: 2
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 32600
+mainModel: TwnObj_Village_HatenoWindmillShaft_A_01
+name: TwnObj_Village_HatenoWindmillShaft_A_01
+profile: MapConstActive
+rigidBodyCenterY: 6.5612101554870605
+slink: TwnObj_Village_HatenoWindmillShaft
+sortKey: 6
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 50.0
+yLimitAlgorithm: NoLimit

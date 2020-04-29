@@ -1,0 +1,23 @@
+aabbMax:
+  X: 26.588600158691406
+  Y: 18.466299057006836
+  Z: 27.254499435424805
+aabbMin:
+  X: -26.588600158691406
+  Y: -12.429499626159668
+  Z: -25.388599395751953
+bfres: TwnObj_Village_Zora_A
+boundingForTraverse: 30.895797729492188
+bugMask: 0
+cursorOffsetY: 0.5
+elink: TwnObj_Village_ZoraRoyalRoom_A_01
+instSize: 275836
+isHasFar: true
+mainModel: TwnObj_Village_ZoraRoyalRoom_A_01
+name: TwnObj_Village_ZoraRoyalRoom_A_01
+profile: MapConstPassive
+sortKey: -3
+tags:
+  tag572de768: 1462626152
+traverseDist: 574.8272094726562
+yLimitAlgorithm: NoLimit

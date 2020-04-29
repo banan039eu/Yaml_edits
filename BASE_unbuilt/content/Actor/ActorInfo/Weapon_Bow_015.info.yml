@@ -1,0 +1,77 @@
+Chemical:
+  Capaciter: 1
+aabbMax:
+  X: 0.1981009989976883
+  Y: 0.05145300179719925
+  Z: 0.7143039703369141
+aabbMin:
+  X: -0.10351300239562988
+  Y: -0.05175799876451492
+  Z: -0.7143039703369141
+attackPower: 14
+bfres: Weapon_Bow_015
+boundingForTraverse: 0.10321000218391418
+bowArrowName: ''
+bowIsLeadShot: false
+bowIsRapidFire: false
+bowLeadShotNum: 0
+bowRapidFireNum: 0
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Bow
+generalLife: 60
+homeArea:
+- name: GerudoHighlands
+- name: GerudoDesert
+- name: ''
+instSize: 49012
+itemBuyingPrice: 85
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 21
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Bow_015
+name: Weapon_Bow_015
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponBow
+slink: Weapon_Bow_Metal
+sortKey: 14160
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 12
+weaponCommonPoweredSharpAddAtkMin: 8
+weaponCommonPoweredSharpAddLifeMax: 30
+weaponCommonPoweredSharpAddLifeMin: 13
+weaponCommonPoweredSharpAddRapidFireMax: 1.2999999523162842
+weaponCommonPoweredSharpAddRapidFireMin: 1.100000023841858
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 6
+weaponCommonSharpWeaponAddAtkMax: 7
+weaponCommonSharpWeaponAddAtkMin: 3
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 12
+weaponCommonSharpWeaponAddLifeMin: 6
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+xlink: Weapon
+yLimitAlgorithm: NoLimit

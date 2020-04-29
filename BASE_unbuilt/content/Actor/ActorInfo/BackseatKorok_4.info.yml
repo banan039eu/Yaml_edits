@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.8473430275917053
+  Y: 1.4305800199508667
+  Z: 0.9660599827766418
+aabbMin:
+  X: -0.43122398853302
+  Y: -0.3554610013961792
+  Z: -0.17333999276161194
+attackPower: 0
+bfres: Npc_Korogu_M_004
+boundingForTraverse: 1.786041021347046
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 108376
+name: BackseatKorok_4
+profile: MapConstActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

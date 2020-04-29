@@ -1,0 +1,25 @@
+aabbMax:
+  X: 0.9389650225639343
+  Y: 1.8766800165176392
+  Z: 0.9760739803314209
+aabbMin:
+  X: -0.9355469942092896
+  Y: -0.005154000129550695
+  Z: -0.9536129832267761
+attackPower: 1000
+bfres: Npc_Goron_HeroDescendants_Ball
+boundingForTraverse: 1.8818340301513672
+bugMask: 3
+cursorOffsetY: 0.6000000238418579
+elink: FldObj_GoronCannonBall_YunBo
+generalLife: 100
+instSize: 53692
+mainModel: Npc_Goron_HeroDescendants_Ball
+name: FldObj_GoronCannonBall_YunBo
+profile: MapDynamicActive
+slink: FldObj_GoronCannonBall_YunBo
+sortKey: 11
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

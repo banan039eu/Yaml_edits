@@ -1,0 +1,19 @@
+aabbMax:
+  X: 12.336299896240234
+  Y: 5.348919868469238
+  Z: 6.789840221405029
+aabbMin:
+  X: -4.169740200042725
+  Y: -2.27731990814209
+  Z: -12.770999908447266
+bfres: TwnObj_Village_Sheiker_A
+boundingForTraverse: 7.626239776611328
+bugMask: 0
+instSize: 18548
+mainModel: TwnObj_Village_SheikerGravestone_A_01
+name: TwnObj_Village_SheikerGravestone_A_01
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffff1d11
+yLimitAlgorithm: NoLimit

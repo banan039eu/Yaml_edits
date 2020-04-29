@@ -1,0 +1,20 @@
+aabbMax:
+  X: 1.2765699625015259
+  Y: 0.7245699763298035
+  Z: 0.9854919910430908
+aabbMin:
+  X: -1.2730400562286377
+  Y: -0.20571599900722504
+  Z: -1.036910057067871
+bfres: FldObj_StoneWallBroken_A
+boundingForTraverse: 0.9302859902381897
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+mainModel: FldObj_StoneWallBroken_A_04
+name: FldObj_StoneWallBroken_A_04
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffffff37
+yLimitAlgorithm: NoLimit

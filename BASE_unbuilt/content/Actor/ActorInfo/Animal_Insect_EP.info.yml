@@ -1,0 +1,28 @@
+bugMask: 0
+elink: Animal_Insect_EP
+instSize: 3476
+invalidTimes:
+- Morning_A1
+- Morning_A2
+- Morning_B
+- Noon_A
+- Noon_B
+- Evening_A
+- Evening_B
+invalidWeathers:
+- Rain
+- HeavyRain
+- Snow
+- HeavySnow
+- ThunderStorm
+- ThunderRain
+- BlueskyRain
+name: Animal_Insect_EP
+profile: EffectLocater
+sortKey: 35121
+tags:
+  tag572de768: 1462626152
+  tag5ad0d068: 1523634280
+  tagac9f717f: !u 0xac9f717f
+  tagdac84a6c: !u 0xdac84a6c
+yLimitAlgorithm: NoLimit

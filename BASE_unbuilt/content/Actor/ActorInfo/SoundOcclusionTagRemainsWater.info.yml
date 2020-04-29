@@ -1,0 +1,7 @@
+bugMask: 1
+instSize: 4560
+name: SoundOcclusionTagRemainsWater
+profile: SoleTag
+sortKey: 0
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

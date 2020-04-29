@@ -1,0 +1,28 @@
+aabbMax:
+  X: 1.1036299467086792
+  Y: 1.8965400457382202
+  Z: 1.1036299467086792
+aabbMin:
+  X: -1.1036299467086792
+  Y: 0.0
+  Z: -1.1036299467086792
+attackPower: 0
+bfres: DgnObj_SwitchWind_A
+boundingForTraverse: 1.8965400457382202
+bugMask: 3
+elink: SwitchWind
+generalLife: 100
+instSize: 89232
+mainModel: DgnObj_SwitchWind_A_01
+name: SwitchWind
+profile: MapConstActive
+rigidBodyCenterY: 0.44999998807907104
+slink: SwitchWind
+sortKey: 2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2c608f30: 744525616
+  tag51e73965: 1374108005
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,20 @@
+aabbMax:
+  X: 38.1067008972168
+  Y: 5.836480140686035
+  Z: 33.409400939941406
+aabbMin:
+  X: -38.1067008972168
+  Y: 0.0
+  Z: -7.305180072784424
+bfres: FldObj_DeathMtLavaFall_A
+boundingForTraverse: 5.836480140686035
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 20404
+isHasFar: true
+mainModel: FldObj_DeathMtLavaFall_B_03
+name: FldObj_DeathMtLavaFall_B_03
+profile: MapConstPassive
+sortKey: -2
+traverseDist: 586.4069213867188
+yLimitAlgorithm: NoLimit

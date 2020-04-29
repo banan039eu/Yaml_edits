@@ -1,0 +1,33 @@
+aabbMax:
+  X: 2.395659923553467
+  Y: 4.177609920501709
+  Z: 2.1677699089050293
+aabbMin:
+  X: -1.9345200061798096
+  Y: -0.09407699853181839
+  Z: -1.856660008430481
+attackPower: 0
+bfres: Obj_TreeBroadleafLow_Branch_A
+boundingForTraverse: 4.271687030792236
+bugMask: 2
+cursorOffsetY: 0.5
+elink: Obj_TreeBroadleafLow_Branch_A_01
+generalLife: 100
+instSize: 34060
+mainModel: Obj_TreeBroadleafLow_Branch_A_01
+name: Obj_TreeBroadleafLow_Branch_A_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.8220340013504028
+slink: Tree_Bush
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag882953b0: !u 0x882953b0
+  tag9adf6fdd: !u 0x9adf6fdd
+  taga40dd51c: !u 0xa40dd51c
+  tage91ea5f6: !u 0xe91ea5f6
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

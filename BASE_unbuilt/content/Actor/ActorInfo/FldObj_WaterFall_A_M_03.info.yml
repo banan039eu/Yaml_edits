@@ -1,0 +1,22 @@
+aabbMax:
+  X: 7.679200172424316
+  Y: 0.06969399750232697
+  Z: 7.3957200050354
+aabbMin:
+  X: -7.579080104827881
+  Y: -70.2979965209961
+  Z: -14.387100219726562
+bfres: FldObj_WaterFall_A
+boundingForTraverse: 70.36769104003906
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 19960
+isHasFar: true
+mainModel: FldObj_WaterFall_A_M_03
+name: FldObj_WaterFall_A_M_03
+profile: MapConstPassive
+sortKey: 3
+tags:
+  tag572de768: 1462626152
+traverseDist: 526.59521484375
+yLimitAlgorithm: NoLimit

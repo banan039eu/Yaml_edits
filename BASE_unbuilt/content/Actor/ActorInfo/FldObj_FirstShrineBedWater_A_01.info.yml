@@ -1,0 +1,26 @@
+aabbMax:
+  X: 1.649999976158142
+  Y: 0.0
+  Z: 1.0499999523162842
+aabbMin:
+  X: -1.649999976158142
+  Y: 0.0
+  Z: -1.0499999523162842
+attackPower: 0
+bfres: FldObj_FirstShrineBedWater_A
+boundingForTraverse: 1.9557609558105469
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 28668
+mainModel: FldObj_FirstShrineBedWater_A_01
+name: FldObj_FirstShrineBedWater_A_01
+profile: MapDynamicActive
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag3c39db92: 1010424722
+  tag84f40ec6: !u 0x84f40ec6
+  tagfd5643b5: !u 0xfd5643b5
+yLimitAlgorithm: NoLimit

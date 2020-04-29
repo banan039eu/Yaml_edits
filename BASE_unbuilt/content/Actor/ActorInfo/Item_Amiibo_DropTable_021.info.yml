@@ -1,0 +1,9 @@
+bugMask: 1
+drops:
+  Normal:
+  - Kibako_Contain_01
+instSize: 8196
+name: Item_Amiibo_DropTable_021
+profile: System
+sortKey: 11
+yLimitAlgorithm: NoLimit

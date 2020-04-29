@@ -1,0 +1,51 @@
+aabbMax:
+  X: 0.41690799593925476
+  Y: 0.3088670074939728
+  Z: 0.2935140132904053
+aabbMin:
+  X: -0.41690999269485474
+  Y: -0.2553650140762329
+  Z: -0.20630699396133423
+attackPower: 4
+bfres: Enemy_Keese
+boundingForTraverse: 0.5642319917678833
+bugMask: 3
+cursorOffsetY: 0.6499999761581421
+drops:
+  Normal:
+  - Item_Enemy_19
+  Normal2:
+  - Item_Enemy_45
+elink: Keese
+enemyRank: 2
+generalLife: 1
+homeArea:
+- name: LanayruWaterSources
+- name: EastHateru
+- name: GerudoDesert
+instSize: 171028
+invalidTimes:
+- Morning_A1
+- Morning_A2
+- Morning_B
+- Noon_A
+- Noon_B
+- Evening_A
+name: Enemy_Keese_Electric
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+slink: Keese
+sortKey: 203
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_Keese_Electric
+tags:
+  tag0fee9a49: 267295305
+  tag35960905: 899025157
+  tag3f2f9167: 1060082023
+  tag994aef4b: !u 0x994aef4b
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagd3231bed: !u 0xd3231bed
+  tagf2e5b2f2: !u 0xf2e5b2f2
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,50 @@
+aabbMax:
+  X: 1.591439962387085
+  Y: 3.0285398960113525
+  Z: 1.1235400438308716
+aabbMin:
+  X: -1.5912200212478638
+  Y: 0.0008950000046752393
+  Z: -1.813889980316162
+attackPower: 0
+bfres: Enemy_Guardian_Mini
+boundingForTraverse: 3.0276451110839844
+bugMask: 3
+cursorOffsetY: 1.2699999809265137
+drops:
+  Normal:
+  - Item_Enemy_27
+  - Item_Enemy_28
+  - Item_Enemy_26
+  - Item_Enemy_29
+  Normal2:
+  - Item_Enemy_27
+  - Item_Enemy_28
+  - Item_Enemy_26
+  - Item_Enemy_29
+elink: Enemy_Guardian_Mini
+enemyRank: 16
+generalLife: 100
+instSize: 369336
+mainModel: Enemy_Guardian_Mini
+name: Enemy_Guardian_Mini_Junior_Dark
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+slink: Guardian_Mini
+sortKey: 101001
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_Guardian_Mini_Junior
+tags:
+  tag17044493: 386155667
+  tag35960905: 899025157
+  tag3a61e2a9: 979493545
+  tag8fda6cdd: !u 0x8fda6cdd
+  tag921c2372: !u 0x921c2372
+  tag994aef4b: !u 0x994aef4b
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagbcd4994c: !u 0xbcd4994c
+traverseDist: 150.0
+xlink: Guardian_Mini
+yLimitAlgorithm: LimitYDiff

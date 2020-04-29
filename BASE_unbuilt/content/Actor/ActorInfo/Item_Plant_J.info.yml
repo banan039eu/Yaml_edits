@@ -1,0 +1,62 @@
+aabbMax:
+  X: 0.4120210111141205
+  Y: 1.1125400066375732
+  Z: 0.31637701392173767
+aabbMin:
+  X: -0.2929779887199402
+  Y: -0.06997500360012054
+  Z: -0.3225890100002289
+bfres: Obj_FlowerPrincess_A
+boundingForTraverse: 1.182515025138855
+bugMask: 3
+cureItemEffectLevel: 3
+cureItemEffectType: Quietness
+cureItemEffectiveTime: 1200
+cureItemHitPointRecover: 0
+cursorOffsetY: 0.10000000149011612
+drops:
+  Normal:
+  - Item_PlantGet_J
+elink: Item_Plant_J
+generalLife: 1
+instSize: 67444
+itemBuyingPrice: 80
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 40
+itemStainColor: 4
+itemUseIconActorName: Item_PlantGet_J
+lookAtOffsetY: 1.100000023841858
+mainModel: Obj_FlowerPrincess_A_01
+name: Item_Plant_J
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+slink: Item_PlantLeaf
+sortKey: 31531
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_PlantGet_J
+tags:
+  tag1f4b9ede: 525049566
+  tag2f0b1b66: 789257062
+  tag55ef2d02: 1441737986
+  tag572de768: 1462626152
+  tag5ad3864c: 1523811916
+  tag682e5129: 1747865897
+  tag7de11d78: 2111905144
+  tag85c817c3: !u 0x85c817c3
+  tag960721f7: !u 0x960721f7
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  taga4a8ba48: !u 0xa4a8ba48
+  tagbbf08f85: !u 0xbbf08f85
+  tagc2ac3213: !u 0xc2ac3213
+  tagd1e37dd4: !u 0xd1e37dd4
+  tagd902a8a2: !u 0xd902a8a2
+  tage0194f30: !u 0xe0194f30
+  tage9411376: !u 0xe9411376
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+traverseDist: 50.0
+yLimitAlgorithm: NoLimit

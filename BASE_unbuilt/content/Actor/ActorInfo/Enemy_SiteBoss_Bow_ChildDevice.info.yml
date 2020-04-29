@@ -1,0 +1,31 @@
+aabbMax:
+  X: 1.101330041885376
+  Y: 0.3933990001678467
+  Z: 0.4058069884777069
+aabbMin:
+  X: -0.7255470156669617
+  Y: -0.3771420121192932
+  Z: -0.39490699768066406
+attackPower: 0
+bfres: Enemy_SiteBoss_Bow_ChildDevice
+boundingForTraverse: 0.7705410122871399
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Enemy_SiteBoss_Bow_ChildDevice
+instSize: 60988
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: Enemy_SiteBoss_Bow_ChildDevice
+profile: Bullet
+slink: SiteBoss_Bow_ChildDevice
+sortKey: -1
+tags:
+  tag4806038d: 1208353677
+  tagb0c0f649: !u 0xb0c0f649
+traverseDist: 500.0
+xlink: SiteBossBowChildDevice
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,6 @@
+- ConditionEntry: Rejection
+  ConditionFile: TipsCommon
+  Interval: None
+  IntervalOption: 0
+  MessageId: FindDungeon_00
+  Priority: Priority_2

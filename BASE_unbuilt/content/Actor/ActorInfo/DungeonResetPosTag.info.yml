@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 4600
+name: DungeonResetPosTag
+profile: SoleTag
+sortKey: 0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,19 @@
+aabbMax:
+  X: 0.4949580132961273
+  Y: 1.0
+  Z: 0.5
+aabbMin:
+  X: -0.5050420165061951
+  Y: 0.0
+  Z: -0.5
+bfres: FldObj_KorokStone_A
+boundingForTraverse: 1.0
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: FldObj_KorokStone_A_01
+name: FldObj_KorokStone_A_01
+profile: MapConstPassive
+sortKey: 4
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

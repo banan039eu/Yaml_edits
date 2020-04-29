@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.20861800014972687
+  Y: 0.9790040254592896
+  Z: 0.22384099662303925
+aabbMin:
+  X: -0.20861800014972687
+  Y: -0.0013549999566748738
+  Z: -0.10809300094842911
+armorDefenceAddLevel: 5
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: ClimbSpeed
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_084_Lower
+armorStarNum: 2
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_014
+boundingForTraverse: 0.9803590178489685
+bugMask: 1
+instSize: 73340
+itemBuyingPrice: 4018
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 605
+itemStainColor: -1
+itemUseIconActorName: Armor_014_Lower
+mainModel: Armor_014_Lower
+name: Armor_083_Lower
+normal0ItemName01: Armor_014_Lower
+normal0ItemName02: Item_Enemy_18
+normal0ItemName03: Item_Mushroom_D
+normal0ItemNum01: 1
+normal0ItemNum02: 3
+normal0ItemNum03: 3
+normal0StuffNum: 3
+profile: ArmorLower
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: Climb
+sortKey: 2923113
+tags:
+  tag1c0c8d23: 470584611
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

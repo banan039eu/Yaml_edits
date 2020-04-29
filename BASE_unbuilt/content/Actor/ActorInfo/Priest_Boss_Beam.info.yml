@@ -1,0 +1,15 @@
+attackPower: 40
+bugMask: 3
+elink: Priest_Boss_Beam
+instSize: 19284
+name: Priest_Boss_Beam
+profile: Beam
+slink: CurseGanonBeam
+sortKey: -7
+tags:
+  tag3a61e2a9: 979493545
+  tag49b834f7: 1236808951
+  tag74831ee0: 1954750176
+  tagfd964809: !u 0xfd964809
+xlink: OnlyThruDamageToObj
+yLimitAlgorithm: NoLimit

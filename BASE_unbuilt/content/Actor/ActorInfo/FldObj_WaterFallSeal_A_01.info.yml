@@ -1,0 +1,19 @@
+aabbMax:
+  X: 29.555500030517578
+  Y: 3.747260093688965
+  Z: 3.747260093688965
+aabbMin:
+  X: -29.710100173950195
+  Y: 0.0
+  Z: 0.0
+bfres: FldObj_WaterFallBottom_A
+boundingForTraverse: 3.747260093688965
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 19940
+mainModel: FldObj_WaterFallSeal_A_01
+name: FldObj_WaterFallSeal_A_01
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

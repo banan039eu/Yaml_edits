@@ -1,0 +1,57 @@
+aabbMax:
+  X: 0.3460870087146759
+  Y: 0.5042949914932251
+  Z: 0.42806100845336914
+aabbMin:
+  X: -0.32145899534225464
+  Y: -0.027851000428199768
+  Z: -0.453343003988266
+bfres: Obj_MashroomUltimate_A
+boundingForTraverse: 0.5321459770202637
+bugMask: 1
+cureItemEffectLevel: 16
+cureItemEffectType: LifeMaxUp
+cureItemHitPointRecover: 12
+cursorOffsetY: 0.3499999940395355
+elink: GetItem
+generalLife: 100
+homeArea:
+- name: HeburaMountains
+- name: HyruleForest
+- name: CentralHyrule
+instSize: 37252
+itemBuyingPrice: 60
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 15
+itemStainColor: 5
+itemUseIconActorName: ''
+mainModel: Obj_MashroomUltimate_A_01
+motorcycleEnergy:
+  add: 50.0
+name: Item_Mushroom_N
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+rigidBodyCenterY: 0.2063080072402954
+sortKey: 31250
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag14185415: 337138709
+  tag682e5129: 1747865897
+  tag7a3964c1: 2050581697
+  tag85c817c3: !u 0x85c817c3
+  tag97418671: !u 0x97418671
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagba0fd800: !u 0xba0fd800
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,10 @@
+bugMask: 3
+elink: AscendingCurrent_FlightTraining
+instSize: 7888
+name: AscendingCurrent_FlightTraining
+profile: SoleTag
+slink: AscendingCurrent_FlightTraining
+sortKey: 0
+traverseDist: 100.0
+xlink: AscendingCurrent
+yLimitAlgorithm: NoLimit

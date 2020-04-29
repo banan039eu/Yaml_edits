@@ -1,0 +1,37 @@
+aabbMax:
+  X: 0.5073040127754211
+  Y: 1.274999976158142
+  Z: 0.50730299949646
+aabbMin:
+  X: -0.50730299949646
+  Y: -0.0075610000640153885
+  Z: -0.50730299949646
+attackPower: 4
+bfres: TwnObj_Village_HatenoPot_A
+boundingForTraverse: 1.28256094455719
+bugMask: 3
+cursorOffsetY: 0.5
+drops:
+  Normal:
+  - Obj_ArrowNormal_A_01
+  - Item_Ore_F
+  - Item_Ore_E
+  - Obj_ArrowBundle_A_01
+  - Obj_BombArrow_A_01
+elink: TwnObj_Village_HatenoPot_A_L_Act_01
+generalLife: 1
+instSize: 43144
+mainModel: TwnObj_Village_HatenoPot_A_L_Act_01
+name: TwnObj_Village_HatenoPot_A_L_Act_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.6976699829101562
+slink: Pot
+sortKey: -13
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag25cd2b4d: 634202957
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagff2ecb67: !u 0xff2ecb67
+yLimitAlgorithm: NoLimit

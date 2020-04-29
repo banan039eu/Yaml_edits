@@ -1,0 +1,24 @@
+aabbMax:
+  X: 4.989960193634033
+  Y: 1.0303000211715698
+  Z: 4.989960193634033
+aabbMin:
+  X: -4.989960193634033
+  Y: -0.5
+  Z: -4.989960193634033
+attackPower: 0
+bfres: DgnObj_RemainsLithogragh_A
+boundingForTraverse: 1.5303000211715698
+bugMask: 3
+elink: Rito_BrosRock_Relief
+generalLife: 100
+instSize: 51028
+mainModel: DgnObj_RemainsLithogragh_A_01
+name: Rito_BrosRock_Relief
+profile: MapConstActive
+rigidBodyCenterY: 0.4419249892234802
+slink: Rito_BrosRock_Relief
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

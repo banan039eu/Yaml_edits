@@ -1,0 +1,14 @@
+attackPower: 0
+bugMask: 1
+generalLife: 100
+instSize: 10740
+name: BGCameraPos
+profile: MapDynamicActive
+sortKey: -7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag336bf311: 862712593
+  tagb54a7a34: !u 0xb54a7a34
+traverseDist: 100000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,19 @@
+aabbMax:
+  X: 2.179719924926758
+  Y: 7.029900074005127
+  Z: 0.7594529986381531
+aabbMin:
+  X: -0.8435360193252563
+  Y: -0.02124599926173687
+  Z: -0.7354879975318909
+bfres: TwnObj_City_Goron_A
+boundingForTraverse: 7.051146984100342
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 70728
+mainModel: TwnObj_City_GoronLight_A_04
+name: TwnObj_City_GoronLight_A_04
+profile: MapConstPassive
+sortKey: 11
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

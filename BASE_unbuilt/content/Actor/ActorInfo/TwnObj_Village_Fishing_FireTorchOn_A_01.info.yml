@@ -1,0 +1,25 @@
+aabbMax:
+  X: 0.425231009721756
+  Y: 3.1671500205993652
+  Z: 0.4241189956665039
+aabbMin:
+  X: -0.40566501021385193
+  Y: 2.1907200813293457
+  Z: -0.4241189956665039
+attackPower: 0
+bfres: TwnObj_Village_Fishing_A
+boundingForTraverse: 0.9764299988746643
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 30560
+mainModel: TwnObj_Village_FishingFireTorch_A_01
+name: TwnObj_Village_Fishing_FireTorchOn_A_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 2.738840103149414
+slink: CandleGround
+sortKey: -8
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

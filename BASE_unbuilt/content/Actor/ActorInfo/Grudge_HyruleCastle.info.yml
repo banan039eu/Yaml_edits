@@ -1,0 +1,11 @@
+bugMask: 0
+elink: Grudge_HyruleCastle
+instSize: 3492
+name: Grudge_HyruleCastle
+profile: EffectLocater
+sortKey: -1
+tags:
+  tag572de768: 1462626152
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 10000.0
+yLimitAlgorithm: NoLimit

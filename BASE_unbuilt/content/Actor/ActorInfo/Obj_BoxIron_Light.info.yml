@@ -1,0 +1,27 @@
+aabbMax:
+  X: 2.0
+  Y: 4.0
+  Z: 2.0
+aabbMin:
+  X: -2.0
+  Y: 0.0
+  Z: -2.0
+attackPower: 0
+bfres: Obj_BoxIron_B
+boundingForTraverse: 4.0
+bugMask: 0
+generalLife: 100
+instSize: 29372
+mainModel: Obj_BoxIron_B_M_01
+name: Obj_BoxIron_Light
+profile: MapDynamicActive
+rigidBodyCenterY: 2.0
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag507efd18: 1350499608
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

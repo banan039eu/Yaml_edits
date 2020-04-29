@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 6492
+name: PointWindSetTag
+profile: Area
+sortKey: 0
+yLimitAlgorithm: NoLimit

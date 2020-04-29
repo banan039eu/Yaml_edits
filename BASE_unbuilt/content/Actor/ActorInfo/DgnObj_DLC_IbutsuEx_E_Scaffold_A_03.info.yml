@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.004999999888241291
+  Y: 4.750579833984375
+  Z: 1.4380099773406982
+aabbMin:
+  X: -0.004999999888241291
+  Y: 4.750579833984375
+  Z: 1.4280099868774414
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuEx_E
+boundingForTraverse: 0.007071000058203936
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 39292
+mainModel: DgnObj_DLC_IbutsuEx_E_Scaffold_A_03
+name: DgnObj_DLC_IbutsuEx_E_Scaffold_A_03
+profile: MapDynamicActive
+rigidBodyCenterY: 6.005740165710449
+sortKey: 85
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag613df80a: 1631451146
+traverseDist: 100.0
+yLimitAlgorithm: NoLimit

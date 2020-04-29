@@ -1,0 +1,27 @@
+aabbMax:
+  X: 1.000980019569397
+  Y: 1.000980019569397
+  Z: 1.000980019569397
+aabbMin:
+  X: -1.000980019569397
+  Y: -1.000980019569397
+  Z: -1.000980019569397
+attackPower: 12
+bfres: DgnObj_SpikeBall_A
+boundingForTraverse: 2.001960039138794
+bugMask: 3
+generalLife: 100
+instSize: 31756
+mainModel: DgnObj_SpikeBall_A_01
+name: DgnObj_SpikeBall_A
+profile: MapDynamicActive
+slink: Dummy_Roll
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdfaad2df: !u 0xdfaad2df
+xlink: OnlyThruDamageToObj
+yLimitAlgorithm: NoLimit

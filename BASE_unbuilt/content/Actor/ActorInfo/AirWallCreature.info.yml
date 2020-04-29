@@ -1,0 +1,10 @@
+baseScaleX: 1.0
+baseScaleY: 3.0
+baseScaleZ: 2.0
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 2344
+name: AirWallCreature
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

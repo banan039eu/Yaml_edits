@@ -1,0 +1,24 @@
+aabbMax:
+  X: 0.34710100293159485
+  Y: 1.7736799716949463
+  Z: 0.6834350228309631
+aabbMin:
+  X: -0.543071985244751
+  Y: -0.020255999639630318
+  Z: -0.21848399937152863
+boundingForTraverse: 1.793934941291809
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: UMii_Hylia_Backpack
+instSize: 660140
+name: Npc_OasisHylia_002
+profile: NPC
+slink: Npc_Hylia_M
+sortKey: -14
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagfeeebd7f: !u 0xfeeebd7f
+traverseDist: 1000.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

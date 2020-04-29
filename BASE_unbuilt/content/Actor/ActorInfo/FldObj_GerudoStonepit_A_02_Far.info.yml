@@ -1,0 +1,22 @@
+aabbMax:
+  X: 6.822780132293701
+  Y: 30.036100387573242
+  Z: 7.125629901885986
+aabbMin:
+  X: -21.18939971923828
+  Y: -30.081600189208984
+  Z: -17.29010009765625
+bfres: FldObj_GerudoStonepit_A_Far
+boundingForTraverse: 60.117698669433594
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18644
+mainModel: FldObj_GerudoStonepit_A_02_Far
+name: FldObj_GerudoStonepit_A_02_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

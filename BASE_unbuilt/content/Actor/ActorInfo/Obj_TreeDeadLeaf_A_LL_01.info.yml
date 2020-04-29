@@ -1,0 +1,29 @@
+aabbMax:
+  X: 8.459389686584473
+  Y: 12.52910041809082
+  Z: 7.103320121765137
+aabbMin:
+  X: -6.228600025177002
+  Y: -4.215710163116455
+  Z: -7.0132598876953125
+attackPower: 0
+bfres: Obj_TreeDeadLeaf_A
+boundingForTraverse: 16.744810104370117
+bugMask: 1
+cursorOffsetY: 0.5
+elink: Obj_TreeDeadLeaf_A_LL_01
+generalLife: 100
+instSize: 74420
+mainModel: Obj_TreeDeadLeaf_A_LL_01
+name: Obj_TreeDeadLeaf_A_LL_01
+profile: MapDynamicPassive
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag48409b2e: 1212193582
+  tag882953b0: !u 0x882953b0
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

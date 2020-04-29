@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.17567099630832672
+  Y: 0.058097999542951584
+  Z: 0.1064160019159317
+aabbMin:
+  X: -0.19432899355888367
+  Y: -0.5835750102996826
+  Z: -0.10564900189638138
+attackPower: 0
+bfres: Obj_EyeBolt_A
+boundingForTraverse: 0.6416730284690857
+bugMask: 1
+generalLife: 100
+instSize: 31900
+mainModel: Obj_EyeBolt_A_01
+name: Obj_EyeBolt_A_01
+profile: MapDynamicActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

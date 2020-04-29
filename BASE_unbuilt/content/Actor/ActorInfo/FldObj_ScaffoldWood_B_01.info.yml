@@ -1,0 +1,19 @@
+aabbMax:
+  X: 23.052499771118164
+  Y: 21.31220054626465
+  Z: 15.32759952545166
+aabbMin:
+  X: -18.195100784301758
+  Y: -2.6317598819732666
+  Z: -25.57110023498535
+bfres: FldObj_ScaffoldWood_B
+boundingForTraverse: 23.943960189819336
+bugMask: 0
+instSize: 80780
+isHasFar: true
+mainModel: FldObj_ScaffoldWood_B_01
+name: FldObj_ScaffoldWood_B_01
+profile: MapConstPassive
+sortKey: 6
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

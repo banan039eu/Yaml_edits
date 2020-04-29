@@ -1,0 +1,18 @@
+aabbMax:
+  X: 0.4868389964103699
+  Y: 3.599260091781616
+  Z: 0.5327600240707397
+aabbMin:
+  X: -0.445279985666275
+  Y: -0.3023119866847992
+  Z: -0.5299829840660095
+bfres: TwnObj_Village_RitoFurniture_A
+boundingForTraverse: 3.9015719890594482
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28184
+mainModel: TwnObj_Village_RitoLight_A_06
+name: TwnObj_Village_RitoLight_A_06
+profile: MapConstPassive
+sortKey: -1
+yLimitAlgorithm: NoLimit

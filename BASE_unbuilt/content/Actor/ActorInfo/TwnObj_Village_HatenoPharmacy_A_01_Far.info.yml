@@ -1,0 +1,22 @@
+aabbMax:
+  X: 12.940099716186523
+  Y: 24.00320053100586
+  Z: 13.322400093078613
+aabbMin:
+  X: -11.638299942016602
+  Y: -0.9059249758720398
+  Z: -10.758899688720703
+bfres: TwnObj_Village_Hateno_A_Far
+boundingForTraverse: 24.90912628173828
+bugMask: 0
+instSize: 249548
+mainModel: TwnObj_Village_HatenoPharmacy_A_01_Far
+name: TwnObj_Village_HatenoPharmacy_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+terrainTextures:
+- 1277102848
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

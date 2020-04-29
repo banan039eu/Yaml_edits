@@ -1,0 +1,18 @@
+aabbMax:
+  X: 1.6632800102233887
+  Y: 1.1083699464797974
+  Z: 1.6253199577331543
+aabbMin:
+  X: -1.633080005645752
+  Y: -7.997129917144775
+  Z: -1.6304399967193604
+bfres: FldObj_KorokWell_A
+boundingForTraverse: 9.105500221252441
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+mainModel: FldObj_KorokWell_A_01
+name: FldObj_KorokWell_A_01
+profile: MapConstPassive
+sortKey: 4
+yLimitAlgorithm: NoLimit

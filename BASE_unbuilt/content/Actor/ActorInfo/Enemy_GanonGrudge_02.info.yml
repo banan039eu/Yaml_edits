@@ -1,0 +1,37 @@
+aabbMax:
+  X: 0.4013670086860657
+  Y: 0.9998859763145447
+  Z: 0.8708900213241577
+aabbMin:
+  X: -0.4023439884185791
+  Y: 0.0015360000543296337
+  Z: -0.6117969751358032
+attackPower: 0
+bfres: Enemy_Lizalfos_Bone
+boundingForTraverse: 0.9983500242233276
+bugMask: 3
+cursorOffsetY: 1.0499999523162842
+elink: Enemy_GanonGrudge_02
+enemyRank: 1
+generalLife: 1
+homeArea:
+- name: CentralHyrule
+- name: ''
+- name: ''
+instSize: 168340
+mainModel: Lizalfos_Bone_Head
+name: Enemy_GanonGrudge_02
+pictureBookLiveSpot1: 21
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+slink: Enemy_GanonGrudge_02
+sortKey: 1602
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag35960905: 899025157
+  tag994aef4b: !u 0x994aef4b
+  tagb0c9e79a: !u 0xb0c9e79a
+traverseDist: 150.0
+yLimitAlgorithm: LimitYDiff

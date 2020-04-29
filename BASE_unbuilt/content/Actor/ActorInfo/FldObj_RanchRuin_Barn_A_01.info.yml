@@ -1,0 +1,19 @@
+aabbMax:
+  X: 4.466179847717285
+  Y: 6.536190032958984
+  Z: 5.2619500160217285
+aabbMin:
+  X: -19.456499099731445
+  Y: -0.625495970249176
+  Z: -22.222200393676758
+bfres: FldObj_RanchRuin_A
+boundingForTraverse: 7.161685943603516
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 50048
+mainModel: FldObj_RanchRuin_Barn_A_01
+name: FldObj_RanchRuin_Barn_A_01
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,28 @@
+aabbMax:
+  X: 3.0
+  Y: 0.024608999490737915
+  Z: 3.0
+aabbMin:
+  X: -3.0
+  Y: -0.7156640291213989
+  Z: -3.0
+attackPower: 0
+bfres: DgnObj_RailLift_A
+boundingForTraverse: 0.7402729988098145
+bugMask: 3
+elink: Lift
+generalLife: 100
+instSize: 79836
+mainModel: DgnObj_Hrl_RailLift_6x6_01
+name: DgnObj_Hrl_RailLift_6x6_01
+profile: MapDynamicActive
+rigidBodyCenterY: -0.43271100521087646
+slink: DgnObj_Hrl_RailLift
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2c608f30: 744525616
+  tag7dd56981: 2111138177
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,23 @@
+aabbMax:
+  X: 9.583700180053711
+  Y: 22.883899688720703
+  Z: 7.311180114746094
+aabbMin:
+  X: -7.5069899559021
+  Y: -4.105100154876709
+  Z: -8.93181037902832
+bfres: Obj_RockYellow_A_Far
+boundingForTraverse: 26.98900032043457
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18292
+mainModel: Obj_RockSetYellow_A_L_01_Far
+name: Obj_RockSetYellow_A_L_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff3e
+yLimitAlgorithm: NoLimit

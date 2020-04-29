@@ -1,0 +1,29 @@
+aabbMax:
+  X: 2.2822699546813965
+  Y: 8.818559646606445
+  Z: 1.0846999883651733
+aabbMin:
+  X: -2.3896899223327637
+  Y: -0.2350749969482422
+  Z: -1.0846999883651733
+attackPower: 0
+bfres: FldObj_BrosRock_A
+boundingForTraverse: 9.053634643554688
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Bros_Rock_04
+generalLife: 100
+instSize: 39128
+isHasFar: true
+mainModel: FldObj_BrosRock_A_04
+name: Bros_Rock_04
+profile: MapConstActive
+rigidBodyCenterY: 3.6687700748443604
+slink: Bros_Rock_04
+sortKey: -3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+terrainTextures:
+- !u 0xffff1e12
+traverseDist: 505.15106201171875
+yLimitAlgorithm: NoLimit

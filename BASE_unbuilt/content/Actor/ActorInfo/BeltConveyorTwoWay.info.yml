@@ -1,0 +1,25 @@
+aabbMax:
+  X: 6.0
+  Y: 0.0
+  Z: 3.5253899097442627
+aabbMin:
+  X: -6.0
+  Y: -1.0
+  Z: -3.5351600646972656
+attackPower: 0
+bfres: DgnObj_BeltConveyor_A
+boundingForTraverse: 1.0
+bugMask: 3
+generalLife: 100
+instSize: 71488
+mainModel: DgnObj_BeltConveyor_A_01
+name: BeltConveyorTwoWay
+profile: MapDynamicActive
+rigidBodyCenterY: -0.25
+slink: BeltConveyorTwoWay
+sortKey: 10
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

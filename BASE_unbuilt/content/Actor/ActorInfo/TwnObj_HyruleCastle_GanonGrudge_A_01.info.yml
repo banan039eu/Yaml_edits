@@ -1,0 +1,24 @@
+aabbMax:
+  X: 74.19300079345703
+  Y: 151.45799255371094
+  Z: 108.63800048828125
+aabbMin:
+  X: -93.22650146484375
+  Y: -35.04079818725586
+  Z: -31.954599380493164
+bfres: TwnObj_HyruleCastle_A
+boundingForTraverse: 186.49879455566406
+bugMask: 0
+cursorOffsetY: 0.5
+elink: TwnObj_HyruleCastle_GanonGrudge_A_01
+instSize: 20600
+isHasFar: true
+mainModel: TwnObj_HyruleCastle_GanonGrudge_A_01
+name: TwnObj_HyruleCastle_GanonGrudge_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 400.0
+yLimitAlgorithm: NoLimit

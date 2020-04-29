@@ -1,0 +1,10 @@
+bugMask: 3
+instSize: 6308
+name: SoundProxyDungeonMoveTag_StandLiftFar
+profile: SoundProxy
+slink: SoundProxyDungeonMoveTag_StandLiftFar
+sortKey: -3
+tags:
+  tagc5b7c123: !u 0xc5b7c123
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

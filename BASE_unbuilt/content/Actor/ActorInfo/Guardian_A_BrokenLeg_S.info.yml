@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.3063960075378418
+  Y: 0.37304699420928955
+  Z: 0.4743649959564209
+aabbMin:
+  X: -2.984380006790161
+  Y: -0.497314989566803
+  Z: -0.4743649959564209
+attackPower: 0
+bfres: Enemy_Guardian_A
+boundingForTraverse: 0.8703619837760925
+bugMask: 2
+elink: Guardian_A_BrokenLeg
+enemyRank: 0
+generalLife: 100
+instSize: 28612
+mainModel: Guardian_A_Leg_S
+name: Guardian_A_BrokenLeg_S
+profile: GuardianComponent
+slink: Guardian_A_BrokenLeg_S
+sortKey: 10909
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag17044493: 386155667
+  tag4806038d: 1208353677
+xlink: Guardian_A_BrokenLeg
+yLimitAlgorithm: NoLimit

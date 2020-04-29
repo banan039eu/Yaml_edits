@@ -1,0 +1,28 @@
+aabbMax:
+  X: 1.5021400451660156
+  Y: 1.7190699577331543
+  Z: 1.2514899969100952
+aabbMin:
+  X: -1.4626400470733643
+  Y: -0.31913501024246216
+  Z: -1.140089988708496
+attackPower: 4
+bfres: FldObj_FenceWoodDamage_A
+boundingForTraverse: 2.96478009223938
+bugMask: 3
+elink: FldObj_FenceWoodDamage_A_01
+generalLife: 40
+instSize: 69580
+mainModel: FldObj_FenceWoodDamage_A_01
+name: FldObj_FenceWoodDamage_A_01_NearEnemy
+profile: MapDynamicActive
+rigidBodyCenterY: 0.6512330174446106
+slink: Obj_ShieldFenceWood_A_M
+sortKey: 6
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagdfaad2df: !u 0xdfaad2df
+  tagff53ef86: !u 0xff53ef86
+xlink: OnlyThruDamageToObj
+yLimitAlgorithm: NoLimit

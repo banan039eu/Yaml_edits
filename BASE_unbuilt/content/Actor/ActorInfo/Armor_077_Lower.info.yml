@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.19433599710464478
+  Y: 0.9428709745407104
+  Z: 0.21017199754714966
+aabbMin:
+  X: -0.19433599710464478
+  Y: 0.00044999999227002263
+  Z: -0.10564299672842026
+armorDefenceAddLevel: 6
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: Quietness
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_078_Lower
+armorStarNum: 3
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_012
+boundingForTraverse: 0.942421019077301
+bugMask: 1
+instSize: 35948
+itemBuyingPrice: 642
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 160
+itemStainColor: -1
+itemUseIconActorName: Armor_012_Lower
+mainModel: Armor_012_Lower
+name: Armor_077_Lower
+normal0ItemName01: Armor_042_Lower
+normal0ItemName02: Item_PlantGet_I
+normal0ItemName03: Animal_Insect_E
+normal0ItemNum01: 1
+normal0ItemNum02: 5
+normal0ItemNum03: 5
+normal0StuffNum: 3
+profile: ArmorLower
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: Sheikah
+sortKey: 2623082
+tags:
+  tag1c0c8d23: 470584611
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

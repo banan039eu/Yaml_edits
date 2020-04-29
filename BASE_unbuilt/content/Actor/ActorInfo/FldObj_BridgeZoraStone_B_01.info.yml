@@ -1,0 +1,21 @@
+aabbMax:
+  X: 5.132919788360596
+  Y: 4.317969799041748
+  Z: 18.401599884033203
+aabbMin:
+  X: -5.129730224609375
+  Y: -4.24576997756958
+  Z: -18.429899215698242
+bfres: FldObj_BridgeZoraStone_B
+boundingForTraverse: 8.563739776611328
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 86604
+mainModel: FldObj_BridgeZoraStone_B_01
+name: FldObj_BridgeZoraStone_B_01
+profile: MapConstPassive
+sortKey: 3
+terrainTextures:
+- !u 0xffffff2c
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

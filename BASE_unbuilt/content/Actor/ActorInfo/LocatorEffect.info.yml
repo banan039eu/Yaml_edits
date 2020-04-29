@@ -1,0 +1,7 @@
+bugMask: 0
+elink: LocatorEffect
+instSize: 3152
+name: LocatorEffect
+profile: ActorReaction
+sortKey: 0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,19 @@
+aabbMax:
+  X: 2.0197999477386475
+  Y: 0.8464930057525635
+  Z: 1.9937599897384644
+aabbMin:
+  X: -2.0043299198150635
+  Y: -0.30000001192092896
+  Z: -1.9702999591827393
+bfres: DgnObj_WallCrack_B
+boundingForTraverse: 1.1464929580688477
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 27608
+mainModel: DgnObj_WallCrack_B_02
+name: DgnObj_WallCrack_B_02
+profile: MapConstPassive
+sortKey: -39
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

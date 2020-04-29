@@ -1,0 +1,17 @@
+bugMask: 1
+drops:
+  Amiibo: 1
+  Normal:
+  - Item_Fruit_A
+  - Item_Fruit_K
+  Normal2:
+  - Obj_ArrowNormal_A_01
+  - Obj_ArrowBundle_A_02
+  - Obj_ArrowBundle_A_01
+instSize: 7068
+name: TreasureLocaterKibako
+profile: GameBlanceLocater
+sortKey: 1
+tags:
+  tagff53ef86: !u 0xff53ef86
+yLimitAlgorithm: NoLimit

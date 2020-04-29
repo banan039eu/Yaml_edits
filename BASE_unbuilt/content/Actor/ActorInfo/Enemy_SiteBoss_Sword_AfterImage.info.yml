@@ -1,0 +1,28 @@
+aabbMax:
+  X: 2.292249917984009
+  Y: 1.6197799444198608
+  Z: 1.928670048713684
+aabbMin:
+  X: -3.878999948501587
+  Y: -1.126479983329773
+  Z: -0.4396969974040985
+attackPower: 0
+bfres: Enemy_SiteBoss_Sword
+boundingForTraverse: 2.746259927749634
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Enemy_SiteBoss_Sword_AfterImage
+instSize: 163456
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: Enemy_SiteBoss_Sword_AfterImage
+profile: Bullet
+slink: SiteBoss_Sword_AfterImage
+sortKey: -1
+traverseDist: 100000.0
+xlink: SiteBoss
+yLimitAlgorithm: NoLimit

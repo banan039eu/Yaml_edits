@@ -1,0 +1,22 @@
+aabbMax:
+  X: 0.9572070240974426
+  Y: 0.38266199827194214
+  Z: 0.907368004322052
+aabbMin:
+  X: -0.9076060056686401
+  Y: -0.019345000386238098
+  Z: -0.982807993888855
+bfres: FldObj_RockOrange_A
+boundingForTraverse: 0.40200701355934143
+bugMask: 0
+instSize: 17140
+mainModel: FldObj_RockOrange_A_S_03
+name: FldObj_RockOrange_A_S_03
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag932d2d91: !u 0x932d2d91
+  tag977b149c: !u 0x977b149c
+terrainTextures:
+- !u 0xffffff15
+yLimitAlgorithm: NoLimit

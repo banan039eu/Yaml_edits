@@ -1,0 +1,22 @@
+aabbMax:
+  X: 138.08799743652344
+  Y: 50.56079864501953
+  Z: 11.10159969329834
+aabbMin:
+  X: -2.1769800186157227
+  Y: -0.5000190138816833
+  Z: -132.02699279785156
+bfres: FldObj_HugeMaze_A
+boundingForTraverse: 51.06081771850586
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 279544
+isHasFar: true
+mainModel: FldObj_HugeMazeWall_C_02
+name: FldObj_HugeMazeWall_C_02
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffffff08
+traverseDist: 700.3997802734375
+yLimitAlgorithm: NoLimit

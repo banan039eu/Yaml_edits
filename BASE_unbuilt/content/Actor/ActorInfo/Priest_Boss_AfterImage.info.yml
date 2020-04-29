@@ -1,0 +1,31 @@
+aabbMax:
+  X: 1.2753900289535522
+  Y: 3.16552996635437
+  Z: 0.7531219720840454
+aabbMin:
+  X: -1.2753900289535522
+  Y: -0.001832999987527728
+  Z: -0.7151399850845337
+attackPower: 0
+bfres: Priest_Boss_Normal
+boundingForTraverse: 3.167362928390503
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Priest_Boss_AfterImage
+instSize: 183788
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Priest_Boss_Normal
+name: Priest_Boss_AfterImage
+profile: Bullet
+slink: Priest_Boss_AfterImage
+sortKey: -1
+tags:
+  tag49b834f7: 1236808951
+traverseDist: 99999.0
+xlink: Assassin
+yLimitAlgorithm: NoLimit

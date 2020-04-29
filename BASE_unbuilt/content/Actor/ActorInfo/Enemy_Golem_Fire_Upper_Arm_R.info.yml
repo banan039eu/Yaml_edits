@@ -1,0 +1,31 @@
+aabbMax:
+  X: 1.2755600214004517
+  Y: 1.1401000022888184
+  Z: 1.2880699634552002
+aabbMin:
+  X: -1.2755600214004517
+  Y: -1.1401000022888184
+  Z: -1.2880699634552002
+attackPower: 8
+bfres: Enemy_Golem_Fire
+boundingForTraverse: 2.2802000045776367
+bugMask: 3
+elink: GolemPartFire
+instSize: 40208
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Golem_Arm_1_R_Rock_Fire
+name: Enemy_Golem_Fire_Upper_Arm_R
+profile: Bullet
+slink: Enemy_Golem_Upper_Arm_R
+sortKey: -1
+tags:
+  tag2bc52291: 734339729
+terrainTextures:
+- !u 0xffffff32
+xlink: Enemy_Golem_Arm
+yLimitAlgorithm: NoLimit

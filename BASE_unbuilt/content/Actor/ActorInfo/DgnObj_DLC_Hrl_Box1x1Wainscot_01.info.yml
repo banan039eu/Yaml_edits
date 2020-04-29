@@ -1,0 +1,23 @@
+aabbMax:
+  X: 0.6195160150527954
+  Y: 0.8999999761581421
+  Z: 0.6763929724693298
+aabbMin:
+  X: -0.6195160150527954
+  Y: 0.0
+  Z: 0.37690699100494385
+attackPower: 0
+bfres: DgnObj_DLC_Hrl_BoxParts_A
+boundingForTraverse: 0.8999999761581421
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 36272
+mainModel: DgnObj_DLC_Hrl_Box1x1Wainscot_01
+name: DgnObj_DLC_Hrl_Box1x1Wainscot_01
+profile: MapConstActive
+sortKey: -7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

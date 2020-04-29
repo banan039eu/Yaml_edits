@@ -1,0 +1,24 @@
+aabbMax:
+  X: 1.0048799514770508
+  Y: 0.7143549919128418
+  Z: 0.5522459745407104
+aabbMin:
+  X: -1.0048799514770508
+  Y: -0.03207400068640709
+  Z: -0.6528319716453552
+bfres: Item_Parastole2
+boundingForTraverse: 0.7464290261268616
+bugMask: 1
+elink: PlayerStole2
+generalLife: 100
+instSize: 26548
+mainModel: Item_Parastole2
+name: Dm_PlayerStole2
+profile: DemoNPC
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag4ccbef03: 1288433411
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

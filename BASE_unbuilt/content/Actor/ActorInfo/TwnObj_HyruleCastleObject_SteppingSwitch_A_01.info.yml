@@ -1,0 +1,27 @@
+aabbMax:
+  X: 1.3222700357437134
+  Y: 0.329912006855011
+  Z: 1.3222700357437134
+aabbMin:
+  X: -1.3222700357437134
+  Y: -0.10001999884843826
+  Z: -1.3222700357437134
+attackPower: 0
+bfres: TwnObj_HyruleCastleInside_TrainingRoom_A
+boundingForTraverse: 0.42993199825286865
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 28792
+mainModel: TwnObj_HyruleCastleObject_SteppingSwitch_A_01
+name: TwnObj_HyruleCastleObject_SteppingSwitch_A_01
+profile: MapDynamicActive
+slink: SwitchStepAnalog
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

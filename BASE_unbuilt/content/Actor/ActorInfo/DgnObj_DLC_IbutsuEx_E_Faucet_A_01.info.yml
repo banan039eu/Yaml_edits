@@ -1,0 +1,30 @@
+aabbMax:
+  X: 1.2931400537490845
+  Y: 1.8169000148773193
+  Z: 1.2931400537490845
+aabbMin:
+  X: -1.2931400537490845
+  Y: -1.8652199506759644
+  Z: -1.2931499481201172
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuEx_E
+boundingForTraverse: 3.6821200847625732
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 42428
+mainModel: DgnObj_DLC_IbutsuEx_E_Faucet_A_01
+name: DgnObj_DLC_IbutsuEx_E_Faucet_A_01
+profile: MapDynamicActive
+slink: SwitchGear
+sortKey: 86
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tag0fee9a49: 267295305
+  tag84f40ec6: !u 0x84f40ec6
+  tag8fda6cdd: !u 0x8fda6cdd
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,8 @@
+bugMask: 1
+instSize: 6464
+name: EnemyFortressMgrTag
+profile: ComplexTag
+sortKey: 0
+tags:
+  tag0f0e1c23: 252582947
+yLimitAlgorithm: NoLimit

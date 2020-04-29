@@ -1,0 +1,18 @@
+aabbMax:
+  X: 0.5040000081062317
+  Y: 0.2626799941062927
+  Z: 0.3808879852294922
+aabbMin:
+  X: -0.5040000081062317
+  Y: 0.0
+  Z: -0.3808879852294922
+bfres: Obj_TravelersGuardianDeityPlane_A
+boundingForTraverse: 0.2626799941062927
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: Obj_TravelersGuardianDeityPlane_A_01
+name: Obj_KorokPlate_A_01
+profile: MapConstPassive
+sortKey: -33
+yLimitAlgorithm: NoLimit

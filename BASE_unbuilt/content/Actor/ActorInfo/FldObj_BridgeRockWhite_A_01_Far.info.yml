@@ -1,0 +1,24 @@
+aabbMax:
+  X: 5.170619964599609
+  Y: 0.38180699944496155
+  Z: 23.468000411987305
+aabbMin:
+  X: -4.782060146331787
+  Y: -14.806699752807617
+  Z: -24.812400817871094
+bfres: FldObj_BridgeRockWhite_A_Far
+boundingForTraverse: 15.188507080078125
+bugMask: 0
+instSize: 27608
+mainModel: FldObj_BridgeRockWhite_A_01_Far
+name: FldObj_BridgeRockWhite_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- 522064384
+- !u 0xffffff4c
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

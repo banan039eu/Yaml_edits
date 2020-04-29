@@ -1,0 +1,35 @@
+aabbMax:
+  X: 4.35552978515625
+  Y: 9.014019966125488
+  Z: 5.172689914703369
+aabbMin:
+  X: -4.9636101722717285
+  Y: 0.5598220229148865
+  Z: -4.147850036621094
+attackPower: 0
+bfres: Obj_RockDeathMt_A
+boundingForTraverse: 8.454197883605957
+bugMask: 2
+cursorOffsetY: 0.5
+elink: FldObj_BreakableRockDeathMT_A_02
+farModelCulling:
+  center:
+    X: 0.0
+    Y: 4.599999904632568
+    Z: 0.0
+  height: 4.599999904632568
+  radius: 5.800000190734863
+generalLife: 1
+instSize: 72368
+mainModel: Obj_RockBreakable_A_02
+name: FldObj_BreakableRockDeathMT_A_02
+profile: MapDynamicActive
+rigidBodyCenterY: 4.31141996383667
+slink: BreakableWallRockFar
+sortKey: -10
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagdeb2c8bd: !u 0xdeb2c8bd
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

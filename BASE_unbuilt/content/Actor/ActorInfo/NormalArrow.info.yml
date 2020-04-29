@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.054326001554727554
+  Y: 0.04704499989748001
+  Z: 0.860929012298584
+aabbMin:
+  X: -0.027852000668644905
+  Y: -0.04705100134015083
+  Z: -0.0855880007147789
+arrowArrowDeletePer: 30
+arrowArrowNum: 1
+arrowDeleteTime: -1
+arrowDeleteTimeWithChemical: 150
+arrowEnemyShootNumForDelete: 8
+attackPower: 0
+bfres: Weapon_Arrow_001
+boundingForTraverse: 0.09409599751234055
+bugMask: 3
+cursorOffsetY: 0.20000000298023224
+elink: NormalArrow
+homeArea:
+- name: CentralHyrule
+- name: EldinCanyon
+- name: GerudoHighlands
+instSize: 50112
+itemBuyingPrice: 5
+itemCreatingPrice: -1
+itemSaleRevivalCount: 50
+itemSellingPrice: 1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Arrow_001
+name: NormalArrow
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Bullet
+slink: Arrow
+sortKey: 14600
+tags:
+  tag0fee9a49: 267295305
+  tag19f6c13a: 435601722
+  tag2755f107: 659943687
+  tag2cef9fdc: 753901532
+  tag336bf311: 862712593
+  tag80e484a4: !u 0x80e484a4
+  tag9b44906f: !u 0x9b44906f
+  tage0194f30: !u 0xe0194f30
+xlink: Weapon
+yLimitAlgorithm: NoLimit

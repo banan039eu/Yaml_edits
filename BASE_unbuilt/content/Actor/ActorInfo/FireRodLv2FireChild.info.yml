@@ -1,0 +1,15 @@
+attackPower: 24
+bugMask: 3
+elink: FlameBallLv2
+instSize: 16228
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: FireRodLv2FireChild
+profile: Bullet
+slink: FlameBall
+sortKey: -6
+yLimitAlgorithm: NoLimit

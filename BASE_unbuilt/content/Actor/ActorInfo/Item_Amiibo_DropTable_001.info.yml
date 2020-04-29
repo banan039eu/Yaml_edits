@@ -1,0 +1,9 @@
+bugMask: 1
+drops:
+  Normal:
+  - Barrel
+instSize: 8196
+name: Item_Amiibo_DropTable_001
+profile: System
+sortKey: -10
+yLimitAlgorithm: NoLimit

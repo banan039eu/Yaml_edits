@@ -1,0 +1,22 @@
+aabbMax:
+  X: 7.288119792938232
+  Y: 5.262129783630371
+  Z: 8.219989776611328
+aabbMin:
+  X: -7.284140110015869
+  Y: -0.5
+  Z: -3.2330400943756104
+bfres: TwnObj_Village_Hateno_A
+boundingForTraverse: 5.762129783630371
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 188532
+isHasFar: true
+mainModel: TwnObj_Village_HatenoKitchen_A_01
+name: TwnObj_Village_HatenoKitchen_A_01
+profile: MapConstPassive
+sortKey: 4
+terrainTextures:
+- !u 0xff4c1f00
+traverseDist: 518.5343627929688
+yLimitAlgorithm: NoLimit

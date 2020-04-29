@@ -1,0 +1,27 @@
+aabbMax:
+  X: 1.3808599710464478
+  Y: 2.2929399013519287
+  Z: 0.4720990061759949
+aabbMin:
+  X: -1.3808599710464478
+  Y: -0.004604999907314777
+  Z: -0.6855069994926453
+bfres: Npc_Rito_Hero_Low
+boundingForTraverse: 2.2975449562072754
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Dm_Npc_Rito_HeroSoul_Kago
+generalLife: 100
+instSize: 140056
+mainModel: Npc_Rito_Hero_Low
+name: Dm_Npc_Rito_HeroSoul_Kago
+profile: DemoNPC
+slink: Dm_Npc_Rito_HeroSoul_Kago
+sortKey: -19
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+  tagc28d054e: !u 0xc28d054e
+  tagc5b7c123: !u 0xc5b7c123
+yLimitAlgorithm: NoLimit

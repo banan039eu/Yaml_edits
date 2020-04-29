@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 5084
+name: SoundReverbAreaTag
+profile: AreaManagementForPlayer
+sortKey: 0
+yLimitAlgorithm: NoLimit

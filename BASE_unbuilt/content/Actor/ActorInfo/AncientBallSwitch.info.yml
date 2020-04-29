@@ -1,0 +1,23 @@
+aabbMax:
+  X: 4.176239967346191
+  Y: 4.0
+  Z: 4.176219940185547
+aabbMin:
+  X: -4.1768999099731445
+  Y: 0.0
+  Z: -4.176400184631348
+attackPower: 0
+bfres: DgnObj_AncientBallSwitch_A
+boundingForTraverse: 4.0
+bugMask: 3
+generalLife: 100
+instSize: 108748
+mainModel: DgnObj_AncientBallSwitch_A_01
+name: AncientBallSwitch
+profile: MapConstActive
+rigidBodyCenterY: 1.9559299945831299
+slink: AncientBallSwitch
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

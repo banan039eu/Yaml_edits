@@ -1,0 +1,22 @@
+aabbMax:
+  X: 5.372759819030762
+  Y: 9.067070007324219
+  Z: 5.665219783782959
+aabbMin:
+  X: -3.4910900592803955
+  Y: -12.51830005645752
+  Z: -3.678950071334839
+bfres: Npc_Fairy_Protection_000
+boundingForTraverse: 21.585369110107422
+bugMask: 3
+elink: Npc_DressFairy_00
+instSize: 258888
+mainModel: Npc_Fairy_Protection_000
+name: Npc_DressFairy_00
+profile: NPC
+slink: Npc_DressFairy_00
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

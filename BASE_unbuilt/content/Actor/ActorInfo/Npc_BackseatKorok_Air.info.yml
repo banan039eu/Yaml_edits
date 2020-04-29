@@ -1,0 +1,20 @@
+aabbMax:
+  X: 0.2903349995613098
+  Y: 1.1995999813079834
+  Z: 0.5974040031433105
+aabbMin:
+  X: -0.2900890111923218
+  Y: -0.001986999996006489
+  Z: -0.17333999276161194
+boundingForTraverse: 1.2015869617462158
+bugMask: 1
+cursorOffsetY: 0.6000000238418579
+instSize: 110192
+name: Npc_BackseatKorok_Air
+profile: NPC
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag74831ee0: 1954750176
+yLimitAlgorithm: NoLimit

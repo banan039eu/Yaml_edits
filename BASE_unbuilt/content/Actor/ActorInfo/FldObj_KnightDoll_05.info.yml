@@ -1,0 +1,19 @@
+aabbMax:
+  X: 0.980767011642456
+  Y: 0.8551179766654968
+  Z: 1.8507499694824219
+aabbMin:
+  X: -0.980767011642456
+  Y: 0.0
+  Z: -1.8507499694824219
+bfres: FldObj_KnightDoll_A
+boundingForTraverse: 0.8551179766654968
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 30040
+mainModel: FldObj_KnightDollMark_A_05
+name: FldObj_KnightDoll_05
+profile: MapConstPassive
+sortKey: -7
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

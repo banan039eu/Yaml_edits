@@ -1,0 +1,28 @@
+aabbMax:
+  X: 2.486299991607666
+  Y: 2.5
+  Z: 2.47268009185791
+aabbMin:
+  X: -2.4319698810577393
+  Y: -2.5
+  Z: -2.47268009185791
+attackPower: 0
+bfres: DgnObj_StoneBall_A
+boundingForTraverse: 5.0
+bugMask: 2
+elink: StoneBall
+generalLife: 100
+instSize: 30876
+mainModel: DgnObj_StoneBallL_01
+name: StoneBall
+profile: MapDynamicActive
+slink: StoneBall
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag507efd18: 1350499608
+  tag6a7a4c11: 1786399761
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

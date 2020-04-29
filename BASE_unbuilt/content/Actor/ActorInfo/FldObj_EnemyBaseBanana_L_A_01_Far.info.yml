@@ -1,0 +1,25 @@
+aabbMax:
+  X: 27.763900756835938
+  Y: 28.61829948425293
+  Z: 18.45159912109375
+aabbMin:
+  X: -14.995800018310547
+  Y: -2.879319906234741
+  Z: -25.916500091552734
+attackPower: 0
+bfres: FldObj_EnemyBaseBanana_A_Far
+boundingForTraverse: 31.49761962890625
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 105988
+mainModel: FldObj_EnemyBaseBanana_L_A_01_Far
+name: FldObj_EnemyBaseBanana_L_A_01_Far
+profile: MapConstActive
+rigidBodyCenterY: 9.016670227050781
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

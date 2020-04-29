@@ -1,0 +1,26 @@
+aabbMax:
+  X: 21.25
+  Y: 4.976560115814209
+  Z: 21.031299591064453
+aabbMin:
+  X: -21.859399795532227
+  Y: -16.177099227905273
+  Z: -19.734399795532227
+attackPower: 0
+bfres: TwnObj_GanonCocoon_A
+boundingForTraverse: 21.15365982055664
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 103028
+mainModel: TwnObj_GanonCocoonBreak_A_01
+name: TwnObj_GanonCocoonBreak_A_01
+profile: MapDynamicActive
+sortKey: 10
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,19 @@
+aabbMax:
+  X: 4.090350151062012
+  Y: 2.361569881439209
+  Z: 4.049310207366943
+aabbMin:
+  X: -4.090350151062012
+  Y: -0.01820399984717369
+  Z: -4.090350151062012
+bfres: FldObj_HyruleFountain_A
+boundingForTraverse: 2.3797740936279297
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 61280
+mainModel: FldObj_HyruleFountain_A_01
+name: FldObj_HyruleFountain_A_01
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

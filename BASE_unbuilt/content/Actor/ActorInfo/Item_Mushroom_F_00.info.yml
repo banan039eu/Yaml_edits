@@ -1,0 +1,32 @@
+aabbMax:
+  X: 0.22741399705410004
+  Y: 0.39248600602149963
+  Z: 0.2438109964132309
+aabbMin:
+  X: -0.22162799537181854
+  Y: 0.0026740001048892736
+  Z: -0.22841200232505798
+bfres: Obj_MashroomMax_A
+boundingForTraverse: 0.38981199264526367
+bugMask: 1
+cursorOffsetY: 0.30000001192092896
+elink: GetItem
+generalLife: 100
+instSize: 37188
+itemBuyingPrice: 24
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 6
+itemStainColor: 5
+itemUseIconActorName: ''
+mainModel: Obj_MashroomMax_A_01
+name: Item_Mushroom_F_00
+profile: Item
+rigidBodyCenterY: 0.19178299605846405
+sortKey: 31240
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag653623d0: 1698046928
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

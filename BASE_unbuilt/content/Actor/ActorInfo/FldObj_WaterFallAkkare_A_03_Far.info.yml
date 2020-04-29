@@ -1,0 +1,23 @@
+aabbMax:
+  X: 24.912200927734375
+  Y: 0.1397709995508194
+  Z: 10.059900283813477
+aabbMin:
+  X: -24.33810043334961
+  Y: -137.1020050048828
+  Z: -30.75950050354004
+bfres: FldObj_WaterFallAkkare_A_Far
+boundingForTraverse: 137.2417755126953
+bugMask: 0
+cursorOffsetY: 0.5
+elink: FldObj_WaterFallAkkare_A_03
+instSize: 21252
+mainModel: FldObj_WaterFallAkkare_A_03_Far
+name: FldObj_WaterFallAkkare_A_03_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+  tag57fd54ce: 1476220110
+traverseDist: 4000.0
+yLimitAlgorithm: NoLimit

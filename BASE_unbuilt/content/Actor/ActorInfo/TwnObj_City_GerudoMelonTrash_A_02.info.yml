@@ -1,0 +1,18 @@
+aabbMax:
+  X: 1.457800030708313
+  Y: 0.40142300724983215
+  Z: 0.771714985370636
+aabbMin:
+  X: -1.887529969215393
+  Y: -0.14342300593852997
+  Z: -0.8715810179710388
+bfres: TwnObj_City_GerudoFurniture_A
+boundingForTraverse: 0.5448459982872009
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 27608
+mainModel: TwnObj_City_GerudoMelonTrash_A_02
+name: TwnObj_City_GerudoMelonTrash_A_02
+profile: MapConstPassive
+sortKey: 6
+yLimitAlgorithm: NoLimit

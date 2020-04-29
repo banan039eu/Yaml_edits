@@ -1,0 +1,51 @@
+aabbMax:
+  X: 1.7205400466918945
+  Y: 0.25459998846054077
+  Z: 0.5936729907989502
+aabbMin:
+  X: -1.7205400466918945
+  Y: -0.5043950080871582
+  Z: -0.7436519861221313
+attackPower: 0
+bfres: Animal_Hawk
+boundingForTraverse: 0.758994996547699
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+drops:
+  Normal:
+  - Item_Meat_07
+elink: Animal_Hawk_A
+enemyRank: 0
+generalLife: 1
+homeArea:
+- name: CentralHyrule
+- name: HyruleHill
+- name: GerudoHighlands
+instSize: 64628
+invalidTimes:
+- Night_A
+- Night_B
+invalidWeathers:
+- HeavyRain
+- Snow
+- HeavySnow
+- ThunderRain
+mainModel: Hawk
+name: Animal_Hawk_A
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+slink: Animal_Hawk_A
+sortKey: 29060
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag077ca9cb: 125610443
+  tag24cd75fe: 617444862
+  tag2aab5f92: 715874194
+  tag74831ee0: 1954750176
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagac9f717f: !u 0xac9f717f
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

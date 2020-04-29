@@ -1,0 +1,24 @@
+aabbMax:
+  X: 38.979000091552734
+  Y: 6.012340068817139
+  Z: 30.532800674438477
+aabbMin:
+  X: -29.497299194335938
+  Y: -22.9689998626709
+  Z: -34.42649841308594
+bfres: FldObj_RockBeach_A
+boundingForTraverse: 28.981340408325195
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28760
+isHasFar: true
+mainModel: FldObj_RockBeachWall_A_05
+name: FldObj_RockBeachWall_A_05
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff57
+traverseDist: 594.385986328125
+yLimitAlgorithm: NoLimit

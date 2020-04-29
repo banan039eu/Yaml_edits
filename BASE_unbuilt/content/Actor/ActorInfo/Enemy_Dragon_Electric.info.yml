@@ -1,0 +1,39 @@
+aabbMax:
+  X: 14.054800033569336
+  Y: 25.95240020751953
+  Z: 15.752400398254395
+aabbMin:
+  X: -13.005000114440918
+  Y: -6.858419895172119
+  Z: -31.456199645996094
+bfres: Enemy_Dragon
+boundingForTraverse: 32.810821533203125
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Enemy_Dragon
+enemyRank: 0
+generalLife: 100
+homeArea:
+- name: CentralHyrule
+- name: TabantaFrontier
+- name: EldinMountains
+instSize: 914636
+isHasFar: true
+mainModel: Enemy_Dragon
+name: Enemy_Dragon_Electric
+pictureBookLiveSpot1: 32
+pictureBookLiveSpot2: 33
+pictureBookSpecialDrop: 26
+profile: Dragon
+rigidBodyCenterY: -2.0
+slink: Dragon_Normal
+sortKey: 1502
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag36565b66: 911629158
+  tag994aef4b: !u 0x994aef4b
+  tagb54a7a34: !u 0xb54a7a34
+traverseDist: 500.0
+xlink: Enemy_Dragon
+yLimitAlgorithm: NoLimit

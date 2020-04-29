@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.6201390027999878
+  Y: 1.453029990196228
+  Z: 0.43768200278282166
+aabbMin:
+  X: -0.6201390027999878
+  Y: -0.002240000059828162
+  Z: -0.4905279874801636
+attackPower: 0
+bfres: Obj_TouchTerminal_A
+boundingForTraverse: 1.4552700519561768
+bugMask: 3
+elink: DgnObj_EntranceTerminal_A_01
+generalLife: 100
+instSize: 50112
+lookAtOffsetY: 0.4000000059604645
+mainModel: Obj_TouchTerminal_A_01
+name: DgnObj_EntranceTerminal_A_01
+profile: MapConstActive
+rigidBodyCenterY: 0.601610004901886
+slink: DgnObj_EntranceTerminal
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag28a3a540: 681813312
+yLimitAlgorithm: NoLimit

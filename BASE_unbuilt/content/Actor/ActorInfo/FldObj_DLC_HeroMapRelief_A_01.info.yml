@@ -1,0 +1,30 @@
+aabbMax:
+  X: 5.153510093688965
+  Y: 5.911509990692139
+  Z: 4.013649940490723
+aabbMin:
+  X: -5.4545698165893555
+  Y: -1.8758399486541748
+  Z: -5.886050224304199
+attackPower: 0
+bfres: FldObj_DLC_HeroMapRelief_A
+boundingForTraverse: 7.787350177764893
+bugMask: 3
+cursorOffsetY: 0.5
+elink: FldObj_DLC_HeroMapRelief_A_01
+generalLife: 1
+instSize: 138116
+mainModel: FldObj_DLC_HeroMapRelief_A_01
+name: FldObj_DLC_HeroMapRelief_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 1.1394799947738647
+slink: FldObj_DLC_HeroMapRelief_A_01
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2a2d0822: 707594274
+  tag6308f367: 1661530983
+  tagef748738: !u 0xef748738
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

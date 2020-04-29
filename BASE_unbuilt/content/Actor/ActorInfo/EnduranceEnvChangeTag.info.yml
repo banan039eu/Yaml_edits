@@ -1,0 +1,10 @@
+bugMask: 1
+instSize: 2412
+name: EnduranceEnvChangeTag
+profile: ComplexTag
+sortKey: -4
+tags:
+  tag03528579: 55739769
+  tag6e0b6262: 1846239842
+  tagc5b7c123: !u 0xc5b7c123
+yLimitAlgorithm: NoLimit

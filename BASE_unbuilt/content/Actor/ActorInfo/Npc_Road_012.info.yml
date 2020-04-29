@@ -1,0 +1,38 @@
+aabbMax:
+  X: 0.4320659935474396
+  Y: 2.386660099029541
+  Z: 0.7299330234527588
+aabbMin:
+  X: -0.5373290181159973
+  Y: -0.0014230000087991357
+  Z: -0.17998799681663513
+boundingForTraverse: 2.388082981109619
+bugMask: 3
+cursorOffsetY: 0.4000000059604645
+elink: UMii_Gerudo_W_BackPack
+instSize: 453356
+name: Npc_Road_012
+profile: NPC
+slink: Npc_Gerudo_W
+sortKey: -6
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+travelerAppearGameDataName: FirstTouchdown
+travelerDeleteGameDataName: ''
+travelerRideHorseName: ''
+travelerRoutePoint0Name: DesertGerudo_RLP01
+travelerRoutePoint1Name: DesertGerudo_JCT07
+travelerRoutePoint2Name: DesertGerudo_JCT06
+travelerRoutePoint3Name: DesertGerudo_JCT05
+travelerRoutePoint4Name: DesertGerudo_JCT04
+travelerRoutePoint5Name: C7_JCT_21
+travelerRoutePoint6Name: C7_JCT_20
+travelerRoutePoint7Name: DesertGerudo_JCT09
+travelerRoutePoint8Name: C7_JCT_01
+travelerRoutePoint9Name: C7_GOAL_01
+travelerRouteType: ''
+traverseDist: 200.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

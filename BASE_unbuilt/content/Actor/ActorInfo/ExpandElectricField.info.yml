@@ -1,0 +1,14 @@
+attackPower: 0
+bugMask: 1
+elink: ExpandElectricField_Chuchu
+instSize: 13432
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: ExpandElectricField
+profile: Bullet
+sortKey: 0
+yLimitAlgorithm: NoLimit

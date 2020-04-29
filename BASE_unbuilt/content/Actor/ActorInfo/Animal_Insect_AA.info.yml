@@ -1,0 +1,65 @@
+aabbMax:
+  X: 0.1769780069589615
+  Y: 0.17055000364780426
+  Z: 0.25536298751831055
+aabbMin:
+  X: -0.17647899687290192
+  Y: -0.0002629999944474548
+  Z: -0.23668600618839264
+bfres: Animal_Beetle_Gold
+boundingForTraverse: 0.17081299424171448
+bugMask: 3
+cureItemEffectLevel: 6
+cureItemEffectType: GutsRecover
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 0
+cursorOffsetY: 0.23000000417232513
+elink: Insect
+generalLife: 1
+homeArea:
+- name: TamulPlateau
+- name: WestHateru
+- name: TamulOutback
+instSize: 66200
+invalidTimes:
+- Morning_B
+- Noon_A
+- Noon_B
+- Evening_A
+invalidWeathers:
+- HeavyRain
+- HeavySnow
+- ThunderRain
+itemBuyingPrice: 150
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 30
+itemStainColor: 3
+itemUseIconActorName: ''
+mainModel: Beetle_Gold
+motorcycleEnergy:
+  add: 25.0
+name: Animal_Insect_AA
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: CapturedActor
+slink: Animal_Insect_Beetle
+sortKey: 35110
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag09731e0d: 158539277
+  tag24cd75fe: 617444862
+  tag5ad0d068: 1523634280
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagac9f717f: !u 0xac9f717f
+  tagb5dc29d8: !u 0xb5dc29d8
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagf535e420: !u 0xf535e420
+xlink: TinyInsect
+yLimitAlgorithm: NoLimit

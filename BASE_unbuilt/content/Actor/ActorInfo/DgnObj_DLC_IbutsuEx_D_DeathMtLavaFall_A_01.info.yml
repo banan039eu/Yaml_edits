@@ -1,0 +1,21 @@
+aabbMax:
+  X: 18.006900787353516
+  Y: 7.5015997886657715
+  Z: 11.030699729919434
+aabbMin:
+  X: -17.563800811767578
+  Y: -0.42681199312210083
+  Z: -11.38029956817627
+bfres: DgnObj_DLC_IbutsuEx_D
+boundingForTraverse: 7.928411960601807
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 32680
+mainModel: DgnObj_DLC_IbutsuEx_D_DeathMtLavaFall_A_01
+name: DgnObj_DLC_IbutsuEx_D_DeathMtLavaFall_A_01
+profile: MapConstPassive
+sortKey: 34
+tags:
+  tag86e61f3c: !u 0x86e61f3c
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

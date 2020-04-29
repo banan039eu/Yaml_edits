@@ -1,0 +1,396 @@
+!io
+version: 0
+type: aglmf
+param_root: !list
+  objects:
+    mf_root_param: !obj {result_sampler_linear: true}
+  lists:
+    reduce: !list
+      objects: {}
+      lists:
+        reduce_0: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              offset_adjust: 0.0
+              reduce_scale: 2
+          lists: {}
+        reduce_1: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              offset_adjust: 0.0
+              reduce_scale: 2
+          lists: {}
+        reduce_2: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              offset_adjust: 0.0
+              reduce_scale: 2
+          lists: {}
+        reduce_3: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              offset_adjust: 0.0
+              reduce_scale: 2
+          lists: {}
+    expand: !list
+      objects: {}
+      lists:
+        expand_0: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              offset_adjust: 0.0
+              reduce_scale: 2
+          lists: {}
+        expand_1: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              offset_adjust: 0.0
+              reduce_scale: 2
+          lists: {}
+        expand_2: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              offset_adjust: 0.0
+              reduce_scale: 2
+          lists: {}
+        expand_3: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              offset_adjust: 0.0
+              reduce_scale: 2
+          lists: {}
+    blur: !list
+      objects: {}
+      lists:
+        blur_0: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              blur_type: 4
+              blur_num: 1
+              gaussian_kernel: 9
+          lists: {}
+        blur_1: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              blur_type: 4
+              blur_num: 1
+              gaussian_kernel: 9
+          lists: {}
+        blur_2: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              blur_type: 4
+              blur_num: 1
+              gaussian_kernel: 9
+          lists: {}
+        blur_3: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              blur_type: 4
+              blur_num: 1
+              gaussian_kernel: 9
+          lists: {}
+    color_correction: !list
+      objects: {}
+      lists:
+        color_correction_0: !list
+          objects:
+            param_array: !obj {enable: false, active: false, save_index: -1}
+          lists:
+            color_correction: !list
+              objects:
+                color_correction: !obj
+                  enable: true
+                  hue: 0.0
+                  saturation: 1.0
+                  brightness: 1.0
+                  gamma: 1.0
+                  toycam_enable: false
+                  toycam_offset1: !color [0.0, 0.0, 0.0, 1.0]
+                  toycam_offset2: !color [0.0, 0.0, 0.0, 1.0]
+                  toycam_level1: !color [1.0, 1.0, 1.0, 1.0]
+                  toycam_level2: !color [1.0, 1.0, 1.0, 1.0]
+                  toycam_saturation1: 1.0
+                  toycam_saturation2: 1.0
+                  toycam_brightness: 1.0
+                  toycam_contrast: 1.0
+                  toycam_mul_color: !color [1.0, 1.0, 1.0, 1.0]
+                  level: !curve [9, 7, 0.0, 0.0, 0.5, 0.5, 0.5, 0.5, 1.0, 1.0, 0.5,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 9, 7, 0.0, 0.0, 0.5, 0.5,
+                    0.5, 0.5, 1.0, 1.0, 0.5, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    9, 7, 0.0, 0.0, 0.5, 0.5, 0.5, 0.5, 1.0, 1.0, 0.5, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 9, 7, 0.0, 0.0, 0.5, 0.5, 0.5, 0.5, 1.0,
+                    1.0, 0.5, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+              lists: {}
+        color_correction_1: !list
+          objects:
+            param_array: !obj {enable: false, active: false, save_index: -1}
+          lists:
+            color_correction: !list
+              objects:
+                color_correction: !obj
+                  enable: true
+                  hue: 0.0
+                  saturation: 1.0
+                  brightness: 1.0
+                  gamma: 1.0
+                  toycam_enable: false
+                  toycam_offset1: !color [0.0, 0.0, 0.0, 1.0]
+                  toycam_offset2: !color [0.0, 0.0, 0.0, 1.0]
+                  toycam_level1: !color [1.0, 1.0, 1.0, 1.0]
+                  toycam_level2: !color [1.0, 1.0, 1.0, 1.0]
+                  toycam_saturation1: 1.0
+                  toycam_saturation2: 1.0
+                  toycam_brightness: 1.0
+                  toycam_contrast: 1.0
+                  toycam_mul_color: !color [1.0, 1.0, 1.0, 1.0]
+                  level: !curve [9, 7, 0.0, 0.0, 0.5, 0.5, 0.5, 0.5, 1.0, 1.0, 0.5,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 9, 7, 0.0, 0.0, 0.5, 0.5,
+                    0.5, 0.5, 1.0, 1.0, 0.5, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    9, 7, 0.0, 0.0, 0.5, 0.5, 0.5, 0.5, 1.0, 1.0, 0.5, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 9, 7, 0.0, 0.0, 0.5, 0.5, 0.5, 0.5, 1.0,
+                    1.0, 0.5, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+              lists: {}
+        color_correction_2: !list
+          objects:
+            param_array: !obj {enable: false, active: false, save_index: -1}
+          lists:
+            color_correction: !list
+              objects:
+                color_correction: !obj
+                  enable: true
+                  hue: 0.0
+                  saturation: 1.0
+                  brightness: 1.0
+                  gamma: 1.0
+                  toycam_enable: false
+                  toycam_offset1: !color [0.0, 0.0, 0.0, 1.0]
+                  toycam_offset2: !color [0.0, 0.0, 0.0, 1.0]
+                  toycam_level1: !color [1.0, 1.0, 1.0, 1.0]
+                  toycam_level2: !color [1.0, 1.0, 1.0, 1.0]
+                  toycam_saturation1: 1.0
+                  toycam_saturation2: 1.0
+                  toycam_brightness: 1.0
+                  toycam_contrast: 1.0
+                  toycam_mul_color: !color [1.0, 1.0, 1.0, 1.0]
+                  level: !curve [9, 7, 0.0, 0.0, 0.5, 0.5, 0.5, 0.5, 1.0, 1.0, 0.5,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 9, 7, 0.0, 0.0, 0.5, 0.5,
+                    0.5, 0.5, 1.0, 1.0, 0.5, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    9, 7, 0.0, 0.0, 0.5, 0.5, 0.5, 0.5, 1.0, 1.0, 0.5, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 9, 7, 0.0, 0.0, 0.5, 0.5, 0.5, 0.5, 1.0,
+                    1.0, 0.5, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+              lists: {}
+        color_correction_3: !list
+          objects:
+            param_array: !obj {enable: false, active: false, save_index: -1}
+          lists:
+            color_correction: !list
+              objects:
+                color_correction: !obj
+                  enable: true
+                  hue: 0.0
+                  saturation: 1.0
+                  brightness: 1.0
+                  gamma: 1.0
+                  toycam_enable: false
+                  toycam_offset1: !color [0.0, 0.0, 0.0, 1.0]
+                  toycam_offset2: !color [0.0, 0.0, 0.0, 1.0]
+                  toycam_level1: !color [1.0, 1.0, 1.0, 1.0]
+                  toycam_level2: !color [1.0, 1.0, 1.0, 1.0]
+                  toycam_saturation1: 1.0
+                  toycam_saturation2: 1.0
+                  toycam_brightness: 1.0
+                  toycam_contrast: 1.0
+                  toycam_mul_color: !color [1.0, 1.0, 1.0, 1.0]
+                  level: !curve [9, 7, 0.0, 0.0, 0.5, 0.5, 0.5, 0.5, 1.0, 1.0, 0.5,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 9, 7, 0.0, 0.0, 0.5, 0.5,
+                    0.5, 0.5, 1.0, 1.0, 0.5, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    9, 7, 0.0, 0.0, 0.5, 0.5, 0.5, 0.5, 1.0, 1.0, 0.5, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 9, 7, 0.0, 0.0, 0.5, 0.5, 0.5, 0.5, 1.0,
+                    1.0, 0.5, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+                    1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+              lists: {}
+    change_format: !list
+      objects: {}
+      lists:
+        change_format_0: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              format: 4
+              comp_sel_r: 0
+              comp_sel_g: 1
+              comp_sel_b: 2
+              comp_sel_a: 5
+          lists: {}
+        change_format_1: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              format: 4
+              comp_sel_r: 0
+              comp_sel_g: 1
+              comp_sel_b: 2
+              comp_sel_a: 5
+          lists: {}
+        change_format_2: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              format: 4
+              comp_sel_r: 0
+              comp_sel_g: 1
+              comp_sel_b: 2
+              comp_sel_a: 5
+          lists: {}
+        change_format_3: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              format: 4
+              comp_sel_r: 0
+              comp_sel_g: 1
+              comp_sel_b: 2
+              comp_sel_a: 5
+          lists: {}
+    color_drift: !list
+      objects: {}
+      lists:
+        color_drift_0: !list
+          objects:
+            param_array: !obj
+              enable: true
+              active: true
+              save_index: 0
+              drift_r: !vec2 [0.0, -0.4]
+              drift_g: !vec2 [0.0, 0.4]
+              drift_b: !vec2 [0.0, 0.0]
+          lists: {}
+        color_drift_1: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              drift_r: !vec2 [0.0, 0.0]
+              drift_g: !vec2 [0.0, 0.0]
+              drift_b: !vec2 [0.0, 0.0]
+          lists: {}
+        color_drift_2: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              drift_r: !vec2 [0.0, 0.0]
+              drift_g: !vec2 [0.0, 0.0]
+              drift_b: !vec2 [0.0, 0.0]
+          lists: {}
+        color_drift_3: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              drift_r: !vec2 [0.0, 0.0]
+              drift_g: !vec2 [0.0, 0.0]
+              drift_b: !vec2 [0.0, 0.0]
+          lists: {}
+    trimming: !list
+      objects: {}
+      lists:
+        trimming_0: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              trim_center: !vec2 [0.0, 0.0]
+              trim_scale: !vec2 [0.5, 0.5]
+          lists: {}
+        trimming_1: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              trim_center: !vec2 [0.0, 0.0]
+              trim_scale: !vec2 [0.5, 0.5]
+          lists: {}
+        trimming_2: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              trim_center: !vec2 [0.0, 0.0]
+              trim_scale: !vec2 [0.5, 0.5]
+          lists: {}
+        trimming_3: !list
+          objects:
+            param_array: !obj
+              enable: false
+              active: false
+              save_index: -1
+              trim_center: !vec2 [0.0, 0.0]
+              trim_scale: !vec2 [0.5, 0.5]
+          lists: {}

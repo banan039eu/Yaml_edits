@@ -1,0 +1,21 @@
+aabbMax:
+  X: 19.014699935913086
+  Y: 32.37670135498047
+  Z: 14.0871000289917
+aabbMin:
+  X: -13.423199653625488
+  Y: -0.6139389872550964
+  Z: -13.327500343322754
+bfres: TwnObj_StableHostel_A_Far
+boundingForTraverse: 32.990638732910156
+bugMask: 0
+instSize: 233380
+mainModel: TwnObj_StableHostel_A_01_Far
+name: TwnObj_StableHostel_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

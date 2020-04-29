@@ -1,0 +1,22 @@
+aabbMax:
+  X: 30.38089942932129
+  Y: 12.39210033416748
+  Z: 75.04830169677734
+aabbMin:
+  X: -23.366600036621094
+  Y: -37.23849868774414
+  Z: -44.82590103149414
+bfres: FldObj_BridgeSheikerOutskirts_A_Far
+boundingForTraverse: 49.63059997558594
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 187984
+mainModel: FldObj_BridgeSheikerOutskirts_A_01_Far
+name: FldObj_BridgeSheikerOutskirts_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+terrainTextures:
+- !u 0xffffff10
+yLimitAlgorithm: NoLimit

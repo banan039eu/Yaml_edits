@@ -1,0 +1,43 @@
+aabbMax:
+  X: 0.60658198595047
+  Y: 2.150130033493042
+  Z: 1.0184999704360962
+aabbMin:
+  X: -0.4749230146408081
+  Y: -0.0025420000310987234
+  Z: -0.46254798769950867
+attackPower: 0
+bfres: Enemy_Assassin_Soldier
+boundingForTraverse: 2.1526730060577393
+bugMask: 3
+cursorOffsetY: 0.8999999761581421
+drops:
+  Normal:
+  - Item_Fruit_H
+  Normal2:
+  - PutRupee
+  - PutRupee_Blue
+  - PutRupee_Red
+  - PutRupee_Purple
+elink: Assassin
+enemyRank: 12
+generalLife: 72
+instSize: 250560
+name: Enemy_Assassin_Junior_Npc_001
+pictureBookLiveSpot1: 21
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+slink: Assassin_Junior
+sortKey: 2268
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_Assassin_Junior
+tags:
+  tag35960905: 899025157
+  tag994aef4b: !u 0x994aef4b
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagd679f846: !u 0xd679f846
+  tagf2e5b2f2: !u 0xf2e5b2f2
+traverseDist: 150.0
+xlink: Assassin
+yLimitAlgorithm: LimitYDiff

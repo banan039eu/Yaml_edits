@@ -1,0 +1,33 @@
+aabbMax:
+  X: 2.023099899291992
+  Y: 3.5755300521850586
+  Z: 1.257889986038208
+aabbMin:
+  X: -0.629173994064331
+  Y: -0.0996989980340004
+  Z: -1.088170051574707
+attackPower: 0
+bfres: Obj_TreeUmeTree_A
+boundingForTraverse: 3.675229072570801
+bugMask: 2
+cursorOffsetY: 0.5
+elink: Obj_TreeUmeTree_A_01
+generalLife: 100
+instSize: 34836
+mainModel: Obj_TreeUmeTree_A_01
+name: Obj_TreeUmeTree_A_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.7760469913482666
+slink: Tree_Bush
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag572de768: 1462626152
+  tag9adf6fdd: !u 0x9adf6fdd
+  taga40dd51c: !u 0xa40dd51c
+  tage91ea5f6: !u 0xe91ea5f6
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

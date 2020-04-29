@@ -1,0 +1,23 @@
+aabbMax:
+  X: 3.6864500045776367
+  Y: 3.5020599365234375
+  Z: 0.8305659890174866
+aabbMin:
+  X: -3.539139986038208
+  Y: -3.7123498916625977
+  Z: -2.1072099208831787
+attackPower: 0
+bfres: Obj_RingParachute_A
+boundingForTraverse: 7.214409828186035
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 24008
+mainModel: Obj_RingParachute_A_01
+name: Obj_RingParachute_A_01
+profile: MapConstActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

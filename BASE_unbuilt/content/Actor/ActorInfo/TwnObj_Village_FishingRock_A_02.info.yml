@@ -1,0 +1,22 @@
+aabbMax:
+  X: 16.197900772094727
+  Y: 3.2918701171875
+  Z: 4.2718000411987305
+aabbMin:
+  X: -5.816090106964111
+  Y: -3.870539903640747
+  Z: -14.838600158691406
+bfres: TwnObj_Village_Fishing_A
+boundingForTraverse: 7.162409782409668
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+isHasFar: true
+mainModel: TwnObj_Village_FishingRock_A_02
+name: TwnObj_Village_FishingRock_A_02
+profile: MapConstPassive
+sortKey: 1
+terrainTextures:
+- !u 0xffff1d11
+traverseDist: 529.1517333984375
+yLimitAlgorithm: NoLimit

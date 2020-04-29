@@ -1,0 +1,33 @@
+aabbMax:
+  X: 0.49175599217414856
+  Y: 2.651170015335083
+  Z: 2.109790086746216
+aabbMin:
+  X: -0.4820849895477295
+  Y: -0.008542000316083431
+  Z: -1.073889970779419
+attackPower: 0
+bfres: Horse_Link
+boundingForTraverse: 2.659712076187134
+bugMask: 3
+elink: Animal_Donkey_B
+enemyRank: 0
+generalLife: 100
+instSize: 253712
+lookAtOffsetY: 0.10000000149011612
+mainModel: Horse_Link
+name: Animal_Horse_A
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+slink: Horse_A
+sortKey: 28120
+systemIsGetItemSelf: false
+systemSameGroupActorName: GameRomHorse
+tags:
+  tag24cd75fe: 617444862
+  tag5e3171bc: 1580298684
+  tagfa5c683e: !u 0xfa5c683e
+xlink: Quadruped_Animal
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,28 @@
+aabbMax:
+  X: 15.0
+  Y: 15.0
+  Z: 10.0
+aabbMin:
+  X: -15.0
+  Y: -15.0
+  Z: -20.0
+attackPower: 0
+bfres: DgnObj_RemainsClearTerminalBody_A
+boundingForTraverse: 30.0
+bugMask: 3
+cursorOffsetY: 0.5
+elink: DgnObj_RemainsClearTerminalBody_A_01
+generalLife: 100
+instSize: 88552
+mainModel: DgnObj_RemainsClearTerminalBody_A_01
+name: DgnObj_RemainsClearTerminalBody_A_01
+profile: MapConstActive
+rigidBodyCenterY: 5.036509990692139
+slink: DgnObj_RemainsClearTerminalBody_A_01
+sortKey: -7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

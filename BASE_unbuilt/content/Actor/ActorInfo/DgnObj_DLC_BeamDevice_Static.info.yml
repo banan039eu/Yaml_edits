@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.8994140028953552
+  Y: 1.1512500047683716
+  Z: 0.8966799974441528
+aabbMin:
+  X: -0.8969730138778687
+  Y: -0.02843800000846386
+  Z: -0.8962889909744263
+attackPower: 8
+bfres: DgnObj_Beamos_A
+boundingForTraverse: 1.1796879768371582
+bugMask: 1
+cursorOffsetY: 0.5
+elink: Beamos
+generalLife: 1000
+instSize: 40444
+mainModel: DgnObj_Beamos_A_01
+name: DgnObj_DLC_BeamDevice_Static
+profile: MapDynamicActive
+rigidBodyCenterY: 0.43987399339675903
+sortKey: -56
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

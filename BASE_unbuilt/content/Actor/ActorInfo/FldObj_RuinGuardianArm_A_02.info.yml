@@ -1,0 +1,22 @@
+aabbMax:
+  X: 7.734640121459961
+  Y: 0.7437779903411865
+  Z: 0.6471989750862122
+aabbMin:
+  X: -0.43975400924682617
+  Y: -0.6056039929389954
+  Z: -1.0486400127410889
+bfres: FldObj_RuinGuardian_A
+boundingForTraverse: 1.3493820428848267
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28312
+mainModel: FldObj_RuinGuardianArm_A_02
+name: FldObj_RuinGuardianArm_A_02
+profile: MapConstPassive
+sortKey: -2
+tags:
+  tag0d23ee8c: 220458636
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 215.0
+yLimitAlgorithm: NoLimit

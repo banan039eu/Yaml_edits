@@ -1,0 +1,16 @@
+attackPower: 4
+bugMask: 3
+elink: DgnObj_FirePillar_C_01
+generalLife: 100
+instSize: 17612
+name: DgnObj_FirePillar_C_01
+profile: MapDynamicActive
+slink: DgnObj_FirePillarOnOff
+sortKey: 12
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag42b3ee7e: 1119088254
+traverseDist: 99999.0
+xlink: FirePillar
+yLimitAlgorithm: NoLimit

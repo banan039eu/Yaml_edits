@@ -1,0 +1,15 @@
+attackPower: 24
+bugMask: 3
+elink: ThunderBallLv2
+instSize: 16196
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: ThunderRodLv2ThunderChild
+profile: Bullet
+slink: ThunderBall
+sortKey: -3
+yLimitAlgorithm: NoLimit

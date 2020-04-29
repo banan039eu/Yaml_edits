@@ -1,0 +1,43 @@
+aabbMax:
+  X: 0.23876799643039703
+  Y: 1.9882800579071045
+  Z: 0.3837890028953552
+aabbMin:
+  X: -0.2387630045413971
+  Y: 1.3994100093841553
+  Z: -0.19567899405956268
+armorDefenceAddLevel: 3
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_055
+boundingForTraverse: 0.5888699889183044
+bugMask: 3
+instSize: 47500
+itemBuyingPrice: 120
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 29
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_055_Head
+monsterShopBuyMamo: 299
+monsterShopSellMamo: 0
+name: Armor_055_Head
+profile: ArmorHead
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: Lizalfos
+slink: Armor_Head_SpecialLizalfos
+sortKey: 3921530
+tags:
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,28 @@
+aabbMax:
+  X: 4.268589973449707
+  Y: 0.28832298517227173
+  Z: 2.149470090866089
+aabbMin:
+  X: -4.172490119934082
+  Y: -0.18065300583839417
+  Z: -2.0840799808502197
+attackPower: 0
+bfres: DgnObj_BoardWood_B
+boundingForTraverse: 0.4689759910106659
+bugMask: 2
+elink: DgnObj_BoardWood_A
+generalLife: 40
+instSize: 32156
+mainModel: DgnObj_BoardWood_B_01
+name: DgnObj_BoardWood_A
+profile: MapDynamicActive
+rigidBodyCenterY: 0.15000000596046448
+slink: DgnObj_BoardWood_A
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag507efd18: 1350499608
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

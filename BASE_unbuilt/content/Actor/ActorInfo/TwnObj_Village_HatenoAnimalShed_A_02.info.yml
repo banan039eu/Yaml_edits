@@ -1,0 +1,22 @@
+aabbMax:
+  X: 5.258969783782959
+  Y: 6.291069984436035
+  Z: 5.194310188293457
+aabbMin:
+  X: -5.258969783782959
+  Y: 0.0
+  Z: -5.194310188293457
+bfres: TwnObj_Village_Hateno_A
+boundingForTraverse: 6.291069984436035
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 80972
+isHasFar: true
+mainModel: TwnObj_Village_HatenoAnimalShed_A_02
+name: TwnObj_Village_HatenoAnimalShed_A_02
+profile: MapConstPassive
+sortKey: -2
+terrainTextures:
+- !u 0xffffff18
+traverseDist: 514.783447265625
+yLimitAlgorithm: NoLimit

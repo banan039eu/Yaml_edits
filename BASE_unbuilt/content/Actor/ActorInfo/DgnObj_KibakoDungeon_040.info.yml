@@ -1,0 +1,29 @@
+aabbMax:
+  X: 1.034999966621399
+  Y: 2.009999990463257
+  Z: 0.9900000095367432
+aabbMin:
+  X: -1.0446699857711792
+  Y: -0.019999999552965164
+  Z: -0.9900000095367432
+attackPower: 0
+bfres: DgnObj_BoxWood_A
+boundingForTraverse: 2.0299999713897705
+bugMask: 3
+elink: KibakoDungeon
+generalLife: 40
+instSize: 35084
+mainModel: DgnObj_BoxWood_A_01
+name: DgnObj_KibakoDungeon_040
+profile: MapDynamicActive
+rigidBodyCenterY: 1.0
+slink: KibakoDungeon_040
+sortKey: -6
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0ba4a61e: 195339806
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagd369c30f: !u 0xd369c30f
+yLimitAlgorithm: NoLimit

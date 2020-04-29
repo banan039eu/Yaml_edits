@@ -1,0 +1,46 @@
+aabbMax:
+  X: 0.3512150049209595
+  Y: 1.7713199853897095
+  Z: 0.6834350228309631
+aabbMin:
+  X: -0.543071985244751
+  Y: -0.00292899995110929
+  Z: -0.21848399937152863
+boundingForTraverse: 1.7742489576339722
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: UMii_Hylia_Backpack
+instSize: 583372
+name: Npc_Road_044
+profile: NPC
+slink: Npc_Hylia_M
+sortKey: 3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+travelerAppearGameDataName: FirstTouchdown
+travelerDeleteGameDataName: ''
+travelerRideHorseName: ''
+travelerRoutePoint0Name: I3_GOAL_31
+travelerRoutePoint10Name: J3_JCT_00
+travelerRoutePoint11Name: J3_JCT_01
+travelerRoutePoint12Name: J3_RD_01
+travelerRoutePoint13Name: J3_JCT_02
+travelerRoutePoint14Name: J3_JCT_30
+travelerRoutePoint15Name: J3_JCT_31
+travelerRoutePoint16Name: J3_JCT_22
+travelerRoutePoint17Name: J3_GOAL_22
+travelerRoutePoint1Name: I3_JCT_31
+travelerRoutePoint2Name: I3_JCT_10
+travelerRoutePoint3Name: I3_JCT_11
+travelerRoutePoint4Name: I3_JCT_12
+travelerRoutePoint5Name: I3_RD_10
+travelerRoutePoint6Name: I3_RD_11
+travelerRoutePoint7Name: I3_RD_12
+travelerRoutePoint8Name: I3_RD_13
+travelerRoutePoint9Name: J3_RD_00
+travelerRouteType: ''
+traverseDist: 200.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

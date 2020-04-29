@@ -1,0 +1,19 @@
+aabbMax:
+  X: 2.2482900619506836
+  Y: 0.7857549786567688
+  Z: 0.10820099711418152
+aabbMin:
+  X: -2.2482900619506836
+  Y: -0.1352590024471283
+  Z: -1.4662799835205078
+bfres: FldObj_ScaffoldWoodBreak_B
+boundingForTraverse: 0.9210140109062195
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 27608
+mainModel: FldObj_ScaffoldWoodBreak_B_BoneStairs_01
+name: FldObj_ScaffoldWoodBreak_B_BoneStairs_01
+profile: MapConstPassive
+sortKey: -7
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

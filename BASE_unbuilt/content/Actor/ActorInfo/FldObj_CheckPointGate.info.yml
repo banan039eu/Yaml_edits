@@ -1,0 +1,24 @@
+aabbMax:
+  X: 12.953100204467773
+  Y: 56.09379959106445
+  Z: 2.771480083465576
+aabbMin:
+  X: -12.58590030670166
+  Y: -3.765630006790161
+  Z: -2.867189884185791
+attackPower: 0
+bfres: FldObj_SunazarashiRace_A
+boundingForTraverse: 59.85942840576172
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 72464
+mainModel: FldObj_RaceCheckPointGate_A_01
+name: FldObj_CheckPointGate
+profile: MapDynamicActive
+rigidBodyCenterY: 0.7219390273094177
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

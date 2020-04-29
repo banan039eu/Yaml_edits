@@ -1,0 +1,20 @@
+aabbMax:
+  X: 13.734199523925781
+  Y: 18.624799728393555
+  Z: 4.850460052490234
+aabbMin:
+  X: -13.734199523925781
+  Y: -18.624799728393555
+  Z: -4.850460052490234
+bfres: FldObj_BokoFortress_A
+boundingForTraverse: 37.24959945678711
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 19476
+isHasFar: true
+mainModel: FldObj_WallBokoFortress_A_01
+name: FldObj_WallBokoFortress_A_01
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 529.131103515625
+yLimitAlgorithm: NoLimit

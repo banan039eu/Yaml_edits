@@ -1,0 +1,18 @@
+aabbMax:
+  X: 1.364989995956421
+  Y: 0.36114901304244995
+  Z: 1.233139991760254
+aabbMin:
+  X: -0.42779698967933655
+  Y: -0.02681799978017807
+  Z: -1.785290002822876
+bfres: TwnObj_City_GoronFurniture_A
+boundingForTraverse: 0.38796699047088623
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 27608
+mainModel: TwnObj_City_GoronToy_A_02
+name: TwnObj_City_GoronToy_A_02
+profile: MapConstPassive
+sortKey: 1
+yLimitAlgorithm: NoLimit

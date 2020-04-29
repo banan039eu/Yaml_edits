@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 2356
+name: PlayerSetComebackPositionTag
+profile: AreaManagementForPlayer
+sortKey: 0
+yLimitAlgorithm: NoLimit

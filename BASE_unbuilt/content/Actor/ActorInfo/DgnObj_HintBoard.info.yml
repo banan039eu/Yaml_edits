@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.9311490058898926
+  Y: 1.7016199827194214
+  Z: 0.40623700618743896
+aabbMin:
+  X: -0.8188509941101074
+  Y: 0.0
+  Z: -0.46544700860977173
+attackPower: 0
+bfres: DgnObj_HintBoard_A
+boundingForTraverse: 1.7016199827194214
+bugMask: 1
+generalLife: 1
+instSize: 32064
+mainModel: DgnObj_HintBoard_A_01
+name: DgnObj_HintBoard
+profile: MapConstActive
+rigidBodyCenterY: 0.800000011920929
+sortKey: -13
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2a2d0822: 707594274
+  tagcab53f3d: !u 0xcab53f3d
+  tagef748738: !u 0xef748738
+yLimitAlgorithm: NoLimit

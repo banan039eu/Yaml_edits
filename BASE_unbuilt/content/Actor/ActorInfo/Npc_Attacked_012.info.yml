@@ -1,0 +1,29 @@
+aabbMax:
+  X: 0.36484700441360474
+  Y: 1.8130500316619873
+  Z: 0.6834350228309631
+aabbMin:
+  X: -0.543071985244751
+  Y: -0.0015259999781847
+  Z: -0.21848399937152863
+boundingForTraverse: 1.8145760297775269
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: UMii_Hylia_Backpack
+instSize: 599324
+name: Npc_Attacked_012
+profile: NPC
+slink: Npc_Hylia_M
+sortKey: 2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag207cbce1: 545045729
+  tagf92947a1: !u 0xf92947a1
+travelerAppearGameDataName: ''
+travelerDeleteGameDataName: ''
+travelerRideHorseName: ''
+travelerRouteType: ''
+traverseDist: 200.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

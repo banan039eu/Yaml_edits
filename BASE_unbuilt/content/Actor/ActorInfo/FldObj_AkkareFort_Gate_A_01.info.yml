@@ -1,0 +1,20 @@
+aabbMax:
+  X: 31.045299530029297
+  Y: 60.12220001220703
+  Z: 3.034759998321533
+aabbMin:
+  X: -31.06730079650879
+  Y: -0.10527800023555756
+  Z: -18.169300079345703
+bfres: FldObj_AkkareFort_A
+boundingForTraverse: 60.22747802734375
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 141312
+isHasFar: true
+mainModel: FldObj_AkkareFort_Gate_A_01
+name: FldObj_AkkareFort_Gate_A_01
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 565.6322021484375
+yLimitAlgorithm: NoLimit

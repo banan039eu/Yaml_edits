@@ -1,0 +1,8 @@
+bugMask: 1
+instSize: 4344
+name: AirWallHorseExceptMotorcycle
+profile: NoCalcActor
+sortKey: 0
+tags:
+  tag8548144d: !u 0x8548144d
+yLimitAlgorithm: NoLimit

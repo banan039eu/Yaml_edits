@@ -1,0 +1,52 @@
+aabbMax:
+  X: 10.08240032196045
+  Y: 8.806610107421875
+  Z: 6.080619812011719
+aabbMin:
+  X: -6.639420032501221
+  Y: -0.625220000743866
+  Z: -2.7163798809051514
+attackPower: 10
+bfres: Enemy_Golem
+boundingForTraverse: 9.431830406188965
+bugMask: 3
+drops:
+  Normal:
+  - Item_Ore_B
+  Normal2:
+  - Item_Ore_I
+  - Item_Ore_F
+  - Item_Ore_E
+elink: Enemy_Golem
+enemyRank: 20
+generalLife: 300
+homeArea:
+- name: WestHateru
+- name: EastHateru
+- name: CentralHyrule
+instSize: 261820
+lookAtOffsetY: 6.5
+mainModel: Golem
+name: Enemy_Golem_Junior
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: GiantEnemy
+rigidBodyCenterY: -0.1562899947166443
+slink: Enemy_Golem_Junior
+sortKey: 1196
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2bc52291: 734339729
+  tag2be89673: 736663155
+  tag35b5afc9: 901099465
+  tag4806038d: 1208353677
+  tag994aef4b: !u 0x994aef4b
+  tag9eb0ef08: !u 0x9eb0ef08
+  tagaf85ec67: !u 0xaf85ec67
+  tagb0c9e79a: !u 0xb0c9e79a
+terrainTextures:
+- !u 0xffffff04
+xlink: Enemy_Golem
+yLimitAlgorithm: NoLimit

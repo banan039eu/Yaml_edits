@@ -1,0 +1,21 @@
+aabbMax:
+  X: 2.481149911880493
+  Y: 1.5928399562835693
+  Z: 13.864999771118164
+aabbMin:
+  X: -2.3623600006103516
+  Y: -3.3347599506378174
+  Z: -2.9022600650787354
+bfres: TwnObj_Village_Fishing_A_Far
+boundingForTraverse: 4.927599906921387
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: TwnObj_Village_FishingBridge_A_01_Far
+name: TwnObj_Village_FishingBridge_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

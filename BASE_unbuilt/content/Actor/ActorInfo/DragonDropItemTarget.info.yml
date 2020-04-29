@@ -1,0 +1,8 @@
+bugMask: 1
+cursorOffsetY: 0.5
+instSize: 4576
+name: DragonDropItemTarget
+profile: SoleTag
+sortKey: 0
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

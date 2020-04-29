@@ -1,0 +1,24 @@
+aabbMax:
+  X: 86.89749908447266
+  Y: 18.302099227905273
+  Z: 33.861900329589844
+aabbMin:
+  X: -76.04949951171875
+  Y: -151.2760009765625
+  Z: -35.26210021972656
+bfres: FldObj_CliffSnow_D
+boundingForTraverse: 169.57809448242188
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38044
+isHasFar: true
+mainModel: FldObj_CliffSnowLargeWall_D_02
+name: FldObj_CliffSnowLargeWall_D_02
+profile: MapConstPassive
+sortKey: 10
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xff373108
+traverseDist: 677.0023803710938
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,29 @@
+aabbMax:
+  X: 14.883399963378906
+  Y: 18.1914005279541
+  Z: 25.600799560546875
+aabbMin:
+  X: -16.04330062866211
+  Y: -1.0158100128173828
+  Z: -15.833600044250488
+attackPower: 0
+bfres: FldObj_CliffTropicsThunder_A
+boundingForTraverse: 19.207210540771484
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Obj_ThunderRock
+generalLife: 100
+instSize: 73008
+mainModel: FldObj_CliffTropicsThunder_A_01
+name: Obj_ThunderRock
+profile: MapDynamicActive
+rigidBodyCenterY: 7.345379829406738
+slink: Obj_ThunderRock
+sortKey: -43
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag977b149c: !u 0x977b149c
+  tagdeb2c8bd: !u 0xdeb2c8bd
+traverseDist: 1500.0
+yLimitAlgorithm: NoLimit

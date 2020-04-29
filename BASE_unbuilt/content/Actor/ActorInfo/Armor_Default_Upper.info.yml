@@ -1,0 +1,40 @@
+aabbMax:
+  X: 0.16613799333572388
+  Y: 1.4248000383377075
+  Z: 0.16650399565696716
+aabbMin:
+  X: -0.15747100114822388
+  Y: 1.0156300067901611
+  Z: -0.11450199782848358
+armorDefenceAddLevel: 0
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 0
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_Default
+boundingForTraverse: 0.409170001745224
+bugMask: 1
+instSize: 22576
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_Default_Upper
+name: Armor_Default_Upper
+profile: ArmorUpper
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: Naked
+sortKey: 0
+tags:
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

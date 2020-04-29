@@ -1,0 +1,47 @@
+aabbMax:
+  X: 4.022299766540527
+  Y: 8.909480094909668
+  Z: 3.559720039367676
+aabbMin:
+  X: -5.163549900054932
+  Y: -1.0208200216293335
+  Z: -3.9625699520111084
+attackPower: 0
+bfres: Obj_TreeBurned_A
+boundingForTraverse: 9.930299758911133
+bugMask: 1
+elink: Obj_TreeBurned_A_01
+generalLife: 40
+instSize: 84488
+locators:
+- pos_x: 0.0
+  pos_y: 1.0
+  pos_z: 0.4000000059604645
+  rot_x: 90.0
+  rot_y: 0.0
+  rot_z: -180.0
+  type: Trunk
+- pos_x: -0.10109999775886536
+  pos_y: 4.6803998947143555
+  pos_z: 0.26589998602867126
+  rot_x: 0.0
+  rot_y: 0.0
+  rot_z: 0.0
+  type: Branch
+lookAtOffsetY: 1.100000023841858
+mainModel: Obj_TreeBurned_A_01
+name: Obj_TreeBurned_A_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 2.976530075073242
+sortKey: -10
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag2b533845: 726874181
+  tag882953b0: !u 0x882953b0
+  taga1c9da5d: !u 0xa1c9da5d
+  tage09808b3: !u 0xe09808b3
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

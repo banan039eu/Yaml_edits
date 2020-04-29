@@ -1,0 +1,20 @@
+aabbMax:
+  X: 1.500100016593933
+  Y: 1.6526299715042114
+  Z: 1.2516000270843506
+aabbMin:
+  X: -1.2771999835968018
+  Y: 0.0
+  Z: -1.5575200319290161
+bfres: Obj_RockZoraCoral_A
+boundingForTraverse: 1.6526299715042114
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 37788
+mainModel: Obj_RockZoraCoral_A_M_01
+name: Obj_RockZoraCoral_A_M_01
+profile: MapConstPassive
+sortKey: -3
+tags:
+  tag977b149c: !u 0x977b149c
+yLimitAlgorithm: NoLimit

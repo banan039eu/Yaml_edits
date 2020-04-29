@@ -1,0 +1,19 @@
+aabbMax:
+  X: 6.088600158691406
+  Y: 0.01981399953365326
+  Z: 6.298140048980713
+aabbMin:
+  X: -5.911520004272461
+  Y: -27.387100219726562
+  Z: -11.321399688720703
+bfres: FldObj_WaterFall_A_Far
+boundingForTraverse: 27.40691375732422
+bugMask: 0
+instSize: 19700
+mainModel: FldObj_WaterFallHateru_A_01_Far
+name: FldObj_WaterFallHateru_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,9 @@
+bugMask: 3
+elink: DragonFireEffectHolder
+instSize: 7332
+name: DragonFireEffectHolder
+profile: NoCalcActor
+slink: DragonFireEffectHolder
+sortKey: 0
+traverseDist: 4000.0
+yLimitAlgorithm: NoLimit

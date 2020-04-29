@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 4668
+name: SoundOcclusionTagComplete
+profile: AreaManagementForOthers
+sortKey: 0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,25 @@
+aabbMax:
+  X: 184.73599243164062
+  Y: 122.81800079345703
+  Z: 156.17100524902344
+aabbMin:
+  X: -105.93299865722656
+  Y: -51.853599548339844
+  Z: -174.4510040283203
+bfres: FldObj_CliffWhiteMountainHole_A
+boundingForTraverse: 174.67160034179688
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 51904
+isHasFar: true
+mainModel: FldObj_CliffWhiteMountainHole_A_01
+name: FldObj_CliffWhiteMountainHole_A_01
+profile: MapConstPassive
+sortKey: 2
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- 487657472
+- !u 0xffff4c1f
+traverseDist: 940.2265014648438
+yLimitAlgorithm: NoLimit

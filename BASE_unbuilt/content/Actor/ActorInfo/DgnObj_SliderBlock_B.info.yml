@@ -1,0 +1,29 @@
+aabbMax:
+  X: 4.0
+  Y: 7.25
+  Z: 4.0
+aabbMin:
+  X: -4.0
+  Y: 0.0
+  Z: -4.0
+attackPower: 0
+bfres: DgnObj_SliderBlock_B
+boundingForTraverse: 7.25
+bugMask: 2
+elink: SliderOBJ
+generalLife: 100
+instSize: 44972
+mainModel: DgnObj_SliderBlock_B
+name: DgnObj_SliderBlock_B
+profile: MapDynamicActive
+rigidBodyCenterY: 1.616510033607483
+slink: DgnObj_SliderBlockStone
+sortKey: -7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 99999.0
+xlink: DgnObj_ConstrainedSlider
+yLimitAlgorithm: NoLimit

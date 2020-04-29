@@ -1,0 +1,23 @@
+aabbMax:
+  X: 2.137860059738159
+  Y: 1.2811800241470337
+  Z: 2.013230085372925
+aabbMin:
+  X: -1.9232100248336792
+  Y: -1.1880700588226318
+  Z: -1.6798499822616577
+bfres: Obj_TreeStump_Moss_A
+boundingForTraverse: 2.469249963760376
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38300
+mainModel: Obj_TreeStump_Moss_A_01
+name: Obj_TreeStump_Moss_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  taga40dd51c: !u 0xa40dd51c
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

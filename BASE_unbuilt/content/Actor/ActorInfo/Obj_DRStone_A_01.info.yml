@@ -1,0 +1,25 @@
+aabbMax:
+  X: 0.131400004029274
+  Y: 0.023753000423312187
+  Z: 0.07919999957084656
+aabbMin:
+  X: -0.13199999928474426
+  Y: -0.02230300009250641
+  Z: -0.07874400168657303
+bfres: Item_ConductorDemo
+boundingForTraverse: 0.04605700075626373
+bugMask: 3
+generalLife: 1
+instSize: 70792
+mainModel: Item_ConductorDemo
+name: Obj_DRStone_A_01
+profile: DemoEquipment
+slink: Obj_DRStone_A_01
+sortKey: 1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag4850af43: 1213247299
+  tag7025851a: 1881507098
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

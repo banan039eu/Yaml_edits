@@ -1,0 +1,28 @@
+aabbMax:
+  X: 3.0
+  Y: 6.0
+  Z: 3.0
+aabbMin:
+  X: -3.0
+  Y: 0.0
+  Z: -3.0
+attackPower: 0
+bfres: DgnObj_BoxStone_C
+boundingForTraverse: 6.0
+bugMask: 2
+elink: SliderOBJ
+generalLife: 100
+instSize: 43308
+mainModel: DgnObj_BoxStone_C_01
+name: DgnObj_BoxStone_C_01
+profile: MapDynamicActive
+rigidBodyCenterY: 3.0
+slink: DgnObj_BoxStone_A
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag507efd18: 1350499608
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

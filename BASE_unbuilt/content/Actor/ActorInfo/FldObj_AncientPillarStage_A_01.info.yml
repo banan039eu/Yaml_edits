@@ -1,0 +1,17 @@
+aabbMax:
+  X: 17.387699127197266
+  Y: 14.428799629211426
+  Z: 13.068699836730957
+aabbMin:
+  X: -16.668899536132812
+  Y: 2.2971599102020264
+  Z: -31.526399612426758
+bfres: FldObj_AncientPillar_A
+boundingForTraverse: 12.131638526916504
+bugMask: 0
+instSize: 63460
+mainModel: FldObj_AncientPillarStage_A_01
+name: FldObj_AncientPillarStage_A_01
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

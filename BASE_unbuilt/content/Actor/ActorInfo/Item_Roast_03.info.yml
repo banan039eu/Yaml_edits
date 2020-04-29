@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.13268700242042542
+  Y: 0.19628800451755524
+  Z: 0.1327030062675476
+aabbMin:
+  X: -0.13274399936199188
+  Y: -0.1217150017619133
+  Z: -0.1327279955148697
+bfres: Item_Roast_03
+boundingForTraverse: 0.31800299882888794
+bugMask: 1
+cureItemEffectLevel: 0
+cureItemEffectType: None
+cureItemHitPointRecover: 3
+cursorOffsetY: 0.30000001192092896
+elink: GetItem
+generalLife: 100
+instSize: 35832
+itemBuyingPrice: 8
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 3
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Item_Roast_03
+name: Item_Roast_03
+normal0ItemName01: Item_Fruit_A
+normal0ItemNum01: 1
+normal0StuffNum: 1
+profile: Item
+rigidBodyCenterY: 0.005644000135362148
+sortKey: 61010
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag14185415: 337138709
+  tag2b2b5fbc: 724262844
+  tag80e484a4: !u 0x80e484a4
+  tag812ee444: !u 0x812ee444
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

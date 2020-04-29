@@ -1,0 +1,51 @@
+aabbMax:
+  X: 0.10040999948978424
+  Y: 0.04704499989748001
+  Z: 1.0615099668502808
+aabbMin:
+  X: -0.10040999948978424
+  Y: -0.04705100134015083
+  Z: -0.08547800034284592
+arrowArrowDeletePer: 0
+arrowArrowNum: 1
+arrowDeleteTime: 0
+arrowDeleteTimeWithChemical: 0
+arrowEnemyShootNumForDelete: 0
+bfres: Item_ArrowElectric
+boundingForTraverse: 0.09409599751234055
+bugMask: 3
+cursorOffsetY: 0.20000000298023224
+elink: ElectricArrow
+generalLife: 100
+instSize: 41932
+itemBuyingPrice: 20
+itemCreatingPrice: -1
+itemSaleRevivalCount: 50
+itemSellingPrice: 1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Item_ArrowElectric
+name: Obj_ElectricArrow_A_01
+normal0ItemName01: NormalArrow
+normal0ItemName02: Item_Ore_D
+normal0ItemNum01: 1
+normal0ItemNum02: 1
+normal0StuffNum: 2
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+slink: Obj_Arrow
+sortKey: 40
+systemIsGetItemSelf: false
+systemSameGroupActorName: ElectricArrow
+tags:
+  tag19f6c13a: 435601722
+  tag2755f107: 659943687
+  tag2cef9fdc: 753901532
+  tag80e484a4: !u 0x80e484a4
+  tag9b44906f: !u 0x9b44906f
+  tagdeb2c8bd: !u 0xdeb2c8bd
+  tage0194f30: !u 0xe0194f30
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

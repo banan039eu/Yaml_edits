@@ -1,0 +1,26 @@
+aabbMax:
+  X: 2.0
+  Y: 4.0
+  Z: 2.0
+aabbMin:
+  X: -2.0
+  Y: 0.0
+  Z: -2.0
+attackPower: 0
+bfres: DgnObj_BlockCrack_A
+boundingForTraverse: 4.0
+bugMask: 3
+cursorOffsetY: 0.5
+elink: BlockCrack
+generalLife: 1
+instSize: 35144
+mainModel: DgnObj_BlockCrack_A_02
+name: BlockCrackFixed4x4x4_127
+profile: MapDynamicActive
+rigidBodyCenterY: 2.0
+slink: BlockCrackFixed4x4x4_127
+sortKey: -44
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

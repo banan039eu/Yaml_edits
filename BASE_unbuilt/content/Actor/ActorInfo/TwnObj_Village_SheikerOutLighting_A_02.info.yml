@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.17309799790382385
+  Y: 0.4078049957752228
+  Z: 0.17289799451828003
+aabbMin:
+  X: -0.17310300469398499
+  Y: 7.000000096013537e-06
+  Z: -0.17330600321292877
+bfres: TwnObj_Village_SheikerFurniture_A
+boundingForTraverse: 0.40779799222946167
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 29288
+mainModel: TwnObj_Village_SheikerOutLighting_A_02
+name: TwnObj_Village_SheikerOutLighting_A_02
+profile: MapConstPassive
+sortKey: -2
+tags:
+  tag0d23ee8c: 220458636
+  tag8fda6cdd: !u 0x8fda6cdd
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,75 @@
+Chemical:
+  Burnable: 1
+  Capaciter: 1
+aabbMax:
+  X: 0.14977100491523743
+  Y: 0.031408000737428665
+  Z: 1.0834699869155884
+aabbMin:
+  X: -0.14985999464988708
+  Y: -0.031408000737428665
+  Z: -0.23680800199508667
+attackPower: 24
+bfres: Weapon_Sword_033
+boundingForTraverse: 0.06281500309705734
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Sword_033
+generalLife: 36
+homeArea:
+- name: CentralHyrule
+- name: EastHateru
+- name: EldinMountains
+instSize: 64948
+itemBuyingPrice: 150
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 150
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Sword_033
+name: Weapon_Sword_033
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponSmallSword
+slink: Weapon_Sword_033
+sortKey: 11210
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag2813d81b: 672389147
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tagdf7c57f6: !u 0xdf7c57f6
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 19
+weaponCommonPoweredSharpAddAtkMin: 10
+weaponCommonPoweredSharpAddLifeMax: 18
+weaponCommonPoweredSharpAddLifeMin: 9
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 2.0
+weaponCommonPoweredSharpAddThrowMin: 1.5
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 0
+weaponCommonSharpWeaponAddAtkMax: 9
+weaponCommonSharpWeaponAddAtkMin: 6
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 8
+weaponCommonSharpWeaponAddLifeMin: 4
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: ChemicalWeapon
+yLimitAlgorithm: NoLimit

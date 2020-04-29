@@ -1,0 +1,43 @@
+aabbMax:
+  X: 5.406710147857666
+  Y: 19.57659912109375
+  Z: 5.0638298988342285
+aabbMin:
+  X: -5.662240028381348
+  Y: -1.0918099880218506
+  Z: -5.6472601890563965
+attackPower: 0
+bfres: Obj_TreePalmCoconut_A
+boundingForTraverse: 20.66840934753418
+bugMask: 1
+drops:
+  Normal:
+  - Weapon_Sword_044
+  - Weapon_Lsword_056
+elink: Obj_TreePalmBeach_A_01
+generalLife: 40
+instSize: 98644
+locators:
+- pos_x: 0.12139999866485596
+  pos_y: 2.2960000038146973
+  pos_z: -0.6710000038146973
+  rot_x: 93.44999694824219
+  rot_y: 190.39999389648438
+  rot_z: -178.35800170898438
+  type: Trunk
+lookAtOffsetY: 1.100000023841858
+mainModel: Obj_TreePalmCoconut_A_01
+name: Obj_TreePalmBeach_A_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 6.6966400146484375
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag2b533845: 726874181
+  taga40dd51c: !u 0xa40dd51c
+  tage09808b3: !u 0xe09808b3
+traverseDist: 800.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,7 @@
+!io
+version: 0
+type: mscinfo
+param_root: !list
+  objects:
+    MusicParam: !obj {TransitionDelaySec: 0.46, OutroDelaySec: 0.0}
+  lists: {}

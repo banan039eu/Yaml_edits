@@ -1,0 +1,18 @@
+aabbMax:
+  X: 0.7848950028419495
+  Y: 0.3447529971599579
+  Z: 1.4399000406265259
+aabbMin:
+  X: -0.7789170145988464
+  Y: 0.0
+  Z: -1.4889400005340576
+bfres: TwnObj_Village_Fishing_A
+boundingForTraverse: 0.3447529971599579
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 27992
+mainModel: TwnObj_Village_FishingBed_A_01
+name: TwnObj_Village_FishingBed_A_01
+profile: MapConstPassive
+sortKey: -5
+yLimitAlgorithm: NoLimit

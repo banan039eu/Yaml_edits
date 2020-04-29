@@ -1,0 +1,36 @@
+aabbMax:
+  X: 0.1400260031223297
+  Y: 0.7105169892311096
+  Z: 0.11965399980545044
+aabbMin:
+  X: -0.17652000486850739
+  Y: 1.9999999494757503e-05
+  Z: -0.13185299932956696
+bfres: DgnObj_KeySmall_A
+boundingForTraverse: 0.7104970216751099
+bugMask: 3
+cursorOffsetY: 0.6499999761581421
+generalLife: 100
+instSize: 53864
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: DgnObj_KeySmall_A_01
+name: KeySmall
+profile: Item
+rigidBodyCenterY: 0.10000000149011612
+slink: KeySmall
+sortKey: 50036
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag17919f47: 395419463
+  tag4850af43: 1213247299
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdcd7e698: !u 0xdcd7e698
+  tagf7ec3c3a: !u 0xf7ec3c3a
+yLimitAlgorithm: NoLimit

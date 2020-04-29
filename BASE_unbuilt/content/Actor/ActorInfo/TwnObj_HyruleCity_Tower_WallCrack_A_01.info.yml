@@ -1,0 +1,29 @@
+aabbMax:
+  X: 3.886199951171875
+  Y: 9.959699630737305
+  Z: 0.9054149985313416
+aabbMin:
+  X: -3.886199951171875
+  Y: -0.0025130000431090593
+  Z: -0.6215530037879944
+attackPower: 0
+bfres: TwnObj_HyruleCity_A
+boundingForTraverse: 9.962212562561035
+bugMask: 2
+cursorOffsetY: 0.5
+elink: TwnObj_HyruleCity_Tower_WallCrack_A_01
+generalLife: 1
+instSize: 53284
+mainModel: TwnObj_HyruleCity_Tower_WallCrack_A_01
+name: TwnObj_HyruleCity_Tower_WallCrack_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 4.382070064544678
+slink: BreakableWallBuilding
+sortKey: -14
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  taga1c9da5d: !u 0xa1c9da5d
+  tagdeb2c8bd: !u 0xdeb2c8bd
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

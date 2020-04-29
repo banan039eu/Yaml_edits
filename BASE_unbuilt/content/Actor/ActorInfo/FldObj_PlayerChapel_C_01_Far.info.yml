@@ -1,0 +1,21 @@
+aabbMax:
+  X: 61.73360061645508
+  Y: 47.82640075683594
+  Z: 66.28469848632812
+aabbMin:
+  X: -62.66630172729492
+  Y: -25.356700897216797
+  Z: -99.75689697265625
+bfres: FldObj_PlayerChapel_C_Far
+boundingForTraverse: 73.18310546875
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 115256
+mainModel: FldObj_PlayerChapel_C_01_Far
+name: FldObj_PlayerChapel_C_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

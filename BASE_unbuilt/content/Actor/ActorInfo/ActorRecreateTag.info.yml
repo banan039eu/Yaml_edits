@@ -1,0 +1,8 @@
+bugMask: 1
+instSize: 4728
+name: ActorRecreateTag
+profile: AreaManagementForOthers
+sortKey: 0
+tags:
+  tagc5b7c123: !u 0xc5b7c123
+yLimitAlgorithm: NoLimit

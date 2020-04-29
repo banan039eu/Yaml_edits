@@ -1,0 +1,35 @@
+aabbMax:
+  X: 1.0433100461959839
+  Y: 6.277130126953125
+  Z: 1.1842800378799438
+aabbMin:
+  X: -1.6310100555419922
+  Y: -1.9681999683380127
+  Z: -1.1118600368499756
+attackPower: 0
+bfres: Obj_TreeBroadleaf_B
+boundingForTraverse: 8.245329856872559
+bugMask: 1
+generalLife: 100
+instSize: 104812
+locators:
+- pos_x: 0.0
+  pos_y: 1.7000000476837158
+  pos_z: 0.699999988079071
+  rot_x: -90.0
+  rot_y: 180.0
+  rot_z: 0.0
+  type: Trunk
+lookAtOffsetY: 1.100000023841858
+mainModel: Obj_TreeBroadleafDead_B_L_01
+name: Obj_TreeBroadleafDead_B_L_01_Stump
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.550000011920929
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag170cf1e2: 386724322
+  tag882953b0: !u 0x882953b0
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

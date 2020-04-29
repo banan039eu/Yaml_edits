@@ -1,0 +1,20 @@
+aabbMax:
+  X: 7.1658501625061035
+  Y: 22.121299743652344
+  Z: 8.339159965515137
+aabbMin:
+  X: -5.1239800453186035
+  Y: -0.11164499819278717
+  Z: -7.09414005279541
+bfres: FldObj_LookOutForlorn_A_Far
+boundingForTraverse: 22.23294448852539
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: FldObj_LookOutForlorn_A_01_Far
+name: FldObj_LookOutForlorn_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

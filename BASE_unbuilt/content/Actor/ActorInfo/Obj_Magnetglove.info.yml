@@ -1,0 +1,20 @@
+bugMask: 0
+generalLife: 100
+instSize: 2912
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: Obj_Magnetglove
+profile: PlayerItem
+sortKey: -17
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag17919f47: 395419463
+  tag7025851a: 1881507098
+  tag76970ea4: 1989611172
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

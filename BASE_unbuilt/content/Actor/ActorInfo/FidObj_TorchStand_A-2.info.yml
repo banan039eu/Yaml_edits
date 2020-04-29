@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.397814005613327
+  Y: 1.5949499607086182
+  Z: 0.397814005613327
+aabbMin:
+  X: -0.397814005613327
+  Y: 0.0
+  Z: -0.397814005613327
+attackPower: 0
+bfres: FldObj_TorchStand_A
+boundingForTraverse: 1.5949499607086182
+bugMask: 2
+cursorOffsetY: 1.5
+generalLife: 100
+instSize: 35968
+lookAtOffsetY: 1.5
+mainModel: FldObj_TorchStand_A_01
+name: FidObj_TorchStand_A-2
+profile: MapDynamicActive
+rigidBodyCenterY: 0.5
+slink: CandleGround
+sortKey: -47
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

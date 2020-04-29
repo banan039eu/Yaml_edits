@@ -1,0 +1,30 @@
+aabbMax:
+  X: 61.1349983215332
+  Y: 24.872299194335938
+  Z: 54.26100158691406
+aabbMin:
+  X: -55.77560043334961
+  Y: -36.63710021972656
+  Z: -54.25979995727539
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuEx_BossBattleRoom_A_02
+boundingForTraverse: 61.5093994140625
+bugMask: 3
+cursorOffsetY: 0.5
+elink: DgnObj_DLC_IbutsuEx_BossBattleRoom_A_01
+generalLife: 100
+instSize: 502488
+mainModel: DgnObj_DLC_IbutsuEx_BossBattleRoom_A_02
+name: DgnObj_DLC_IbutsuEx_BossBattleRoom_A_01
+profile: MapDynamicActive
+slink: DgnObj_DLC_IbutsuEx_BossBattleRoom_A_01
+sortKey: 183
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag05a5e004: 94756868
+  tag8edb9511: !u 0x8edb9511
+terrainTextures:
+- !u 0xffff0b0a
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,37 @@
+aabbMax:
+  X: 0.34710100293159485
+  Y: 1.7736799716949463
+  Z: 0.6834350228309631
+aabbMin:
+  X: -0.543071985244751
+  Y: -0.00013000000035390258
+  Z: -0.21848399937152863
+boundingForTraverse: 1.7738100290298462
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: UMii_Hylia_Backpack
+instSize: 641804
+name: Npc_Road_001
+profile: NPC
+slink: Npc_Hylia_M
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+travelerAppearGameDataName: FirstTouchdown
+travelerDeleteGameDataName: ''
+travelerRideHorseName: ''
+travelerRoutePoint0Name: RoadGerudo_STP00
+travelerRoutePoint1Name: RoadGerudo_JCT02
+travelerRoutePoint2Name: RoadGerudo_JCT01
+travelerRoutePoint3Name: RoadGerudo_UYD00
+travelerRoutePoint4Name: RoadGerudo_UYD02
+travelerRoutePoint5Name: RoadGerudo_UYD03
+travelerRoutePoint6Name: RoadGerudo_UYD02
+travelerRoutePoint7Name: RoadGerudo_UYD01
+travelerRoutePoint8Name: RoadGerudo_STP01
+travelerRouteType: ''
+traverseDist: 200.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

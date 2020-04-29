@@ -1,0 +1,29 @@
+aabbMax:
+  X: 0.42822301387786865
+  Y: 0.9469730257987976
+  Z: 0.4325680136680603
+aabbMin:
+  X: -0.42822301387786865
+  Y: -0.012500000186264515
+  Z: -0.45830100774765015
+attackPower: 8
+bfres: DgnObj_Beamos_A
+boundingForTraverse: 0.9594730138778687
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Beamos
+generalLife: 1000
+instSize: 55736
+mainModel: DgnObj_Beamos_A_02
+name: Enemy_Beamos_Static
+profile: MapDynamicActive
+rigidBodyCenterY: 0.10000000149011612
+slink: Beamos
+sortKey: -19
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tagc2ac3213: !u 0xc2ac3213
+  tagff2ecb67: !u 0xff2ecb67
+yLimitAlgorithm: NoLimit

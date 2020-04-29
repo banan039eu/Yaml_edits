@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.3442020118236542
+  Y: 1.78711998462677
+  Z: 0.4041909873485565
+aabbMin:
+  X: -0.37740299105644226
+  Y: -0.00012599999899975955
+  Z: -0.23088300228118896
+boundingForTraverse: 1.7872459888458252
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: NPC
+instSize: 532780
+name: Npc_HyruleWestHatago002
+profile: NPC
+slink: Npc_Hylia_M
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

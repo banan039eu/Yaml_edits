@@ -1,0 +1,18 @@
+aabbMax:
+  X: 13.246899604797363
+  Y: 11.076700210571289
+  Z: 6.639739990234375
+aabbMin:
+  X: -16.795299530029297
+  Y: -3.3756000995635986
+  Z: -24.79829978942871
+bfres: TwnObj_City_Goron_A
+boundingForTraverse: 14.452300071716309
+bugMask: 0
+instSize: 134880
+mainModel: TwnObj_City_GoronHouse_A_01
+name: TwnObj_City_GoronHouse_A_01
+profile: MapConstPassive
+sortKey: -5
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

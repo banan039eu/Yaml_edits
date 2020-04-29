@@ -1,0 +1,13 @@
+bugMask: 0
+elink: SandStorm_Distance
+instSize: 3476
+invalidTimes:
+- Night_A
+- Night_B
+name: SandStorm_Distance_daytime
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+traverseDist: 3000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,74 @@
+Chemical:
+  Burnable: 1
+aabbMax:
+  X: 0.28000399470329285
+  Y: 0.10479699820280075
+  Z: 2.2909998893737793
+aabbMin:
+  X: -0.2648699879646301
+  Y: -0.10443100333213806
+  Z: -0.4777829945087433
+attackPower: 5
+bfres: Weapon_Spear_036
+boundingForTraverse: 0.20922799408435822
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Spear_036
+generalLife: 8
+homeArea:
+- name: EastHateru
+- name: CentralHyrule
+- name: TamulPlateau
+instSize: 50492
+itemBuyingPrice: 3
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Spear_036
+monsterShopBuyMamo: 19
+monsterShopSellMamo: 1
+name: Weapon_Spear_036
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponSpear
+slink: Weapon_Spear_Mop
+sortKey: 13030
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 5
+weaponCommonPoweredSharpAddAtkMin: 5
+weaponCommonPoweredSharpAddLifeMax: 4
+weaponCommonPoweredSharpAddLifeMin: 3
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 2.0
+weaponCommonPoweredSharpAddThrowMin: 1.5
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 0
+weaponCommonSharpWeaponAddAtkMax: 4
+weaponCommonSharpWeaponAddAtkMin: 2
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 2
+weaponCommonSharpWeaponAddLifeMin: 1
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: Weapon
+yLimitAlgorithm: NoLimit

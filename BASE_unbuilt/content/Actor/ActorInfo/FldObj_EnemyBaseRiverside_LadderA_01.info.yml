@@ -1,0 +1,23 @@
+aabbMax:
+  X: 0.5508480072021484
+  Y: 0.4273189902305603
+  Z: 0.22811700403690338
+aabbMin:
+  X: -0.5545830130577087
+  Y: -7.003469944000244
+  Z: -0.0435900017619133
+attackPower: 0
+bfres: FldObj_EnemyBaseRiverside_A
+boundingForTraverse: 7.430788993835449
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 30160
+mainModel: FldObj_EnemyBaseRiverside_LadderA_01
+name: FldObj_EnemyBaseRiverside_LadderA_01
+profile: MapConstActive
+rigidBodyCenterY: -3.3954100608825684
+sortKey: 8
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

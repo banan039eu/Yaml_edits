@@ -1,0 +1,31 @@
+aabbMax:
+  X: 1.0088000297546387
+  Y: 0.9966250061988831
+  Z: 0.9935020208358765
+aabbMin:
+  X: -0.9866970181465149
+  Y: -0.9976080060005188
+  Z: -1.0156899690628052
+attackPower: 1
+bfres: Obj_SnowBall_A
+boundingForTraverse: 1.9942330121994019
+bugMask: 3
+generalLife: 5000
+instSize: 46636
+mainModel: Obj_SnowBall_A_01
+name: SnowBowl
+profile: MapDynamicActive
+slink: BrokenSnowBall
+sortKey: -4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0f3fc1b8: 255836600
+  tag0fee9a49: 267295305
+  tagc2ac3213: !u 0xc2ac3213
+  tagd369c30f: !u 0xd369c30f
+  tagff2ecb67: !u 0xff2ecb67
+terrainTextures:
+- !u 0xffffff24
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,20 @@
+aabbMax:
+  X: -0.17268000543117523
+  Y: 3.535130023956299
+  Z: 3.0274999141693115
+aabbMin:
+  X: -25.319400787353516
+  Y: -30.859800338745117
+  Z: -2.719089984893799
+bfres: FldObj_BoneGiant_A_Far
+boundingForTraverse: 34.39493179321289
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18292
+mainModel: FldObj_BoneGiant_Rib_A_03_Far
+name: FldObj_BoneGiant_Rib_A_03_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

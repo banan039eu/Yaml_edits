@@ -1,0 +1,22 @@
+aabbMax:
+  X: 0.2752789855003357
+  Y: 0.6155520081520081
+  Z: 0.31175100803375244
+aabbMin:
+  X: -0.33453699946403503
+  Y: -0.2932310104370117
+  Z: -0.3234829902648926
+attackPower: 0
+bfres: TwnObj_City_Goron_A
+boundingForTraverse: 0.9087830185890198
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 34276
+mainModel: TwnObj_City_GoronHotelLight_A_01
+name: TwnObj_City_GoronHotelLight_A_01
+profile: MapDynamicActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

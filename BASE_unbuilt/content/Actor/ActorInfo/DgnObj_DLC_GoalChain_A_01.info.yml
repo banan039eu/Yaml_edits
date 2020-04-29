@@ -1,0 +1,24 @@
+aabbMax:
+  X: 1.533619999885559
+  Y: 8.0
+  Z: 1.533619999885559
+aabbMin:
+  X: -1.533619999885559
+  Y: 0.0
+  Z: -1.533619999885559
+attackPower: 0
+bfres: DgnObj_DLC_PriestRoom_A
+boundingForTraverse: 8.0
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 81128
+mainModel: DgnObj_DLC_GoalChain_A_01
+name: DgnObj_DLC_GoalChain_A_01
+profile: MapConstActive
+rigidBodyCenterY: 4.346370220184326
+sortKey: 5
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 900.0
+yLimitAlgorithm: NoLimit

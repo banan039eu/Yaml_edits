@@ -1,0 +1,18 @@
+aabbMax:
+  X: 5.277520179748535
+  Y: 3.4213199615478516
+  Z: 3.7369799613952637
+aabbMin:
+  X: -4.577559947967529
+  Y: -0.843300998210907
+  Z: -3.3632500171661377
+bfres: TwnObj_Village_Ichikara_A
+boundingForTraverse: 4.264620780944824
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28760
+mainModel: TwnObj_Village_IchikaraFountainRock_A_01
+name: TwnObj_Village_IchikaraFountainRock_A_01
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.5620999932289124
+  Y: 2.2219200134277344
+  Z: 1.6644999980926514
+aabbMin:
+  X: -0.6943820118904114
+  Y: -0.6218140125274658
+  Z: -0.7184919714927673
+attackPower: 0
+bfres: TwnObj_HyruleCastleObject_A
+boundingForTraverse: 2.8437340259552
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 43452
+mainModel: TwnObj_HyruleCastleObject_SelectorSwitch_A_01
+name: TwnObj_HyruleCastleObject_SelectorSwitch_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.15000000596046448
+slink: TwnObj_HyruleCastleObject_SelectorSwitch_A_01
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag51e73965: 1374108005
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.5427370071411133
+  Y: 2.4672999382019043
+  Z: 0.5427370071411133
+aabbMin:
+  X: -0.5427370071411133
+  Y: -0.0026950000319629908
+  Z: -0.5427370071411133
+attackPower: 0
+bfres: DgnObj_SwitchHit_A
+boundingForTraverse: 2.4699950218200684
+bugMask: 3
+elink: SwitchHit
+generalLife: 100
+instSize: 39364
+mainModel: DgnObj_SwitchHit_A_01
+name: SwitchHit
+profile: MapDynamicActive
+rigidBodyCenterY: 1.1468900442123413
+slink: SwitchHit
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tag51e73965: 1374108005
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

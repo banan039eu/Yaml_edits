@@ -1,0 +1,25 @@
+aabbMax:
+  X: 0.7091259956359863
+  Y: 0.7267709970474243
+  Z: 0.7377269864082336
+aabbMin:
+  X: -0.7216910123825073
+  Y: -0.10051000118255615
+  Z: -0.7456079721450806
+attackPower: 0
+bfres: FldObj_BirdNest_A
+boundingForTraverse: 0.8272809982299805
+bugMask: 2
+cursorOffsetY: 0.5
+elink: FldObj_BirdNest_A_01
+generalLife: 1
+instSize: 31300
+mainModel: FldObj_BirdNest_A_01
+name: FldObj_BirdNest_A_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.1006539985537529
+slink: FldObj_BirdNest_A_01
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

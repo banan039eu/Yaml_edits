@@ -1,0 +1,20 @@
+aabbMax:
+  X: 1.8764899969100952
+  Y: 3.1126201152801514
+  Z: 1.851989984512329
+aabbMin:
+  X: -1.576449990272522
+  Y: -0.6264100074768066
+  Z: -1.8836300373077393
+bfres: TwnObj_HyruleCity_A
+boundingForTraverse: 3.739029884338379
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 78472
+mainModel: TwnObj_HyruleCity_Well_A_01
+name: TwnObj_HyruleCity_Well_A_01
+profile: MapConstPassive
+sortKey: 8
+tags:
+  taga1c9da5d: !u 0xa1c9da5d
+yLimitAlgorithm: NoLimit

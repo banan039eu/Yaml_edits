@@ -1,0 +1,70 @@
+aabbMax:
+  X: 0.24501299858093262
+  Y: 0.15484000742435455
+  Z: 0.8763219714164734
+aabbMin:
+  X: -0.2640730142593384
+  Y: -0.12754499912261963
+  Z: -0.24764400720596313
+attackPower: 10
+bfres: Weapon_Sword_050
+boundingForTraverse: 0.282384991645813
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Sword_050
+generalLife: 32
+homeArea:
+- name: CentralHyrule
+- name: HyruleHill
+- name: WestHateru
+instSize: 79972
+itemBuyingPrice: 120
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 18
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Sword_050
+name: Weapon_Sword_050
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponSmallSword
+slink: Weapon_Sword_Voltage
+sortKey: 11581
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 16
+weaponCommonPoweredSharpAddAtkMin: 7
+weaponCommonPoweredSharpAddLifeMax: 16
+weaponCommonPoweredSharpAddLifeMin: 8
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 0
+weaponCommonSharpWeaponAddAtkMax: 6
+weaponCommonSharpWeaponAddAtkMin: 5
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 7
+weaponCommonSharpWeaponAddLifeMin: 4
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: Rod
+yLimitAlgorithm: NoLimit

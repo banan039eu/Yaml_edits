@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.14498600363731384
+  Y: 2.700000047683716
+  Z: 0.12172500044107437
+aabbMin:
+  X: -1.505020022392273
+  Y: 0.0
+  Z: -0.12172599881887436
+attackPower: 0
+bfres: TwnObj_AncientCivilLavo_A
+boundingForTraverse: 2.700000047683716
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 49056
+mainModel: TwnObj_AncientCivilLaboDoor_A_01
+name: TwnObj_AncientCivilLaboDoor_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 1.350000023841858
+slink: Door_WoodCommon
+sortKey: 1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2ad7fb13: 718797587
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

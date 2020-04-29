@@ -1,0 +1,47 @@
+aabbMax:
+  X: 0.2630600035190582
+  Y: 0.9266149997711182
+  Z: 0.23260299861431122
+aabbMin:
+  X: -0.25922998785972595
+  Y: 1.8000000636675395e-05
+  Z: -0.8264830112457275
+attackPower: 0
+bfres: Animal_Pigeon
+boundingForTraverse: 0.926596999168396
+bugMask: 3
+drops:
+  Normal:
+  - Item_Meat_07
+elink: Animal_Ptarmigan_B
+enemyRank: 0
+generalLife: 1
+homeArea:
+- name: EldinCanyon
+- name: EldinMountains
+- name: DeathMountain
+instSize: 133220
+invalidTimes:
+- Night_A
+- Night_B
+invalidWeathers:
+- HeavyRain
+- HeavySnow
+- ThunderStorm
+- ThunderRain
+mainModel: Pigeon
+name: Animal_Ptarmigan_B
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+slink: Animal_Ptarmigan_B
+sortKey: 29022
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag077ca9cb: 125610443
+  tag24cd75fe: 617444862
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagac9f717f: !u 0xac9f717f
+yLimitAlgorithm: NoLimit

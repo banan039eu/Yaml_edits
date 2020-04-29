@@ -1,0 +1,9 @@
+bugMask: 1
+elink: AscendingCurrent_Side
+instSize: 7152
+name: AscendingCurrent_Side
+profile: SoleTag
+sortKey: 0
+traverseDist: 100.0
+xlink: AscendingCurrent
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,59 @@
+aabbMax:
+  X: 0.6410229802131653
+  Y: 1.562980055809021
+  Z: 0.598887026309967
+aabbMin:
+  X: -0.7666329741477966
+  Y: 0.0016690000193193555
+  Z: -0.5547369718551636
+bfres: Obj_Plant_Aloe_A
+boundingForTraverse: 1.5613110065460205
+bugMask: 3
+cureItemEffectLevel: 1
+cureItemEffectType: AttackUp
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 0
+cursorOffsetY: 0.6000000238418579
+drops:
+  Normal:
+  - Item_PlantGet_G
+elink: Item_Plant_G
+generalLife: 1
+instSize: 46780
+itemBuyingPrice: 20
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 5
+itemStainColor: 10
+itemUseIconActorName: Item_PlantGet_G
+lookAtOffsetY: 1.100000023841858
+mainModel: Obj_Plant_Aloe_A_01
+name: Item_Plant_G
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+slink: Item_PlantLeaf
+sortKey: 31510
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_PlantGet_G
+tags:
+  tag31409cea: 826318058
+  tag3909a11f: 956932383
+  tag55ef2d02: 1441737986
+  tag682e5129: 1747865897
+  tag7de11d78: 2111905144
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagbbf08f85: !u 0xbbf08f85
+  tagc2ac3213: !u 0xc2ac3213
+  tagc7e545be: !u 0xc7e545be
+  tagcc6dc85b: !u 0xcc6dc85b
+  tagd7bc570e: !u 0xd7bc570e
+  tagd902a8a2: !u 0xd902a8a2
+  tage0194f30: !u 0xe0194f30
+  tagef2efe5d: !u 0xef2efe5d
+  tagf47b2e0d: !u 0xf47b2e0d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

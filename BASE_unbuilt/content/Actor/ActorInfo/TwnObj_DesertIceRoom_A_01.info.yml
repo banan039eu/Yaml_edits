@@ -1,0 +1,25 @@
+aabbMax:
+  X: 38.599098205566406
+  Y: 47.918800354003906
+  Z: 24.99530029296875
+aabbMin:
+  X: -39.73820114135742
+  Y: -8.65095043182373
+  Z: -25.512699127197266
+attackPower: 0
+bfres: TwnObj_DesertIceRoom_A
+boundingForTraverse: 56.56975173950195
+bugMask: 0
+generalLife: 100
+instSize: 383556
+mainModel: TwnObj_DesertIceRoom_A_01
+name: TwnObj_DesertIceRoom_A_01
+profile: MapConstActive
+rigidBodyCenterY: -0.9027870297431946
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+terrainTextures:
+- !u 0xffffff3b
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,25 @@
+aabbMax:
+  X: 24.34440040588379
+  Y: -2.4591000080108643
+  Z: 8.447879791259766
+aabbMin:
+  X: -1.0649700164794922
+  Y: -24.793800354003906
+  Z: -8.478540420532227
+attackPower: 0
+bfres: DgnObj_IbutsuMap_A
+boundingForTraverse: 22.334699630737305
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 49176
+mainModel: DgnObj_IbtMapElectricDrum_A_03
+name: DgnObj_IbtMapElectricDrum_A_03
+profile: MapDynamicActive
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

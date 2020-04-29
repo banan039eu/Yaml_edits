@@ -1,0 +1,36 @@
+aabbMax:
+  X: 1.7690099477767944
+  Y: 0.7466729879379272
+  Z: 1.3763500452041626
+aabbMin:
+  X: -1.9597300291061401
+  Y: -0.21950200200080872
+  Z: -2.2837700843811035
+attackPower: 0
+bfres: Obj_Plant_Weed_A
+boundingForTraverse: 0.9661750197410583
+bugMask: 2
+elink: Obj_Plant_Weed_A
+generalLife: 100
+instSize: 24148
+mainModel: Obj_Plant_Weed_A
+name: Obj_Plant_Weed_A
+profile: MapDynamicPassive
+slink: Plant
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag1f4b9ede: 525049566
+  tag206f0b59: 544148313
+  tag4436fdc7: 1144454599
+  tag50fb41e2: 1358643682
+  tag51ed35a6: 1374500262
+  tag55ef2d02: 1441737986
+  tag71b038f6: 1907374326
+  tag85aee6eb: !u 0x85aee6eb
+  tag960721f7: !u 0x960721f7
+  taga4a8ba48: !u 0xa4a8ba48
+  tagb827b886: !u 0xb827b886
+  tage91ea5f6: !u 0xe91ea5f6
+yLimitAlgorithm: NoLimit

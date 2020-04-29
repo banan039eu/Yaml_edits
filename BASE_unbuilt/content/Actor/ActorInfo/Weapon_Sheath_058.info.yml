@@ -1,0 +1,18 @@
+aabbMax:
+  X: 0.06638800352811813
+  Y: 0.04879099875688553
+  Z: 0.9679809808731079
+aabbMin:
+  X: -0.06638800352811813
+  Y: -0.03265500068664551
+  Z: 0.09991399943828583
+bfres: Weapon_Sheath_058
+boundingForTraverse: 0.08144599944353104
+bugMask: 1
+cursorOffsetY: 0.5
+instSize: 26112
+mainModel: Weapon_Sheath_058
+name: Weapon_Sheath_058
+profile: OptionalWeapon
+sortKey: 2
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.34836798906326294
+  Y: 3.5764501094818115
+  Z: 0.34836798906326294
+aabbMin:
+  X: -0.34836798906326294
+  Y: -0.012206999585032463
+  Z: -0.34836798906326294
+bfres: FldObj_ArtifactZora_A
+boundingForTraverse: 3.5886569023132324
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 19956
+mainModel: FldObj_ArtifactZoraCandlestick_A_01
+name: FldObj_ArtifactZoraCandlestick_A_01
+profile: MapConstPassive
+sortKey: 1
+tags:
+  tag0d23ee8c: 220458636
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

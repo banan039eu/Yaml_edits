@@ -1,0 +1,29 @@
+aabbMax:
+  X: 4.719019889831543
+  Y: 7.449460029602051
+  Z: 2.3854000568389893
+aabbMin:
+  X: -4.978409767150879
+  Y: -0.4520129859447479
+  Z: -2.6851298809051514
+attackPower: 0
+bfres: Obj_RockBroken_A
+boundingForTraverse: 7.901473045349121
+bugMask: 3
+elink: WallCrack
+generalLife: 1
+instSize: 47396
+mainModel: Obj_RockBroken_A_01
+name: WallCrack
+profile: MapDynamicActive
+rigidBodyCenterY: 2.5555200576782227
+slink: BreakableWallRock
+sortKey: -17
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag8fda6cdd: !u 0x8fda6cdd
+  tagdeb2c8bd: !u 0xdeb2c8bd
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

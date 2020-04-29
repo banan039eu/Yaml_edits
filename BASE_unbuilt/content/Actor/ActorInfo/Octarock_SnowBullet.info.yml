@@ -1,0 +1,30 @@
+aabbMax:
+  X: 0.3840259909629822
+  Y: 0.38155698776245117
+  Z: 0.39524999260902405
+aabbMin:
+  X: -0.3834570050239563
+  Y: -0.4051559865474701
+  Z: -0.37671199440956116
+attackPower: 2
+bfres: Enemy_Octarock
+boundingForTraverse: 0.7867130041122437
+bugMask: 3
+elink: Octarock_Bullet
+instSize: 40800
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Octarock_RockSnow
+name: Octarock_SnowBullet
+profile: Bullet
+slink: Octarock_Bullet
+sortKey: 0
+tags:
+  tagc2ac3213: !u 0xc2ac3213
+terrainTextures:
+- !u 0xffffff08
+yLimitAlgorithm: NoLimit

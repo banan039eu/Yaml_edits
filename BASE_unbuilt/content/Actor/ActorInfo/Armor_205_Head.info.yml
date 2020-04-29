@@ -1,0 +1,43 @@
+aabbMax:
+  X: 0.1341550052165985
+  Y: 1.780269980430603
+  Z: 0.18211600184440613
+aabbMin:
+  X: -0.1795240044593811
+  Y: 1.4453200101852417
+  Z: -0.5117189884185791
+armorDefenceAddLevel: 3
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_206_Head
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_205
+boundingForTraverse: 0.3349500000476837
+bugMask: 1
+instSize: 59996
+itemBuyingPrice: 60
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 125
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_205_Head
+name: Armor_205_Head
+profile: ArmorHead
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: AmiiboWindWaker
+sortKey: 4321710
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  taga21d5dbb: !u 0xa21d5dbb
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

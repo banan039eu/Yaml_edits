@@ -1,0 +1,27 @@
+aabbMax:
+  X: 9.911540031433105
+  Y: 3.05676007270813
+  Z: 5.957220077514648
+aabbMin:
+  X: -9.911540031433105
+  Y: -1.4272799491882324
+  Z: -5.957220077514648
+attackPower: 0
+bfres: DgnObj_DLC_SpurGear_B
+boundingForTraverse: 4.484039783477783
+bugMask: 3
+generalLife: 100
+instSize: 86200
+mainModel: DgnObj_DLC_SpurGear_B_01
+name: DgnObj_DLC_SpurGear_B_01
+profile: MapConstActive
+rigidBodyCenterY: 0.01637299917638302
+slink: DgnObj_DLC_SpurGear_B_01
+sortKey: -43
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2c608f30: 744525616
+  tagbeabf785: !u 0xbeabf785
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

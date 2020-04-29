@@ -1,0 +1,29 @@
+aabbMax:
+  X: 0.5
+  Y: 0.5
+  Z: 0.5
+aabbMin:
+  X: -0.5
+  Y: -0.5
+  Z: -0.5
+attackPower: 0
+bfres: DgnObj_AncientBall_A
+boundingForTraverse: 1.0
+bugMask: 3
+elink: AncientBall
+generalLife: 100
+instSize: 45404
+mainModel: DgnObj_Hrl_AncientBall_01
+name: FldObj_GiantBrotherBall_03
+profile: MapDynamicActive
+rigidBodyCenterY: -2.700000004551839e-05
+slink: AncientBall
+sortKey: -7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagff2ecb67: !u 0xff2ecb67
+yLimitAlgorithm: NoLimit

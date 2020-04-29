@@ -1,0 +1,21 @@
+aabbMax:
+  X: 2.0
+  Y: 4.0
+  Z: 0.4000000059604645
+aabbMin:
+  X: -2.0
+  Y: 0.0
+  Z: -0.4000000059604645
+bfres: DgnObj_ShutterFence_A
+boundingForTraverse: 4.0
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18228
+mainModel: DgnObj_ShutterFenceFrame_A_01
+name: DgnObj_ShutterFenceFrame_A
+profile: MapConstPassive
+sortKey: 4
+tags:
+  tag572de768: 1462626152
+  tagc28d054e: !u 0xc28d054e
+yLimitAlgorithm: NoLimit

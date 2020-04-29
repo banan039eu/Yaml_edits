@@ -1,0 +1,33 @@
+aabbMax:
+  X: 1.148669958114624
+  Y: 1.156000018119812
+  Z: 1.1534899473190308
+aabbMin:
+  X: -1.1510599851608276
+  Y: -1.1479300260543823
+  Z: -1.159060001373291
+attackPower: 24
+bfres: Obj_RemainsWaterChaseBullet_A
+boundingForTraverse: 2.3039300441741943
+bugMask: 3
+elink: SiteBossSpearIceBullet
+instSize: 40520
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Obj_RemainsWaterChaseBullet_A_01
+name: SiteBossSpearIceBullet
+profile: Bullet
+slink: SiteBossSpearIceBullet
+sortKey: 0
+tags:
+  tag3a61e2a9: 979493545
+  tag6c5267d2: 1817339858
+  tag74831ee0: 1954750176
+  tagc2ac3213: !u 0xc2ac3213
+  tagfd964809: !u 0xfd964809
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

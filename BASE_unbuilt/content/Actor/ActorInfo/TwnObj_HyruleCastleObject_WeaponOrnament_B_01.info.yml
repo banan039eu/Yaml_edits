@@ -1,0 +1,21 @@
+aabbMax:
+  X: 1.1768100261688232
+  Y: 2.2322800159454346
+  Z: 0.4398910105228424
+aabbMin:
+  X: -1.1768100261688232
+  Y: -1.55771005153656
+  Z: 0.0
+bfres: TwnObj_HyruleCastleObject_A
+boundingForTraverse: 3.789989948272705
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28376
+mainModel: TwnObj_HyruleCastleObject_WeaponOrnament_B_01
+name: TwnObj_HyruleCastleObject_WeaponOrnament_B_01
+profile: MapConstPassive
+sortKey: 5
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+yLimitAlgorithm: NoLimit

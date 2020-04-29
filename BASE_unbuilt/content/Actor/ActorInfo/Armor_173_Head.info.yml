@@ -1,0 +1,41 @@
+aabbMax:
+  X: 0.2607420086860657
+  Y: 2.101560115814209
+  Z: 0.2239989936351776
+aabbMin:
+  X: -0.2607420086860657
+  Y: 1.2978899478912354
+  Z: -0.3459379971027374
+armorDefenceAddLevel: 7
+armorEffectAncientPowUp: true
+armorEffectEffectLevel: 1
+armorEffectEffectType: ResistAncient
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_173
+boundingForTraverse: 0.8036699891090393
+bugMask: 1
+instSize: 59316
+itemBuyingPrice: 50
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 15
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_173_Head
+name: Armor_173_Head
+profile: ArmorHead
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: Midna
+sortKey: 5421820
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

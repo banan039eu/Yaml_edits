@@ -1,0 +1,29 @@
+aabbMax:
+  X: 7.311180114746094
+  Y: 3.134619951248169
+  Z: 6.109839916229248
+aabbMin:
+  X: -6.65841007232666
+  Y: -3.0384700298309326
+  Z: -5.454999923706055
+attackPower: 0
+bfres: FldObj_RockOrangeStone_A
+boundingForTraverse: 6.173089981079102
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 37968
+mainModel: FldObj_RockOrangeStone_A_01
+name: FldObj_RockOrangeStone_A_01_Demo
+profile: MapConstActive
+rigidBodyCenterY: 0.10759499669075012
+sortKey: -13
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff15
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,24 @@
+aabbMax:
+  X: 40.94609832763672
+  Y: 58.57720184326172
+  Z: 50.458099365234375
+aabbMin:
+  X: -57.24369812011719
+  Y: -3.0165700912475586
+  Z: -37.73929977416992
+bfres: TwnObj_HyruleCastle_A
+boundingForTraverse: 61.593772888183594
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 369972
+isHasFar: true
+mainModel: TwnObj_HyruleCastle_ThirdCitadel_A_01
+name: TwnObj_HyruleCastle_ThirdCitadel_A_01
+profile: MapConstPassive
+sortKey: -8
+tags:
+  taga1c9da5d: !u 0xa1c9da5d
+terrainTextures:
+- !u 0xffff5250
+traverseDist: 631.9849243164062
+yLimitAlgorithm: NoLimit

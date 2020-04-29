@@ -1,0 +1,52 @@
+aabbMax:
+  X: 10.270899772644043
+  Y: 8.806610107421875
+  Z: 6.080619812011719
+aabbMin:
+  X: -6.672140121459961
+  Y: -0.5054360032081604
+  Z: -2.7163798809051514
+attackPower: 10
+bfres: Enemy_Golem_Ice
+boundingForTraverse: 9.31204605102539
+bugMask: 3
+drops:
+  Normal:
+  - Item_Ore_I
+  - Item_Ore_C
+  Normal2:
+  - Item_Ore_I
+  - Item_Ore_E
+  - Item_Ore_C
+  - Item_Ore_A
+elink: Enemy_Golem_Ice
+enemyRank: 20
+generalLife: 800
+homeArea:
+- name: HeburaMountains
+- name: GerudoHighlands
+- name: ''
+instSize: 302268
+lookAtOffsetY: 6.5
+mainModel: Golem_Ice
+name: Enemy_Golem_Ice
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: GiantEnemy
+rigidBodyCenterY: -0.1562899947166443
+slink: Enemy_Golem_Ice
+sortKey: 1202
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2bc52291: 734339729
+  tag2be89673: 736663155
+  tag35b5afc9: 901099465
+  tag4806038d: 1208353677
+  tag994aef4b: !u 0x994aef4b
+  tag9eb0ef08: !u 0x9eb0ef08
+  tagaf85ec67: !u 0xaf85ec67
+  tagb0c9e79a: !u 0xb0c9e79a
+xlink: Enemy_Golem
+yLimitAlgorithm: NoLimit

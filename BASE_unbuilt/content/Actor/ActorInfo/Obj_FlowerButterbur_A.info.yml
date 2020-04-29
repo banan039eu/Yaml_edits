@@ -1,0 +1,35 @@
+aabbMax:
+  X: 0.8734899759292603
+  Y: 1.3627599477767944
+  Z: 0.9151650071144104
+aabbMin:
+  X: -1.0139199495315552
+  Y: -0.09901999682188034
+  Z: -0.7823070287704468
+attackPower: 0
+bfres: Obj_FlowerButterbur_A
+boundingForTraverse: 1.4617799520492554
+bugMask: 2
+elink: Obj_FlowerButterbur_A
+generalLife: 100
+instSize: 23252
+mainModel: Obj_FlowerButterbur_A_01
+name: Obj_FlowerButterbur_A
+profile: MapDynamicPassive
+slink: Plant
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag1f4b9ede: 525049566
+  tag31409cea: 826318058
+  tag3d4375d9: 1027831257
+  tag50fb41e2: 1358643682
+  tag51ed35a6: 1374500262
+  tag55ef2d02: 1441737986
+  tag7de11d78: 2111905144
+  taga4a8ba48: !u 0xa4a8ba48
+  tagc563c8cb: !u 0xc563c8cb
+  tage91ea5f6: !u 0xe91ea5f6
+  tage9411376: !u 0xe9411376
+yLimitAlgorithm: NoLimit

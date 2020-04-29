@@ -1,0 +1,7 @@
+bugMask: 0
+instSize: 2344
+name: FldObj_DeathMountain_AirWall
+profile: MapConstPassive
+sortKey: 4429
+traverseDist: 800.0
+yLimitAlgorithm: NoLimit

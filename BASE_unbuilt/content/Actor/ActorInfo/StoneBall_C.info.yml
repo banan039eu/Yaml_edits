@@ -1,0 +1,25 @@
+aabbMax:
+  X: 0.5
+  Y: 0.5
+  Z: 0.5
+aabbMin:
+  X: -0.5
+  Y: -0.5
+  Z: -0.5
+attackPower: 0
+bfres: DgnObj_StoneBall_A
+boundingForTraverse: 1.0
+bugMask: 2
+generalLife: 100
+instSize: 29532
+mainModel: DgnObj_StoneBall_01
+name: StoneBall_C
+profile: MapDynamicActive
+slink: StoneBall
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

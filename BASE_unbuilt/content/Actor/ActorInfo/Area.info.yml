@@ -1,0 +1,8 @@
+bugMask: 1
+instSize: 4604
+name: Area
+profile: Area
+sortKey: 0
+tags:
+  tagb54a7a34: !u 0xb54a7a34
+yLimitAlgorithm: NoLimit

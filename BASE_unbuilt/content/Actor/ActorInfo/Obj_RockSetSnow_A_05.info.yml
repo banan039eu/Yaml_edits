@@ -1,0 +1,22 @@
+aabbMax:
+  X: 17.786300659179688
+  Y: 6.709710121154785
+  Z: 24.361000061035156
+aabbMin:
+  X: -17.464500427246094
+  Y: -6.8014302253723145
+  Z: -24.934499740600586
+bfres: Obj_RockSnow_A
+boundingForTraverse: 13.511140823364258
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+mainModel: Obj_RockSetSnow_A_05
+name: Obj_RockSetSnow_A_05
+profile: MapConstPassive
+sortKey: -2
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff37
+yLimitAlgorithm: NoLimit

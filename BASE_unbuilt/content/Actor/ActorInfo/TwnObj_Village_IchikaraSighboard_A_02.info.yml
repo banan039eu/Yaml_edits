@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.41182801127433777
+  Y: 3.1322100162506104
+  Z: 0.40768399834632874
+aabbMin:
+  X: -0.40338099002838135
+  Y: -0.005776999983936548
+  Z: -0.39819100499153137
+attackPower: 0
+bfres: TwnObj_Village_Ichikara_A
+boundingForTraverse: 3.137986898422241
+bugMask: 1
+cursorOffsetY: 1.100000023841858
+generalLife: 1
+instSize: 66072
+mainModel: TwnObj_Village_IchikaraSighboard_A_02
+name: TwnObj_Village_IchikaraSighboard_A_02
+profile: MapDynamicPassive
+rigidBodyCenterY: 1.5385299921035767
+sortKey: -3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2a2d0822: 707594274
+  tagef748738: !u 0xef748738
+traverseDist: 50.0
+yLimitAlgorithm: NoLimit

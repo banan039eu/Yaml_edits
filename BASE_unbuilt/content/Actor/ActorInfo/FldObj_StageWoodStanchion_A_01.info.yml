@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.32227200269699097
+  Y: 0.0886320024728775
+  Z: 0.44871199131011963
+aabbMin:
+  X: -0.24557000398635864
+  Y: -7.860330104827881
+  Z: -0.478302001953125
+attackPower: 10
+bfres: FldObj_StageWood_A
+boundingForTraverse: 7.948962211608887
+bugMask: 2
+elink: FldObj_StageWoodStanchion_A_01
+generalLife: 1
+instSize: 47876
+mainModel: FldObj_StageWoodStanchion_A_01
+name: FldObj_StageWoodStanchion_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: -4.0
+slink: FldObj_StageWoodStanchion_A_01
+sortKey: 12
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+yLimitAlgorithm: NoLimit

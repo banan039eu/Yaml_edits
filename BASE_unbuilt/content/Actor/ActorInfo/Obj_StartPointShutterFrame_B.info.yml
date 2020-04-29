@@ -1,0 +1,21 @@
+aabbMax:
+  X: 4.0
+  Y: 8.0
+  Z: 0.8999999761581421
+aabbMin:
+  X: -4.0
+  Y: 0.0
+  Z: -0.8999999761581421
+bfres: FldObj_FirstShrineShutter_B
+boundingForTraverse: 8.0
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 27608
+mainModel: FldObj_FirstShrineShutterFrame_B_01
+name: Obj_StartPointShutterFrame_B
+profile: MapConstPassive
+sortKey: -1
+tags:
+  tag572de768: 1462626152
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,63 @@
+aabbMax:
+  X: 0.41938599944114685
+  Y: 0.8492230176925659
+  Z: 0.4744360148906708
+aabbMin:
+  X: -0.3965980112552643
+  Y: -0.3856010138988495
+  Z: -0.35071098804473877
+bfres: Obj_PlantCarrot_B
+boundingForTraverse: 1.2348239421844482
+bugMask: 3
+cureItemEffectLevel: 4
+cureItemEffectType: ExGutsMaxUp
+cureItemEffectiveTime: 300
+cureItemHitPointRecover: 8
+cursorOffsetY: 0.5
+drops:
+  Normal:
+  - Item_PlantGet_Q
+elink: Item_Plant_Q
+generalLife: 1
+instSize: 46780
+itemBuyingPrice: 120
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 30
+itemStainColor: 13
+itemUseIconActorName: Item_PlantGet_Q
+lookAtOffsetY: 0.30000001192092896
+mainModel: Obj_PlantCarrot_B_01
+name: Item_Plant_Q
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+slink: Item_PlantRoot
+sortKey: 31490
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_PlantGet_Q
+tags:
+  tag14185415: 337138709
+  tag1f4b9ede: 525049566
+  tag3909a11f: 956932383
+  tag55ef2d02: 1441737986
+  tag5ad3864c: 1523811916
+  tag682e5129: 1747865897
+  tag7de11d78: 2111905144
+  tag85c817c3: !u 0x85c817c3
+  tag960721f7: !u 0x960721f7
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  taga4a8ba48: !u 0xa4a8ba48
+  tagbbf08f85: !u 0xbbf08f85
+  tagc2ac3213: !u 0xc2ac3213
+  tagcc6dc85b: !u 0xcc6dc85b
+  tagd902a8a2: !u 0xd902a8a2
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage9411376: !u 0xe9411376
+  tagef2efe5d: !u 0xef2efe5d
+  tagf47b2e0d: !u 0xf47b2e0d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,40 @@
+aabbMax:
+  X: 0.3442020118236542
+  Y: 1.78711998462677
+  Z: 0.6834350228309631
+aabbMin:
+  X: -0.543071985244751
+  Y: -0.00012599999899975955
+  Z: -0.23088300228118896
+boundingForTraverse: 1.7872459888458252
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: UMii_Hylia_Backpack
+instSize: 610652
+name: Npc_Road_019
+profile: NPC
+slink: Npc_Hylia_M
+sortKey: 4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+travelerAppearGameDataName: FirstTouchdown
+travelerDeleteGameDataName: StolenBook_KaidoNPC_Delete
+travelerRideHorseName: ''
+travelerRoutePoint0Name: G6_GOAL_32
+travelerRoutePoint10Name: G6_JCT_40
+travelerRoutePoint11Name: G6_GOAL_40
+travelerRoutePoint1Name: G6_JCT_32
+travelerRoutePoint2Name: G6_JCT_11
+travelerRoutePoint3Name: RoadKakariko_JCT00
+travelerRoutePoint4Name: G6_JCT_N_00
+travelerRoutePoint5Name: G6_RD_N_00
+travelerRoutePoint6Name: G6_RD_N_01
+travelerRoutePoint7Name: G6_RD_N_02
+travelerRoutePoint8Name: G5_RD_00
+travelerRoutePoint9Name: G6_JCT_K_02
+travelerRouteType: ''
+traverseDist: 200.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

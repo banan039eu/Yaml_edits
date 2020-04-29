@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.34558001160621643
+  Y: 2.289669990539551
+  Z: 0.23605500161647797
+aabbMin:
+  X: -0.39236998558044434
+  Y: -0.0007719999994151294
+  Z: -0.631987988948822
+bfres: Npc_Gerudo_Hero
+boundingForTraverse: 2.2904419898986816
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Dm_Npc_Gerdo_Hero
+instSize: 410540
+mainModel: Npc_Gerudo_Hero
+name: Dm_Npc_Gerdo_Hero
+profile: NPC
+slink: Npc
+sortKey: -11
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag74831ee0: 1954750176
+  tag84f40ec6: !u 0x84f40ec6
+  tagfd5643b5: !u 0xfd5643b5
+yLimitAlgorithm: NoLimit

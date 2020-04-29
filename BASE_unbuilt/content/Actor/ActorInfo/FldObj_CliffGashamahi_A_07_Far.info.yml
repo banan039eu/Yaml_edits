@@ -1,0 +1,24 @@
+aabbMax:
+  X: 13.957799911499023
+  Y: 0.2560499906539917
+  Z: 12.1048002243042
+aabbMin:
+  X: -14.513099670410156
+  Y: -14.972999572753906
+  Z: -1.244070053100586
+bfres: FldObj_RockGashamahi_Far
+boundingForTraverse: 15.229049682617188
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18292
+mainModel: FldObj_CliffGashamahi_A_07_Far
+name: FldObj_CliffGashamahi_A_07_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff54
+traverseDist: 1500.0
+yLimitAlgorithm: NoLimit

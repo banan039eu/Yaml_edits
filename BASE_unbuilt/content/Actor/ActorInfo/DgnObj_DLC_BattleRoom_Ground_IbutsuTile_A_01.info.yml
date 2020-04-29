@@ -1,0 +1,21 @@
+aabbMax:
+  X: 75.0
+  Y: 0.0
+  Z: 75.0
+aabbMin:
+  X: -75.0
+  Y: 0.0
+  Z: -75.0
+bfres: DgnObj_DLC_BattleRoom_Ground_A
+boundingForTraverse: 106.0660171508789
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: DgnObj_DLC_BattleRoom_Ground_IbutsuTile_A_01
+name: DgnObj_DLC_BattleRoom_Ground_IbutsuTile_A_01
+profile: MapConstPassive
+sortKey: -22
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+traverseDist: 800.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,20 @@
+aabbMax:
+  X: 44.61750030517578
+  Y: 18.358999252319336
+  Z: 71.50189971923828
+aabbMin:
+  X: -44.61750030517578
+  Y: -4.800000190734863
+  Z: -71.50189971923828
+bfres: TwnObj_TempleOfTime_A
+boundingForTraverse: 23.159000396728516
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 117524
+isHasFar: true
+mainModel: TwnObj_TempleOfTime_Base_A_02
+name: TwnObj_TempleOfTime_Base_A_02
+profile: MapConstPassive
+sortKey: -10
+traverseDist: 668.5614624023438
+yLimitAlgorithm: NoLimit

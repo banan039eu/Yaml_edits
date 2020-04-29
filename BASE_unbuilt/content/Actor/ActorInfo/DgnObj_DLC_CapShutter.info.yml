@@ -1,0 +1,26 @@
+aabbMax:
+  X: 1.4617700576782227
+  Y: 0.013984999619424343
+  Z: 2.0634500980377197
+aabbMin:
+  X: -1.4617600440979004
+  Y: -0.24541999399662018
+  Z: -0.8577409982681274
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuEx_D
+boundingForTraverse: 0.2594049870967865
+bugMask: 3
+generalLife: 100
+instSize: 36644
+mainModel: DgnObj_DLC_IbutsuExD_CapShutter_A_01
+name: DgnObj_DLC_CapShutter
+profile: MapDynamicActive
+slink: DgnObj_DLC_CapShutter
+sortKey: 36
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag7dd56981: 2111138177
+  tagc28d054e: !u 0xc28d054e
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

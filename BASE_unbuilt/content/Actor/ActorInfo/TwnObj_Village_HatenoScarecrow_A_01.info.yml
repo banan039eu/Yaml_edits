@@ -1,0 +1,18 @@
+aabbMax:
+  X: 1.1082099676132202
+  Y: 3.031169891357422
+  Z: 0.6615279912948608
+aabbMin:
+  X: -0.9700000286102295
+  Y: -0.4762429893016815
+  Z: -0.5590559840202332
+bfres: TwnObj_Village_Hateno_A
+boundingForTraverse: 3.507412910461426
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 58724
+mainModel: TwnObj_Village_HatenoScarecrow_A_01
+name: TwnObj_Village_HatenoScarecrow_A_01
+profile: MapConstPassive
+sortKey: 6
+yLimitAlgorithm: NoLimit

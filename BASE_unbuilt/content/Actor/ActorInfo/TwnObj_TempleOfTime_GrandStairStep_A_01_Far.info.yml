@@ -1,0 +1,20 @@
+aabbMax:
+  X: 0.12202499806880951
+  Y: 13.434800148010254
+  Z: 62.89580154418945
+aabbMin:
+  X: -75.10430145263672
+  Y: -0.0204709991812706
+  Z: -11.027700424194336
+bfres: TwnObj_TempleOfTime_A_Far
+boundingForTraverse: 13.455270767211914
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: TwnObj_TempleOfTime_GrandStairStep_A_01_Far
+name: TwnObj_TempleOfTime_GrandStairStep_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

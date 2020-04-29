@@ -1,0 +1,7 @@
+bugMask: 1
+instSize: 4508
+name: AreaCulling_OuterNPCMementary
+profile: Area
+sortKey: -2
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,25 @@
+aabbMax:
+  X: 5.206920146942139
+  Y: 13.719200134277344
+  Z: 4.944310188293457
+aabbMin:
+  X: -4.739409923553467
+  Y: -0.01924999989569187
+  Z: -5.646080017089844
+attackPower: 0
+bfres: TwnObj_MamonoShop_A
+boundingForTraverse: 13.738450050354004
+bugMask: 1
+generalLife: 100
+instSize: 280040
+mainModel: TwnObj_MamonoShop_A_01
+name: TwnObj_MamonoShop_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 3.064300060272217
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag6308f367: 1661530983
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

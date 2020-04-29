@@ -1,0 +1,7 @@
+bugMask: 1
+cursorOffsetY: 0.5
+instSize: 4704
+name: PlayerForbidComebackTag
+profile: AreaManagementForPlayer
+sortKey: 0
+yLimitAlgorithm: NoLimit

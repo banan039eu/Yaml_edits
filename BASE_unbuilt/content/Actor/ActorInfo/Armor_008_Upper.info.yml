@@ -1,0 +1,42 @@
+aabbMax:
+  X: 0.9179689884185791
+  Y: 1.4931600093841553
+  Z: 0.18469199538230896
+aabbMin:
+  X: -0.9179689884185791
+  Y: 0.6606619954109192
+  Z: -0.17052599787712097
+armorDefenceAddLevel: 3
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: ResistHot
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_040_Upper
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_008
+boundingForTraverse: 0.8324980139732361
+bugMask: 3
+instSize: 116108
+itemBuyingPrice: 1300
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 325
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_008_Upper
+name: Armor_008_Upper
+profile: ArmorUpper
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: Gerudo
+slink: Armor_Upper_MetalLight
+sortKey: 1922044
+tags:
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

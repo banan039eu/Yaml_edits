@@ -1,0 +1,28 @@
+aabbMax:
+  X: 1.8175300359725952
+  Y: 9.650010108947754
+  Z: 2.450000047683716
+aabbMin:
+  X: -1.8175300359725952
+  Y: -0.21117299795150757
+  Z: -3.200000047683716
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuEx_E
+boundingForTraverse: 9.861183166503906
+bugMask: 3
+elink: DgnObj_DLC_IbutsuEx_E_WaterPump_A_02
+generalLife: 100
+instSize: 57304
+mainModel: DgnObj_DLC_IbutsuEx_E_WaterPump_A_02
+name: DgnObj_DLC_IbutsuEx_E_WaterPump_A_02
+profile: MapConstActive
+rigidBodyCenterY: 4.555990219116211
+slink: DgnObj_DLC_IbutsuEx_E_WaterPump
+sortKey: 113
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+  tag8fda6cdd: !u 0x8fda6cdd
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

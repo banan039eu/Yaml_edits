@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 2424
+name: ShelterFromRainTag
+profile: AreaManagementForOthers
+sortKey: 2
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,29 @@
+aabbMax:
+  X: 7.11283016204834
+  Y: 7.11283016204834
+  Z: 2.9460999965667725
+aabbMin:
+  X: -7.11283016204834
+  Y: -7.11283016204834
+  Z: -1.489799976348877
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuObj_A
+boundingForTraverse: 14.22566032409668
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 81676
+mainModel: DgnObj_DLC_BevelGear_A_02
+name: DgnObj_DLC_BevelGear_A_02
+profile: MapDynamicActive
+rigidBodyCenterY: -3.999999989900971e-06
+sortKey: -7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tag2c608f30: 744525616
+  tagbeabf785: !u 0xbeabf785
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

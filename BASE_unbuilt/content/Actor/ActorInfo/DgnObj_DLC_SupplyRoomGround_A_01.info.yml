@@ -1,0 +1,28 @@
+aabbMax:
+  X: 19.14229965209961
+  Y: 1.708799958229065
+  Z: 20.2283992767334
+aabbMin:
+  X: -18.99209976196289
+  Y: -3.950000047683716
+  Z: -19.459800720214844
+attackPower: 0
+bfres: DgnObj_DLC_SupplyRoom_A
+boundingForTraverse: 5.65880012512207
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 224364
+mainModel: DgnObj_DLC_SupplyRoomGround_A_01
+name: DgnObj_DLC_SupplyRoomGround_A_01
+profile: MapConstActive
+rigidBodyCenterY: -0.5276079773902893
+sortKey: -4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+terrainTextures:
+- 1378494729
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

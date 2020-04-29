@@ -1,0 +1,29 @@
+aabbMax:
+  X: 3.5006299018859863
+  Y: 25.265300750732422
+  Z: 3.5006299018859863
+aabbMin:
+  X: -3.5006299018859863
+  Y: 0.043859999626874924
+  Z: -3.5006299018859863
+attackPower: 0
+bfres: FldObj_AncientPillar_A
+boundingForTraverse: 25.2214412689209
+bugMask: 3
+cursorOffsetY: 0.5
+elink: FldObj_DominoStone_A_L_02
+generalLife: 100
+instSize: 48588
+mainModel: FldObj_DominoStone_A_L_02
+name: FldObj_DominoStone_A_L_02
+profile: MapDynamicActive
+rigidBodyCenterY: 30.0
+slink: DominoStoneBridgeL
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  taga9e2816e: !u 0xa9e2816e
+traverseDist: 800.0
+yLimitAlgorithm: NoLimit

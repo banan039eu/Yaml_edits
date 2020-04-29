@@ -1,0 +1,47 @@
+aabbMax:
+  X: 1.4206500053405762
+  Y: 3.173229932785034
+  Z: 2.1846799850463867
+aabbMin:
+  X: -1.9487500190734863
+  Y: -0.4327259957790375
+  Z: -0.8212080001831055
+boundingForTraverse: 3.6059560775756836
+bugMask: 3
+cursorOffsetY: 0.8999999761581421
+elink: UMii_Goron_M_Backpack
+instSize: 371372
+name: Npc_Road_028
+profile: NPC
+slink: Npc_Goron_M
+sortKey: 1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+travelerAppearGameDataName: FirstTouchdown
+travelerDeleteGameDataName: ''
+travelerRideHorseName: ''
+travelerRoutePoint0Name: RoadDeathMt_UYD02
+travelerRoutePoint10Name: H4_JCT_10
+travelerRoutePoint11Name: G4_MID_00
+travelerRoutePoint12Name: RoadDeathMt_JCT07
+travelerRoutePoint13Name: RoadDeathMt_JCT06
+travelerRoutePoint14Name: RoadDeathMt_JCT05
+travelerRoutePoint15Name: RoadDeathMt_JCT04
+travelerRoutePoint16Name: RoadDeathMt_JCT03
+travelerRoutePoint17Name: RoadDeathMt_JCT01
+travelerRoutePoint18Name: RoadDeathMt_JCT02
+travelerRoutePoint1Name: RoadDeathMt_JCT16
+travelerRoutePoint2Name: RoadDeathMt_JCT14
+travelerRoutePoint3Name: RoadDeathMt_JCT13
+travelerRoutePoint4Name: RoadDeathMt_JCT12
+travelerRoutePoint5Name: RoadDeathMt_JCT11
+travelerRoutePoint6Name: RoadDeathMt_JCT10
+travelerRoutePoint7Name: RoadDeathMt_JCT09
+travelerRoutePoint8Name: RoadDeathMt_JCT08
+travelerRoutePoint9Name: H4_JCT_11
+travelerRouteType: ''
+traverseDist: 200.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

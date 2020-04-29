@@ -1,0 +1,34 @@
+aabbMax:
+  X: 12.727399826049805
+  Y: 14.05270004272461
+  Z: 5.533100128173828
+aabbMin:
+  X: -12.727399826049805
+  Y: -14.05270004272461
+  Z: 0.0
+attackPower: 0
+bfres: TwnObj_Village_Hateno_A
+boundingForTraverse: 28.10540008544922
+bugMask: 3
+cursorOffsetY: 0.5
+farModelCulling:
+  center:
+    X: 0.0
+    Y: 28.10540008544922
+    Z: 0.0
+  height: 56.21080017089844
+  radius: 28.10540008544922
+generalLife: 100
+instSize: 63652
+mainModel: TwnObj_Village_HatenoWindmill_Wing_A_01
+name: TwnObj_Village_HatenoWindmill_Wing_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: -0.007507000118494034
+slink: TwnObj_Village_HatenoWindmill_Wing
+sortKey: 7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag336bf311: 862712593
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

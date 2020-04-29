@@ -1,0 +1,26 @@
+aabbMax:
+  X: 2.081199884414673
+  Y: 4.0
+  Z: 2.081199884414673
+aabbMin:
+  X: -2.081199884414673
+  Y: -12.0
+  Z: -2.081199884414673
+attackPower: 0
+bfres: DgnObj_BoxShutter_A
+boundingForTraverse: 16.0
+bugMask: 3
+elink: Lift
+generalLife: 100
+instSize: 43836
+mainModel: DgnObj_BoxShutter4x4_A_01
+name: DgnObj_RailLift_Box
+profile: MapDynamicActive
+rigidBodyCenterY: -4.0
+slink: DgnObj_RailLift_Box
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag7dd56981: 2111138177
+yLimitAlgorithm: NoLimit

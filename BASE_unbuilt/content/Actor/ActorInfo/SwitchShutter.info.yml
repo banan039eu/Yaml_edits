@@ -1,0 +1,27 @@
+aabbMax:
+  X: 1.7999999523162842
+  Y: 3.752810001373291
+  Z: 0.20000000298023224
+aabbMin:
+  X: -1.7999999523162842
+  Y: 0.0
+  Z: -0.20000000298023224
+attackPower: 0
+bfres: DgnObj_SwitchShutter_A
+boundingForTraverse: 3.752810001373291
+bugMask: 3
+elink: Shutter
+generalLife: 100
+instSize: 30596
+mainModel: DgnObj_SwitchShutter_A_01
+name: SwitchShutter
+profile: MapDynamicActive
+rigidBodyCenterY: 1.8728899955749512
+slink: SwitchShutter
+sortKey: 2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag7dd56981: 2111138177
+  tagc28d054e: !u 0xc28d054e
+yLimitAlgorithm: NoLimit

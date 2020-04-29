@@ -1,0 +1,29 @@
+aabbMax:
+  X: 0.49917399883270264
+  Y: 0.49917399883270264
+  Z: 0.49917399883270264
+aabbMin:
+  X: -0.49917399883270264
+  Y: -0.49917399883270264
+  Z: -0.49917399883270264
+attackPower: 0
+bfres: DgnObj_DLC_ColorfulAncientBall_A
+boundingForTraverse: 0.9983479976654053
+bugMask: 3
+elink: DgnObj_DLC_ColorfulAncientBall_A
+generalLife: 100
+instSize: 37932
+mainModel: DgnObj_DLC_ColorfulAncientBall_A_01
+name: DgnObj_DLC_ColorfulAncientBall_A
+profile: MapDynamicActive
+slink: AncientBall
+sortKey: -19
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagff2ecb67: !u 0xff2ecb67
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.5252429842948914
+  Y: 1.7101199626922607
+  Z: 0.5252429842948914
+aabbMin:
+  X: -0.5252429842948914
+  Y: 0.0
+  Z: -0.5252429842948914
+attackPower: 0
+bfres: DgnObj_AncientReactor_A
+boundingForTraverse: 1.7101199626922607
+bugMask: 3
+generalLife: 100
+instSize: 34592
+mainModel: DgnObj_AncientReactor_A_01
+name: SwitchCandlestickAncient
+profile: MapDynamicActive
+rigidBodyCenterY: 0.7359229922294617
+slink: CandleGround
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag28a3a540: 681813312
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

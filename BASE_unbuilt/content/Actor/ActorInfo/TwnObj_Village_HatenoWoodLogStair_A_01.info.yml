@@ -1,0 +1,18 @@
+aabbMax:
+  X: 1.7656500339508057
+  Y: 1.6302800178527832
+  Z: 1.8687599897384644
+aabbMin:
+  X: -1.894320011138916
+  Y: -0.9349480271339417
+  Z: -1.9303900003433228
+bfres: TwnObj_Village_Hateno_A
+boundingForTraverse: 2.56522798538208
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18548
+mainModel: TwnObj_Village_HatenoWoodLogStair_A_01
+name: TwnObj_Village_HatenoWoodLogStair_A_01
+profile: MapConstPassive
+sortKey: 1
+yLimitAlgorithm: NoLimit

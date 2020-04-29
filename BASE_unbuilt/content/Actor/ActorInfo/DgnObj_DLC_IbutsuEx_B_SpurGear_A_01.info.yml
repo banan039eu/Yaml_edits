@@ -1,0 +1,30 @@
+aabbMax:
+  X: 7.634130001068115
+  Y: 7.634130001068115
+  Z: 1.6150000095367432
+aabbMin:
+  X: -7.634130001068115
+  Y: -7.634130001068115
+  Z: -1.0
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuEx_B
+boundingForTraverse: 15.26826000213623
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 90124
+mainModel: DgnObj_DLC_IbutsuEx_B_SpurGear_A_01
+name: DgnObj_DLC_IbutsuEx_B_SpurGear_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: -9.999999974752427e-07
+slink: DgnObj_DLC_IbutsuEx_B_SpurGear_A_01
+sortKey: -10
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tag2c608f30: 744525616
+  tagbeabf785: !u 0xbeabf785
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,31 @@
+aabbMax:
+  X: 141.15199279785156
+  Y: 44.34379959106445
+  Z: 114.41999816894531
+aabbMin:
+  X: -141.0260009765625
+  Y: -46.56420135498047
+  Z: -104.84400177001953
+attackPower: 4
+bfres: DgnObj_IbutsuWindField_A
+boundingForTraverse: 90.90800476074219
+bugMask: 3
+elink: RemainsWind
+generalLife: 100
+instSize: 413220
+isHasFar: true
+mainModel: DgnObj_IbutsuWindField_A_01
+name: RemainsWind
+profile: Remains
+slink: RemainsWind
+sortKey: -17
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag336bf311: 862712593
+  tagb54a7a34: !u 0xb54a7a34
+  tagc28d054e: !u 0xc28d054e
+  tagcd60a1be: !u 0xcd60a1be
+  tagfd5643b5: !u 0xfd5643b5
+traverseDist: 800.0
+yLimitAlgorithm: NoLimit

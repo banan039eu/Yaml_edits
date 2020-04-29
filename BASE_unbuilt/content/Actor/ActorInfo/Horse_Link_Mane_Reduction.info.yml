@@ -1,0 +1,17 @@
+aabbMax:
+  X: 0.6030150055885315
+  Y: 2.4823501110076904
+  Z: 2.210750102996826
+aabbMin:
+  X: -0.6030150055885315
+  Y: 1.5214799642562866
+  Z: -2.478519916534424
+bfres: Horse_Link_Mane_Reduction
+boundingForTraverse: 0.9608700275421143
+bugMask: 1
+instSize: 58552
+mainModel: Horse_Link_Mane_Reduction
+name: Horse_Link_Mane_Reduction
+profile: HorseObject
+sortKey: 0
+yLimitAlgorithm: NoLimit

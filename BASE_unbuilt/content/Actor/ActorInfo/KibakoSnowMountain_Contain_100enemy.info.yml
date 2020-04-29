@@ -1,0 +1,41 @@
+aabbMax:
+  X: 1.0959899425506592
+  Y: 2.0421900749206543
+  Z: 1.0699900388717651
+aabbMin:
+  X: -1.0700700283050537
+  Y: -0.01940000057220459
+  Z: -1.0509599447250366
+attackPower: 0
+bfres: Obj_BoxWood_Snowmountain_A
+boundingForTraverse: 2.0615899562835693
+bugMask: 3
+cursorOffsetY: 0.5
+drops:
+  Amiibo: 1
+  Normal:
+  - Item_Fruit_A
+  - Item_Fruit_K
+  Normal2:
+  - Obj_ArrowNormal_A_01
+  - Obj_ArrowBundle_A_02
+  - Obj_ArrowBundle_A_01
+elink: KibakoSnowMountain_Contain_01
+generalLife: 40
+instSize: 46216
+mainModel: Obj_BoxWood_Snowmountain_A
+name: KibakoSnowMountain_Contain_100enemy
+profile: MapDynamicPassive
+rigidBodyCenterY: 1.0
+slink: KibakoHang
+sortKey: -12
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0ba4a61e: 195339806
+  tag25cd2b4d: 634202957
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagd369c30f: !u 0xd369c30f
+  tagff53ef86: !u 0xff53ef86
+yLimitAlgorithm: NoLimit

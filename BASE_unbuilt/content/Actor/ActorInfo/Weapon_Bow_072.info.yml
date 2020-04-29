@@ -1,0 +1,71 @@
+aabbMax:
+  X: 0.16380099952220917
+  Y: 0.06616199761629105
+  Z: 0.8588330149650574
+aabbMin:
+  X: -0.20800800621509552
+  Y: -0.06616199761629105
+  Z: -0.8588330149650574
+attackPower: 30
+bfres: Weapon_Bow_072
+boundingForTraverse: 0.1323239952325821
+bowArrowName: BrightArrowTP
+bowIsLeadShot: false
+bowIsRapidFire: false
+bowLeadShotNum: 0
+bowRapidFireNum: 0
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Bow
+generalLife: 100
+instSize: 50516
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Bow_072
+name: Weapon_Bow_072
+profile: WeaponBow
+slink: Weapon_Bow_072
+sortKey: 14227
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag013512d0: 20255440
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+  tagef2efe5d: !u 0xef2efe5d
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 13
+weaponCommonPoweredSharpAddAtkMin: 8
+weaponCommonPoweredSharpAddLifeMax: 45
+weaponCommonPoweredSharpAddLifeMin: 19
+weaponCommonPoweredSharpAddRapidFireMax: 1.2999999523162842
+weaponCommonPoweredSharpAddRapidFireMin: 1.100000023841858
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 0
+weaponCommonSharpWeaponAddAtkMax: 7
+weaponCommonSharpWeaponAddAtkMin: 4
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 18
+weaponCommonSharpWeaponAddLifeMin: 9
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+xlink: Weapon
+yLimitAlgorithm: NoLimit

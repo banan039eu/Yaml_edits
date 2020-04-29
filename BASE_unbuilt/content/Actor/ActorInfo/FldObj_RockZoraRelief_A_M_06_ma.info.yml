@@ -1,0 +1,36 @@
+aabbMax:
+  X: 8.603919982910156
+  Y: 16.364200592041016
+  Z: 1.0254000425338745
+aabbMin:
+  X: -8.409830093383789
+  Y: -1.6647000312805176
+  Z: -5.716529846191406
+attackPower: 0
+bfres: FldObj_RockZora_A
+boundingForTraverse: 18.028900146484375
+bugMask: 1
+farModelCulling:
+  center:
+    X: 0.0
+    Y: 8.149999618530273
+    Z: -3.0
+  height: 8.149999618530273
+  radius: 8.470000267028809
+generalLife: 1
+instSize: 58124
+mainModel: FldObj_RockZoraRelief_A_M_01
+name: FldObj_RockZoraRelief_A_M_06_ma
+profile: MapDynamicPassive
+rigidBodyCenterY: 6.343210220336914
+sortKey: 21
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2a2d0822: 707594274
+  tag977b149c: !u 0x977b149c
+  tagef748738: !u 0xef748738
+terrainTextures:
+- !u 0xffffff33
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

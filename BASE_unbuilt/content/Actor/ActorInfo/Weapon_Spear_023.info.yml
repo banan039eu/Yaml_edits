@@ -1,0 +1,76 @@
+aabbMax:
+  X: 0.41552698612213135
+  Y: 0.36155200004577637
+  Z: 2.853519916534424
+aabbMin:
+  X: -0.2106810063123703
+  Y: -0.36155200004577637
+  Z: -0.32226601243019104
+attackPower: 30
+bfres: Weapon_Spear_023
+boundingForTraverse: 0.7231040000915527
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Spear_023
+generalLife: 50
+instSize: 65680
+itemBuyingPrice: 20
+itemCreatingPrice: 1000
+itemSaleRevivalCount: -1
+itemSellingPrice: 7
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Spear_023
+name: Weapon_Spear_023
+normal0ItemName01: Item_Enemy_26
+normal0ItemName02: Item_Enemy_29
+normal0ItemName03: Item_Enemy_30
+normal0ItemNum01: 15
+normal0ItemNum02: 5
+normal0ItemNum03: 2
+normal0StuffNum: 3
+pictureBookLiveSpot1: 21
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: 26
+profile: WeaponSpear
+rigidBodyCenterY: -4.199999966658652e-05
+slink: Weapon_Spear_023
+sortKey: 13180
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag3d2fc55b: 1026540891
+  tag5e27ef10: 1579675408
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 24
+weaponCommonPoweredSharpAddAtkMin: 13
+weaponCommonPoweredSharpAddLifeMax: 23
+weaponCommonPoweredSharpAddLifeMin: 10
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 2.0
+weaponCommonPoweredSharpAddThrowMin: 1.5
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 1
+weaponCommonSharpWeaponAddAtkMax: 12
+weaponCommonSharpWeaponAddAtkMin: 6
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 9
+weaponCommonSharpWeaponAddLifeMin: 5
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: Weapon
+yLimitAlgorithm: NoLimit

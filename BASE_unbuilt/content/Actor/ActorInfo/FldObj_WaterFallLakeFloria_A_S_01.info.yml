@@ -1,0 +1,20 @@
+aabbMax:
+  X: 7.975590229034424
+  Y: 0.09999799728393555
+  Z: 9.623539924621582
+aabbMin:
+  X: -7.884960174560547
+  Y: -100.5979995727539
+  Z: -15.897199630737305
+bfres: FldObj_WaterFallFilone_A
+boundingForTraverse: 100.697998046875
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 20216
+isHasFar: true
+mainModel: FldObj_WaterFallFilone_A_S_01
+name: FldObj_WaterFallLakeFloria_A_S_01
+profile: MapConstPassive
+sortKey: -4
+traverseDist: 530.0477294921875
+yLimitAlgorithm: NoLimit

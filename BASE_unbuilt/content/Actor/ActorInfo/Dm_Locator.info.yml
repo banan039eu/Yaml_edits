@@ -1,0 +1,15 @@
+bfres: Dm_Locator
+bugMask: 1
+cursorOffsetY: 0.5
+elink: Dm_Locator
+generalLife: 100
+instSize: 17324
+mainModel: Dm_Locator
+name: Dm_Locator
+profile: DemoNPC
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

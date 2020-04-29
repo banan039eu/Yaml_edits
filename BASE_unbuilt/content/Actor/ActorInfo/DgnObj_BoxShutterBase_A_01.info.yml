@@ -1,0 +1,22 @@
+aabbMax:
+  X: 2.1763999462127686
+  Y: 2.8008499145507812
+  Z: 8.5764799118042
+aabbMin:
+  X: -2.1763999462127686
+  Y: 0.0
+  Z: -2.916520118713379
+attackPower: 0
+bfres: DgnObj_BoxShutter_A
+boundingForTraverse: 2.8008499145507812
+bugMask: 1
+generalLife: 100
+instSize: 62788
+mainModel: DgnObj_BoxShutterBase_A_01
+name: DgnObj_BoxShutterBase_A_01
+profile: MapConstActive
+rigidBodyCenterY: 0.5745390057563782
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

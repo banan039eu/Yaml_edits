@@ -1,0 +1,43 @@
+aabbMax:
+  X: 0.4047220051288605
+  Y: 2.2985498905181885
+  Z: 0.7261139750480652
+aabbMin:
+  X: -0.5378649830818176
+  Y: -0.010227999649941921
+  Z: -0.1476369947195053
+boundingForTraverse: 2.3087780475616455
+bugMask: 3
+cursorOffsetY: 0.4000000059604645
+elink: UMii_Gerudo_W_BackPack
+instSize: 428588
+name: Npc_Road_043
+profile: NPC
+slink: Npc_Gerudo_W
+sortKey: 2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+travelerAppearGameDataName: FirstTouchdown
+travelerDeleteGameDataName: ''
+travelerRideHorseName: ''
+travelerRoutePoint0Name: I3_GOAL_32
+travelerRoutePoint10Name: I2_RD_06
+travelerRoutePoint11Name: J2_RD_00
+travelerRoutePoint12Name: J2_JCT_00
+travelerRoutePoint13Name: J2_JCT_01
+travelerRoutePoint14Name: J2_GOAL_01
+travelerRoutePoint1Name: I3_JCT_32
+travelerRoutePoint2Name: I3_JCT_01
+travelerRoutePoint3Name: I3_RD_01
+travelerRoutePoint4Name: I2_RD_00
+travelerRoutePoint5Name: I2_RD_01
+travelerRoutePoint6Name: I2_RD_02
+travelerRoutePoint7Name: I2_RD_03
+travelerRoutePoint8Name: I2_RD_04
+travelerRoutePoint9Name: I2_RD_05
+travelerRouteType: ''
+traverseDist: 200.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

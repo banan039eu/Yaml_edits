@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.7192379832267761
+  Y: 1.0504800081253052
+  Z: 0.625
+aabbMin:
+  X: -0.7324219942092896
+  Y: -0.4084469974040985
+  Z: -0.6196290254592896
+attackPower: 0
+bfres: Obj_CookSet_B
+boundingForTraverse: 1.458927035331726
+bugMask: 3
+elink: Strange_Beacon_CookSet
+generalLife: 1
+instSize: 55000
+lookAtOffsetY: 0.6000000238418579
+mainModel: CookSet_B
+name: Strange_Beacon_CookSet
+profile: MapDynamicActive
+slink: Strange_Beacon_CookSet
+sortKey: -24
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag51c0c6bb: 1371588283
+  tag6308f367: 1661530983
+yLimitAlgorithm: NoLimit

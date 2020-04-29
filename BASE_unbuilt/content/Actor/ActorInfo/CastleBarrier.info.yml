@@ -1,0 +1,9 @@
+bugMask: 1
+elink: CastleBarrier
+instSize: 6768
+name: CastleBarrier
+profile: AirWall
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+yLimitAlgorithm: NoLimit

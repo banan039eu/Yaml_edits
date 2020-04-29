@@ -1,0 +1,19 @@
+aabbMax:
+  X: 928.343017578125
+  Y: 1781.4100341796875
+  Z: 928.343017578125
+aabbMin:
+  X: -928.343017578125
+  Y: -2361.27001953125
+  Z: -928.343017578125
+bfres: DgnObj_DLC_PriestRoom_A
+boundingForTraverse: 4142.68017578125
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 186512
+mainModel: DgnObj_DLC_PriestRoomDome_A_01
+name: DgnObj_DLC_PriestRoomDome_A_01
+profile: MapConstPassive
+sortKey: 7
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

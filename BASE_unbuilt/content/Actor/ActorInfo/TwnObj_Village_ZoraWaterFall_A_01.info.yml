@@ -1,0 +1,20 @@
+aabbMax:
+  X: 2.000349998474121
+  Y: 0.017110999673604965
+  Z: 0.6047769784927368
+aabbMin:
+  X: -2.00465989112854
+  Y: -28.61590003967285
+  Z: -5.004159927368164
+bfres: TwnObj_Village_Zora_A
+boundingForTraverse: 28.633010864257812
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 19960
+isHasFar: true
+mainModel: TwnObj_Village_ZoraWaterFall_A_01
+name: TwnObj_Village_ZoraWaterFall_A_01
+profile: MapConstPassive
+sortKey: -9
+traverseDist: 506.89202880859375
+yLimitAlgorithm: NoLimit

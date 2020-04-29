@@ -1,0 +1,74 @@
+Chemical:
+  Capaciter: 1
+aabbMax:
+  X: 0.04220600053668022
+  Y: 0.2648929953575134
+  Z: 2.226830005645752
+aabbMin:
+  X: -0.04220600053668022
+  Y: -0.2648929953575134
+  Z: -0.40354400873184204
+attackPower: 14
+bfres: Weapon_Spear_050
+boundingForTraverse: 0.5297859907150269
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: WeaponSpear
+generalLife: 40
+homeArea:
+- name: LanayruWaterSources
+- name: ''
+- name: ''
+instSize: 48544
+itemBuyingPrice: 400
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 100
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Spear_050
+name: Weapon_Spear_049
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponSpear
+slink: Weapon_Spear_Metal
+sortKey: 13132
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag1c0c8d23: 470584611
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb51794dc: !u 0xb51794dc
+  tagdeb2c8bd: !u 0xdeb2c8bd
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 13
+weaponCommonPoweredSharpAddAtkMin: 9
+weaponCommonPoweredSharpAddLifeMax: 14
+weaponCommonPoweredSharpAddLifeMin: 7
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 2.0
+weaponCommonPoweredSharpAddThrowMin: 1.5
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 0
+weaponCommonSharpWeaponAddAtkMax: 8
+weaponCommonSharpWeaponAddAtkMin: 5
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 6
+weaponCommonSharpWeaponAddLifeMin: 3
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: Weapon
+yLimitAlgorithm: NoLimit

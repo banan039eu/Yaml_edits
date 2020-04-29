@@ -1,0 +1,23 @@
+aabbMax:
+  X: 0.358938992023468
+  Y: 1.5536099672317505
+  Z: 0.7020940184593201
+aabbMin:
+  X: -0.5041199922561646
+  Y: -0.002050000010058284
+  Z: -0.2527430057525635
+boundingForTraverse: 1.5556600093841553
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: UMii_Hylia_Backpack
+instSize: 568428
+name: Npc_Strange_Beacon
+profile: NPC
+slink: Npc_Hylia_W
+sortKey: 1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+xlink: Npc
+yLimitAlgorithm: NoLimit

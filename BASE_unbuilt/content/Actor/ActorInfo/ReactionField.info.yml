@@ -1,0 +1,11 @@
+bugMask: 2
+elink: ReactionField
+instSize: 16232
+name: ReactionField
+profile: ActorReaction
+slink: ReactionField
+sortKey: 0
+tags:
+  tagc5b7c123: !u 0xc5b7c123
+xlink: Reaction
+yLimitAlgorithm: NoLimit

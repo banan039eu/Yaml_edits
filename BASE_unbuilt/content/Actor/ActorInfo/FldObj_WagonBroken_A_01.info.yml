@@ -1,0 +1,20 @@
+aabbMax:
+  X: 2.7998299598693848
+  Y: 6.001180171966553
+  Z: 6.979770183563232
+aabbMin:
+  X: -5.527929782867432
+  Y: -0.5125659704208374
+  Z: -7.537970066070557
+bfres: FldObj_WagonBroken_A
+boundingForTraverse: 6.5137457847595215
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 98760
+mainModel: FldObj_WagonBroken_A_01
+name: FldObj_WagonBroken_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tagc60f8acb: !u 0xc60f8acb
+yLimitAlgorithm: NoLimit

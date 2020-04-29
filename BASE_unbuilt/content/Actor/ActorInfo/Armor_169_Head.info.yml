@@ -1,0 +1,51 @@
+aabbMax:
+  X: 0.27490198612213135
+  Y: 1.8242199420928955
+  Z: 0.21691900491714478
+aabbMin:
+  X: -0.27490198612213135
+  Y: 1.1856000423431396
+  Z: -0.23791499435901642
+armorDefenceAddLevel: 28
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: ResistElectricAndResistAncient
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 5
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_184
+boundingForTraverse: 0.6386200189590454
+bugMask: 3
+instSize: 92492
+itemBuyingPrice: 2935
+itemCreatingPrice: 6000
+itemSaleRevivalCount: -1
+itemSellingPrice: 735
+itemStainColor: -1
+itemUseIconActorName: Armor_184_Head
+mainModel: Armor_184_Head
+name: Armor_169_Head
+normal0ItemName01: Armor_168_Head
+normal0ItemName02: Item_Ore_J
+normal0ItemName03: Item_Enemy_31
+normal0ItemNum01: 1
+normal0ItemNum02: 1
+normal0ItemNum03: 2
+normal0StuffNum: 3
+profile: ArmorHead
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: Ancient
+slink: Armor_Head_StoneHeavy
+sortKey: 6421866
+tags:
+  tag1c0c8d23: 470584611
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

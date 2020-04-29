@@ -1,0 +1,23 @@
+aabbMax:
+  X: 30.73430061340332
+  Y: 31.602399826049805
+  Z: 35.8119010925293
+aabbMin:
+  X: -30.737199783325195
+  Y: -31.4822998046875
+  Z: -29.23699951171875
+bfres: TwnObj_Village_Zora_A_Far
+boundingForTraverse: 63.08470153808594
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 188220
+mainModel: TwnObj_Village_ZoraBase_E_01_Far
+name: TwnObj_Village_ZoraBase_E_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+terrainTextures:
+- !u 0xffff402c
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

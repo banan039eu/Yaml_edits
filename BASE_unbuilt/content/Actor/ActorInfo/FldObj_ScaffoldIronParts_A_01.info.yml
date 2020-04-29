@@ -1,0 +1,24 @@
+aabbMax:
+  X: 2.3039300441741943
+  Y: 5.098859786987305
+  Z: 2.3039300441741943
+aabbMin:
+  X: -2.430069923400879
+  Y: -1.8512300252914429
+  Z: -2.3039300441741943
+attackPower: 0
+bfres: FldObj_ScaffoldIronParts_A
+boundingForTraverse: 6.950089931488037
+bugMask: 0
+cursorOffsetY: 0.5
+elink: FldObj_ScaffoldIronParts_A_01
+generalLife: 100
+instSize: 45200
+mainModel: FldObj_ScaffoldIronParts_A_01
+name: FldObj_ScaffoldIronParts_A_01
+profile: MapConstActive
+rigidBodyCenterY: 2.573960065841675
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,26 @@
+aabbMax:
+  X: 1.4200899600982666
+  Y: 1.1984699964523315
+  Z: 1.0805399417877197
+aabbMin:
+  X: -0.9950799942016602
+  Y: 0.0
+  Z: -1.4661999940872192
+attackPower: 0
+bfres: FldObj_KorokStartingBlock_A
+boundingForTraverse: 1.1984699964523315
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 47328
+mainModel: FldObj_KorokStartingBlock_A_01
+name: FldObj_KorokStartingBlock_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.3026840090751648
+slink: FldObj_KorokStartingBlock_A_01
+sortKey: 4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag572de768: 1462626152
+yLimitAlgorithm: NoLimit

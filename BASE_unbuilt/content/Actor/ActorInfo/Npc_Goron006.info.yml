@@ -1,0 +1,25 @@
+aabbMax:
+  X: 1.8369100093841553
+  Y: 3.3418400287628174
+  Z: 1.9224499464035034
+aabbMin:
+  X: -1.7068699598312378
+  Y: -0.003992000129073858
+  Z: -1.2855700254440308
+bfres: Npc_Goron_Darnia
+boundingForTraverse: 3.345832109451294
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Npc_Goron
+instSize: 324460
+mainModel: Npc_Goron_Darnia
+name: Npc_Goron006
+profile: NPC
+slink: Npc_Goron006
+sortKey: -17
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag6e0b6262: 1846239842
+xlink: Npc
+yLimitAlgorithm: NoLimit

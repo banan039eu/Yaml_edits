@@ -1,0 +1,23 @@
+aabbMax:
+  X: 62.37889862060547
+  Y: 54.89139938354492
+  Z: 59.64720153808594
+aabbMin:
+  X: -47.0635986328125
+  Y: -4.900000095367432
+  Z: -48.04439926147461
+bfres: FldObj_CliffSnow_D
+boundingForTraverse: 59.79140090942383
+bugMask: 0
+instSize: 48256
+isHasFar: true
+mainModel: FldObj_CliffSnowTop_D_01
+name: FldObj_CliffSnowTop_D_01
+profile: MapConstPassive
+sortKey: 19
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xff373108
+traverseDist: 653.5419921875
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,42 @@
+aabbMax:
+  X: 1.4206500053405762
+  Y: 3.173229932785034
+  Z: 2.1846799850463867
+aabbMin:
+  X: -1.9487500190734863
+  Y: -0.4327259957790375
+  Z: -0.8212080001831055
+boundingForTraverse: 3.6059560775756836
+bugMask: 3
+cursorOffsetY: 0.8999999761581421
+elink: UMii_Goron_M_Backpack
+instSize: 356588
+name: Npc_Road_042
+profile: NPC
+slink: Npc_Goron_M
+sortKey: 1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+travelerAppearGameDataName: FirstTouchdown
+travelerDeleteGameDataName: ''
+travelerRideHorseName: ''
+travelerRoutePoint0Name: I3_GOAL_33
+travelerRoutePoint10Name: J2_RD_00
+travelerRoutePoint11Name: J2_JCT_00
+travelerRoutePoint12Name: J2_JCT_02
+travelerRoutePoint13Name: J2_GOAL_02
+travelerRoutePoint1Name: I3_JCT_33
+travelerRoutePoint2Name: I3_JCT_01
+travelerRoutePoint3Name: I3_RD_01
+travelerRoutePoint4Name: I2_RD_00
+travelerRoutePoint5Name: I2_RD_02
+travelerRoutePoint6Name: I2_RD_03
+travelerRoutePoint7Name: I2_RD_04
+travelerRoutePoint8Name: I2_RD_05
+travelerRoutePoint9Name: I2_RD_06
+travelerRouteType: ''
+traverseDist: 200.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

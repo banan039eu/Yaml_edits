@@ -1,0 +1,24 @@
+aabbMax:
+  X: 4.154150009155273
+  Y: 0.0
+  Z: 6.102829933166504
+aabbMin:
+  X: -4.256499767303467
+  Y: -61.5806999206543
+  Z: -17.935699462890625
+bfres: TwnObj_WaterFallHyruleCastleGround_A
+boundingForTraverse: 61.5806999206543
+bugMask: 0
+cursorOffsetY: 0.5
+elink: TwnObj_WaterFallHyruleCastleGroundFade_A_02
+instSize: 19588
+isHasFar: true
+mainModel: TwnObj_WaterFallHyruleCastleGroundFade_A_02
+name: TwnObj_WaterFallHyruleCastleGroundFade_A_02
+profile: MapConstPassive
+sortKey: 22
+tags:
+  tag572de768: 1462626152
+  tag84f40ec6: !u 0x84f40ec6
+traverseDist: 525.4674072265625
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,55 @@
+aabbMax:
+  X: 0.17903099954128265
+  Y: 0.601722002029419
+  Z: 0.17903099954128265
+aabbMin:
+  X: -0.17903099954128265
+  Y: 0.0
+  Z: -0.17903099954128265
+bfres: Item_Material_08
+boundingForTraverse: 0.601722002029419
+bugMask: 3
+cookSpiceBoostEffectiveTime: 0
+cookSpiceBoostHitPointRecover: 0
+cookSpiceBoostMaxHeartLevel: 0
+cookSpiceBoostStaminaLevel: 0
+cookSpiceBoostSuccessRate: 0
+cureItemEffectLevel: 0
+cureItemEffectType: None
+cureItemHitPointRecover: 0
+cursorOffsetY: 0.4000000059604645
+elink: Item_Material_08
+generalLife: 1
+instSize: 39516
+itemBuyingPrice: 10
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 3
+itemStainColor: 6
+itemUseIconActorName: ''
+mainModel: Item_Material_08
+monsterShopBuyMamo: 9
+monsterShopSellMamo: 2
+motorcycleEnergy:
+  add: 10.0
+  multiply: 2.0
+name: Item_Material_08
+profile: Item
+rigidBodyCenterY: 0.15000000596046448
+slink: Item_Material_08
+sortKey: 33110
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag37921275: 932319861
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagd7c5d3b2: !u 0xd7c5d3b2
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

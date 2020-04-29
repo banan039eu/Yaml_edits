@@ -1,0 +1,38 @@
+aabbMax:
+  X: 0.5110470056533813
+  Y: 2.069540023803711
+  Z: 1.2572400569915771
+aabbMin:
+  X: -0.4845629930496216
+  Y: -0.02035900019109249
+  Z: -1.3934400081634521
+animalUnitBasePlayRate: 1.0
+attackPower: 0
+bfres: Animal_Goat_Cattle
+boundingForTraverse: 2.0898990631103516
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Animal_Goat_A
+enemyRank: 0
+generalLife: 100
+homeArea:
+- name: WestHateru
+- name: EldinCanyon
+- name: CentralHyrule
+instSize: 141488
+mainModel: Goat_Cattle
+name: Animal_Goat_A
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+slink: Animal_Goat_A
+sortKey: 28021
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag24cd75fe: 617444862
+  tag6b3d3141: 1799172417
+  tagfa5c683e: !u 0xfa5c683e
+xlink: Quadruped_Animal
+yLimitAlgorithm: NoLimit

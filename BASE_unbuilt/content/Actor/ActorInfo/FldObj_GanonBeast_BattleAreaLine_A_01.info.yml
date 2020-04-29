@@ -1,0 +1,11 @@
+attackPower: 0
+bugMask: 0
+generalLife: 100
+instSize: 4816
+name: FldObj_GanonBeast_BattleAreaLine_A_01
+profile: MapConstActive
+sortKey: -37
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 5000.0
+yLimitAlgorithm: NoLimit

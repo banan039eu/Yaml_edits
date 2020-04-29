@@ -1,0 +1,20 @@
+aabbMax:
+  X: 7.724430084228516
+  Y: 10.089400291442871
+  Z: 4.721159934997559
+aabbMin:
+  X: -7.520440101623535
+  Y: 1.399999976158142
+  Z: -4.8014302253723145
+bfres: TwnObj_Village_Sheiker_A
+boundingForTraverse: 8.689400672912598
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 174736
+mainModel: TwnObj_Village_SheikerHotelSet_A_01
+name: TwnObj_Village_SheikerHotelSet_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+yLimitAlgorithm: NoLimit

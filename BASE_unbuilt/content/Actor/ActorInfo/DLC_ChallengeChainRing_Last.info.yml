@@ -1,0 +1,15 @@
+attackPower: 0
+bugMask: 3
+elink: Obj_Ring_RitoHeros
+generalLife: 100
+instSize: 13212
+name: DLC_ChallengeChainRing_Last
+profile: MapDynamicActive
+slink: DLC_ChallengeChainRing
+sortKey: -9
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagc5b7c123: !u 0xc5b7c123
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

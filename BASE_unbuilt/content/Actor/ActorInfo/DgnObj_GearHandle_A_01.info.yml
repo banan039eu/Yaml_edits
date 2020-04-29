@@ -1,0 +1,35 @@
+aabbMax:
+  X: 0.36037400364875793
+  Y: 0.7317469716072083
+  Z: 3.799999952316284
+aabbMin:
+  X: -3.231750011444092
+  Y: -0.7317469716072083
+  Z: 0.0
+attackPower: 0
+bfres: DgnObj_GearHandle_A
+boundingForTraverse: 1.4634939432144165
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 43884
+locators:
+- pos_x: -3.0
+  pos_y: 0.0
+  pos_z: 0.0
+  rot_x: 0.0
+  rot_y: 0.0
+  rot_z: 0.0
+  type: MagnePos
+mainModel: DgnObj_GearHandle_A_01
+name: DgnObj_GearHandle_A_01
+profile: MapDynamicActive
+slink: DgnObj_GearHandle
+sortKey: 14
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2c608f30: 744525616
+  tagaf85ec67: !u 0xaf85ec67
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

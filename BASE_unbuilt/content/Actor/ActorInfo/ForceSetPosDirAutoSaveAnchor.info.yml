@@ -1,0 +1,6 @@
+bugMask: 0
+instSize: 2420
+name: ForceSetPosDirAutoSaveAnchor
+profile: Anchor
+sortKey: -1
+yLimitAlgorithm: NoLimit

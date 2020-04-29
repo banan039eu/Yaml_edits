@@ -1,0 +1,26 @@
+bugMask: 1
+cureItemEffectLevel: 0
+cureItemEffectType: None
+cureItemHitPointRecover: 0
+generalLife: 100
+instSize: 4076
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: Item_Cook_L_04
+profile: CookResult
+sortKey: 50481
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag14185415: 337138709
+  tag30a3552e: 816010542
+  tag80e484a4: !u 0x80e484a4
+  tagb1a90330: !u 0xb1a90330
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

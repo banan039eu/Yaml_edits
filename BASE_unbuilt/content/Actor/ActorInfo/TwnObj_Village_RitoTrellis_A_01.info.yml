@@ -1,0 +1,18 @@
+aabbMax:
+  X: 3.267810106277466
+  Y: 8.416179656982422
+  Z: 3.267810106277466
+aabbMin:
+  X: -3.267810106277466
+  Y: -0.15498900413513184
+  Z: -3.267810106277466
+bfres: TwnObj_Village_Rito_A
+boundingForTraverse: 8.571168899536133
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 80652
+mainModel: TwnObj_Village_RitoTrellis_A_01
+name: TwnObj_Village_RitoTrellis_A_01
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

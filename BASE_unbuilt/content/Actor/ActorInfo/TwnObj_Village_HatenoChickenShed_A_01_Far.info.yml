@@ -1,0 +1,21 @@
+aabbMax:
+  X: 4.561490058898926
+  Y: 4.73714017868042
+  Z: 2.7057299613952637
+aabbMin:
+  X: -4.721970081329346
+  Y: -0.2404170036315918
+  Z: -2.5385398864746094
+bfres: TwnObj_Village_Hateno_A_Far
+boundingForTraverse: 4.977557182312012
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: TwnObj_Village_HatenoChickenShed_A_01_Far
+name: TwnObj_Village_HatenoChickenShed_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

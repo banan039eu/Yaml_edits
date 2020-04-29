@@ -1,0 +1,22 @@
+aabbMax:
+  X: 16.343299865722656
+  Y: 5.297120094299316
+  Z: 8.82861042022705
+aabbMin:
+  X: -15.882399559020996
+  Y: -2.0718600749969482
+  Z: -12.804100036621094
+bfres: Obj_RockYellow_A
+boundingForTraverse: 7.3689799308776855
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18548
+mainModel: Obj_RockSetYellow_A_L_03
+name: Obj_RockSetYellow_A_L_03
+profile: MapConstPassive
+sortKey: 2
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff3e
+yLimitAlgorithm: NoLimit

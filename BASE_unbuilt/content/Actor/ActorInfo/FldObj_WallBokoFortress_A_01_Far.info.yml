@@ -1,0 +1,21 @@
+aabbMax:
+  X: 13.72920036315918
+  Y: 18.850500106811523
+  Z: 4.861440181732178
+aabbMin:
+  X: -13.790200233459473
+  Y: -18.84869956970215
+  Z: -5.0879597663879395
+bfres: FldObj_BokoFortress_A_Far
+boundingForTraverse: 37.69919967651367
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17780
+mainModel: FldObj_WallBokoFortress_A_01_Far
+name: FldObj_WallBokoFortress_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 6000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,21 @@
+aabbMax:
+  X: 2.304450035095215
+  Y: 3.5238800048828125
+  Z: 2.399329900741577
+aabbMin:
+  X: -2.32778000831604
+  Y: -3.3937699794769287
+  Z: -2.1165599822998047
+bfres: FldObj_RockOrangeStone_A
+boundingForTraverse: 6.91765022277832
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 29912
+mainModel: FldObj_RockOrangeStone_A_02
+name: FldObj_RockOrangeStone_A_02
+profile: MapConstPassive
+sortKey: -2
+terrainTextures:
+- !u 0xffffff15
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

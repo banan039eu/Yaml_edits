@@ -1,0 +1,10 @@
+bugMask: 1
+cursorOffsetY: 0.5
+instSize: 0
+name: Priest_Boss_MetaAI
+profile: SoleTag
+sortKey: 0
+tags:
+  tag22bcdf34: 582803252
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

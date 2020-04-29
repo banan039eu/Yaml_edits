@@ -1,0 +1,24 @@
+aabbMax:
+  X: 34.74980163574219
+  Y: 29.368000030517578
+  Z: 22.852399826049805
+aabbMin:
+  X: -38.75210189819336
+  Y: -17.425100326538086
+  Z: -25.135000228881836
+bfres: FldObj_CliffWhiteTunnel_A_Far
+boundingForTraverse: 46.79309844970703
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 27608
+mainModel: FldObj_CliffWhiteTunnel_A_02_Far
+name: FldObj_CliffWhiteTunnel_A_02_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xff1d1110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

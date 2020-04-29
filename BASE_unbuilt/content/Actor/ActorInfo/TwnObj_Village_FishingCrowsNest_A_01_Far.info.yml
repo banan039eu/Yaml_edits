@@ -1,0 +1,21 @@
+aabbMax:
+  X: 3.5731000900268555
+  Y: 23.618499755859375
+  Z: 2.230649948120117
+aabbMin:
+  X: -1.0652600526809692
+  Y: -0.484050989151001
+  Z: -2.203350067138672
+bfres: TwnObj_Village_Fishing_A_Far
+boundingForTraverse: 24.102550506591797
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: TwnObj_Village_FishingCrowsNest_A_01_Far
+name: TwnObj_Village_FishingCrowsNest_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

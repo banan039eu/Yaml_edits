@@ -1,0 +1,15 @@
+attackPower: 1
+bugMask: 3
+elink: LynelFlame
+instSize: 20624
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: LynelFlame
+profile: Bullet
+slink: LynelFlame
+sortKey: -3
+yLimitAlgorithm: NoLimit

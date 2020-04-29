@@ -1,0 +1,25 @@
+aabbMax:
+  X: 2.7619500160217285
+  Y: 15.011300086975098
+  Z: 1.3077000379562378
+aabbMin:
+  X: -2.638930082321167
+  Y: -0.009701999835669994
+  Z: -1.3387800455093384
+attackPower: 0
+bfres: FldObj_DominoStoneGerdo_A
+boundingForTraverse: 15.021001815795898
+bugMask: 3
+generalLife: 100
+instSize: 56444
+mainModel: FldObj_DominoStoneGerdo_A_S_01
+name: FldObj_DominoStoneGerdo_A_S_01
+profile: MapDynamicActive
+rigidBodyCenterY: 7.5
+slink: DominoStoneBridgeS
+sortKey: -20
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  taga9e2816e: !u 0xa9e2816e
+yLimitAlgorithm: NoLimit

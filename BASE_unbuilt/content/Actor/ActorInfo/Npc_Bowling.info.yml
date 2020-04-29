@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.3637250065803528
+  Y: 1.7793200016021729
+  Z: 0.4041909873485565
+aabbMin:
+  X: -0.39684200286865234
+  Y: -0.00013000000035390258
+  Z: -0.21848399937152863
+boundingForTraverse: 1.7794500589370728
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: NPC
+instSize: 562348
+name: Npc_Bowling
+profile: NPC
+slink: Npc_Bowling
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

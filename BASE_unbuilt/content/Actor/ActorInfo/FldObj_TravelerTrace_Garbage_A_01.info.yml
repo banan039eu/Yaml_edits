@@ -1,0 +1,18 @@
+aabbMax:
+  X: 0.7041440010070801
+  Y: 0.48738300800323486
+  Z: 0.5339429974555969
+aabbMin:
+  X: -0.6435229778289795
+  Y: -0.13353699445724487
+  Z: -1.292580008506775
+bfres: FldObj_TravelerTrace_A
+boundingForTraverse: 0.6209200024604797
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28056
+mainModel: FldObj_TravelerTrace_Garbage_A_01
+name: FldObj_TravelerTrace_Garbage_A_01
+profile: MapConstPassive
+sortKey: 2
+yLimitAlgorithm: NoLimit

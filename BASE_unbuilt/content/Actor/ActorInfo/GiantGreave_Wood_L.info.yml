@@ -1,0 +1,22 @@
+aabbMax:
+  X: 1.6047899723052979
+  Y: 0.8644779920578003
+  Z: 0.6925169825553894
+aabbMin:
+  X: -0.1935950070619583
+  Y: -1.0078400373458862
+  Z: -0.8389480113983154
+bfres: Enemy_Giant
+boundingForTraverse: 1.8723180294036865
+bugMask: 1
+cursorOffsetY: 0.5
+elink: GiantGreave_Wood_L
+generalLife: 100
+instSize: 31432
+mainModel: Enemy_Giant_Greave_Wood_L
+name: GiantGreave_Wood_L
+profile: GiantArmor
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

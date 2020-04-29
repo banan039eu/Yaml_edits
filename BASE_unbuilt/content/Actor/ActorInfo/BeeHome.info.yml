@@ -1,0 +1,60 @@
+aabbMax:
+  X: 0.439628005027771
+  Y: 0.717972993850708
+  Z: 0.4369190037250519
+aabbMin:
+  X: -0.4360640048980713
+  Y: -0.012126999907195568
+  Z: -0.4496600031852722
+bfres: Obj_BeeHome_A
+boundingForTraverse: 0.7300999760627747
+bugMask: 3
+cookSpiceBoostEffectiveTime: 0
+cookSpiceBoostHitPointRecover: 0
+cookSpiceBoostMaxHeartLevel: 0
+cookSpiceBoostStaminaLevel: 0
+cookSpiceBoostSuccessRate: 0
+cureItemEffectLevel: 2
+cureItemEffectType: GutsRecover
+cureItemHitPointRecover: 8
+cursorOffsetY: 0.5
+elink: GetItem
+generalLife: 1
+homeArea:
+- name: CentralHyrule
+- name: TabantaFrontier
+- name: EastHateru
+instSize: 65352
+itemBuyingPrice: 40
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 10
+itemStainColor: 10
+itemUseIconActorName: ''
+mainModel: Obj_BeeHome_A_01
+motorcycleEnergy:
+  add: 50.0
+name: BeeHome
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: CapturedActor
+rigidBodyCenterY: 0.30028200149536133
+slink: BeeHome
+sortKey: 33090
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag14185415: 337138709
+  tag37921275: 932319861
+  tag66f76965: 1727490405
+  tag682e5129: 1747865897
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

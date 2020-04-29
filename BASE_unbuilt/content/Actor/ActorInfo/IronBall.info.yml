@@ -1,0 +1,28 @@
+aabbMax:
+  X: 2.5
+  Y: 2.5
+  Z: 2.5
+aabbMin:
+  X: -2.5
+  Y: -2.5
+  Z: -2.5
+attackPower: 0
+bfres: DgnObj_IronBall_A
+boundingForTraverse: 5.0
+bugMask: 2
+elink: IronBall
+generalLife: 100
+instSize: 30828
+mainModel: DgnObj_IronBallL_01
+name: IronBall
+profile: MapDynamicActive
+slink: IronBall
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag507efd18: 1350499608
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

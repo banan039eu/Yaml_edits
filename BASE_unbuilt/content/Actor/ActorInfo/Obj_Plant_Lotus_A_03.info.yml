@@ -1,0 +1,30 @@
+aabbMax:
+  X: 1.025879979133606
+  Y: 0.971805989742279
+  Z: 1.207919955253601
+aabbMin:
+  X: -1.2280000448226929
+  Y: -2.624350070953369
+  Z: -0.7760940194129944
+attackPower: 0
+bfres: Obj_Plant_Lotus_A
+boundingForTraverse: 3.596155881881714
+bugMask: 2
+elink: Obj_Plant_Lotus_A_03
+generalLife: 100
+instSize: 21932
+mainModel: Obj_Plant_Lotus_A_03
+name: Obj_Plant_Lotus_A_03
+profile: MapDynamicPassive
+slink: Plant
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag04ed2c94: 82652308
+  tag3d4375d9: 1027831257
+  tag50fb41e2: 1358643682
+  tag50fce56f: 1358751087
+  tag51ed35a6: 1374500262
+  tage91ea5f6: !u 0xe91ea5f6
+yLimitAlgorithm: NoLimit

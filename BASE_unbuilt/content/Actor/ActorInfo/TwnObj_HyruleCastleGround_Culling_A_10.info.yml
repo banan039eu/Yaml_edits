@@ -1,0 +1,27 @@
+aabbMax:
+  X: 106.67400360107422
+  Y: 52.395599365234375
+  Z: 86.61039733886719
+aabbMin:
+  X: -106.67400360107422
+  Y: -52.10580062866211
+  Z: -86.61039733886719
+bfres: TwnObj_HyruleCastleGround_A
+boundingForTraverse: 104.50140380859375
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 141248
+isHasFar: true
+mainModel: TwnObj_HyruleCastleGround_Culling_A_10
+name: TwnObj_HyruleCastleGround_Culling_A_10
+profile: MapConstPassive
+sortKey: -18
+tags:
+  tag03528579: 55739769
+  tag572de768: 1462626152
+  tag84f40ec6: !u 0x84f40ec6
+  taga1c9da5d: !u 0xa1c9da5d
+terrainTextures:
+- 1344082188
+traverseDist: 774.8141479492188
+yLimitAlgorithm: NoLimit

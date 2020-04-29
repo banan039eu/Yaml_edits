@@ -1,0 +1,19 @@
+aabbMax:
+  X: 0.30331701040267944
+  Y: 4.607550144195557
+  Z: 22.907400131225586
+aabbMin:
+  X: -0.4292309880256653
+  Y: -1.8697999715805054
+  Z: -26.18829917907715
+bfres: FldObj_GerudoSecrerBaseRoot_A
+boundingForTraverse: 6.477350234985352
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28440
+mainModel: FldObj_GerudoSecrerBaseRoot_A_01
+name: FldObj_GerudoSecrerBaseRoot_A_01
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

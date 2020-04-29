@@ -1,0 +1,27 @@
+aabbMax:
+  X: 3.7557499408721924
+  Y: 3.7557499408721924
+  Z: 3.226749897003174
+aabbMin:
+  X: -3.7557499408721924
+  Y: -3.7557499408721924
+  Z: -3.226749897003174
+attackPower: 0
+bfres: Enemy_Assassin_Boss_BigBall
+boundingForTraverse: 7.511499881744385
+bugMask: 3
+cursorOffsetY: 0.5
+elink: DemoAssassinIronBall
+instSize: 42408
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Assassin_Boss_BigBall
+name: DemoAssassinIronBall
+profile: Bullet
+slink: DemoAssassinIronBall
+sortKey: 0
+yLimitAlgorithm: NoLimit

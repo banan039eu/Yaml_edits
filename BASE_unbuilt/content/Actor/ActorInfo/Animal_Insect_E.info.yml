@@ -1,0 +1,73 @@
+aabbMax:
+  X: 0.07672099769115448
+  Y: 0.06262200325727463
+  Z: 0.0750729963183403
+aabbMin:
+  X: -0.07672099769115448
+  Y: 0.0006019999855197966
+  Z: -0.07672099769115448
+bfres: Animal_Firefly
+boundingForTraverse: 0.06202000007033348
+bugMask: 3
+cureItemEffectLevel: 1
+cureItemEffectType: Quietness
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 0
+cursorOffsetY: 0.25
+elink: Animal_Insect_E
+generalLife: 1
+homeArea:
+- name: WestHateru
+- name: HyruleForest
+- name: CentralHyrule
+instSize: 64664
+invalidTimes:
+- Morning_A1
+- Morning_A2
+- Morning_B
+- Noon_A
+- Noon_B
+- Evening_A
+- Evening_B
+invalidWeathers:
+- Rain
+- HeavyRain
+- Snow
+- HeavySnow
+- ThunderStorm
+- ThunderRain
+- BlueskyRain
+itemBuyingPrice: 10
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 2
+itemStainColor: 6
+itemUseIconActorName: ''
+mainModel: Firefly
+motorcycleEnergy:
+  add: 75.0
+name: Animal_Insect_E
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: CapturedActor
+slink: Animal_Insect_FireFly
+sortKey: 35120
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag24cd75fe: 617444862
+  tag5ad0d068: 1523634280
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagaa0852e4: !u 0xaa0852e4
+  tagac9f717f: !u 0xac9f717f
+  tagb5dc29d8: !u 0xb5dc29d8
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagf535e420: !u 0xf535e420
+xlink: TinyInsect
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,24 @@
+aabbMax:
+  X: 0.6914700269699097
+  Y: 0.9386579990386963
+  Z: 0.9429100155830383
+aabbMin:
+  X: -0.6860120296478271
+  Y: 0.0
+  Z: -0.8318579792976379
+attackPower: 0
+bfres: FldObj_DLC_BlowSwordBase_A
+boundingForTraverse: 0.9386579990386963
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 1
+instSize: 65392
+lookAtOffsetY: 0.800000011920929
+mainModel: FldObj_DLC_BlowSwordBase_A
+name: FldObj_DLC_BlowSwordBase_A
+profile: MapDynamicActive
+rigidBodyCenterY: 0.5145599842071533
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

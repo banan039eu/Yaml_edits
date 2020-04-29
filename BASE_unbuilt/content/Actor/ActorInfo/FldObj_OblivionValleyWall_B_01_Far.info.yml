@@ -1,0 +1,22 @@
+aabbMax:
+  X: 76.72039794921875
+  Y: 95.08550262451172
+  Z: 276.1260070800781
+aabbMin:
+  X: -76.17569732666016
+  Y: 12.831199645996094
+  Z: -325.39898681640625
+bfres: FldObj_OblivionValley_A_Far
+boundingForTraverse: 82.25430297851562
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 395096
+mainModel: FldObj_OblivionValleyWall_B_01_Far
+name: FldObj_OblivionValleyWall_B_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag8654c2bc: !u 0x8654c2bc
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

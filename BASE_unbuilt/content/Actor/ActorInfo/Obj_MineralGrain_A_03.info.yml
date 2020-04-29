@@ -1,0 +1,18 @@
+aabbMax:
+  X: 2.4124600887298584
+  Y: 0.8783590197563171
+  Z: 2.7057600021362305
+aabbMin:
+  X: -1.9680299758911133
+  Y: -0.265949010848999
+  Z: -2.817929983139038
+bfres: Obj_Mineral_A
+boundingForTraverse: 1.1443079710006714
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: Obj_MineralGrain_A_03
+name: Obj_MineralGrain_A_03
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

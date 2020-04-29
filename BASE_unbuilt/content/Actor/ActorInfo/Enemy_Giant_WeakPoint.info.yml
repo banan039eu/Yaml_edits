@@ -1,0 +1,11 @@
+bugMask: 1
+generalLife: 100
+instSize: 6376
+name: Enemy_Giant_WeakPoint
+profile: GiantArmor
+sortKey: 101307
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag7027cedd: 1881657053
+yLimitAlgorithm: NoLimit

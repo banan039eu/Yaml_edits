@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 5200
+name: RegistedActorDeadCheck
+profile: SoleTag
+sortKey: 0
+yLimitAlgorithm: NoLimit

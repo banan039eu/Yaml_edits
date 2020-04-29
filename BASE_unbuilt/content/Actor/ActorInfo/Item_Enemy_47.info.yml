@@ -1,0 +1,52 @@
+aabbMax:
+  X: 0.48772600293159485
+  Y: 0.29217201471328735
+  Z: 0.5086029767990112
+aabbMin:
+  X: -0.4461840093135834
+  Y: -0.29217201471328735
+  Z: -0.5086029767990112
+bfres: Item_Enemy_47
+boundingForTraverse: 1.0172059535980225
+bugMask: 3
+cookSpiceBoostEffectiveTime: 600
+cookSpiceBoostHitPointRecover: 10
+cookSpiceBoostMaxHeartLevel: 0
+cookSpiceBoostStaminaLevel: 0
+cookSpiceBoostSuccessRate: 100
+cursorOffsetY: 0.4000000059604645
+elink: DragonDropItem
+generalLife: 100
+instSize: 38024
+itemBuyingPrice: 1000
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 250
+itemStainColor: 12
+itemUseIconActorName: ''
+mainModel: Item_Enemy_47
+monsterShopBuyMamo: 0
+monsterShopSellMamo: 110
+motorcycleEnergy:
+  add: 25.0
+name: Item_Enemy_47
+profile: Item
+slink: DragonDropItem
+sortKey: 37132
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag336bf311: 862712593
+  tag37921275: 932319861
+  tag81bcf867: !u 0x81bcf867
+  tag9b44906f: !u 0x9b44906f
+  tagb51794dc: !u 0xb51794dc
+  tagb54a7a34: !u 0xb54a7a34
+  tagc2ac3213: !u 0xc2ac3213
+  tagd7c5d3b2: !u 0xd7c5d3b2
+  tagd91ead02: !u 0xd91ead02
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

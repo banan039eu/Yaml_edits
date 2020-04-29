@@ -1,0 +1,23 @@
+aabbMax:
+  X: 37.93230056762695
+  Y: 14.866299629211426
+  Z: 37.970699310302734
+aabbMin:
+  X: -37.834800720214844
+  Y: -3.112410068511963
+  Z: -37.89699935913086
+bfres: TwnObj_CommissionPlace_A_Far
+boundingForTraverse: 17.978710174560547
+bugMask: 2
+instSize: 19752
+mainModel: TwnObj_CommissionPlace_A_01_Far
+name: TwnObj_CommissionPlace_A_01_Far
+profile: MapConstPassive
+slink: TwnObj_CommissionPlace_A_01
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+  tag57fd54ce: 1476220110
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

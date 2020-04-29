@@ -1,0 +1,20 @@
+aabbMax:
+  X: 4.703139781951904
+  Y: 9.191780090332031
+  Z: 6.852389812469482
+aabbMin:
+  X: -4.703139781951904
+  Y: 3.0789198875427246
+  Z: -6.75
+bfres: TwnObj_Village_Sheiker_A
+boundingForTraverse: 6.112860202789307
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 189776
+mainModel: TwnObj_Village_SheikerPharmacySet_A_01
+name: TwnObj_Village_SheikerPharmacySet_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+yLimitAlgorithm: NoLimit

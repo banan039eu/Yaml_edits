@@ -1,0 +1,20 @@
+aabbMax:
+  X: 6.288300037384033
+  Y: 4.875740051269531
+  Z: 4.996709823608398
+aabbMin:
+  X: -6.288300037384033
+  Y: -0.12372100353240967
+  Z: -5.0
+bfres: TwnObj_SmallOasis_A
+boundingForTraverse: 4.9994611740112305
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 80268
+mainModel: TwnObj_SmallOasisSunShade_A_01
+name: TwnObj_SmallOasisSunShade_A_01
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffffff4e
+yLimitAlgorithm: NoLimit

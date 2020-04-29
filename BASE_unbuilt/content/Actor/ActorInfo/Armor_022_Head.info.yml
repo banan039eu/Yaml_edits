@@ -1,0 +1,43 @@
+aabbMax:
+  X: 0.5795720219612122
+  Y: 1.8925800323486328
+  Z: 0.2382809966802597
+aabbMin:
+  X: -0.5454000234603882
+  Y: 1.3720699548721313
+  Z: -0.17773400247097015
+armorDefenceAddLevel: 3
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 2
+armorNextRankName: ''
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_022
+boundingForTraverse: 0.5205100178718567
+bugMask: 3
+instSize: 46324
+itemBuyingPrice: 40
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 9
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_022_Head_A
+monsterShopBuyMamo: 99
+monsterShopSellMamo: 0
+name: Armor_022_Head
+profile: ArmorHead
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: Bokoblin
+slink: Armor_Head_SpecialBokoblin
+sortKey: 3721510
+tags:
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

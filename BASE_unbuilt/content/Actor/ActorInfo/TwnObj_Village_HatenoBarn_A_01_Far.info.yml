@@ -1,0 +1,20 @@
+aabbMax:
+  X: 5.773719787597656
+  Y: 14.879400253295898
+  Z: 5.6196699142456055
+aabbMin:
+  X: -5.689410209655762
+  Y: -0.8657190203666687
+  Z: -5.4013800621032715
+bfres: TwnObj_Village_Hateno_A_Far
+boundingForTraverse: 15.745119094848633
+bugMask: 0
+instSize: 16884
+mainModel: TwnObj_Village_HatenoBarn_A_01_Far
+name: TwnObj_Village_HatenoBarn_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

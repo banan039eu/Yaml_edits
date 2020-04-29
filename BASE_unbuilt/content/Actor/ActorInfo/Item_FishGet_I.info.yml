@@ -1,0 +1,54 @@
+aabbMax:
+  X: 0.4690459966659546
+  Y: 0.24922199547290802
+  Z: 0.49883100390434265
+aabbMin:
+  X: -0.29311099648475647
+  Y: -0.24922199547290802
+  Z: -1.2591500282287598
+bfres: Animal_Salmon
+boundingForTraverse: 0.49844399094581604
+bugMask: 3
+cureItemEffectLevel: 16
+cureItemEffectType: LifeMaxUp
+cureItemHitPointRecover: 16
+cursorOffsetY: 0.30000001192092896
+elink: GetItem
+generalLife: 1
+homeArea:
+- name: TabantaFrontier
+- name: HeburaMountains
+- name: CentralHyrule
+instSize: 50364
+itemBuyingPrice: 40
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 10
+itemStainColor: -1
+itemUseIconActorName: Item_FishGet_I
+mainModel: Salmon_Boneless
+motorcycleEnergy:
+  add: 50.0
+name: Item_FishGet_I
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+slink: Item_FishGet
+sortKey: 34040
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_FishGet_I
+tags:
+  tag14185415: 337138709
+  tag168ce9a9: 378333609
+  tag24cd75fe: 617444862
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,21 @@
+aabbMax:
+  X: 1.7213900089263916
+  Y: 1.673449993133545
+  Z: 1.8522599935531616
+aabbMin:
+  X: -1.542389988899231
+  Y: -0.19133800268173218
+  Z: -1.8348400592803955
+bfres: Obj_RockGray_A
+boundingForTraverse: 1.8647880554199219
+bugMask: 0
+instSize: 17140
+mainModel: Obj_RockGray_A_M_03
+name: Obj_RockGray_A_M_03
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag977b149c: !u 0x977b149c
+terrainTextures:
+- !u 0xffffff03
+yLimitAlgorithm: NoLimit

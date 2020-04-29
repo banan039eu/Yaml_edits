@@ -1,0 +1,42 @@
+aabbMax:
+  X: 0.20373499393463135
+  Y: 0.9428709745407104
+  Z: 0.2120019942522049
+aabbMin:
+  X: -0.20385700464248657
+  Y: 0.0005339999916031957
+  Z: -0.11974100023508072
+armorDefenceAddLevel: 8
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: AttackUp
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_171
+boundingForTraverse: 0.9423369765281677
+bugMask: 3
+instSize: 28372
+itemBuyingPrice: 50
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 15
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_171_Lower
+name: Armor_171_Lower
+profile: ArmorLower
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: Phantom
+slink: Armor_Lower_MetalHeavy
+sortKey: 5523825
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

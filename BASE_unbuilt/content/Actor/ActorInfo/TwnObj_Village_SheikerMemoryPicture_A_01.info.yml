@@ -1,0 +1,25 @@
+aabbMax:
+  X: 1.2106200456619263
+  Y: 0.7913119792938232
+  Z: 0.06040000170469284
+aabbMin:
+  X: -1.2106200456619263
+  Y: -0.6984540224075317
+  Z: 0.0
+attackPower: 0
+bfres: TwnObj_Village_Sheiker_A
+boundingForTraverse: 1.489766001701355
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 32308
+mainModel: TwnObj_Village_SheikerMemoryPicture_A_01
+name: TwnObj_Village_SheikerMemoryPicture_A_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.04642900079488754
+sortKey: 6
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag921c2372: !u 0x921c2372
+yLimitAlgorithm: NoLimit

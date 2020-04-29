@@ -1,0 +1,19 @@
+bugMask: 3
+elink: Item_Magnetglove
+generalLife: 100
+instSize: 11136
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: Item_Magnetglove
+profile: PlayerItem
+slink: Item_Magnetglove
+sortKey: 2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag8b8be818: !u 0x8b8be818
+yLimitAlgorithm: NoLimit

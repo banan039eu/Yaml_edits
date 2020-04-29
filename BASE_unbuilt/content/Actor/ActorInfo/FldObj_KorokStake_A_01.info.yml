@@ -1,0 +1,20 @@
+aabbMax:
+  X: 1.3783299922943115
+  Y: 10.012999534606934
+  Z: 1.495650053024292
+aabbMin:
+  X: -1.512779951095581
+  Y: 0.0
+  Z: -1.563599944114685
+bfres: FldObj_KorokStake_A
+boundingForTraverse: 10.012999534606934
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: FldObj_KorokStake_A_01
+name: FldObj_KorokStake_A_01
+profile: MapConstPassive
+sortKey: 4
+terrainTextures:
+- !u 0xffff1e12
+yLimitAlgorithm: NoLimit

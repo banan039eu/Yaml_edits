@@ -1,0 +1,40 @@
+aabbMax:
+  X: 0.773838996887207
+  Y: 2.6167500019073486
+  Z: 1.2674000263214111
+aabbMin:
+  X: -0.6841080188751221
+  Y: -0.002334000077098608
+  Z: -0.5896700024604797
+attackPower: 0
+bfres: Priest_Boss_Normal
+boundingForTraverse: 2.619083881378174
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Priest_Boss_Normal
+enemyRank: 12
+generalLife: 1000
+instSize: 403000
+mainModel: Priest_Boss_Normal
+name: Priest_Boss_Normal
+pictureBookLiveSpot1: 21
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+slink: Priest_Boss_Normal
+sortKey: 1103
+systemIsGetItemSelf: false
+systemSameGroupActorName: Priest_Boss_Normal
+tags:
+  tag33b0a8cc: 867215564
+  tag36565b66: 911629158
+  tag4806038d: 1208353677
+  tag49b834f7: 1236808951
+  tag7027cedd: 1881657053
+  tag81c0dcf5: !u 0x81c0dcf5
+  tag994aef4b: !u 0x994aef4b
+  tag9f86ea92: !u 0x9f86ea92
+  tagb0c9e79a: !u 0xb0c9e79a
+traverseDist: 99999.0
+xlink: PriestBoss
+yLimitAlgorithm: NoLimit

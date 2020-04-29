@@ -1,0 +1,25 @@
+aabbMax:
+  X: 2.3114500045776367
+  Y: 5.558680057525635
+  Z: 2.314229965209961
+aabbMin:
+  X: -2.3449299335479736
+  Y: -1.8512300252914429
+  Z: -2.3039300441741943
+attackPower: 0
+bfres: FldObj_ScaffoldIron_A
+boundingForTraverse: 7.409910202026367
+bugMask: 3
+elink: FldObj_EnemyLookoutDeathMT_A_01
+generalLife: 1
+instSize: 103060
+mainModel: FldObj_IronEnemyLookout_B_01
+name: FldObj_EnemyLookoutDeathMT_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 2.4066500663757324
+slink: FldObj_EnemyLookoutDeathMT_A_01
+sortKey: -4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

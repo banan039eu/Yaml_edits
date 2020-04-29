@@ -1,0 +1,58 @@
+aabbMax:
+  X: 0.33930298686027527
+  Y: 0.3479749858379364
+  Z: 0.48851901292800903
+aabbMin:
+  X: -0.3776269853115082
+  Y: -0.005483000073581934
+  Z: -0.9356250166893005
+actorScale: 0.800000011920929
+bfres: Animal_Lizard
+boundingForTraverse: 0.3534579873085022
+bugMask: 3
+cureItemEffectLevel: 1
+cureItemEffectType: MovingSpeed
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 0
+cursorOffsetY: 0.20000000298023224
+elink: Insect
+generalLife: 1
+homeArea:
+- name: WestHateru
+- name: EastHateru
+- name: HateruSea
+instSize: 82904
+itemBuyingPrice: 10
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 2
+itemStainColor: 14
+itemUseIconActorName: ''
+mainModel: Lizard
+motorcycleEnergy:
+  add: 75.0
+name: Animal_Insect_S
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: CapturedActor
+slink: Animal_Insect_Lizard
+sortKey: 35150
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag24cd75fe: 617444862
+  tag489920ab: 1217994923
+  tag5ad0d068: 1523634280
+  tag5de93bac: 1575566252
+  tag60493fd1: 1615413201
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagac9f717f: !u 0xac9f717f
+  tagb5dc29d8: !u 0xb5dc29d8
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

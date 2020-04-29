@@ -1,0 +1,74 @@
+Chemical:
+  Capaciter: 1
+aabbMax:
+  X: 0.04839999973773956
+  Y: 0.20190900564193726
+  Z: 2.2776999473571777
+aabbMin:
+  X: -0.048516999930143356
+  Y: -0.3140609860420227
+  Z: -0.38575899600982666
+attackPower: 13
+bfres: Weapon_Spear_003
+boundingForTraverse: 0.51596999168396
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: WeaponSpear
+generalLife: 40
+homeArea:
+- name: TabantaFrontier
+- name: GerudoDesert
+- name: HeburaMountains
+instSize: 46912
+itemBuyingPrice: 180
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 45
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Spear_003
+name: Weapon_Spear_003
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponSpear
+slink: Weapon_Spear_Metal
+sortKey: 13112
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+  tagef2efe5d: !u 0xef2efe5d
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 12
+weaponCommonPoweredSharpAddAtkMin: 8
+weaponCommonPoweredSharpAddLifeMax: 8
+weaponCommonPoweredSharpAddLifeMin: 6
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 2.0
+weaponCommonPoweredSharpAddThrowMin: 1.5
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 5
+weaponCommonSharpWeaponAddAtkMax: 7
+weaponCommonSharpWeaponAddAtkMin: 4
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 5
+weaponCommonSharpWeaponAddLifeMin: 3
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: Weapon
+yLimitAlgorithm: NoLimit

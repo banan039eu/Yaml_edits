@@ -1,0 +1,46 @@
+aabbMax:
+  X: 0.13389499485492706
+  Y: 0.21984699368476868
+  Z: 0.3597150146961212
+aabbMin:
+  X: -0.13389499485492706
+  Y: -0.030782999470829964
+  Z: -0.21267999708652496
+bfres: Item_Chilled_04
+boundingForTraverse: 0.2506299912929535
+bugMask: 1
+cureItemEffectLevel: 1
+cureItemEffectType: ResistHot
+cureItemEffectiveTime: 1800
+cureItemHitPointRecover: 4
+cursorOffsetY: 0.30000001192092896
+elink: GetItem
+generalLife: 100
+instSize: 36344
+itemBuyingPrice: 35
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 15
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Item_Chilled_04
+name: Item_Chilled_04
+profile: Item
+rigidBodyCenterY: 0.05000000074505806
+sortKey: 64040
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag13afd790: 330291088
+  tag14185415: 337138709
+  tag80e484a4: !u 0x80e484a4
+  tag812ee444: !u 0x812ee444
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

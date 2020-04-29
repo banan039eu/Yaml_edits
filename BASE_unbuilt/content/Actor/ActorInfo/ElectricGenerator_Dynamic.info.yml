@@ -1,0 +1,26 @@
+aabbMax:
+  X: 1.649999976158142
+  Y: 4.480100154876709
+  Z: 1.6214300394058228
+aabbMin:
+  X: -1.649999976158142
+  Y: 0.0
+  Z: -1.6214300394058228
+attackPower: 0
+bfres: DgnObj_ElectricGenerator_B
+boundingForTraverse: 4.480100154876709
+bugMask: 2
+elink: ElectricGenerator
+generalLife: 100
+instSize: 58700
+mainModel: DgnObj_ElectricGenerator_B_01
+name: ElectricGenerator_Dynamic
+profile: MapDynamicActive
+rigidBodyCenterY: 1.351349949836731
+slink: ElectricGenerator
+sortKey: -20
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag51e73965: 1374108005
+yLimitAlgorithm: NoLimit

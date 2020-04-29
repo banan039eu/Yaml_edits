@@ -1,0 +1,51 @@
+aabbMax:
+  X: 1.0381799936294556
+  Y: 2.9134600162506104
+  Z: 1.2429800033569336
+aabbMin:
+  X: -0.9019050002098083
+  Y: -0.25604501366615295
+  Z: -1.0024299621582031
+attackPower: 0
+bfres: Obj_Mineral_A
+boundingForTraverse: 3.1695048809051514
+bugMask: 3
+cursorOffsetY: 1.5
+drops:
+  Normal:
+  - Item_Ore_B
+  - Item_Ore_C
+  - Item_Ore_A
+  - Item_Ore_F
+  - Item_Ore_D
+  - Item_Ore_I
+elink: Obj_Mineral_B_01
+farModelCulling:
+  center:
+    X: 0.0
+    Y: 1.5
+    Z: 0.0
+  height: 1.5
+  radius: 1.2999999523162842
+generalLife: 40
+homeArea:
+- name: EldinCanyon
+- name: EastHateru
+- name: HeburaMountains
+instSize: 47120
+mainModel: Obj_Mineral_B_01
+name: Obj_Mineral_B_01
+pictureBookLiveSpot1: 20
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: MapDynamicPassive
+rigidBodyCenterY: 1.0509300231933594
+slink: Mineral
+sortKey: 71001
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag4186e30f: 1099358991
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagbb8d80c2: !u 0xbb8d80c2
+yLimitAlgorithm: NoLimit

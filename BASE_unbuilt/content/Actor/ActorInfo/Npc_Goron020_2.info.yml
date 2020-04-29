@@ -1,0 +1,25 @@
+aabbMax:
+  X: 1.728350043296814
+  Y: 3.121880054473877
+  Z: 1.0082199573516846
+aabbMin:
+  X: -1.7193599939346313
+  Y: 0.0014680000022053719
+  Z: -0.9180179834365845
+bfres: Npc_Goron_HeroDescendants
+boundingForTraverse: 3.120413064956665
+bugMask: 3
+cursorOffsetY: 0.6000000238418579
+elink: Npc_Goron020
+instSize: 379116
+mainModel: Npc_Goron_HeroDescendants
+name: Npc_Goron020_2
+profile: NPC
+slink: Npc_Goron020
+sortKey: -9
+systemIsGetItemSelf: false
+systemSameGroupActorName: Npc_Goron020
+tags:
+  tag0fee9a49: 267295305
+xlink: Npc
+yLimitAlgorithm: NoLimit

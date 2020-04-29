@@ -1,0 +1,27 @@
+aabbMax:
+  X: 1.147320032119751
+  Y: 2.575900077819824
+  Z: 0.7338870167732239
+aabbMin:
+  X: -1.1473400592803955
+  Y: -0.00014600000577047467
+  Z: -0.6660159826278687
+attackPower: 0
+bfres: TwnObj_AncientOven_A
+boundingForTraverse: 2.5760459899902344
+bugMask: 3
+cursorOffsetY: 1.0
+generalLife: 100
+instSize: 68132
+lookAtOffsetY: 0.30000001192092896
+mainModel: TwnObj_AncientOven_A_01
+name: TwnObj_AncientOven_A_01
+profile: MapConstActive
+rigidBodyCenterY: 1.1159600019454956
+slink: TwnObj_AncientOven_A_01
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 200.0
+xlink: Npc_NoFootstep
+yLimitAlgorithm: NoLimit

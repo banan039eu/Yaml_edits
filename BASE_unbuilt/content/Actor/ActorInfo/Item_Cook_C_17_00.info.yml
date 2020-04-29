@@ -1,0 +1,19 @@
+bugMask: 1
+generalLife: 100
+instSize: 4076
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: Item_Cook_C_17_00
+profile: CookResult
+sortKey: 50570
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag653623d0: 1698046928
+  tage0194f30: !u 0xe0194f30
+  tagefb9041d: !u 0xefb9041d
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,39 @@
+aabbMax:
+  X: 0.0798880010843277
+  Y: 0.04612300172448158
+  Z: 1.1486599445343018
+aabbMin:
+  X: -0.0798880010843277
+  Y: -0.09224700182676315
+  Z: -0.0465719997882843
+arrowArrowDeletePer: 30
+arrowArrowNum: 1
+arrowDeleteTime: -1
+arrowDeleteTimeWithChemical: 150
+arrowEnemyShootNumForDelete: 8
+attackPower: 100
+bfres: Weapon_Arrow_009
+boundingForTraverse: 0.13837000727653503
+bugMask: 3
+cursorOffsetY: 0.20000000298023224
+elink: BrightArrowTP
+instSize: 50000
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Arrow_009
+name: BrightArrowTP
+profile: Bullet
+slink: BrightArrow
+sortKey: 14701
+tags:
+  tag19f6c13a: 435601722
+  tag2cef9fdc: 753901532
+  tag336bf311: 862712593
+  tag80e484a4: !u 0x80e484a4
+  tagc43b7064: !u 0xc43b7064
+xlink: Weapon
+yLimitAlgorithm: NoLimit

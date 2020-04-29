@@ -1,0 +1,37 @@
+aabbMax:
+  X: 6.0
+  Y: 1.5
+  Z: 3.0002601146698
+aabbMin:
+  X: -6.0
+  Y: -0.7169640064239502
+  Z: -3.0
+attackPower: 0
+bfres: DgnObj_IronDoor_B
+boundingForTraverse: 2.21696400642395
+bugMask: 2
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 33036
+locators:
+- pos_x: 0.0
+  pos_y: 0.0
+  pos_z: -2.200000047683716
+  rot_x: 0.0
+  rot_y: 0.0
+  rot_z: 0.0
+  type: MagnePos
+mainModel: DgnObj_IronDoorR_B_01
+name: DgnObj_IronDoorR_B_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.17234300076961517
+slink: DgnObj_IronDoorL_B_01
+sortKey: 9
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 99999.0
+xlink: DgnObj_IronDoorL_B_01
+yLimitAlgorithm: NoLimit

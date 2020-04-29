@@ -1,0 +1,36 @@
+aabbMax:
+  X: 0.8647279739379883
+  Y: 2.9150400161743164
+  Z: 0.9956730008125305
+aabbMin:
+  X: -0.882964015007019
+  Y: -0.5272459983825684
+  Z: -1.1396700143814087
+attackPower: 0
+bfres: Obj_TreeBroadleaf_A
+boundingForTraverse: 3.4422860145568848
+bugMask: 2
+drops:
+  Normal:
+  - Weapon_Sword_044
+elink: Obj_TreeBroadleaf_A_SS
+generalLife: 100
+instSize: 35672
+lookAtOffsetY: 1.100000023841858
+mainModel: Obj_TreeBroadleaf_A_SS
+name: Obj_TreeBroadleaf_A_SS
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.6051669716835022
+slink: Tree_Bush
+sortKey: -10
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag572de768: 1462626152
+  tag9adf6fdd: !u 0x9adf6fdd
+  taga40dd51c: !u 0xa40dd51c
+  tage91ea5f6: !u 0xe91ea5f6
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

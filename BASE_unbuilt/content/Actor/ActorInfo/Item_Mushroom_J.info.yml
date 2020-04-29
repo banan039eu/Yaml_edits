@@ -1,0 +1,58 @@
+aabbMax:
+  X: 0.12010300159454346
+  Y: 0.6320149898529053
+  Z: 0.18208199739456177
+aabbMin:
+  X: -0.3118410110473633
+  Y: -0.04205299913883209
+  Z: -0.2542940080165863
+bfres: Obj_MashroomIuminous_A
+boundingForTraverse: 0.6740679740905762
+bugMask: 1
+cureItemEffectLevel: 2
+cureItemEffectType: Quietness
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 2
+cursorOffsetY: 0.5
+elink: Item_Mushroom_J
+generalLife: 100
+homeArea:
+- name: LanayruWaterSources
+- name: WestHateru
+- name: TamulPlateau
+instSize: 37948
+itemBuyingPrice: 12
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 3
+itemStainColor: 8
+itemUseIconActorName: ''
+mainModel: Obj_MashroomIuminous_A_01
+motorcycleEnergy:
+  add: 75.0
+name: Item_Mushroom_J
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+rigidBodyCenterY: 0.2894420027732849
+sortKey: 31320
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag14185415: 337138709
+  tag2f0b1b66: 789257062
+  tag3f7bf58e: 1065088398
+  tag682e5129: 1747865897
+  tag7a3964c1: 2050581697
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagf535e420: !u 0xf535e420
+traverseDist: 50.0
+yLimitAlgorithm: NoLimit

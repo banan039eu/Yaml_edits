@@ -1,0 +1,10 @@
+actorScale: 1.5
+bugMask: 1
+generalLife: 100
+instSize: 14672
+name: Npc_TutorialDungeon
+profile: DemoNPC
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

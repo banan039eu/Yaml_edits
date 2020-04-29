@@ -1,0 +1,43 @@
+aabbMax:
+  X: 0.3632729947566986
+  Y: 1.9882800579071045
+  Z: 0.3764500021934509
+aabbMin:
+  X: -0.3632729947566986
+  Y: 1.1914299726486206
+  Z: -0.32640698552131653
+armorDefenceAddLevel: 3
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 1
+armorNextRankName: ''
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_056
+boundingForTraverse: 0.7968500256538391
+bugMask: 3
+instSize: 48720
+itemBuyingPrice: 320
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 39
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_056_Head
+monsterShopBuyMamo: 999
+monsterShopSellMamo: 0
+name: Armor_056_Head
+profile: ArmorHead
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: Lynel
+slink: Armor_Head_SpecialLynel
+sortKey: 4021540
+tags:
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

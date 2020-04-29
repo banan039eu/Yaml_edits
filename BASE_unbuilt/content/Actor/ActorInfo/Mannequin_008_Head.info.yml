@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.2979600131511688
+  Y: 1.9236700534820557
+  Z: 0.33115899562835693
+aabbMin:
+  X: -0.2979600131511688
+  Y: 0.0006220000213943422
+  Z: -0.184922993183136
+attackPower: 0
+bfres: Mannequin_008
+boundingForTraverse: 1.9230480194091797
+bugMask: 1
+cursorOffsetY: 1.0499999523162842
+generalLife: 100
+instSize: 66804
+lookAtOffsetY: 0.800000011920929
+mainModel: Mannequin_008_Head
+name: Mannequin_008_Head
+profile: MapConstActive
+rigidBodyCenterY: 0.949999988079071
+sortKey: 170
+systemIsGetItemSelf: false
+systemSameGroupActorName: Armor_017_Head
+tags:
+  tag28a3a540: 681813312
+  tag8fda6cdd: !u 0x8fda6cdd
+  tagf2bc0087: !u 0xf2bc0087
+yLimitAlgorithm: NoLimit

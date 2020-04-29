@@ -1,0 +1,18 @@
+attackPower: 24
+bugMask: 3
+elink: GanonSeaOfFlame
+instSize: 23956
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: GanonSeaOfFlame
+profile: Bullet
+slink: GanonSeaOfFlame
+sortKey: -2
+tags:
+  tag74831ee0: 1954750176
+xlink: AscendingCurrent
+yLimitAlgorithm: NoLimit

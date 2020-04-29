@@ -1,0 +1,29 @@
+aabbMax:
+  X: 1.833940029144287
+  Y: 3.799799919128418
+  Z: 0.5395259857177734
+aabbMin:
+  X: -1.8149700164794922
+  Y: 0.0368649996817112
+  Z: -0.3723140060901642
+attackPower: 0
+bfres: DgnObj_ShutterKey_A
+boundingForTraverse: 3.762934923171997
+bugMask: 3
+elink: Shutter
+generalLife: 100
+instSize: 64148
+mainModel: DgnObj_ShutterKey_A_01
+name: ShutterKey
+profile: MapDynamicActive
+rigidBodyCenterY: 2.0
+slink: ShutterKey
+sortKey: 4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag28a3a540: 681813312
+  tag7dd56981: 2111138177
+  tagc28d054e: !u 0xc28d054e
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

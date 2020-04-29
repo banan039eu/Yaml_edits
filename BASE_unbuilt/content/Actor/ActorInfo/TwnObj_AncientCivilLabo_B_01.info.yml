@@ -1,0 +1,25 @@
+aabbMax:
+  X: 27.46769905090332
+  Y: 35.21849822998047
+  Z: 15.41510009765625
+aabbMin:
+  X: -8.514780044555664
+  Y: -1.622939944267273
+  Z: -16.253400802612305
+bfres: TwnObj_AncientCivilLavo_B
+boundingForTraverse: 36.84143829345703
+bugMask: 0
+cursorOffsetY: 0.5
+elink: TwnObj_AncientCivilLabo_B_01
+instSize: 543984
+isHasFar: true
+mainModel: TwnObj_AncientCivilLabo_B_01
+name: TwnObj_AncientCivilLabo_B_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+terrainTextures:
+- 1277102848
+traverseDist: 547.9336547851562
+yLimitAlgorithm: NoLimit

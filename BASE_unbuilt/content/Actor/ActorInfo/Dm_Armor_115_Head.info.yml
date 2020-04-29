@@ -1,0 +1,24 @@
+aabbMax:
+  X: 0.25340399146080017
+  Y: 0.5413990020751953
+  Z: 0.18740400671958923
+aabbMin:
+  X: -0.24491900205612183
+  Y: -0.052282001823186874
+  Z: -0.19541199505329132
+bfres: Item_Armor_115
+boundingForTraverse: 0.5936809778213501
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 36444
+mainModel: Item_Armor_115
+name: Dm_Armor_115_Head
+profile: DemoEquipment
+rigidBodyCenterY: 1.37785005569458
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

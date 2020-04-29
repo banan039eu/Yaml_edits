@@ -1,0 +1,25 @@
+aabbMax:
+  X: 0.467835009098053
+  Y: 1.1995999813079834
+  Z: 0.5974040031433105
+aabbMin:
+  X: -0.4076550006866455
+  Y: -0.001986999996006489
+  Z: -0.17333999276161194
+boundingForTraverse: 1.2015869617462158
+bugMask: 3
+cursorOffsetY: 0.6000000238418579
+elink: HiddenKorok
+instSize: 170868
+name: Npc_HiddenKorokGround
+profile: NPC
+slink: Npc_HiddenKorokGround
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag28a3a540: 681813312
+  tag58707087: 1483763847
+  tagb7b6e8f6: !u 0xb7b6e8f6
+xlink: HiddenKorok
+yLimitAlgorithm: NoLimit

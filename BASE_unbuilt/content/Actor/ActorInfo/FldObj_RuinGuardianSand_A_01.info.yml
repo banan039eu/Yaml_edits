@@ -1,0 +1,19 @@
+aabbMax:
+  X: 3.4730899333953857
+  Y: 6.222700119018555
+  Z: 3.6683900356292725
+aabbMin:
+  X: -3.6353600025177
+  Y: -0.21216699481010437
+  Z: -3.7073800563812256
+bfres: FldObj_RuinGuardianSand_A
+boundingForTraverse: 6.434866905212402
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17972
+mainModel: FldObj_RuinGuardianSand_A_01
+name: FldObj_RuinGuardianSand_A_01
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 215.0
+yLimitAlgorithm: NoLimit

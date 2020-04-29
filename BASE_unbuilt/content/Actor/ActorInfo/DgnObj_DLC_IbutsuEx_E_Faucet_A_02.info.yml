@@ -1,0 +1,29 @@
+aabbMax:
+  X: 6.063049793243408
+  Y: 3.687079906463623
+  Z: 1.079319953918457
+aabbMin:
+  X: -6.063049793243408
+  Y: -6.829319953918457
+  Z: -10.494500160217285
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuEx_E
+boundingForTraverse: 10.516399383544922
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 66684
+mainModel: DgnObj_DLC_IbutsuEx_E_Faucet_A_02
+name: DgnObj_DLC_IbutsuEx_E_Faucet_A_02
+profile: MapDynamicActive
+slink: DgnObj_DLC_IbutsuEx_E_Faucet_A_02
+sortKey: 103
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tag2c608f30: 744525616
+  tag8fda6cdd: !u 0x8fda6cdd
+  tagbeabf785: !u 0xbeabf785
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

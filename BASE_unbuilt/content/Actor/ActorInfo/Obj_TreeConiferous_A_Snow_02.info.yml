@@ -1,0 +1,44 @@
+aabbMax:
+  X: 4.610420227050781
+  Y: 20.510900497436523
+  Z: 4.294579982757568
+aabbMin:
+  X: -4.563889980316162
+  Y: -2.070810079574585
+  Z: -4.438079833984375
+attackPower: 0
+bfres: Obj_TreeConiferousSnow_A
+boundingForTraverse: 22.581710815429688
+bugMask: 1
+drops:
+  Normal:
+  - Weapon_Lsword_056
+  - Weapon_Sword_044
+  - Item_Fruit_K
+elink: Obj_TreeConiferous_A_Snow_02
+generalLife: 40
+instSize: 121684
+locators:
+- pos_x: -0.40950000286102295
+  pos_y: 1.7200000286102295
+  pos_z: 0.17239999771118164
+  rot_x: -89.31999969482422
+  rot_y: 112.84500122070312
+  rot_z: 0.0
+  type: Trunk
+lookAtOffsetY: 1.100000023841858
+mainModel: Obj_TreeConiferous_A_Snow_02
+name: Obj_TreeConiferous_A_Snow_02
+profile: MapDynamicPassive
+rigidBodyCenterY: 4.367949962615967
+sortKey: -12
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag2b533845: 726874181
+  tage024e81f: !u 0xe024e81f
+  tage09808b3: !u 0xe09808b3
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

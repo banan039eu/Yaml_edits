@@ -1,0 +1,18 @@
+aabbMax:
+  X: 1.1987099647521973
+  Y: 0.9750000238418579
+  Z: 9.999999974752427e-07
+aabbMin:
+  X: -1.3829100131988525
+  Y: -0.4528209865093231
+  Z: -2.0
+bfres: TwnObj_Village_Fishing_A
+boundingForTraverse: 1.4278210401535034
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: TwnObj_Village_FishingStair_A_01
+name: TwnObj_Village_FishingStair_A_01
+profile: MapConstPassive
+sortKey: 8
+yLimitAlgorithm: NoLimit

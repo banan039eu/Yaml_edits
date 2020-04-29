@@ -1,0 +1,20 @@
+aabbMax:
+  X: 5.656740188598633
+  Y: 2.0
+  Z: 3.7503199577331543
+aabbMin:
+  X: -5.87775993347168
+  Y: -1.2125400304794312
+  Z: -3.9513800144195557
+bfres: FldObj_MountainLanayru_A
+boundingForTraverse: 3.2125399112701416
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 27608
+mainModel: FldObj_MountainLanayruStairs_A_01
+name: FldObj_MountainLanayruStairs_A_01
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffffff08
+yLimitAlgorithm: NoLimit

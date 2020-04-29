@@ -1,0 +1,42 @@
+aabbMax:
+  X: 0.1514890044927597
+  Y: 1.9111299514770508
+  Z: 0.19775399565696716
+aabbMin:
+  X: -0.1514890044927597
+  Y: 1.3740400075912476
+  Z: -0.23094700276851654
+armorDefenceAddLevel: 4
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_095_Head
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_020
+boundingForTraverse: 0.537090003490448
+bugMask: 3
+instSize: 80388
+itemBuyingPrice: 180
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 45
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_020_Head
+name: Armor_020_Head
+profile: ArmorHead
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: HyliaArmor
+slink: Armor_Head_MetalHeavy
+sortKey: 1321154
+tags:
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

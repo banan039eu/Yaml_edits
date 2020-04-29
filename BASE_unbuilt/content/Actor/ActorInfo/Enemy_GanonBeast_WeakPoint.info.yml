@@ -1,0 +1,15 @@
+attackPower: 0
+bugMask: 1
+enemyRank: 0
+generalLife: 1
+instSize: 13432
+name: Enemy_GanonBeast_WeakPoint
+profile: Enemy
+sortKey: 9999
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag17044493: 386155667
+  tag7027cedd: 1881657053
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

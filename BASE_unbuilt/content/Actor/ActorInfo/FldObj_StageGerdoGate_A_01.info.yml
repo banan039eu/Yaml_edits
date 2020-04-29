@@ -1,0 +1,21 @@
+aabbMax:
+  X: 2.7728099822998047
+  Y: 4.431550025939941
+  Z: 1.5099799633026123
+aabbMin:
+  X: -2.866349935531616
+  Y: -0.384225994348526
+  Z: -1.0946600437164307
+bfres: FldObj_StageGerdo_A
+boundingForTraverse: 4.8157758712768555
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 50112
+mainModel: FldObj_StageGerdoGate_A_01
+name: FldObj_StageGerdoGate_A_01
+profile: MapConstPassive
+sortKey: -13
+terrainTextures:
+- !u 0xffffff47
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

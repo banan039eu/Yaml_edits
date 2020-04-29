@@ -1,0 +1,31 @@
+aabbMax:
+  X: 0.29057300090789795
+  Y: 0.6740469932556152
+  Z: 0.32190001010894775
+aabbMin:
+  X: -0.3080329895019531
+  Y: -0.10332600027322769
+  Z: -0.3054789900779724
+attackPower: 4
+bfres: TwnObj_Village_KorokPot_A
+boundingForTraverse: 0.7773730158805847
+bugMask: 3
+cursorOffsetY: 0.5
+elink: TwnObj_Village_KorokPot_A_S_Act_01
+generalLife: 1
+instSize: 40204
+mainModel: TwnObj_Village_KorokPot_A_S_Act_01
+name: Obj_KorokPot_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.29149898886680603
+slink: KorokPot
+sortKey: -36
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag74831ee0: 1954750176
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 100.0
+yLimitAlgorithm: NoLimit

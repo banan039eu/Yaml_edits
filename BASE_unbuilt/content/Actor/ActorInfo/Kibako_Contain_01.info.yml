@@ -1,0 +1,41 @@
+aabbMax:
+  X: 1.034999966621399
+  Y: 2.009999990463257
+  Z: 0.9900000095367432
+aabbMin:
+  X: -1.0446699857711792
+  Y: -0.019999999552965164
+  Z: -0.9900000095367432
+attackPower: 0
+bfres: Obj_BoxWood_A
+boundingForTraverse: 2.0299999713897705
+bugMask: 3
+drops:
+  Amiibo: 1
+  Normal:
+  - Item_Fruit_A
+  - Item_Fruit_K
+  Normal2:
+  - Obj_ArrowNormal_A_01
+  - Obj_ArrowBundle_A_02
+  - Obj_ArrowBundle_A_01
+elink: KibakoHang
+generalLife: 40
+instSize: 45832
+mainModel: Obj_BoxWood_A
+name: Kibako_Contain_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 1.0
+slink: KibakoHang
+sortKey: -9
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0ba4a61e: 195339806
+  tag25cd2b4d: 634202957
+  tag8fda6cdd: !u 0x8fda6cdd
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagd369c30f: !u 0xd369c30f
+  tagff53ef86: !u 0xff53ef86
+yLimitAlgorithm: LimitYDiff

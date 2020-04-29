@@ -1,0 +1,24 @@
+aabbMax:
+  X: 29.585100173950195
+  Y: 6.723020076751709
+  Z: -2.210900068283081
+aabbMin:
+  X: -29.3799991607666
+  Y: -3.275969982147217
+  Z: -32.861698150634766
+bfres: FldObj_RockDislocation_D
+boundingForTraverse: 9.998990058898926
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+isHasFar: true
+mainModel: FldObj_RockDislocation_D_02
+name: FldObj_RockDislocation_D_02
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xff4d1d11
+traverseDist: 566.4556884765625
+yLimitAlgorithm: NoLimit

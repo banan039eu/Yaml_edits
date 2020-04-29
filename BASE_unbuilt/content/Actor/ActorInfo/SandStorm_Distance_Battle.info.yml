@@ -1,0 +1,14 @@
+attackPower: 0
+bugMask: 0
+elink: SandStorm_Distance_Battle
+generalLife: 100
+instSize: 3928
+name: SandStorm_Distance_Battle
+profile: MapConstActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag572de768: 1462626152
+traverseDist: 3000.0
+yLimitAlgorithm: NoLimit

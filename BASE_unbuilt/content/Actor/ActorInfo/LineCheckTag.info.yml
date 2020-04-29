@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 4724
+name: LineCheckTag
+profile: ComplexTag
+sortKey: 0
+yLimitAlgorithm: NoLimit

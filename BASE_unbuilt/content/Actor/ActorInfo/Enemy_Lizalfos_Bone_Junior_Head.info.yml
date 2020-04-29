@@ -1,0 +1,46 @@
+aabbMax:
+  X: 0.4013659954071045
+  Y: 1.000190019607544
+  Z: 0.8707659840583801
+aabbMin:
+  X: -0.4023419916629791
+  Y: 0.0015920000150799751
+  Z: -0.6119049787521362
+attackPower: 10
+bfres: Enemy_Lizalfos_Bone
+boundingForTraverse: 0.9985979795455933
+bugMask: 3
+cursorOffsetY: 1.0499999523162842
+elink: Stal_Bokoblin_Junior_Head
+enemyRank: 0
+generalLife: 1
+instSize: 74244
+invalidTimes:
+- Morning_A2
+- Morning_B
+- Noon_A
+- Noon_B
+- Evening_A
+- Evening_B
+mainModel: Lizalfos_Bone_Head
+name: Enemy_Lizalfos_Bone_Junior_Head
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+rigidBodyCenterY: 0.30000001192092896
+slink: Enemy_Lizalfos_Bone_Junior_Head
+sortKey: 10717
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_Lizalfos_Bone_Junior
+tags:
+  tag0c6690b5: 208048309
+  tag35960905: 899025157
+  tag3ed0b27e: 1053864574
+  tag72d6e7a4: 1926686628
+  tag82ed5778: !u 0x82ed5778
+  tag994aef4b: !u 0x994aef4b
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagff2ecb67: !u 0xff2ecb67
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

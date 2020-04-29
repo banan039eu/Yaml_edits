@@ -1,0 +1,17 @@
+aabbMax:
+  X: 0.9473860263824463
+  Y: 1.0493299961090088
+  Z: 0.05418499931693077
+aabbMin:
+  X: -0.9473860263824463
+  Y: -0.05066800117492676
+  Z: -0.017031999304890633
+bfres: TwnObj_PictureQuiz_A
+boundingForTraverse: 1.0999979972839355
+bugMask: 0
+instSize: 17140
+mainModel: TwnObj_PictureQuiz_A_01
+name: TwnObj_PictureQuiz_A_01
+profile: MapConstPassive
+sortKey: 12
+yLimitAlgorithm: NoLimit

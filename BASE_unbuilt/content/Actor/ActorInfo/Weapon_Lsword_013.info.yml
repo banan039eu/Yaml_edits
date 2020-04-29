@@ -1,0 +1,73 @@
+aabbMax:
+  X: 0.12058799713850021
+  Y: 0.03305400162935257
+  Z: 1.2362699508666992
+aabbMin:
+  X: -0.3782469928264618
+  Y: -0.03305400162935257
+  Z: -0.6528599858283997
+attackPower: 30
+bfres: Weapon_Lsword_013
+boundingForTraverse: 0.06610900163650513
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Lsword_013
+generalLife: 15
+homeArea:
+- name: GerudoDesert
+- name: CentralHyrule
+- name: EldinCanyon
+instSize: 81680
+itemBuyingPrice: 45
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 18
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Lsword_013
+name: Weapon_Lsword_013
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponLargeSword
+slink: Weapon_Lsword_013
+sortKey: 12540
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag3d2fc55b: 1026540891
+  tag5e27ef10: 1579675408
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 14
+weaponCommonPoweredSharpAddAtkMin: 9
+weaponCommonPoweredSharpAddLifeMax: 7
+weaponCommonPoweredSharpAddLifeMin: 4
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 2.0
+weaponCommonPoweredSharpAddThrowMin: 1.5
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 11
+weaponCommonSharpWeaponAddAtkMax: 8
+weaponCommonSharpWeaponAddAtkMin: 4
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 3
+weaponCommonSharpWeaponAddLifeMin: 2
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: Weapon
+yLimitAlgorithm: NoLimit

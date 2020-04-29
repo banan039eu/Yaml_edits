@@ -1,0 +1,22 @@
+aabbMax:
+  X: 38.88589859008789
+  Y: 0.598363995552063
+  Z: 42.63740158081055
+aabbMin:
+  X: -42.595001220703125
+  Y: -31.252599716186523
+  Z: -0.4736100137233734
+bfres: FldObj_CliffWhite_C
+boundingForTraverse: 31.850963592529297
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 29912
+isHasFar: true
+mainModel: FldObj_CliffWhiteHill_C_02
+name: FldObj_CliffWhiteHill_C_02
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag932d2d91: !u 0x932d2d91
+traverseDist: 592.1829223632812
+yLimitAlgorithm: NoLimit

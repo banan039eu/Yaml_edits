@@ -1,0 +1,33 @@
+aabbMax:
+  X: 0.6437199711799622
+  Y: 0.6330580115318298
+  Z: 0.40822699666023254
+aabbMin:
+  X: -0.5230699777603149
+  Y: -0.649304986000061
+  Z: -0.4682050049304962
+bfres: Obj_Maracas
+boundingForTraverse: 1.2823630571365356
+bugMask: 0
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 18848
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Obj_Maracas
+name: Obj_Maracas
+profile: Item
+sortKey: 52014
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag1c0c8d23: 470584611
+  tag2cef9fdc: 753901532
+  tag4850af43: 1213247299
+  tagdeb2c8bd: !u 0xdeb2c8bd
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.3075670003890991
+  Y: 1.7991700172424316
+  Z: 0.5795379877090454
+aabbMin:
+  X: -0.23354299366474152
+  Y: 0.00036700000055134296
+  Z: -0.5454130172729492
+bfres: Npc_Gerudo_Queen
+boundingForTraverse: 1.7988029718399048
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Npc_oasis033
+instSize: 362732
+mainModel: Npc_Gerudo_Queen
+name: Npc_oasis033
+profile: NPC
+slink: Npc_oasis033
+sortKey: -6
+systemIsGetItemSelf: false
+systemSameGroupActorName: Npc_oasis003
+tags:
+  tag74831ee0: 1954750176
+  tagf92947a1: !u 0xf92947a1
+xlink: Npc
+yLimitAlgorithm: NoLimit

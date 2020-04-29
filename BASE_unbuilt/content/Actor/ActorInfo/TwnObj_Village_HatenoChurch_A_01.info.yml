@@ -1,0 +1,19 @@
+aabbMax:
+  X: 16.191999435424805
+  Y: 29.34950065612793
+  Z: 19.707199096679688
+aabbMin:
+  X: -34.9182014465332
+  Y: -1.8695299625396729
+  Z: -22.849300384521484
+bfres: TwnObj_Village_Hateno_A
+boundingForTraverse: 31.219030380249023
+bugMask: 0
+instSize: 259760
+isHasFar: true
+mainModel: TwnObj_Village_HatenoChurch_A_01
+name: TwnObj_Village_HatenoChurch_A_01
+profile: MapConstPassive
+sortKey: -15
+traverseDist: 566.5079345703125
+yLimitAlgorithm: NoLimit

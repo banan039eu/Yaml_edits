@@ -1,0 +1,19 @@
+aabbMax:
+  X: 7.17018985748291
+  Y: 2.304529905319214
+  Z: 3.0354599952697754
+aabbMin:
+  X: -10.571700096130371
+  Y: -0.33578601479530334
+  Z: -3.5600099563598633
+bfres: FldObj_AkkareCannon_A
+boundingForTraverse: 2.6403160095214844
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 48768
+mainModel: FldObj_AkkareCannon_A_01
+name: FldObj_AkkareCannon_A_01
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

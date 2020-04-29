@@ -1,0 +1,62 @@
+aabbMax:
+  X: 0.9675639867782593
+  Y: 2.819269895553589
+  Z: 2.7363100051879883
+aabbMin:
+  X: -1.2480000257492065
+  Y: -0.005745999980717897
+  Z: -1.5631300210952759
+attackPower: 40
+bfres: Enemy_Lizalfos_Gold
+boundingForTraverse: 2.8250160217285156
+bugMask: 3
+cursorOffsetY: 1.0
+drops:
+  Normal:
+  - Item_Ore_D
+  - Item_Ore_B
+  - Item_Ore_C
+  - Item_Ore_A
+  Normal2:
+  - Item_Ore_F
+  - Item_Ore_E
+  - Item_Ore_D
+  - Item_Ore_B
+  - Item_Ore_C
+  - Item_Ore_A
+  Normal3:
+  - Item_Enemy_05
+  Normal4:
+  - Item_Enemy_04
+  Normal5:
+  - Item_Enemy_03
+elink: Lizalfos
+enemyRank: 42
+generalLife: 1296
+instSize: 472020
+mainModel: Lizalfos_Gold
+name: Enemy_Lizalfos_Gold
+pictureBookLiveSpot1: 21
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+slink: Lizalfos
+sortKey: 708
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_Lizalfos_Gold
+tags:
+  tag33b0a8cc: 867215564
+  tag36565b66: 911629158
+  tag3ed0b27e: 1053864574
+  tag4806038d: 1208353677
+  tag559ef706: 1436481286
+  tag82ed5778: !u 0x82ed5778
+  tag8fda6cdd: !u 0x8fda6cdd
+  tag994aef4b: !u 0x994aef4b
+  taga7e979db: !u 0xa7e979db
+  tagb0c9e79a: !u 0xb0c9e79a
+  tage0e120f7: !u 0xe0e120f7
+  tagf2e5b2f2: !u 0xf2e5b2f2
+traverseDist: 150.0
+xlink: Biped_Enemy
+yLimitAlgorithm: LimitYDiff

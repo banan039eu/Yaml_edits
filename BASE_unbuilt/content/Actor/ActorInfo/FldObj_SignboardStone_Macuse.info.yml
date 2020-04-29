@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.9100409746170044
+  Y: 1.7807600498199463
+  Z: 0.2538340091705322
+aabbMin:
+  X: -0.9225959777832031
+  Y: -0.1405320018529892
+  Z: -0.3323670029640198
+attackPower: 0
+bfres: FldObj_SignboardStone_A
+boundingForTraverse: 1.9212919473648071
+bugMask: 1
+cursorOffsetY: 0.699999988079071
+generalLife: 1
+instSize: 46112
+lookAtOffsetY: 1.0
+mainModel: FldObj_SignboardStone_A_01
+name: FldObj_SignboardStone_Macuse
+profile: MapConstActive
+sortKey: 27
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2a2d0822: 707594274
+  tagef748738: !u 0xef748738
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,56 @@
+aabbMax:
+  X: 0.8969630002975464
+  Y: 1.2510900497436523
+  Z: 0.46826601028442383
+aabbMin:
+  X: -0.7397639751434326
+  Y: -0.2330089956521988
+  Z: -0.2813279926776886
+bfres: Obj_MashroomReverse_A
+boundingForTraverse: 1.48409903049469
+bugMask: 1
+cureItemEffectLevel: 1
+cureItemEffectType: MovingSpeed
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 2
+cursorOffsetY: 0.4000000059604645
+drops:
+  Normal:
+  - Item_MushroomGet_D
+elink: GetItem
+generalLife: 1
+instSize: 36956
+itemBuyingPrice: 12
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 3
+itemStainColor: 6
+itemUseIconActorName: ''
+lookAtOffsetY: 0.5
+mainModel: Obj_MashroomReverse_A_01
+name: Item_Mushroom_D
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+rigidBodyCenterY: 0.43816399574279785
+sortKey: 31290
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_MushroomGet_D
+tags:
+  tag14185415: 337138709
+  tag682e5129: 1747865897
+  tag7a3964c1: 2050581697
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+  tagf5b585f7: !u 0xf5b585f7
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

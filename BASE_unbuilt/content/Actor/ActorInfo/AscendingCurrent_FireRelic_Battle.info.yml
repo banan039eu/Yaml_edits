@@ -1,0 +1,9 @@
+bugMask: 1
+elink: AscendingCurrent_DeathMT
+instSize: 7232
+name: AscendingCurrent_FireRelic_Battle
+profile: SoleTag
+sortKey: 4
+traverseDist: 300.0
+xlink: AscendingCurrent
+yLimitAlgorithm: NoLimit

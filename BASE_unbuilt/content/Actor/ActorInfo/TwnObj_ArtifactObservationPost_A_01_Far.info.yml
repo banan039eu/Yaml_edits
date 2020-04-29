@@ -1,0 +1,20 @@
+aabbMax:
+  X: 24.3174991607666
+  Y: 43.18130111694336
+  Z: 18.892799377441406
+aabbMin:
+  X: -21.840499877929688
+  Y: -1.162179946899414
+  Z: -16.384000778198242
+bfres: TwnObj_ArtifactObservationPost_A_Far
+boundingForTraverse: 44.343482971191406
+bugMask: 0
+instSize: 17140
+mainModel: TwnObj_ArtifactObservationPost_A_01_Far
+name: TwnObj_ArtifactObservationPost_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

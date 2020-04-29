@@ -1,0 +1,33 @@
+aabbMax:
+  X: 1.2000000476837158
+  Y: 1.2000000476837158
+  Z: 4.0
+aabbMin:
+  X: -1.2000000476837158
+  Y: -1.2000000476837158
+  Z: -4.0
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuEx_B
+boundingForTraverse: 2.4000000953674316
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 47228
+mainModel: DgnObj_DLC_IbutsuEx_B_MagnePole_A_01
+name: DgnObj_DLC_IbutsuObj_MagnePole_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 1.9999999949504854e-06
+slink: DgnObj_DLC_IbutsuObj_MagnePole_A_01
+sortKey: 166
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tag0fee9a49: 267295305
+  tag7ac84a30: 2059946544
+  tag8e8a8052: !u 0x8e8a8052
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagea5f9118: !u 0xea5f9118
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

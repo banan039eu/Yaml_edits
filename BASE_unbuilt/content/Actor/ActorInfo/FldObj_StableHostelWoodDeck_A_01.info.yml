@@ -1,0 +1,19 @@
+aabbMax:
+  X: 7.886730194091797
+  Y: 0.26189500093460083
+  Z: 15.288999557495117
+aabbMin:
+  X: -11.28849983215332
+  Y: -0.0016199999954551458
+  Z: -17.83169937133789
+bfres: FldObj_StableHostelWoodDeck_A
+boundingForTraverse: 0.26351499557495117
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+mainModel: FldObj_StableHostelWoodDeck_A_01
+name: FldObj_StableHostelWoodDeck_A_01
+profile: MapConstPassive
+sortKey: -2
+traverseDist: 400.0
+yLimitAlgorithm: NoLimit

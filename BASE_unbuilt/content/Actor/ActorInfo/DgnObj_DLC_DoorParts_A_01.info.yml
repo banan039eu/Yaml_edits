@@ -1,0 +1,28 @@
+aabbMax:
+  X: 9.960350036621094
+  Y: 9.960350036621094
+  Z: 3.447279930114746
+aabbMin:
+  X: -9.960350036621094
+  Y: -9.960350036621094
+  Z: -6.371920108795166
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuObj_A
+boundingForTraverse: 19.920700073242188
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 132668
+mainModel: DgnObj_DLC_DoorParts_A_01
+name: DgnObj_DLC_DoorParts_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.0009319999953731894
+slink: DgnObj_DLC_DoorParts_A_01
+sortKey: 145
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2c608f30: 744525616
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

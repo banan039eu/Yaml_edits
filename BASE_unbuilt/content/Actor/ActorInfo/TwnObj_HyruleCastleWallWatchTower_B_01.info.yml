@@ -1,0 +1,25 @@
+aabbMax:
+  X: 13.054300308227539
+  Y: 21.481300354003906
+  Z: 8.975000381469727
+aabbMin:
+  X: -13.30370044708252
+  Y: -1.5
+  Z: -10.050000190734863
+bfres: TwnObj_HyruleCastleWall_A
+boundingForTraverse: 22.981300354003906
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 212316
+isHasFar: true
+mainModel: TwnObj_HyruleCastleWallWatchTower_B_01
+name: TwnObj_HyruleCastleWallWatchTower_B_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag03528579: 55739769
+  taga1c9da5d: !u 0xa1c9da5d
+terrainTextures:
+- !u 0xffffff52
+traverseDist: 532.5068359375
+yLimitAlgorithm: NoLimit

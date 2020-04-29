@@ -1,0 +1,72 @@
+aabbMax:
+  X: 0.6709669828414917
+  Y: 0.03610499948263168
+  Z: 0.4510990083217621
+aabbMin:
+  X: -0.39987900853157043
+  Y: -0.1578419953584671
+  Z: -0.6727589964866638
+attackPower: 0
+bfres: Weapon_Shield_014
+boundingForTraverse: 0.19394700229167938
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Shield_014
+generalLife: 13
+homeArea:
+- name: EastHateru
+- name: FironeGrassland
+- name: HyruleHill
+instSize: 61752
+itemBuyingPrice: 90
+itemCreatingPrice: 10
+itemSaleRevivalCount: -1
+itemSellingPrice: 30
+itemStainColor: -1
+itemUseIconActorName: ''
+name: Weapon_Shield_014
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponShield
+rigidBodyCenterY: -0.08996099978685379
+slink: Weapon_Shield_014
+sortKey: 15541
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag5e27ef10: 1579675408
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 30
+weaponCommonPoweredSharpAddAtkMax: 0
+weaponCommonPoweredSharpAddAtkMin: 0
+weaponCommonPoweredSharpAddLifeMax: 6
+weaponCommonPoweredSharpAddLifeMin: 5
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 11
+weaponCommonPoweredSharpWeaponAddGuardMin: 7
+weaponCommonRank: 13
+weaponCommonSharpWeaponAddAtkMax: 0
+weaponCommonSharpWeaponAddAtkMin: 0
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 6
+weaponCommonSharpWeaponAddGuardMin: 3
+weaponCommonSharpWeaponAddLifeMax: 4
+weaponCommonSharpWeaponAddLifeMin: 2
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+xlink: Weapon
+yLimitAlgorithm: NoLimit

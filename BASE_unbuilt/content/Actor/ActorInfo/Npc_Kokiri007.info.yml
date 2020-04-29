@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.2903349995613098
+  Y: 1.1995999813079834
+  Z: 0.4547469913959503
+aabbMin:
+  X: -0.2900890111923218
+  Y: -0.001986999996006489
+  Z: -0.17333999276161194
+boundingForTraverse: 1.2015869617462158
+bugMask: 3
+cursorOffsetY: 0.6000000238418579
+elink: Korok
+instSize: 189684
+name: Npc_Kokiri007
+profile: NPC
+slink: Npc_Korogu
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Korok
+yLimitAlgorithm: NoLimit

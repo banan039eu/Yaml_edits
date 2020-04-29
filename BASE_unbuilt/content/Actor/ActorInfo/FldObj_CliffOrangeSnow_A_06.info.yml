@@ -1,0 +1,23 @@
+aabbMax:
+  X: 15.107999801635742
+  Y: 9.030949592590332
+  Z: 13.643799781799316
+aabbMin:
+  X: -13.553600311279297
+  Y: -2.440340042114258
+  Z: -12.821900367736816
+bfres: FldObj_CliffOrangeSnow_A
+boundingForTraverse: 11.47128963470459
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 51296
+mainModel: FldObj_CliffOrangeSnow_A_06
+name: FldObj_CliffOrangeSnow_A_06
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff08
+traverseDist: 400.0
+yLimitAlgorithm: NoLimit

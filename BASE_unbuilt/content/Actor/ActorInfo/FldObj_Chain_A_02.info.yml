@@ -1,0 +1,20 @@
+aabbMax:
+  X: 0.12493900209665298
+  Y: 0.0625
+  Z: 0.12493900209665298
+aabbMin:
+  X: -0.12493900209665298
+  Y: -1.061519980430603
+  Z: -0.12493900209665298
+bfres: FldObj_Chain_A
+boundingForTraverse: 1.124019980430603
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 1
+instSize: 38260
+mainModel: FldObj_Chain_A_02
+name: FldObj_Chain_A_02
+profile: Rope
+slink: RopeWire
+sortKey: -12
+yLimitAlgorithm: NoLimit

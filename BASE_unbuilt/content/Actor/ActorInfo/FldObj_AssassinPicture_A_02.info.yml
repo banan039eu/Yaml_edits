@@ -1,0 +1,27 @@
+aabbMax:
+  X: 2.0597400665283203
+  Y: 0.3217419981956482
+  Z: 13.876099586486816
+aabbMin:
+  X: -2.0597400665283203
+  Y: -0.29237499833106995
+  Z: -0.2718670070171356
+attackPower: 0
+bfres: FldObj_AssassinPicture_A
+boundingForTraverse: 0.6141170263290405
+bugMask: 0
+cursorOffsetY: 0.5
+elink: FldObj_AssassinPicture_A_02
+generalLife: 100
+instSize: 25412
+mainModel: FldObj_AssassinPicture_A_02
+name: FldObj_AssassinPicture_A_02
+profile: MapDynamicActive
+sortKey: 1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tagdeb2c8bd: !u 0xdeb2c8bd
+traverseDist: 100.0
+yLimitAlgorithm: NoLimit

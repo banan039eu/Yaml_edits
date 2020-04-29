@@ -1,0 +1,29 @@
+aabbMax:
+  X: 0.21611100435256958
+  Y: 0.21553899347782135
+  Z: 0.27216601371765137
+aabbMin:
+  X: -0.24595800042152405
+  Y: -0.22130000591278076
+  Z: -0.2491299957036972
+attackPower: 1
+bfres: Obj_Rock_Weapon_Big
+boundingForTraverse: 0.4368390142917633
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Rock_Moriblin
+instSize: 33700
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Rock_Weapon_Big
+name: Rock_Moriblin
+profile: Bullet
+slink: Rock_Moriblin
+sortKey: 0
+tags:
+  tag51e73965: 1374108005
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,19 @@
+aabbMax:
+  X: 11.15880012512207
+  Y: 2.5729598999023438
+  Z: 22.600099563598633
+aabbMin:
+  X: -11.17490005493164
+  Y: -18.06399917602539
+  Z: -9.999480247497559
+bfres: TwnObj_Village_Rito_A
+boundingForTraverse: 20.636959075927734
+bugMask: 0
+instSize: 226624
+isHasFar: true
+mainModel: TwnObj_Village_RitoHotel_A_01
+name: TwnObj_Village_RitoHotel_A_01
+profile: MapConstPassive
+sortKey: -20
+traverseDist: 539.5161743164062
+yLimitAlgorithm: NoLimit

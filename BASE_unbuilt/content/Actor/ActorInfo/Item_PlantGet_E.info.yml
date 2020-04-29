@@ -1,0 +1,56 @@
+aabbMax:
+  X: 0.3381809890270233
+  Y: 1.065310001373291
+  Z: 0.33274200558662415
+aabbMin:
+  X: -0.2974649965763092
+  Y: -0.4365519881248474
+  Z: -0.39887601137161255
+bfres: Obj_FlowerChemical_A
+boundingForTraverse: 1.5018620491027832
+bugMask: 3
+cureItemEffectLevel: 1
+cureItemEffectType: ResistHot
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 0
+cursorOffsetY: 0.4000000059604645
+elink: Item_PlantGet_E
+generalLife: 1
+homeArea:
+- name: HeburaMountains
+- name: GerudoHighlands
+- name: TabantaFrontier
+instSize: 46996
+itemBuyingPrice: 12
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 3
+itemStainColor: 8
+itemUseIconActorName: Item_PlantGet_E
+lookAtOffsetY: 0.30000001192092896
+mainModel: Obj_Get_FlowerChemical_C_01
+motorcycleEnergy:
+  add: 75.0
+name: Item_PlantGet_E
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+rigidBodyCenterY: 0.30000001192092896
+slink: Item_PlantLeafGet
+sortKey: 31450
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_PlantGet_E
+tags:
+  tag682e5129: 1747865897
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagbbf08f85: !u 0xbbf08f85
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

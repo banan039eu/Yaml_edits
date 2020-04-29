@@ -1,0 +1,43 @@
+aabbMax:
+  X: 0.2282709926366806
+  Y: 2.0067598819732666
+  Z: 0.1896969974040985
+aabbMin:
+  X: -0.22058099508285522
+  Y: 1.3740400075912476
+  Z: -0.23094700276851654
+armorDefenceAddLevel: 3
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 2
+armorEffectEffectType: ResistLightning
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_115
+boundingForTraverse: 0.6327199935913086
+bugMask: 3
+instSize: 67776
+itemBuyingPrice: 1000
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 250
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_115_Head
+name: Armor_115_Head
+profile: ArmorHead
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: Thunder
+slink: Armor_Head_MetalHeavy
+sortKey: 2821630
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,26 @@
+aabbMax:
+  X: 1.788540005683899
+  Y: 3.2215099334716797
+  Z: 1.1321099996566772
+aabbMin:
+  X: -1.77892005443573
+  Y: 0.0008629999938420951
+  Z: -1.0534600019454956
+bfres: Npc_Goron_Hero
+boundingForTraverse: 3.220647096633911
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Dm_Npc_Goron_Hero
+instSize: 396780
+mainModel: Npc_Goron_Hero
+name: Dm_Npc_Goron_Hero
+profile: NPC
+slink: Npc
+sortKey: -14
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag74831ee0: 1954750176
+  tag84f40ec6: !u 0x84f40ec6
+  tagfd5643b5: !u 0xfd5643b5
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,7 @@
+bugMask: 1
+instSize: 2276
+name: DgnObj_DLC_CogWheelRotDirSwitch
+profile: SoleTag
+sortKey: -4
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

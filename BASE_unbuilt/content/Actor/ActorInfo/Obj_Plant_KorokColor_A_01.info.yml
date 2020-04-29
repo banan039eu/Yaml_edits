@@ -1,0 +1,33 @@
+aabbMax:
+  X: 0.6540889739990234
+  Y: 1.3768199682235718
+  Z: 0.36883899569511414
+aabbMin:
+  X: -0.4352709949016571
+  Y: -0.6432089805603027
+  Z: -0.26459598541259766
+attackPower: 0
+bfres: Obj_Plant_KorokColor_A
+boundingForTraverse: 2.020029067993164
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Obj_Plant_KorokColor_A_01
+generalLife: 100
+instSize: 40420
+mainModel: Obj_Plant_KorokColor_A_01
+name: Obj_Plant_KorokColor_A_01
+profile: MapConstActive
+slink: Obj_Plant_KorokColor_A_01
+sortKey: -7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag51ed35a6: 1374500262
+  tag55ef2d02: 1441737986
+  tag7de11d78: 2111905144
+  tagd902a8a2: !u 0xd902a8a2
+  tagef94310b: !u 0xef94310b
+  tagf47b2e0d: !u 0xf47b2e0d
+  tagf5f5d49c: !u 0xf5f5d49c
+traverseDist: 100.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,21 @@
+aabbMax:
+  X: 132.0850067138672
+  Y: 75.17350006103516
+  Z: 99.99729919433594
+aabbMin:
+  X: -132.5
+  Y: -83.17649841308594
+  Z: -69.21929931640625
+bfres: DgnObj_IbutsuWindSit_A_Far
+boundingForTraverse: 158.35000610351562
+bugMask: 0
+elink: DgnScene_RemainsWind_Far
+instSize: 19228
+mainModel: DgnObj_IbutsuWindSit_A_02_Far
+name: DgnScene_RemainsWind_Far
+profile: MapConstPassive
+sortKey: -13
+tags:
+  tag572de768: 1462626152
+traverseDist: 10000.0
+yLimitAlgorithm: NoLimit

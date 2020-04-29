@@ -1,0 +1,46 @@
+aabbMax:
+  X: 0.29768499732017517
+  Y: 0.5311599969863892
+  Z: 0.24715900421142578
+aabbMin:
+  X: -0.2742280066013336
+  Y: 0.0
+  Z: -0.3040910065174103
+bfres: Item_Ore_G
+boundingForTraverse: 0.5311599969863892
+bugMask: 1
+cursorOffsetY: 0.4000000059604645
+elink: Item_Ore_G
+generalLife: 100
+instSize: 46648
+itemBuyingPrice: 280
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 70
+itemStainColor: 9
+itemUseIconActorName: ''
+mainModel: Item_Ore_G
+monsterShopBuyMamo: 80
+monsterShopSellMamo: 0
+motorcycleEnergy:
+  add: 75.0
+name: Item_Ore_G
+profile: Item
+rigidBodyCenterY: 0.10000000149011612
+sortKey: 36050
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag82c09959: !u 0x82c09959
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagbd7fd9d5: !u 0xbd7fd9d5
+  tagc2ac3213: !u 0xc2ac3213
+  tagd1e9663c: !u 0xd1e9663c
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+yLimitAlgorithm: NoLimit

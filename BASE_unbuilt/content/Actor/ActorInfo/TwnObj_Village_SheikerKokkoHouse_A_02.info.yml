@@ -1,0 +1,18 @@
+aabbMax:
+  X: 2.6757500171661377
+  Y: 3.3569700717926025
+  Z: 2.5759499073028564
+aabbMin:
+  X: -2.6654300689697266
+  Y: -0.24470099806785583
+  Z: -1.920259952545166
+bfres: TwnObj_Village_Sheiker_A
+boundingForTraverse: 3.601670980453491
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 79372
+mainModel: TwnObj_Village_SheikerKokkoHouse_A_02
+name: TwnObj_Village_SheikerKokkoHouse_A_02
+profile: MapConstPassive
+sortKey: -13
+yLimitAlgorithm: NoLimit

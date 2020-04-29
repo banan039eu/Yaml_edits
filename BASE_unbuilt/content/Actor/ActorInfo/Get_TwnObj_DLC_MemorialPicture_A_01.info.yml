@@ -1,0 +1,33 @@
+aabbMax:
+  X: 0.7645180225372314
+  Y: 0.4706369936466217
+  Z: 0.09823700040578842
+aabbMin:
+  X: -0.7665910124778748
+  Y: -0.4670110046863556
+  Z: 0.0
+bfres: TwnObj_DLC_MemorialPicture_A
+boundingForTraverse: 0.9376479983329773
+bugMask: 0
+cursorOffsetY: 0.5
+elink: GetItem
+generalLife: 100
+instSize: 29264
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: TwnObj_DLC_MemorialPicture_A_01
+name: Get_TwnObj_DLC_MemorialPicture_A_01
+profile: Item
+sortKey: 52115
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2cef9fdc: 753901532
+  tag4850af43: 1213247299
+  tag7025851a: 1881507098
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,23 @@
+aabbMax:
+  X: 0.41295599937438965
+  Y: 2.5214200019836426
+  Z: 0.29114601016044617
+aabbMin:
+  X: -0.4166739881038666
+  Y: -0.0038850000128149986
+  Z: -0.2985140085220337
+bfres: Npc_Gerudo_Champion
+boundingForTraverse: 2.5253050327301025
+bugMask: 3
+cursorOffsetY: 0.5
+elink: NPC
+instSize: 345580
+mainModel: Npc_Gerudo_Champion
+name: Npc_oasis038
+profile: NPC
+slink: Npc_oasis038
+sortKey: -3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

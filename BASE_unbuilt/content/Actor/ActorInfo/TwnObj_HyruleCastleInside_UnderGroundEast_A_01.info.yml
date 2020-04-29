@@ -1,0 +1,25 @@
+aabbMax:
+  X: 42.44599914550781
+  Y: 27.886199951171875
+  Z: 116.9530029296875
+aabbMin:
+  X: -53.55270004272461
+  Y: -29.212299346923828
+  Z: -125.95899963378906
+bfres: TwnObj_HyruleCastleInside_UnderGround_A
+boundingForTraverse: 57.0984992980957
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 58852
+mainModel: TwnObj_HyruleCastleInside_UnderGroundEast_A_01
+name: TwnObj_HyruleCastleInside_UnderGroundEast_A_01
+profile: MapConstPassive
+sortKey: 6
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+terrainTextures:
+- !u 0xff1d110c
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

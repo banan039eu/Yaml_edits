@@ -1,0 +1,9 @@
+bugMask: 1
+elink: AscendingCurrent_GanonBeastBeam
+instSize: 7412
+name: AscendingCurrent_GanonBeast
+profile: SoleTag
+sortKey: -2
+traverseDist: 99999.0
+xlink: AscendingCurrent
+yLimitAlgorithm: NoLimit

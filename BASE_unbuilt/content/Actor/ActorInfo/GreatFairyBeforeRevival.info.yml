@@ -1,0 +1,12 @@
+bugMask: 3
+instSize: 20808
+name: GreatFairyBeforeRevival
+profile: NPC
+slink: GreatFairyBeforeRevival
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag74831ee0: 1954750176
+xlink: Npc_NoFootstep
+yLimitAlgorithm: NoLimit

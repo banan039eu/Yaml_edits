@@ -1,0 +1,18 @@
+bugMask: 1
+drops:
+  Normal:
+  - Item_PlantGet_A
+  - Item_PlantGet_E
+  - Item_PlantGet_F
+  - Item_PlantGet_L
+  - Item_PlantGet_M
+  - Item_PlantGet_O
+  - Item_PlantGet_G
+  - Item_PlantGet_H
+  - Item_Fruit_J
+  - Item_PlantGet_I
+instSize: 8196
+name: Item_Amiibo_DropTable_010
+profile: System
+sortKey: 17
+yLimitAlgorithm: NoLimit

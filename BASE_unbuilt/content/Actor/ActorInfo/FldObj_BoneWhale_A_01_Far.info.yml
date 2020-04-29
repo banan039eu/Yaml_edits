@@ -1,0 +1,26 @@
+aabbMax:
+  X: 36.911598205566406
+  Y: 28.690099716186523
+  Z: 131.0679931640625
+aabbMin:
+  X: -65.70469665527344
+  Y: -21.888200759887695
+  Z: -112.6969985961914
+attackPower: 0
+bfres: FldObj_BoneWhale_A_Far
+boundingForTraverse: 50.57830047607422
+bugMask: 0
+generalLife: 100
+instSize: 19524
+mainModel: FldObj_BoneWhale_A_01_Far
+name: FldObj_BoneWhale_A_01_Far
+profile: MapConstActive
+rigidBodyCenterY: 4.624380111694336
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag57fd54ce: 1476220110
+  tag921c2372: !u 0x921c2372
+traverseDist: 3000.0
+yLimitAlgorithm: NoLimit

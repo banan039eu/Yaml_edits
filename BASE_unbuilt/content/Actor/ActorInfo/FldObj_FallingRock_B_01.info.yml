@@ -1,0 +1,28 @@
+aabbMax:
+  X: 1.818850040435791
+  Y: 1.6684000492095947
+  Z: 1.6567399501800537
+aabbMin:
+  X: -1.4704099893569946
+  Y: -1.4749499559402466
+  Z: -1.7093499898910522
+attackPower: 0
+bfres: FldObj_FallingRock_A
+boundingForTraverse: 3.1433498859405518
+bugMask: 3
+generalLife: 100
+instSize: 33468
+mainModel: FldObj_FallingRock_A_01
+name: FldObj_FallingRock_B_01
+profile: MapDynamicActive
+rigidBodyCenterY: -0.00800000037997961
+slink: RockBall
+sortKey: -24
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag507efd18: 1350499608
+  tag6a7a4c11: 1786399761
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

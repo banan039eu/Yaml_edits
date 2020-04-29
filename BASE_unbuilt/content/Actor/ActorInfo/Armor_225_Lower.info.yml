@@ -1,0 +1,43 @@
+aabbMax:
+  X: 0.22631800174713135
+  Y: 0.9428709745407104
+  Z: 0.22005699574947357
+aabbMin:
+  X: -0.22631800174713135
+  Y: -0.00017800000205170363
+  Z: -0.14793699979782104
+armorDefenceAddLevel: 3
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: AttackUp
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_226_Lower
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_225
+boundingForTraverse: 0.9430490136146545
+bugMask: 1
+instSize: 25200
+itemBuyingPrice: 500
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 125
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_225_Lower
+name: Armor_225_Lower
+profile: ArmorLower
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: AmiiboMajorasMask
+sortKey: 3123730
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  taga21d5dbb: !u 0xa21d5dbb
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

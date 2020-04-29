@@ -1,0 +1,30 @@
+aabbMax:
+  X: 2.0
+  Y: 4.0
+  Z: 2.0
+aabbMin:
+  X: -2.0
+  Y: 0.0
+  Z: -2.0
+attackPower: 0
+bfres: DgnObj_SliderBlockIron_C
+boundingForTraverse: 4.0
+bugMask: 2
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 30892
+mainModel: DgnObj_SliderBlockIron_C_01
+name: DgnObj_SliderBlockIron_C
+profile: MapDynamicActive
+rigidBodyCenterY: 2.0
+slink: DgnObj_SliderBlockIron
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag507efd18: 1350499608
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+xlink: DgnObj_ConstrainedSlider
+yLimitAlgorithm: NoLimit

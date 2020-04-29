@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 4724
+name: FireObserverTag
+profile: AreaManagementForOthers
+sortKey: 0
+yLimitAlgorithm: NoLimit

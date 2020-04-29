@@ -1,0 +1,28 @@
+aabbMax:
+  X: 1.5
+  Y: 1.5
+  Z: 1.5
+aabbMin:
+  X: -1.5
+  Y: -1.5
+  Z: -1.5
+attackPower: 1000
+baseScaleX: 0.699999988079071
+baseScaleY: 0.699999988079071
+baseScaleZ: 0.699999988079071
+bfres: FldObj_GoronCannon_A
+boundingForTraverse: 3.0
+bugMask: 3
+cursorOffsetY: 0.6000000238418579
+elink: FldObj_GoronCannonBall_A_01
+generalLife: 100
+instSize: 37084
+mainModel: FldObj_GoronCannonBall_A_01
+name: FldObj_GoronCannonBall_A_01
+profile: MapDynamicActive
+slink: FldObj_GoronCannonBall_A_01
+sortKey: 9
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

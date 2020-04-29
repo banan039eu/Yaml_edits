@@ -1,0 +1,7 @@
+bugMask: 1
+instSize: 6740
+name: MusicianSpotBgmTag
+profile: SpotBgmTag
+sortKey: 0
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

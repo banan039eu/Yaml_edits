@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.125
+  Y: 0.125
+  Z: 1.0
+aabbMin:
+  X: -0.125
+  Y: -0.125
+  Z: -1.0
+attackPower: 0
+bfres: DgnObj_IronRail_A
+boundingForTraverse: 0.25
+bugMask: 0
+generalLife: 100
+instSize: 29372
+mainModel: DgnObj_IronRail_A_01
+name: DgnObj_IronRail_A
+profile: MapDynamicActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

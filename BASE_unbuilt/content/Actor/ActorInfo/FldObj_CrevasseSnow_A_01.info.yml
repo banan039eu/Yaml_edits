@@ -1,0 +1,20 @@
+aabbMax:
+  X: 3.7308199405670166
+  Y: 0.6456859707832336
+  Z: 6.911379814147949
+aabbMin:
+  X: -4.427390098571777
+  Y: -1.0
+  Z: -7.2037200927734375
+bfres: FldObj_CrevasseSnow_A
+boundingForTraverse: 1.6456860303878784
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 29912
+mainModel: FldObj_CrevasseSnow_A_01
+name: FldObj_CrevasseSnow_A_01
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffff4608
+yLimitAlgorithm: NoLimit

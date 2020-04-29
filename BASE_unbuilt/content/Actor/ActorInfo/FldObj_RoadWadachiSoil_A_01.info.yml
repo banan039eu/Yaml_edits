@@ -1,0 +1,19 @@
+aabbMax:
+  X: 5.5
+  Y: 0.00035799999022856355
+  Z: 2.5
+aabbMin:
+  X: -5.5
+  Y: -0.16568799316883087
+  Z: -2.799999952316284
+bfres: FldObj_RoadWadachiSoil_A
+boundingForTraverse: 0.16604599356651306
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: FldObj_RoadWadachiSoil_A_01
+name: FldObj_RoadWadachiSoil_A_01
+profile: MapConstPassive
+sortKey: -3
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

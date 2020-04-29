@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.397814005613327
+  Y: 1.5949499607086182
+  Z: 0.397814005613327
+aabbMin:
+  X: -0.397814005613327
+  Y: 0.0
+  Z: -0.397814005613327
+attackPower: 0
+bfres: FldObj_TorchStand_A
+boundingForTraverse: 1.5949499607086182
+bugMask: 3
+cursorOffsetY: 0.5
+elink: FldObj_ForestCandle_01
+generalLife: 100
+instSize: 38352
+lookAtOffsetY: 0.699999988079071
+mainModel: FldObj_TorchStand_A_01
+name: FldObj_ForestCandle_01
+profile: MapConstActive
+rigidBodyCenterY: 0.75
+slink: CandleGround
+sortKey: 28
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag6308f367: 1661530983
+yLimitAlgorithm: NoLimit

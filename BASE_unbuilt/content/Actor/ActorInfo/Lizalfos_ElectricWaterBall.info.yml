@@ -1,0 +1,15 @@
+attackPower: 40
+bugMask: 3
+elink: Lizalfos_ElectricWaterBall
+instSize: 16140
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: Lizalfos_ElectricWaterBall
+profile: Bullet
+slink: ElectricWaterBall
+sortKey: -1
+yLimitAlgorithm: NoLimit

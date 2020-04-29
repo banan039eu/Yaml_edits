@@ -1,0 +1,65 @@
+aabbMax:
+  X: 6.137549877166748
+  Y: 11.467000007629395
+  Z: 6.267739772796631
+aabbMin:
+  X: -6.1743597984313965
+  Y: -0.08711899816989899
+  Z: -2.4393699169158936
+animalUnitBasePlayRate: 1.0
+attackPower: 48
+bfres: Enemy_Giant
+boundingForTraverse: 11.554119110107422
+bugMask: 3
+cursorOffsetY: 2.25
+drops:
+  Normal:
+  - Item_RoastFish_01
+  - Item_RoastFish_02
+  - Item_RoastFish_04
+  - Item_RoastFish_03
+  - Item_RoastFish_07
+  - Item_RoastFish_09
+  - Item_RoastFish_13
+  - Item_RoastFish_11
+  - Item_RoastFish_15
+  Normal2:
+  - Item_Enemy_34
+  Normal3:
+  - Item_Enemy_32
+  - Item_Enemy_33
+elink: Enemy_Giant_Middle
+enemyRank: 20
+generalLife: 800
+homeArea:
+- name: CentralHyrule
+- name: LanayruWaterSources
+- name: HyruleForest
+instSize: 483416
+mainModel: Enemy_Giant
+name: Enemy_Giant_Middle
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: GiantEnemy
+slink: Giant
+sortKey: 1301
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag16a3afed: 379826157
+  tag2be89673: 736663155
+  tag35b5afc9: 901099465
+  tag4806038d: 1208353677
+  tag6b3d3141: 1799172417
+  tag82ed5778: !u 0x82ed5778
+  tag994aef4b: !u 0x994aef4b
+  tag9eb0ef08: !u 0x9eb0ef08
+  tagaf85ec67: !u 0xaf85ec67
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagc2cb78ad: !u 0xc2cb78ad
+  tage2522fb8: !u 0xe2522fb8
+  tagf97d1393: !u 0xf97d1393
+traverseDist: 150.0
+xlink: Enemy_Giant
+yLimitAlgorithm: LimitYDiff

@@ -1,0 +1,23 @@
+aabbMax:
+  X: 0.47672298550605774
+  Y: 2.423069953918457
+  Z: 0.38422900438308716
+aabbMin:
+  X: -0.512615978717804
+  Y: -0.00494399992749095
+  Z: -0.23783600330352783
+bfres: Npc_Hylia_Carpenter_001_Wedding
+boundingForTraverse: 2.428014039993286
+bugMask: 3
+cursorOffsetY: 0.550000011920929
+elink: Npc_HatenoVillage031
+instSize: 366316
+mainModel: Npc_Hylia_Carpenter_001_Wedding
+name: Npc_UMiiVillage031_2
+profile: NPC
+slink: Npc_Hylia_M
+sortKey: -20
+systemIsGetItemSelf: false
+systemSameGroupActorName: Npc_HatenoVillage031
+xlink: Npc
+yLimitAlgorithm: NoLimit

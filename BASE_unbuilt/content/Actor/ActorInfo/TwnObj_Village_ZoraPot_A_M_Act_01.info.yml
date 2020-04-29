@@ -1,0 +1,37 @@
+aabbMax:
+  X: 0.4856269955635071
+  Y: 1.2647199630737305
+  Z: 0.5083670020103455
+aabbMin:
+  X: -0.4856269955635071
+  Y: 0.0
+  Z: -0.5083670020103455
+attackPower: 4
+bfres: TwnObj_Village_ZoraPot_A
+boundingForTraverse: 1.2647199630737305
+bugMask: 3
+cursorOffsetY: 0.5
+drops:
+  Normal:
+  - Obj_ArrowNormal_A_01
+  - Item_Ore_F
+  - Item_Ore_E
+  - Obj_ArrowBundle_A_01
+  - Obj_BombArrow_A_01
+elink: TwnObj_Village_ZoraPot_A_M_Act_01
+generalLife: 1
+instSize: 44200
+mainModel: TwnObj_Village_ZoraPot_A_M_Act_01
+name: TwnObj_Village_ZoraPot_A_M_Act_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.7009729743003845
+slink: Pot
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag25cd2b4d: 634202957
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagff2ecb67: !u 0xff2ecb67
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,26 @@
+aabbMax:
+  X: 2.64424991607666
+  Y: 3.7000300884246826
+  Z: 3.7000300884246826
+aabbMin:
+  X: -2.64424991607666
+  Y: -3.7000300884246826
+  Z: -3.7000300884246826
+attackPower: 0
+bfres: DgnObj_SwitchWaterWheel_A
+boundingForTraverse: 7.400060176849365
+bugMask: 3
+generalLife: 100
+instSize: 38156
+mainModel: DgnObj_SwitchWaterWheel_A_01
+name: SwitchWaterWheel_A
+profile: MapDynamicActive
+slink: SwitchWaterWheel
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2c608f30: 744525616
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

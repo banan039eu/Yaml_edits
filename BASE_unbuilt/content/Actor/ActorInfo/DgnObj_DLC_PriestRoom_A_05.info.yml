@@ -1,0 +1,24 @@
+aabbMax:
+  X: 7.659170150756836
+  Y: 2.6131699085235596
+  Z: 11.563199996948242
+aabbMin:
+  X: -7.659170150756836
+  Y: -12.847000122070312
+  Z: -7.659170150756836
+attackPower: 0
+bfres: DgnObj_DLC_PriestRoom_A
+boundingForTraverse: 15.460169792175293
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 277592
+mainModel: DgnObj_DLC_PriestRoom_A_05
+name: DgnObj_DLC_PriestRoom_A_05
+profile: MapConstActive
+rigidBodyCenterY: -2.145979881286621
+sortKey: 3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 900.0
+yLimitAlgorithm: NoLimit

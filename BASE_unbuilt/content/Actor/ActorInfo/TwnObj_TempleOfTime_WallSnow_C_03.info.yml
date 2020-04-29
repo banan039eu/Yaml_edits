@@ -1,0 +1,22 @@
+aabbMax:
+  X: 30.793699264526367
+  Y: 62.63650131225586
+  Z: 4.1999101638793945
+aabbMin:
+  X: -30.376399993896484
+  Y: -1.0281800031661987
+  Z: -18.01449966430664
+bfres: TwnObj_TempleOfTime_C
+boundingForTraverse: 63.66468048095703
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 142880
+isHasFar: true
+mainModel: TwnObj_TempleOfTime_WallSnow_C_03
+name: TwnObj_TempleOfTime_WallSnow_C_03
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffffff08
+traverseDist: 565.078857421875
+yLimitAlgorithm: NoLimit

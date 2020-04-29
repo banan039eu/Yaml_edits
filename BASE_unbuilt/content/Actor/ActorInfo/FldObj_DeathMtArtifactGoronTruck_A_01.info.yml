@@ -1,0 +1,19 @@
+aabbMax:
+  X: 334.37799072265625
+  Y: 26.09160041809082
+  Z: 127.66400146484375
+aabbMin:
+  X: 38.65890121459961
+  Y: -11.931900024414062
+  Z: -7.512499809265137
+bfres: FldObj_DeathMtArtifact_A
+boundingForTraverse: 38.02349853515625
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+mainModel: FldObj_DeathMtArtifactGoronTruck_A_01
+name: FldObj_DeathMtArtifactGoronTruck_A_01
+profile: MapConstPassive
+sortKey: 2
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

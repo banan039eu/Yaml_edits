@@ -1,0 +1,23 @@
+aabbMax:
+  X: 1.5
+  Y: 0.05000000074505806
+  Z: 1.5
+aabbMin:
+  X: -1.5
+  Y: -0.05000000074505806
+  Z: -1.5
+attackPower: 0
+bfres: DgnObj_WarpPoint_A
+boundingForTraverse: 0.10000000149011612
+bugMask: 3
+elink: DgnObj_WarpPoint_A_01
+generalLife: 100
+instSize: 32948
+mainModel: DgnObj_WarpPoint_A_01
+name: DgnObj_WarpPoint_A_01
+profile: MapConstActive
+slink: DgnObj_WarpPoint
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

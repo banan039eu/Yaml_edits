@@ -1,0 +1,19 @@
+aabbMax:
+  X: 20.967500686645508
+  Y: 14.711899757385254
+  Z: 20.969999313354492
+aabbMin:
+  X: -20.967500686645508
+  Y: -0.12249000370502472
+  Z: -20.967500686645508
+bfres: DgnObj_DLC_Fountain_A
+boundingForTraverse: 14.834389686584473
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 220252
+mainModel: DgnObj_DLC_Fountain_A_01
+name: DgnObj_DLC_Fountain_A_01
+profile: MapConstPassive
+sortKey: -4
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

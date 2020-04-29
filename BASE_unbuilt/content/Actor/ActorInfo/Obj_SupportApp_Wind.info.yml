@@ -1,0 +1,11 @@
+bugMask: 3
+elink: Chemical
+instSize: 7976
+name: Obj_SupportApp_Wind
+profile: SoleTag
+slink: AscendingCurrent_PlayerKago
+sortKey: -6
+tags:
+  tag336bf311: 862712593
+xlink: AscendingCurrent
+yLimitAlgorithm: NoLimit

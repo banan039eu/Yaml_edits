@@ -1,0 +1,47 @@
+aabbMax:
+  X: 1.5125000476837158
+  Y: 1.321370005607605
+  Z: 0.9119240045547485
+aabbMin:
+  X: -0.9958360195159912
+  Y: -0.09391800314188004
+  Z: -0.4073939919471741
+attackPower: 10
+bfres: Enemy_Golem_Mini
+boundingForTraverse: 1.415287971496582
+bugMask: 3
+cursorOffsetY: 1.0
+drops:
+  Normal:
+  - Item_Ore_I
+  - Item_Ore_F
+  - Item_Ore_E
+elink: Enemy_Golem_Little
+enemyRank: 5
+generalLife: 20
+homeArea:
+- name: CentralHyrule
+- name: EldinCanyon
+- name: TabantaFrontier
+instSize: 139768
+mainModel: Golem_Mini
+name: Enemy_Golem_Little
+pictureBookLiveSpot1: 20
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+rigidBodyCenterY: 0.699999988079071
+slink: Enemy_Golem_Little
+sortKey: 1203
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag06ff3604: 117388804
+  tag35960905: 899025157
+  tag994aef4b: !u 0x994aef4b
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagff2ecb67: !u 0xff2ecb67
+terrainTextures:
+- !u 0xffffff04
+xlink: Enemy_Golem_Little
+yLimitAlgorithm: NoLimit

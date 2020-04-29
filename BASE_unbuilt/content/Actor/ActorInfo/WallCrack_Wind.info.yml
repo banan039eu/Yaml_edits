@@ -1,0 +1,27 @@
+aabbMax:
+  X: 3.484250068664551
+  Y: 8.484660148620605
+  Z: 0.44051700830459595
+aabbMin:
+  X: -3.4206199645996094
+  Y: -0.5947629809379578
+  Z: -0.5018050074577332
+attackPower: 0
+bfres: DgnObj_WallCrack_Wind_A
+boundingForTraverse: 9.079422950744629
+bugMask: 2
+elink: WallCrack_Wind
+generalLife: 1
+instSize: 28932
+mainModel: DgnObj_WallCrack_Wind_A
+name: WallCrack_Wind
+profile: MapDynamicActive
+rigidBodyCenterY: 3.0
+slink: BreakableWallBuilding
+sortKey: 2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagdeb2c8bd: !u 0xdeb2c8bd
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

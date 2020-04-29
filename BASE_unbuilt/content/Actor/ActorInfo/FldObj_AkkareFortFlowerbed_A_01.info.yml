@@ -1,0 +1,20 @@
+aabbMax:
+  X: 3.0
+  Y: 0.20000000298023224
+  Z: 3.0
+aabbMin:
+  X: -3.0
+  Y: -0.6000000238418579
+  Z: -3.0
+bfres: FldObj_AkkareFort_A
+boundingForTraverse: 6.0
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38940
+mainModel: FldObj_AkkareFortFlowerbed_A_01
+name: FldObj_AkkareFortFlowerbed_A_01
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffff550e
+yLimitAlgorithm: NoLimit

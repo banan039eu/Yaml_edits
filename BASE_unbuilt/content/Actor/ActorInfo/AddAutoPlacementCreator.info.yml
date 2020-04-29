@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 2484
+name: AddAutoPlacementCreator
+profile: SoleTag
+sortKey: 0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,32 @@
+aabbMax:
+  X: 0.5929359793663025
+  Y: 1.7322800159454346
+  Z: 0.13827399909496307
+aabbMin:
+  X: -0.684469997882843
+  Y: 1.100000023841858
+  Z: -0.05200999975204468
+attackPower: 0
+bfres: TwnObj_Village_RitoGuidePost_A
+boundingForTraverse: 0.6322799921035767
+bugMask: 3
+cursorOffsetY: 0.5
+elink: TwnObj_Village_RitoGuidePost_A_03_Trunk
+generalLife: 8
+instSize: 87676
+mainModel: TwnObj_Village_RitoGuidePost_A_03_Trunk
+name: TwnObj_Village_RitoGuidePost_A_03_Trunk
+profile: MapDynamicPassive
+rigidBodyCenterY: 1.3680399656295776
+slink: FldObj_SignboardWood_A_01_Trunk
+sortKey: 12
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2a2d0822: 707594274
+  tag80e91296: !u 0x80e91296
+  tagc28d054e: !u 0xc28d054e
+  tagc2ac3213: !u 0xc2ac3213
+  tagef748738: !u 0xef748738
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

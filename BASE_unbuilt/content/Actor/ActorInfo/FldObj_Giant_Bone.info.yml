@@ -1,0 +1,22 @@
+aabbMax:
+  X: 6.7488298416137695
+  Y: 2.593369960784912
+  Z: 7.887710094451904
+aabbMin:
+  X: -6.223690032958984
+  Y: -3.1358299255371094
+  Z: -7.648690223693848
+attackPower: 0
+bfres: Enemy_Giant_Bone
+boundingForTraverse: 5.7291998863220215
+bugMask: 0
+generalLife: 100
+instSize: 20612
+mainModel: Enemy_Giant_Bone_Deathpose_1
+name: FldObj_Giant_Bone
+profile: MapConstActive
+rigidBodyCenterY: -0.8564749956130981
+sortKey: 101301
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

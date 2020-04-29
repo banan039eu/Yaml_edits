@@ -1,0 +1,14 @@
+attackPower: 0
+bugMask: 0
+elink: Rain_Distance
+generalLife: 100
+instSize: 3936
+name: Rain_Distance
+profile: MapConstActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag572de768: 1462626152
+traverseDist: 5000.0
+yLimitAlgorithm: NoLimit

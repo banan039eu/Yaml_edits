@@ -1,0 +1,31 @@
+aabbMax:
+  X: 1.1520800590515137
+  Y: 1.144670009613037
+  Z: 1.1857500076293945
+aabbMin:
+  X: -1.1503700017929077
+  Y: -1.2154699563980103
+  Z: -1.130139946937561
+attackPower: 1
+baseScaleX: 3.0
+baseScaleY: 3.0
+baseScaleZ: 3.0
+bfres: Enemy_Octarock
+boundingForTraverse: 2.360140085220337
+bugMask: 3
+elink: Octarock_Bullet_L
+instSize: 42724
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Octarock_Rock
+name: Octarock_Bullet_L
+profile: Bullet
+slink: Octarock_Bullet_L
+sortKey: 0
+tags:
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

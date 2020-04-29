@@ -1,0 +1,45 @@
+aabbMax:
+  X: 0.35961800813674927
+  Y: 1.7908899784088135
+  Z: 0.6834350228309631
+aabbMin:
+  X: -0.543071985244751
+  Y: -0.0014900000533089042
+  Z: -0.21848399937152863
+boundingForTraverse: 1.7923799753189087
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: UMii_Hylia_Backpack
+instSize: 575276
+name: Npc_Road_006
+profile: NPC
+slink: Npc_Hylia_M
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+travelerAppearGameDataName: FirstTouchdown
+travelerDeleteGameDataName: ''
+travelerRideHorseName: GameRomHorse03
+travelerRoutePoint0Name: H3_GOAL_00
+travelerRoutePoint10Name: H4_JCT_10
+travelerRoutePoint11Name: G4_MID_00
+travelerRoutePoint12Name: RoadDeathMt_JCT07
+travelerRoutePoint13Name: RoadDeathMt_JCT06
+travelerRoutePoint14Name: RoadDeathMt_JCT05
+travelerRoutePoint15Name: G3_JCT_00
+travelerRoutePoint16Name: G3_GOAL_00
+travelerRoutePoint1Name: H3_JCT_00
+travelerRoutePoint2Name: RoadDeathMt_JCT14
+travelerRoutePoint3Name: RoadDeathMt_JCT13
+travelerRoutePoint4Name: RoadDeathMt_JCT12
+travelerRoutePoint5Name: RoadDeathMt_JCT11
+travelerRoutePoint6Name: RoadDeathMt_JCT10
+travelerRoutePoint7Name: RoadDeathMt_JCT09
+travelerRoutePoint8Name: RoadDeathMt_JCT08
+travelerRoutePoint9Name: H4_JCT_11
+travelerRouteType: ''
+traverseDist: 200.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

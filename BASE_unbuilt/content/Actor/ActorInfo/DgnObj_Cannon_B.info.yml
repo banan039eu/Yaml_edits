@@ -1,0 +1,24 @@
+aabbMax:
+  X: 2.8995800018310547
+  Y: 9.469079971313477
+  Z: 19.44379997253418
+aabbMin:
+  X: -2.8995800018310547
+  Y: -0.010994000360369682
+  Z: -4.1768999099731445
+attackPower: 0
+bfres: DgnObj_Cannon_A
+boundingForTraverse: 9.480073928833008
+bugMask: 3
+elink: DgnObj_Cannon_B
+generalLife: 100
+instSize: 195748
+mainModel: DgnObj_Cannon_A_01
+name: DgnObj_Cannon_B
+profile: MapDynamicActive
+rigidBodyCenterY: 3.5662500858306885
+slink: DgnObj_Cannon
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

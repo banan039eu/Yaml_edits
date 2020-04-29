@@ -1,0 +1,19 @@
+aabbMax:
+  X: 0.7132009863853455
+  Y: 0.7360079884529114
+  Z: 0.7132009863853455
+aabbMin:
+  X: -0.7132009863853455
+  Y: 0.0
+  Z: -0.7132009863853455
+bfres: DgnObj_SwitchCapstan_B
+boundingForTraverse: 0.7360079884529114
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: DgnObj_SwitchCapstanStand_B_01
+name: DgnObj_SwitchCapstanStand_B_01
+profile: MapConstPassive
+sortKey: -2
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

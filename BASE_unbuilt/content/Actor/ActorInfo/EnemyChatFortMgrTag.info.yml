@@ -1,0 +1,8 @@
+bugMask: 1
+instSize: 6244
+name: EnemyChatFortMgrTag
+profile: ComplexTag
+sortKey: -6
+tags:
+  tag0f0e1c23: 252582947
+yLimitAlgorithm: NoLimit

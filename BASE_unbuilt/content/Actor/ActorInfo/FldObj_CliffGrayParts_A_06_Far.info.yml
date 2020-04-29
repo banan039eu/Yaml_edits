@@ -1,0 +1,23 @@
+aabbMax:
+  X: 30.309900283813477
+  Y: 1.077370047569275
+  Z: 14.428500175476074
+aabbMin:
+  X: -31.335599899291992
+  Y: -20.55470085144043
+  Z: -4.0721001625061035
+bfres: FldObj_CliffGray_A_Far
+boundingForTraverse: 21.632070541381836
+bugMask: 0
+instSize: 18292
+mainModel: FldObj_CliffGrayParts_A_06_Far
+name: FldObj_CliffGrayParts_A_06_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff03
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

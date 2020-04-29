@@ -1,0 +1,20 @@
+aabbMax:
+  X: 23.139400482177734
+  Y: 20.45359992980957
+  Z: 15.405799865722656
+aabbMin:
+  X: -18.210899353027344
+  Y: -2.0326199531555176
+  Z: -25.375600814819336
+bfres: FldObj_SnowScaffoldWood_B_Far
+boundingForTraverse: 22.48621940612793
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 95280
+mainModel: FldObj_SnowScaffoldWood_B_01_Far
+name: FldObj_SnowScaffoldWood_B_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

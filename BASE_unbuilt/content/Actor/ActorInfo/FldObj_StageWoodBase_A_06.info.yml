@@ -1,0 +1,17 @@
+aabbMax:
+  X: 8.668729782104492
+  Y: 0.471904993057251
+  Z: 10.74429988861084
+aabbMin:
+  X: -8.665749549865723
+  Y: -0.6508169770240784
+  Z: -0.029836999252438545
+bfres: FldObj_StageWood_A
+boundingForTraverse: 1.1227220296859741
+bugMask: 0
+instSize: 27608
+mainModel: FldObj_StageWoodBase_A_06
+name: FldObj_StageWoodBase_A_06
+profile: MapConstPassive
+sortKey: 13
+yLimitAlgorithm: NoLimit

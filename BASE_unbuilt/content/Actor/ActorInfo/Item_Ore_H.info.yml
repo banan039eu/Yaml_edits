@@ -1,0 +1,47 @@
+aabbMax:
+  X: 0.19698600471019745
+  Y: 0.474712997674942
+  Z: 0.21435700356960297
+aabbMin:
+  X: -0.28339898586273193
+  Y: 0.011388000100851059
+  Z: -0.24863700568675995
+bfres: Item_Ore_H
+boundingForTraverse: 0.46332499384880066
+bugMask: 1
+cookSpiceBoostEffectiveTime: 30
+cookSpiceBoostHitPointRecover: 0
+cookSpiceBoostMaxHeartLevel: 0
+cookSpiceBoostStaminaLevel: 0
+cookSpiceBoostSuccessRate: 0
+cursorOffsetY: 0.3499999940395355
+elink: GetItem
+generalLife: 100
+instSize: 34912
+itemBuyingPrice: 12
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 2
+itemStainColor: 11
+itemUseIconActorName: ''
+mainModel: Item_Ore_H
+motorcycleEnergy:
+  add: 100.0
+name: Item_Ore_H
+profile: Item
+rigidBodyCenterY: 0.10000000149011612
+sortKey: 33100
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag37921275: 932319861
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagd1e9663c: !u 0xd1e9663c
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+yLimitAlgorithm: NoLimit

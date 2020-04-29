@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.23681199550628662
+  Y: 0.5550180077552795
+  Z: 0.36403098702430725
+aabbMin:
+  X: -0.23681199550628662
+  Y: -0.3094579875469208
+  Z: -0.6500509977340698
+actorScale: 1.2999999523162842
+attackPower: 0
+bfres: Animal_Duck
+boundingForTraverse: 0.8644760251045227
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+drops:
+  Normal:
+  - Item_Meat_06
+elink: Animal_WildDuck_A
+enemyRank: 0
+generalLife: 1
+homeArea:
+- name: HyruleHill
+- name: CentralHyrule
+- name: LanayruWetlands
+instSize: 133284
+invalidTimes:
+- Night_A
+- Night_B
+invalidWeathers:
+- HeavyRain
+- HeavySnow
+- ThunderStorm
+- ThunderRain
+mainModel: Duck
+name: Animal_WildDuck_A
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+slink: Animal_WildDuck_A
+sortKey: 29040
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag077ca9cb: 125610443
+  tag24cd75fe: 617444862
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagac9f717f: !u 0xac9f717f
+yLimitAlgorithm: NoLimit

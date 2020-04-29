@@ -1,0 +1,10 @@
+attackPower: 0
+bugMask: 0
+generalLife: 100
+instSize: 5612
+name: DynamicCuttingForKokko
+profile: MapDynamicActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

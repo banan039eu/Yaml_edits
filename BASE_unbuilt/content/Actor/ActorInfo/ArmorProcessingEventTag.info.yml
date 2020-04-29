@@ -1,0 +1,12 @@
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 6584
+name: ArmorProcessingEventTag
+profile: DemoNPC
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagcab53f3d: !u 0xcab53f3d
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,23 @@
+aabbMax:
+  X: 10.762499809265137
+  Y: 5.812570095062256
+  Z: 8.140560150146484
+aabbMin:
+  X: -10.099699974060059
+  Y: -18.722000122070312
+  Z: -18.10460090637207
+bfres: FldObj_RockZora_A
+boundingForTraverse: 24.534570693969727
+bugMask: 0
+instSize: 54956
+isHasFar: true
+mainModel: FldObj_RockZoraCliff_A_04
+name: FldObj_RockZoraCliff_A_04
+profile: MapConstPassive
+sortKey: 14
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff33
+traverseDist: 533.5267333984375
+yLimitAlgorithm: NoLimit

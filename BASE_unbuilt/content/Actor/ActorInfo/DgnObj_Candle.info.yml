@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.4313639998435974
+  Y: 1.5540599822998047
+  Z: 0.43187499046325684
+aabbMin:
+  X: -0.4172619879245758
+  Y: -0.002781999995931983
+  Z: -0.4287090003490448
+attackPower: 0
+bfres: DgnObj_CandleKnockDown_A
+boundingForTraverse: 1.5568419694900513
+bugMask: 2
+generalLife: 100
+instSize: 54412
+lookAtOffsetY: 1.2999999523162842
+mainModel: DgnObj_CandleKnockDown_A_01
+name: DgnObj_Candle
+profile: MapDynamicActive
+rigidBodyCenterY: 0.800000011920929
+slink: DgnObj_Candle
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

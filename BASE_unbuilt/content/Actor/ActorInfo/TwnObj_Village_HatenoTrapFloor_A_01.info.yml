@@ -1,0 +1,27 @@
+aabbMax:
+  X: 1.5
+  Y: 0.09995000064373016
+  Z: 1.5
+aabbMin:
+  X: -1.5
+  Y: -0.10000099986791611
+  Z: -1.5
+attackPower: 0
+bfres: TwnObj_Village_Hateno_A
+boundingForTraverse: 0.19995099306106567
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 46504
+mainModel: TwnObj_Village_HatenoTrapFloor_A_01
+name: TwnObj_Village_HatenoTrapFloor_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.10000099986791611
+slink: TwnObj_Village_HatenoTrapFloor_A_01
+sortKey: -8
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

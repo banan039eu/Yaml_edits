@@ -1,0 +1,17 @@
+attackPower: 0
+bugMask: 3
+elink: RemainsElectric_WeakPoint
+enemyRank: 0
+generalLife: 2
+instSize: 15576
+name: RemainsElectric_WeakPoint
+profile: Enemy
+slink: RemainsElectric_WeakPoint
+sortKey: -24
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag336bf311: 862712593
+  tag7027cedd: 1881657053
+  tag74831ee0: 1954750176
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,19 @@
+aabbMax:
+  X: 1.0768400430679321
+  Y: 0.5633260011672974
+  Z: 1.834149956703186
+aabbMin:
+  X: -0.9406219720840454
+  Y: -2.4764699935913086
+  Z: -1.7441099882125854
+bfres: FldObj_DeathMtArtifact_A
+boundingForTraverse: 3.0397961139678955
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28440
+mainModel: FldObj_DeathMtArtifactLamp_A_01
+name: FldObj_DeathMtArtifactLamp_A_01
+profile: MapConstPassive
+sortKey: -2
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,48 @@
+aabbMax:
+  X: 0.8946239948272705
+  Y: 2.4154200553894043
+  Z: 0.87602698802948
+aabbMin:
+  X: -0.8853449821472168
+  Y: -0.015830999240279198
+  Z: -1.2188999652862549
+attackPower: 10
+bfres: Enemy_Octarock
+boundingForTraverse: 2.431251049041748
+bugMask: 3
+cursorOffsetY: 2.3499999046325684
+drops:
+  Normal:
+  - Item_Enemy_21
+  Normal2:
+  - Item_Enemy_20
+  - Item_Enemy_57
+  - LocalSeafood
+elink: Octarock
+enemyRank: 5
+generalLife: 8
+homeArea:
+- name: HyruleHill
+- name: TamulOutback
+- name: WestHateru
+instSize: 201856
+mainModel: Octarock
+name: Enemy_Octarock_Forest
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+rigidBodyCenterY: 1.600000023841858
+slink: Octarock
+sortKey: 301
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag00336c07: 3369991
+  tag1ac8f200: 449376768
+  tag35960905: 899025157
+  tag5f20e8b5: 1595992245
+  tag994aef4b: !u 0x994aef4b
+  tagaf85ec67: !u 0xaf85ec67
+  tagb0c9e79a: !u 0xb0c9e79a
+yLimitAlgorithm: NoLimit

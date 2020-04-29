@@ -1,0 +1,9 @@
+bugMask: 0
+elink: DLC2_DungeonFire_Effect
+instSize: 3508
+name: DLC2_DungeonFire_Effect
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+yLimitAlgorithm: NoLimit

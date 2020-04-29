@@ -1,0 +1,15 @@
+attackPower: 0
+bugMask: 3
+elink: Sandfall_A_01
+generalLife: 100
+instSize: 7288
+name: Sandfall_A_01
+profile: MapConstActive
+slink: Sandfall_A_01
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag572de768: 1462626152
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

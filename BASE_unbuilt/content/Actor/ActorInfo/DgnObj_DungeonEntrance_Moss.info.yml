@@ -1,0 +1,17 @@
+aabbMax:
+  X: 7.505469799041748
+  Y: 13.827699661254883
+  Z: 14.605799674987793
+aabbMin:
+  X: -7.543650150299072
+  Y: -1.523959994316101
+  Z: -9.456250190734863
+bfres: DgnObj_DungeonEntrance_DecalMoss_A
+boundingForTraverse: 15.351659774780273
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+name: DgnObj_DungeonEntrance_Moss
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

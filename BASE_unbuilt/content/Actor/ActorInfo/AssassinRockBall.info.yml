@@ -1,0 +1,29 @@
+aabbMax:
+  X: 1.1408499479293823
+  Y: 1.0673999786376953
+  Z: 1.2649999856948853
+aabbMin:
+  X: -1.153309941291809
+  Y: -1.3100199699401855
+  Z: -1.1756500005722046
+attackPower: 12
+bfres: Enemy_Assassin_Boss_Ball
+boundingForTraverse: 2.377419948577881
+bugMask: 3
+elink: AssassinRockBall
+instSize: 196316
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Assassin_Boss_Ball_Rock
+name: AssassinRockBall
+profile: Bullet
+slink: AssassinRockBall
+sortKey: 0
+tags:
+  tagc28d054e: !u 0xc28d054e
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

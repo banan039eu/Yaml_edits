@@ -1,0 +1,24 @@
+aabbMax:
+  X: 51.944698333740234
+  Y: 90.53820037841797
+  Z: 46.100101470947266
+aabbMin:
+  X: -53.83000183105469
+  Y: -4.982409954071045
+  Z: -48.13570022583008
+bfres: FldObj_CliffOrange_A_Far
+boundingForTraverse: 95.5206069946289
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 30264
+mainModel: FldObj_CliffOrangeMountain_A_04_Far
+name: FldObj_CliffOrangeMountain_A_04_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff15
+traverseDist: 8000.0
+yLimitAlgorithm: NoLimit

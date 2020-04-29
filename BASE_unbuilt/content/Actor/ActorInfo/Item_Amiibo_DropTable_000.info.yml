@@ -1,0 +1,24 @@
+bugMask: 1
+drops:
+  Normal:
+  - Item_Meat_01
+  - Item_PlantGet_A
+  - Item_PlantGet_E
+  - Item_PlantGet_F
+  - Item_PlantGet_L
+  - Item_PlantGet_G
+  - Item_PlantGet_H
+  - Item_PlantGet_I
+  - Item_Fruit_A
+  - Item_Fruit_K
+  - Item_Mushroom_E
+  - Item_Mushroom_B
+  - Item_Mushroom_C
+  - Item_Mushroom_H
+  - Item_Mushroom_J
+  - Item_MushroomGet_D
+instSize: 8196
+name: Item_Amiibo_DropTable_000
+profile: System
+sortKey: -11
+yLimitAlgorithm: NoLimit

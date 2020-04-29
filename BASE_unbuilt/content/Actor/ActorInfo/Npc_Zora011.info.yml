@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.2093680053949356
+  Y: 1.233049988746643
+  Z: 0.29904499650001526
+aabbMin:
+  X: -0.23862500488758087
+  Y: -0.0004180000105407089
+  Z: -0.37889501452445984
+boundingForTraverse: 1.2334680557250977
+bugMask: 3
+cursorOffsetY: 0.3499999940395355
+elink: Npc_Zora_Young
+instSize: 307500
+name: Npc_Zora011
+profile: NPC
+slink: Npc_Zora_B
+sortKey: 42
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

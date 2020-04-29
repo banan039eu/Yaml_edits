@@ -1,0 +1,18 @@
+attackPower: 10
+bugMask: 3
+elink: PlayerBeam
+instSize: 14012
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: PlayerBeam
+profile: Bullet
+slink: PlayerBeam
+sortKey: 3
+tags:
+  tagc43b7064: !u 0xc43b7064
+xlink: OnlyThruDamageToObj
+yLimitAlgorithm: NoLimit

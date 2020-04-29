@@ -1,0 +1,24 @@
+aabbMax:
+  X: 25.076099395751953
+  Y: 11.229000091552734
+  Z: 15.601200103759766
+aabbMin:
+  X: -23.324600219726562
+  Y: -5.467380046844482
+  Z: -16.03030014038086
+bfres: FldObj_CliffWhiteBroken_A
+boundingForTraverse: 16.696380615234375
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 27608
+isHasFar: true
+mainModel: FldObj_CliffWhiteBroken_A_02
+name: FldObj_CliffWhiteBroken_A_02
+profile: MapConstPassive
+sortKey: 2
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffff1d11
+traverseDist: 557.8202514648438
+yLimitAlgorithm: NoLimit

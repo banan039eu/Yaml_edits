@@ -1,0 +1,24 @@
+aabbMax:
+  X: 34.24800109863281
+  Y: 63.849998474121094
+  Z: 28.077699661254883
+aabbMin:
+  X: -34.24800109863281
+  Y: -2.239989995956421
+  Z: -19.65559959411621
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuEx_F
+boundingForTraverse: 66.0899887084961
+bugMask: 1
+cursorOffsetY: 0.5
+elink: DgnObj_DLC_IbutsuEx_F_GoalSystem_A_01
+generalLife: 100
+instSize: 888208
+mainModel: DgnObj_DLC_IbutsuEx_F_GoalSystem_A_01
+name: DgnObj_DLC_IbutsuEx_F_GoalSystem_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 17.193099975585938
+sortKey: 136
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

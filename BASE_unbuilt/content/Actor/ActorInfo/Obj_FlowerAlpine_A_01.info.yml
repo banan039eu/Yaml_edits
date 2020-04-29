@@ -1,0 +1,34 @@
+aabbMax:
+  X: 0.962926983833313
+  Y: 0.9749169945716858
+  Z: 1.1662299633026123
+aabbMin:
+  X: -1.1265499591827393
+  Y: -0.3837150037288666
+  Z: -1.1605000495910645
+attackPower: 0
+bfres: Obj_FlowerAlpine_A
+boundingForTraverse: 1.35863196849823
+bugMask: 2
+elink: Obj_FlowerAlpine_A_01
+generalLife: 100
+instSize: 23252
+mainModel: Obj_FlowerAlpine_A_01
+name: Obj_FlowerAlpine_A_01
+profile: MapDynamicPassive
+slink: Plant
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag3909a11f: 956932383
+  tag50fb41e2: 1358643682
+  tag51ed35a6: 1374500262
+  tag7de11d78: 2111905144
+  taga1c9da5d: !u 0xa1c9da5d
+  tagcc6dc85b: !u 0xcc6dc85b
+  tage91ea5f6: !u 0xe91ea5f6
+  tagef94310b: !u 0xef94310b
+  tagf47b2e0d: !u 0xf47b2e0d
+  tagf5f5d49c: !u 0xf5f5d49c
+yLimitAlgorithm: NoLimit

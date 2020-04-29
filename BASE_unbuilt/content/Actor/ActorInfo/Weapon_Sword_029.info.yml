@@ -1,0 +1,73 @@
+Chemical:
+  Capaciter: 1
+aabbMax:
+  X: 0.1650950014591217
+  Y: 0.03971099853515625
+  Z: 0.6774460077285767
+aabbMin:
+  X: -0.07499200105667114
+  Y: -0.03283099830150604
+  Z: -0.1722390055656433
+attackPower: 16
+bfres: Weapon_Sword_029
+boundingForTraverse: 0.07254199683666229
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Sword_029
+generalLife: 23
+homeArea:
+- name: GerudoHighlands
+- name: GerudoDesert
+- name: ''
+instSize: 48992
+itemBuyingPrice: 120
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 30
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Sword_029
+name: Weapon_Sword_029
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponSmallSword
+slink: Weapon_Sword_MetalInLeatherSheath
+sortKey: 11160
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 8
+weaponCommonPoweredSharpAddAtkMin: 6
+weaponCommonPoweredSharpAddLifeMax: 12
+weaponCommonPoweredSharpAddLifeMin: 6
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 2.0
+weaponCommonPoweredSharpAddThrowMin: 1.5
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 3
+weaponCommonSharpWeaponAddAtkMax: 5
+weaponCommonSharpWeaponAddAtkMin: 3
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 5
+weaponCommonSharpWeaponAddLifeMin: 3
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: Weapon
+yLimitAlgorithm: NoLimit

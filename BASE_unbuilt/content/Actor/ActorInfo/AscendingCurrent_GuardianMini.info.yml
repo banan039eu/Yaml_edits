@@ -1,0 +1,8 @@
+bugMask: 1
+elink: AscendingCurrent_GuardianMini
+instSize: 7168
+name: AscendingCurrent_GuardianMini
+profile: SoleTag
+sortKey: 999999
+xlink: AscendingCurrent
+yLimitAlgorithm: NoLimit

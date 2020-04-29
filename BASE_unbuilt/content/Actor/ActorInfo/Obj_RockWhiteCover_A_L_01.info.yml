@@ -1,0 +1,24 @@
+aabbMax:
+  X: 61.53200149536133
+  Y: 71.27799987792969
+  Z: 100.50299835205078
+aabbMin:
+  X: -32.179100036621094
+  Y: -36.867000579833984
+  Z: -42.53219985961914
+bfres: FldObj_CliffYellow_A
+boundingForTraverse: 108.14500427246094
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28760
+isHasFar: true
+mainModel: FldObj_CliffYellowCave_A_01
+name: Obj_RockWhiteCover_A_L_01
+profile: MapConstPassive
+sortKey: -2
+tags:
+  tag977b149c: !u 0x977b149c
+terrainTextures:
+- !u 0xffffff3e
+traverseDist: 670.99951171875
+yLimitAlgorithm: NoLimit

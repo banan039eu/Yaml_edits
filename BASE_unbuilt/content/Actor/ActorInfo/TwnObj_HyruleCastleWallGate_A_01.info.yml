@@ -1,0 +1,26 @@
+aabbMax:
+  X: 35.25
+  Y: 26.367700576782227
+  Z: 11.030500411987305
+aabbMin:
+  X: -35.25
+  Y: -1.5145599842071533
+  Z: -7.537499904632568
+bfres: TwnObj_HyruleCastleWall_A
+boundingForTraverse: 27.882261276245117
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 386356
+isHasFar: true
+mainModel: TwnObj_HyruleCastleWallGate_A_01
+name: TwnObj_HyruleCastleWallGate_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag03528579: 55739769
+  taga1c9da5d: !u 0xa1c9da5d
+terrainTextures:
+- 1378228483
+- !u 0xffffff53
+traverseDist: 572.9041748046875
+yLimitAlgorithm: NoLimit

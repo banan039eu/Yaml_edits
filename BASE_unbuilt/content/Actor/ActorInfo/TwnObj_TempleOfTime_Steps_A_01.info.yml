@@ -1,0 +1,21 @@
+aabbMax:
+  X: 3.7515599727630615
+  Y: 2.0
+  Z: 3.75
+aabbMin:
+  X: -3.7507801055908203
+  Y: -2.0
+  Z: -3.125
+bfres: TwnObj_TempleOfTime_A
+boundingForTraverse: 4.0
+bugMask: 0
+instSize: 27608
+mainModel: TwnObj_TempleOfTime_Steps_A_01
+name: TwnObj_TempleOfTime_Steps_A_01
+profile: MapConstPassive
+sortKey: -3
+tags:
+  tag51ed35a6: 1374500262
+terrainTextures:
+- !u 0xffffff0b
+yLimitAlgorithm: NoLimit

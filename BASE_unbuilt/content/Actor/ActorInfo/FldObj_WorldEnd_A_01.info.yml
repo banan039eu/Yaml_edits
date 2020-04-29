@@ -1,0 +1,23 @@
+aabbMax:
+  X: 350.3840026855469
+  Y: 631.1170043945312
+  Z: 198.552001953125
+aabbMin:
+  X: -368.3389892578125
+  Y: -52.04159927368164
+  Z: -564.60498046875
+bfres: FldObj_WorldEnd_A
+boundingForTraverse: 683.1586303710938
+bugMask: 0
+instSize: 27352
+isHasFar: true
+mainModel: FldObj_WorldEnd_A_01
+name: FldObj_WorldEnd_A_01
+profile: MapConstPassive
+sortKey: 6
+tags:
+  tag8e7961b7: !u 0x8e7961b7
+terrainTextures:
+- !u 0xff4c1f00
+traverseDist: 1548.318359375
+yLimitAlgorithm: NoLimit

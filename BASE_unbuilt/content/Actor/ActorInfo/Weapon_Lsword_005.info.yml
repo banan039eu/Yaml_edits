@@ -1,0 +1,74 @@
+Chemical:
+  Burnable: 1
+aabbMax:
+  X: 0.25029200315475464
+  Y: 0.2516300082206726
+  Z: 1.5118499994277954
+aabbMin:
+  X: -0.2633270025253296
+  Y: -0.19813400506973267
+  Z: -0.4583339989185333
+attackPower: 18
+bfres: Weapon_Lsword_005
+boundingForTraverse: 0.4497640132904053
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Lsword_005
+generalLife: 12
+homeArea:
+- name: FironeGrassland
+- name: EastHateru
+- name: CentralHyrule
+instSize: 48832
+itemBuyingPrice: 15
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 10
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Lsword_005
+name: Weapon_Lsword_005
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponLargeSword
+slink: Weapon_Lsword_WoodHeavy
+sortKey: 12511
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag86329440: !u 0x86329440
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 17
+weaponCommonPoweredSharpAddAtkMin: 10
+weaponCommonPoweredSharpAddLifeMax: 6
+weaponCommonPoweredSharpAddLifeMin: 4
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 2.0
+weaponCommonPoweredSharpAddThrowMin: 1.5
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 4
+weaponCommonSharpWeaponAddAtkMax: 9
+weaponCommonSharpWeaponAddAtkMin: 5
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 3
+weaponCommonSharpWeaponAddLifeMin: 2
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: Weapon
+yLimitAlgorithm: NoLimit

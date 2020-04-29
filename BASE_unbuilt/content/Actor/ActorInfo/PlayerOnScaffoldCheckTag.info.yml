@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 2424
+name: PlayerOnScaffoldCheckTag
+profile: AreaManagementForPlayer
+sortKey: 0
+yLimitAlgorithm: NoLimit

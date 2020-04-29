@@ -1,0 +1,9 @@
+bugMask: 1
+generalLife: 100
+instSize: 16600
+name: TwnObj_Village_Korok_DekuTree_A_02
+profile: DemoNPC
+sortKey: -8
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

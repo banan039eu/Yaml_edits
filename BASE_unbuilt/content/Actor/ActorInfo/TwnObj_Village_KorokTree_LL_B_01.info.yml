@@ -1,0 +1,28 @@
+aabbMax:
+  X: 13.10099983215332
+  Y: 24.407100677490234
+  Z: 16.289499282836914
+aabbMin:
+  X: -13.173500061035156
+  Y: -8.25613021850586
+  Z: -20.61590003967285
+attackPower: 0
+bfres: TwnObj_Village_Korok_A
+boundingForTraverse: 32.663230895996094
+bugMask: 1
+cursorOffsetY: 0.5
+elink: Obj_TreeBroadleaf_B_L_01
+generalLife: 100
+instSize: 129708
+mainModel: TwnObj_Village_KorokTree_LL_B_01
+name: TwnObj_Village_KorokTree_LL_B_01
+profile: MapDynamicPassive
+sortKey: 3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag48409b2e: 1212193582
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

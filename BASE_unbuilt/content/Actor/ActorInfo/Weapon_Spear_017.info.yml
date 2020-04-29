@@ -1,0 +1,72 @@
+Chemical:
+  Capaciter: 1
+aabbMax:
+  X: 0.08923300355672836
+  Y: 0.34912100434303284
+  Z: 2.4375
+aabbMin:
+  X: -0.08917199820280075
+  Y: -0.3098140060901642
+  Z: -0.5039060115814209
+attackPower: 20
+bfres: Weapon_Spear_017
+boundingForTraverse: 0.658935010433197
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Spear_017
+generalLife: 35
+homeArea:
+- name: HyruleForest
+- name: TamulOutback
+- name: ''
+instSize: 49920
+itemBuyingPrice: 90
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 45
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Spear_017
+name: Weapon_Spear_017
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponSpear
+slink: Weapon_Spear_MetalHeavy
+sortKey: 13551
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 9
+weaponCommonPoweredSharpAddAtkMin: 6
+weaponCommonPoweredSharpAddLifeMax: 16
+weaponCommonPoweredSharpAddLifeMin: 8
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 2.0
+weaponCommonPoweredSharpAddThrowMin: 1.5
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 15
+weaponCommonSharpWeaponAddAtkMax: 5
+weaponCommonSharpWeaponAddAtkMin: 3
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 7
+weaponCommonSharpWeaponAddLifeMin: 4
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: Weapon
+yLimitAlgorithm: NoLimit

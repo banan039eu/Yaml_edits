@@ -1,0 +1,41 @@
+aabbMax:
+  X: 0.14721299707889557
+  Y: 1.777340054512024
+  Z: 0.15893599390983582
+aabbMin:
+  X: -0.160521999001503
+  Y: 1.3740400075912476
+  Z: -0.23094700276851654
+armorDefenceAddLevel: 4
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_179
+boundingForTraverse: 0.4032999873161316
+bugMask: 1
+instSize: 54528
+itemBuyingPrice: 50
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 15
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_179_Head
+name: Armor_179_Head
+profile: ArmorHead
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: RoyalGuard
+sortKey: 5921845
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

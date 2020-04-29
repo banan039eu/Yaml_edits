@@ -1,0 +1,40 @@
+aabbMax:
+  X: 0.9055590033531189
+  Y: 2.9142799377441406
+  Z: 2.4004199504852295
+aabbMin:
+  X: -0.8392109870910645
+  Y: -0.04500000178813934
+  Z: -1.7800500392913818
+animalUnitBasePlayRate: 1.0
+attackPower: 0
+bfres: Animal_Cow
+boundingForTraverse: 2.959280014038086
+bugMask: 3
+elink: Animal_Cow_A
+enemyRank: 0
+generalLife: 100
+homeArea:
+- name: EastHateru
+- name: FironeGrassland
+- name: ''
+instSize: 150428
+lookAtOffsetY: 0.20000000298023224
+mainModel: Cow
+name: Animal_Cow_A
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+rigidBodyCenterY: 0.44999998807907104
+slink: Animal_Cow_A
+sortKey: 28041
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag24cd75fe: 617444862
+  tag42766900: 1115056384
+  tag6b3d3141: 1799172417
+  tagfa5c683e: !u 0xfa5c683e
+xlink: Quadruped_Animal
+yLimitAlgorithm: NoLimit

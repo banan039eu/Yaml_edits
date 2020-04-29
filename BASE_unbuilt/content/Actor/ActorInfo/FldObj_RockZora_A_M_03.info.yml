@@ -1,0 +1,23 @@
+aabbMax:
+  X: 4.489999771118164
+  Y: 4.166900157928467
+  Z: 3.03767991065979
+aabbMin:
+  X: -4.393479824066162
+  Y: -0.5288190245628357
+  Z: -3.4662699699401855
+bfres: FldObj_RockZora_A
+boundingForTraverse: 4.695718765258789
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18548
+mainModel: FldObj_RockZora_A_M_03
+name: FldObj_RockZora_A_M_03
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag977b149c: !u 0x977b149c
+terrainTextures:
+- !u 0xffffff33
+traverseDist: 100.0
+yLimitAlgorithm: NoLimit

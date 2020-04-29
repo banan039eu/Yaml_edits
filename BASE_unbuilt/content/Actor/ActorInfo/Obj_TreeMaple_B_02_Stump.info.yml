@@ -1,0 +1,26 @@
+aabbMax:
+  X: 7.2971601486206055
+  Y: 13.19320011138916
+  Z: 6.219870090484619
+aabbMin:
+  X: -6.4568400382995605
+  Y: -0.825855016708374
+  Z: -5.676179885864258
+attackPower: 0
+bfres: Obj_TreeMaple_A
+boundingForTraverse: 14.019055366516113
+bugMask: 1
+generalLife: 100
+instSize: 85612
+lookAtOffsetY: 1.100000023841858
+mainModel: Obj_TreeMaple_B_02
+name: Obj_TreeMaple_B_02_Stump
+profile: MapDynamicPassive
+rigidBodyCenterY: -0.016829000785946846
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag170cf1e2: 386724322
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

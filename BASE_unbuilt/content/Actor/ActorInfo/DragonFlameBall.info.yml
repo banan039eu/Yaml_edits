@@ -1,0 +1,16 @@
+attackPower: 24
+bugMask: 3
+elink: DragonFlameBall
+instSize: 15380
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: DragonFlameBall
+profile: Bullet
+slink: DragonFlameBall
+sortKey: 2
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

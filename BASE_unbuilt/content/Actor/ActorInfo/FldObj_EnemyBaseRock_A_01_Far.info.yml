@@ -1,0 +1,22 @@
+aabbMax:
+  X: 45.18429946899414
+  Y: 29.40519905090332
+  Z: 59.401798248291016
+aabbMin:
+  X: -48.19710159301758
+  Y: -5.862170219421387
+  Z: -36.19729995727539
+bfres: FldObj_EnemyBaseRock_A_Far
+boundingForTraverse: 35.26736831665039
+bugMask: 0
+instSize: 17140
+mainModel: FldObj_EnemyBaseRock_A_01_Far
+name: FldObj_EnemyBaseRock_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+terrainTextures:
+- !u 0xffff1d11
+traverseDist: 4000.0
+yLimitAlgorithm: NoLimit

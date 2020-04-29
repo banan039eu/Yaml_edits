@@ -1,0 +1,16 @@
+bugMask: 0
+elink: Mosquito
+instSize: 3476
+invalidWeathers:
+- HeavyRain
+- Snow
+- HeavySnow
+- ThunderStorm
+- ThunderRain
+name: Mosquito
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+traverseDist: 30.0
+yLimitAlgorithm: NoLimit

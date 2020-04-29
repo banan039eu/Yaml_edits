@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.4516820013523102
+  Y: 0.18000000715255737
+  Z: 0.2926819920539856
+aabbMin:
+  X: -0.4516800045967102
+  Y: -0.13020600378513336
+  Z: -0.48965200781822205
+attackPower: 0
+bfres: DgnObj_DLC_WarpFloorMark_A
+boundingForTraverse: 0.31020599603652954
+bugMask: 1
+cursorOffsetY: 0.5
+elink: DgnObj_DLC_MasterSwordBase_A_01
+generalLife: 100
+instSize: 34968
+mainModel: DgnObj_DLC_MasterSwordBase_A_01
+name: DgnObj_MasterSwordBase_100Enemy
+profile: MapConstActive
+rigidBodyCenterY: 0.01167299970984459
+sortKey: -7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag28ff5c32: 687823922
+traverseDist: 200.0
+xlink: DgnObj_MasterSwordBase_100Enemy
+yLimitAlgorithm: NoLimit

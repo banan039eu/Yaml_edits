@@ -1,0 +1,21 @@
+aabbMax:
+  X: 1.0956900119781494
+  Y: 0.3649649918079376
+  Z: 1.0009100437164307
+aabbMin:
+  X: -0.8638830184936523
+  Y: -0.001623000018298626
+  Z: -1.334920048713684
+bfres: TwnObj_HyruleCity_A
+boundingForTraverse: 0.3665879964828491
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28056
+mainModel: TwnObj_HyruleCity_Flag_A_01
+name: TwnObj_HyruleCity_Flag_A_01
+profile: MapConstPassive
+sortKey: -10
+tags:
+  taga1c9da5d: !u 0xa1c9da5d
+  tagc5b7c123: !u 0xc5b7c123
+yLimitAlgorithm: NoLimit

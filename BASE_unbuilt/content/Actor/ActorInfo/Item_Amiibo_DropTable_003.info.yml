@@ -1,0 +1,17 @@
+bugMask: 1
+drops:
+  Normal:
+  - Item_Mushroom_E
+  - Item_Mushroom_A
+  - Item_Mushroom_B
+  - Item_Mushroom_C
+  - Item_Mushroom_H
+  - Item_MushroomGet_D
+  - Item_Mushroom_L
+  - Item_Mushroom_M
+  - Item_Mushroom_J
+instSize: 8196
+name: Item_Amiibo_DropTable_003
+profile: System
+sortKey: 14
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,55 @@
+aabbMax:
+  X: 0.36864399909973145
+  Y: 0.36624500155448914
+  Z: 0.28730300068855286
+aabbMin:
+  X: -0.36864399909973145
+  Y: -0.5680339932441711
+  Z: -0.28730300068855286
+bfres: Obj_Plant_Get_Radish_A
+boundingForTraverse: 0.9342790246009827
+bugMask: 3
+cureItemEffectLevel: 20
+cureItemEffectType: LifeMaxUp
+cureItemHitPointRecover: 16
+cursorOffsetY: 0.6000000238418579
+elink: Item_PlantGet_C
+generalLife: 1
+homeArea:
+- name: TamulPlateau
+- name: LanayruWaterSources
+- name: HyruleHill
+instSize: 37332
+itemBuyingPrice: 60
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 15
+itemStainColor: 11
+itemUseIconActorName: Item_PlantGet_C
+mainModel: Obj_Plant_Get_Radish_A_02
+motorcycleEnergy:
+  add: 50.0
+name: Item_PlantGet_C
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+slink: Item_PlantRootGet
+sortKey: 31430
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_PlantGet_C
+tags:
+  tag14185415: 337138709
+  tag682e5129: 1747865897
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagbbf08f85: !u 0xbbf08f85
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

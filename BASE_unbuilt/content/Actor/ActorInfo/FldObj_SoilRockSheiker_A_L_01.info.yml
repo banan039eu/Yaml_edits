@@ -1,0 +1,23 @@
+aabbMax:
+  X: 21.564699172973633
+  Y: 5.995649814605713
+  Z: 13.38290023803711
+aabbMin:
+  X: -14.087499618530273
+  Y: -4.5766401290893555
+  Z: -7.915669918060303
+bfres: FldObj_SoilRockSheiker_A
+boundingForTraverse: 10.572290420532227
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18548
+mainModel: FldObj_SoilRockSheiker_A_L_01
+name: FldObj_SoilRockSheiker_A_L_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag932d2d91: !u 0x932d2d91
+  tag977b149c: !u 0x977b149c
+terrainTextures:
+- !u 0xffffff0b
+yLimitAlgorithm: NoLimit

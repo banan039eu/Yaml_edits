@@ -1,0 +1,50 @@
+aabbMax:
+  X: 0.9179689884185791
+  Y: 1.4931600093841553
+  Z: 0.1757809966802597
+aabbMin:
+  X: -0.9179689884185791
+  Y: 0.6513890027999878
+  Z: -0.14403900504112244
+armorDefenceAddLevel: 18
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_061_Upper
+armorStarNum: 4
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_005
+boundingForTraverse: 0.8417710065841675
+bugMask: 1
+instSize: 89452
+itemBuyingPrice: 1530
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 385
+itemStainColor: -1
+itemUseIconActorName: Armor_005_Upper
+mainModel: Armor_005_Upper
+name: Armor_060_Upper
+normal0ItemName01: Armor_039_Upper
+normal0ItemName02: Animal_Insect_AA
+normal0ItemName03: Item_Enemy_51
+normal0ItemNum01: 1
+normal0ItemNum02: 5
+normal0ItemNum03: 2
+normal0StuffNum: 3
+profile: ArmorUpper
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: Korok
+sortKey: 4722021
+tags:
+  tag1c0c8d23: 470584611
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,21 @@
+aabbMax:
+  X: 33.714298248291016
+  Y: 111.51599884033203
+  Z: 25.146400451660156
+aabbMin:
+  X: -30.612600326538086
+  Y: -183.06300354003906
+  Z: -30.913700103759766
+bfres: TwnObj_Village_Rito_A_Far
+boundingForTraverse: 294.5790100097656
+bugMask: 0
+instSize: 17140
+mainModel: TwnObj_Village_RitoRock_F_01_Far
+name: TwnObj_Village_RitoRock_F_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag3c39db92: 1010424722
+  tag57fd54ce: 1476220110
+traverseDist: 3000.0
+yLimitAlgorithm: NoLimit

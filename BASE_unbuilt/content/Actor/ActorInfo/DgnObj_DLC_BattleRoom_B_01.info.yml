@@ -1,0 +1,26 @@
+aabbMax:
+  X: 74.4000015258789
+  Y: 68.21929931640625
+  Z: 74.4000015258789
+aabbMin:
+  X: -74.4000015258789
+  Y: 0.0
+  Z: -74.4000015258789
+attackPower: 0
+bfres: DgnObj_DLC_BattleRoom_B
+boundingForTraverse: 68.21929931640625
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 164144
+mainModel: DgnObj_DLC_BattleRoom_B_01
+name: DgnObj_DLC_BattleRoom_B_01
+profile: MapConstActive
+rigidBodyCenterY: 41.69200134277344
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+traverseDist: 800.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,56 @@
+aabbMax:
+  X: 0.31574898958206177
+  Y: 0.6413050293922424
+  Z: 0.2828710079193115
+aabbMin:
+  X: -0.3889389932155609
+  Y: -0.036251001060009
+  Z: -0.3523310124874115
+bfres: Obj_MashroomCool_A
+boundingForTraverse: 0.6775559782981873
+bugMask: 1
+cureItemEffectLevel: 2
+cureItemEffectType: ResistHot
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 2
+cursorOffsetY: 0.4000000059604645
+elink: GetItem
+generalLife: 100
+homeArea:
+- name: HeburaMountains
+- name: LiveMountain
+- name: GerudoHighlands
+instSize: 37124
+itemBuyingPrice: 16
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 4
+itemStainColor: 1
+itemUseIconActorName: ''
+mainModel: Obj_MashroomCool_A_01
+motorcycleEnergy:
+  add: 75.0
+name: Item_Mushroom_B
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+rigidBodyCenterY: 0.3877300024032593
+sortKey: 31260
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag14185415: 337138709
+  tag1f4b9ede: 525049566
+  tag682e5129: 1747865897
+  tag7a3964c1: 2050581697
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,31 @@
+aabbMax:
+  X: 1.1140899658203125
+  Y: 0.02958800084888935
+  Z: 13.144700050354004
+aabbMin:
+  X: -1.1140899658203125
+  Y: -0.02958800084888935
+  Z: -5.205900192260742
+attackPower: 16
+bfres: Enemy_SiteBoss_Spear
+boundingForTraverse: 0.0591760016977787
+bugMask: 3
+cursorOffsetY: 0.20000000298023224
+elink: SiteBossSpearForThrowing
+instSize: 43640
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: SiteBoss_Spear_Blade
+name: SiteBossSpearForThrowing
+profile: Bullet
+slink: SiteBossSpearForThrowing
+sortKey: -4
+tags:
+  tag3a61e2a9: 979493545
+  tag74831ee0: 1954750176
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

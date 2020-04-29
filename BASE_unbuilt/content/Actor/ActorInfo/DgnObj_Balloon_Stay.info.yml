@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.5618429780006409
+  Y: 1.1711900234222412
+  Z: 0.5618429780006409
+aabbMin:
+  X: -0.5618429780006409
+  Y: -0.135686993598938
+  Z: -0.5618429780006409
+attackPower: 0
+bfres: DgnObj_Balloon_A
+boundingForTraverse: 1.3068770170211792
+bugMask: 3
+elink: DgnObj_Balloon_Stay
+generalLife: 1
+instSize: 33084
+name: DgnObj_Balloon_Stay
+profile: MapDynamicActive
+rigidBodyCenterY: 0.30000001192092896
+slink: DgnObj_Balloon_Stay
+sortKey: -16
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagc2ac3213: !u 0xc2ac3213
+  tage7a26d8b: !u 0xe7a26d8b
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,22 @@
+aabbMax:
+  X: 119.4000015258789
+  Y: 84.5365982055664
+  Z: 116.4000015258789
+aabbMin:
+  X: -113.4000015258789
+  Y: -0.004997000098228455
+  Z: -116.4000015258789
+attackPower: 0
+bfres: DgnMrgPrt_Dungeon038
+boundingForTraverse: 84.54159545898438
+bugMask: 1
+generalLife: 100
+instSize: 589724
+name: DgnMrgPrt_Dungeon038
+profile: MergedDungeonParts
+sortKey: 38
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

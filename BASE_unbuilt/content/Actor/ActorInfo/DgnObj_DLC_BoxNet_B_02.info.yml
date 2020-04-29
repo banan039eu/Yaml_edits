@@ -1,0 +1,29 @@
+aabbMax:
+  X: 2.0
+  Y: 4.05394983291626
+  Z: 2.049999952316284
+aabbMin:
+  X: -2.0
+  Y: -0.046045999974012375
+  Z: -2.0
+attackPower: 0
+bfres: DgnObj_DLC_BoxNet_B
+boundingForTraverse: 4.099996089935303
+bugMask: 2
+generalLife: 100
+instSize: 54732
+mainModel: DgnObj_DLC_BoxNet_B_02
+name: DgnObj_DLC_BoxNet_B_02
+profile: MapDynamicActive
+rigidBodyCenterY: 2.0
+slink: DgnObj_SliderBlockIron
+sortKey: -30
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag507efd18: 1350499608
+  taga98fb48d: !u 0xa98fb48d
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+xlink: DgnObj_ConstrainedSlider
+yLimitAlgorithm: NoLimit

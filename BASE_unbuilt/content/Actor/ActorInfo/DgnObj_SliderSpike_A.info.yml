@@ -1,0 +1,29 @@
+aabbMax:
+  X: 2.0608699321746826
+  Y: 4.062290191650391
+  Z: 1.5572600364685059
+aabbMin:
+  X: -2.0608699321746826
+  Y: -0.06228699907660484
+  Z: -0.35499998927116394
+attackPower: 4
+bfres: DgnObj_SliderSpike_A
+boundingForTraverse: 4.124577045440674
+bugMask: 3
+elink: SliderOBJ
+generalLife: 100
+instSize: 39084
+mainModel: DgnObj_SliderSpike_A_01
+name: DgnObj_SliderSpike_A
+profile: MapDynamicActive
+rigidBodyCenterY: 2.0
+slink: DgnObj_SliderSpike
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdfaad2df: !u 0xdfaad2df
+xlink: DgnObj_ConstrainedSlider
+yLimitAlgorithm: NoLimit

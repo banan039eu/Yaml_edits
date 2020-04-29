@@ -1,0 +1,21 @@
+aabbMax:
+  X: 1.0162700414657593
+  Y: 5.031010150909424
+  Z: 1.0162800550460815
+aabbMin:
+  X: -1.0162700414657593
+  Y: 0.0
+  Z: -1.0162800550460815
+bfres: TwnObj_HyruleCastleObject_A
+boundingForTraverse: 5.031010150909424
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28760
+mainModel: TwnObj_HyruleCastleObject_StoneStatue_A_01
+name: TwnObj_HyruleCastleObject_StoneStatue_A_01
+profile: MapConstPassive
+sortKey: 10
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+yLimitAlgorithm: NoLimit

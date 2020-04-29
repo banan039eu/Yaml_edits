@@ -1,0 +1,41 @@
+aabbMax:
+  X: 0.9184569716453552
+  Y: 1.4931600093841553
+  Z: 0.18432599306106567
+aabbMin:
+  X: -0.9184569716453552
+  Y: 0.5009980201721191
+  Z: -0.18029199540615082
+armorDefenceAddLevel: 4
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 1
+armorUpperDisableSelfMantle: true
+armorUpperUseMantleType: 1
+bfres: Armor_179
+boundingForTraverse: 0.9921619892120361
+bugMask: 1
+instSize: 151996
+itemBuyingPrice: 50
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 15
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_179_Upper
+name: Armor_179_Upper
+profile: ArmorUpper
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: RoyalGuard
+sortKey: 5922845
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

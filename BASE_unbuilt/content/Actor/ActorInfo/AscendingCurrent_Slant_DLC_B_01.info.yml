@@ -1,0 +1,10 @@
+bugMask: 3
+elink: AscendingCurrent_Slant_DLC_B_01
+instSize: 7888
+name: AscendingCurrent_Slant_DLC_B_01
+profile: SoleTag
+slink: AscendingCurrent_DLC_United
+sortKey: -47
+traverseDist: 100.0
+xlink: AscendingCurrent
+yLimitAlgorithm: NoLimit

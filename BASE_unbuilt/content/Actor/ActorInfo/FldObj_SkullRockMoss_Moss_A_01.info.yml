@@ -1,0 +1,22 @@
+aabbMax:
+  X: 17.03499984741211
+  Y: 17.175899505615234
+  Z: 17.024099349975586
+aabbMin:
+  X: -14.880200386047363
+  Y: -4.333549976348877
+  Z: -19.544599533081055
+bfres: FldObj_SkullRockMoss_Moss_A
+boundingForTraverse: 21.509449005126953
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28760
+isHasFar: true
+mainModel: FldObj_SkullRockMoss_Moss_A_01
+name: FldObj_SkullRockMoss_Moss_A_01
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffffff54
+traverseDist: 548.537109375
+yLimitAlgorithm: NoLimit

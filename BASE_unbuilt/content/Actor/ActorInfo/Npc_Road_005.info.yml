@@ -1,0 +1,50 @@
+aabbMax:
+  X: 0.3637250065803528
+  Y: 1.7793200016021729
+  Z: 0.6834350228309631
+aabbMin:
+  X: -0.543071985244751
+  Y: -0.00013000000035390258
+  Z: -0.21848399937152863
+boundingForTraverse: 1.7794500589370728
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: UMii_Hylia_Backpack
+instSize: 585228
+name: Npc_Road_005
+profile: NPC
+slink: Npc_Hylia_M
+sortKey: -3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+travelerAppearGameDataName: FirstTouchdown
+travelerDeleteGameDataName: ''
+travelerRideHorseName: GameRomHorse01
+travelerRoutePoint0Name: D3_GOAL_00
+travelerRoutePoint10Name: D2_GOAL_05
+travelerRoutePoint11Name: D2_JCT_05
+travelerRoutePoint12Name: D2_JCT_12
+travelerRoutePoint13Name: D2_JCT_10
+travelerRoutePoint14Name: TabantaFrontier_JCT00
+travelerRoutePoint15Name: C3_MID_00
+travelerRoutePoint16Name: TabantaFrontier_JCT10
+travelerRoutePoint17Name: TabantaFrontier_JCT11
+travelerRoutePoint18Name: B3_MID_00
+travelerRoutePoint19Name: TabantaFrontier_JCT12
+travelerRoutePoint1Name: D3_JCT_00
+travelerRoutePoint20Name: B3_JCT_00
+travelerRoutePoint21Name: B3_GOAL_00
+travelerRoutePoint2Name: RoadHyruleHill_JCT14
+travelerRoutePoint3Name: RoadHyruleHill_JCT13
+travelerRoutePoint4Name: D3_JCT_11
+travelerRoutePoint5Name: D3_JCT_12
+travelerRoutePoint6Name: D3_JCT_13
+travelerRoutePoint7Name: D2_MID_00
+travelerRoutePoint8Name: D2_JCT_13
+travelerRoutePoint9Name: D2_JCT_05
+travelerRouteType: ''
+traverseDist: 200.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

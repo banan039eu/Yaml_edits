@@ -1,0 +1,72 @@
+Chemical:
+  Capaciter: 1
+aabbMax:
+  X: 0.3583720028400421
+  Y: 0.03392200171947479
+  Z: 0.8148750066757202
+aabbMin:
+  X: -0.2638950049877167
+  Y: -0.03392200171947479
+  Z: -0.19942599534988403
+attackPower: 24
+bfres: Weapon_Sword_008
+boundingForTraverse: 0.06784400343894958
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Sword_008
+generalLife: 23
+homeArea:
+- name: GerudoDesert
+- name: TabantaFrontier
+- name: FironeSea
+instSize: 46932
+itemBuyingPrice: 45
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 20
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Sword_008
+name: Weapon_Sword_008
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponSmallSword
+slink: Weapon_Sword_007
+sortKey: 11531
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 11
+weaponCommonPoweredSharpAddAtkMin: 7
+weaponCommonPoweredSharpAddLifeMax: 12
+weaponCommonPoweredSharpAddLifeMin: 6
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 12
+weaponCommonSharpWeaponAddAtkMax: 6
+weaponCommonSharpWeaponAddAtkMin: 3
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 5
+weaponCommonSharpWeaponAddLifeMin: 3
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: Weapon
+yLimitAlgorithm: NoLimit

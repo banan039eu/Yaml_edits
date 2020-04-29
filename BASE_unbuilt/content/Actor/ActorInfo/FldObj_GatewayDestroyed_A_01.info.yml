@@ -1,0 +1,21 @@
+aabbMax:
+  X: 137.88900756835938
+  Y: 16.649999618530273
+  Z: 3.8022799491882324
+aabbMin:
+  X: -137.88900756835938
+  Y: -7.000040054321289
+  Z: -11.282999992370605
+bfres: FldObj_GatewayDestroyed_A
+boundingForTraverse: 23.650039672851562
+bugMask: 0
+instSize: 219708
+isHasFar: true
+mainModel: FldObj_GatewayDestroyed_A_01
+name: FldObj_GatewayDestroyed_A_01
+profile: MapConstPassive
+sortKey: -1
+tags:
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 776.1903076171875
+yLimitAlgorithm: NoLimit

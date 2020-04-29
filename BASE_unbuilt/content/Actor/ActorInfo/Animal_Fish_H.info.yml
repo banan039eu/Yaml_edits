@@ -1,0 +1,52 @@
+aabbMax:
+  X: 0.20228099822998047
+  Y: 0.33111900091171265
+  Z: 0.3495289981365204
+aabbMin:
+  X: -0.2001899927854538
+  Y: -0.25652700662612915
+  Z: -0.8283020257949829
+bfres: Animal_Carp
+boundingForTraverse: 0.5876460075378418
+bugMask: 3
+cureItemEffectLevel: 2
+cureItemEffectType: DefenseUp
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 4
+cursorOffsetY: 0.30000001192092896
+drops:
+  Normal:
+  - Item_FishGet_H
+elink: Fish
+generalLife: 1
+instSize: 86036
+itemBuyingPrice: 40
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 10
+itemStainColor: -1
+itemUseIconActorName: Item_FishGet_H
+mainModel: Carp
+name: Animal_Fish_H
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: CapturedActor
+slink: Fish
+sortKey: 34100
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_FishGet_H
+tags:
+  tag14185415: 337138709
+  tag168ce9a9: 378333609
+  tag24cd75fe: 617444862
+  tag294c7640: 692876864
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagac9f717f: !u 0xac9f717f
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

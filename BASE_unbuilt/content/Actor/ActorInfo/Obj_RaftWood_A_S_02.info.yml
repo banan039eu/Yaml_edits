@@ -1,0 +1,26 @@
+aabbMax:
+  X: 4.519440174102783
+  Y: 0.4751119911670685
+  Z: 3.0048599243164062
+aabbMin:
+  X: -3.8159101009368896
+  Y: -0.41837701201438904
+  Z: -3.0924699306488037
+attackPower: 0
+bfres: Obj_RaftWood_A
+boundingForTraverse: 0.8934890031814575
+bugMask: 0
+elink: Obj_RaftWood_A_S_02
+generalLife: 100
+instSize: 44596
+mainModel: Obj_RaftWood_A_S_02
+name: Obj_RaftWood_A_S_02
+profile: MapDynamicActive
+sortKey: -8
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag6b397f22: 1798930210
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

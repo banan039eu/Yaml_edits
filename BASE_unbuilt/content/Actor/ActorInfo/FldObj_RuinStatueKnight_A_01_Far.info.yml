@@ -1,0 +1,19 @@
+aabbMax:
+  X: 21.465299606323242
+  Y: 100.0250015258789
+  Z: 43.60409927368164
+aabbMin:
+  X: -21.03700065612793
+  Y: -0.16350600123405457
+  Z: -5.28754997253418
+bfres: FldObj_RuinStatueKnight_A_Far
+boundingForTraverse: 100.18850708007812
+bugMask: 0
+instSize: 17140
+mainModel: FldObj_RuinStatueKnight_A_01_Far
+name: FldObj_RuinStatueKnight_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

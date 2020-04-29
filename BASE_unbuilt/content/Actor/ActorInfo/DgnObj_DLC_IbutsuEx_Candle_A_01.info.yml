@@ -1,0 +1,24 @@
+aabbMax:
+  X: 0.6118710041046143
+  Y: 1.6998200416564941
+  Z: 1.668779969215393
+aabbMin:
+  X: -0.5720070004463196
+  Y: -0.5635380148887634
+  Z: -0.3663179874420166
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuObj_B
+boundingForTraverse: 2.2633581161499023
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 40772
+mainModel: DgnObj_DLC_IbutsuEx_Candle_A_01
+name: DgnObj_DLC_IbutsuEx_Candle_A_01
+profile: MapConstActive
+rigidBodyCenterY: 0.6924309730529785
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

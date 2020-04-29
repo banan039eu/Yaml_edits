@@ -1,0 +1,9 @@
+bugMask: 3
+instSize: 87860
+name: UnknownNPC
+profile: NPC
+slink: Npc
+sortKey: 2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

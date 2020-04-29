@@ -1,0 +1,10 @@
+bugMask: 3
+elink: VolcanoEruptionField
+instSize: 7220
+name: VolcanoEruptionField
+profile: ComplexTag
+slink: VolcanoEruption
+sortKey: 16
+tags:
+  tagdeb2c8bd: !u 0xdeb2c8bd
+yLimitAlgorithm: NoLimit

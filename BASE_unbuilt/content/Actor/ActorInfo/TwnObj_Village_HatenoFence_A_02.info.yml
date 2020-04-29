@@ -1,0 +1,19 @@
+aabbMax:
+  X: 0.028450999408960342
+  Y: 1.4994699954986572
+  Z: 0.11809799820184708
+aabbMin:
+  X: -3.333970069885254
+  Y: -0.3001619875431061
+  Z: -0.13086499273777008
+bfres: TwnObj_Village_Hateno_A
+boundingForTraverse: 1.799631953239441
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: TwnObj_Village_HatenoFence_A_02
+name: TwnObj_Village_HatenoFence_A_02
+profile: MapConstPassive
+sortKey: -25
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

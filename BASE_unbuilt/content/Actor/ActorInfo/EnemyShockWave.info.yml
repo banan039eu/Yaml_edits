@@ -1,0 +1,17 @@
+attackPower: 0
+bugMask: 1
+elink: EnemyShockWave
+instSize: 9208
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: EnemyShockWave
+profile: Bullet
+sortKey: 0
+tags:
+  tagc28d054e: !u 0xc28d054e
+  tagc5b7c123: !u 0xc5b7c123
+yLimitAlgorithm: NoLimit

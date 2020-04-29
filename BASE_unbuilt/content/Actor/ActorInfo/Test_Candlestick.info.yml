@@ -1,0 +1,23 @@
+aabbMax:
+  X: 0.5130730271339417
+  Y: 1.519860029220581
+  Z: 0.5130730271339417
+aabbMin:
+  X: -0.5130730271339417
+  Y: 0.0
+  Z: -0.5130730271339417
+attackPower: 0
+bfres: DgnObj_Candle_A
+boundingForTraverse: 1.519860029220581
+bugMask: 2
+generalLife: 100
+instSize: 46196
+mainModel: DgnObj_Hrl_CandlePoleC_02
+name: Test_Candlestick
+profile: MapConstActive
+rigidBodyCenterY: 0.6000000238418579
+slink: CandleGround
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

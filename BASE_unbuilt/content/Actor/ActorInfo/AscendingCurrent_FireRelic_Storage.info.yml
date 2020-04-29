@@ -1,0 +1,16 @@
+bugMask: 1
+elink: AscendingCurrent_DeathMT
+farModelCulling:
+  center:
+    X: 0.0
+    Y: 0.5
+    Z: 0.0
+  height: 0.5
+  radius: 0.5
+instSize: 7232
+name: AscendingCurrent_FireRelic_Storage
+profile: SoleTag
+sortKey: 3
+traverseDist: 500.0
+xlink: AscendingCurrent
+yLimitAlgorithm: NoLimit

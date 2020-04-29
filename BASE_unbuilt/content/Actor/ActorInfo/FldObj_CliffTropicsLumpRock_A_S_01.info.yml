@@ -1,0 +1,22 @@
+aabbMax:
+  X: 5.645060062408447
+  Y: 0.5778639912605286
+  Z: 5.0452399253845215
+aabbMin:
+  X: -4.1390299797058105
+  Y: -0.508014976978302
+  Z: -4.778910160064697
+bfres: FldObj_CliffTropics_A
+boundingForTraverse: 1.0858789682388306
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+mainModel: FldObj_CliffTropicsLumpRock_A_S_01
+name: FldObj_CliffTropicsLumpRock_A_S_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag977b149c: !u 0x977b149c
+terrainTextures:
+- !u 0xffffff4a
+yLimitAlgorithm: NoLimit

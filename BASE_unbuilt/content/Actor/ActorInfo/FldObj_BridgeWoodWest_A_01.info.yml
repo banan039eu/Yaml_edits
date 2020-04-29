@@ -1,0 +1,19 @@
+aabbMax:
+  X: 27.21540069580078
+  Y: 7.639309883117676
+  Z: 15.206700325012207
+aabbMin:
+  X: -41.57619857788086
+  Y: -87.59629821777344
+  Z: -140.96299743652344
+bfres: FldObj_BridgeWoodLattice_A
+boundingForTraverse: 95.23561096191406
+bugMask: 0
+instSize: 111352
+isHasFar: true
+mainModel: FldObj_BridgeWoodWest_A_01
+name: FldObj_BridgeWoodWest_A_01
+profile: MapConstPassive
+sortKey: 0
+traverseDist: 670.6495361328125
+yLimitAlgorithm: NoLimit

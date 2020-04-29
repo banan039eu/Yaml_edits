@@ -1,0 +1,44 @@
+aabbMax:
+  X: 0.203125
+  Y: 0.9428709745407104
+  Z: 0.24605299532413483
+aabbMin:
+  X: -0.203125
+  Y: 4.3000000005122274e-05
+  Z: -0.120107002556324
+armorDefenceAddLevel: 3
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: SwimSpeed
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_007_Lower
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_006
+boundingForTraverse: 0.9428279995918274
+bugMask: 3
+instSize: 45420
+itemBuyingPrice: 100
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 25
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_006_Lower
+name: Armor_006_Lower
+profile: ArmorLower
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: Zora
+slink: Armor_Lower_MetalLight
+sortKey: 2523034
+tags:
+  tag1c0c8d23: 470584611
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,27 @@
+aabbMax:
+  X: 1.2139500379562378
+  Y: 3.3518099784851074
+  Z: 0.7195640206336975
+aabbMin:
+  X: -1.485509991645813
+  Y: -0.06966599822044373
+  Z: -0.29739299416542053
+attackPower: 0
+bfres: Obj_ShieldFenceWood_A
+boundingForTraverse: 3.421475887298584
+bugMask: 2
+elink: Obj_ShieldFenceWood_A_M_03
+generalLife: 40
+instSize: 44720
+mainModel: Obj_ShieldFenceWood_A_M_03
+name: Obj_ShieldFenceWood_A_M_03
+profile: MapDynamicPassive
+rigidBodyCenterY: 1.5412299633026123
+slink: Obj_ShieldFenceWood_A_M
+sortKey: -22
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0ba4a61e: 195339806
+  tagff53ef86: !u 0xff53ef86
+yLimitAlgorithm: NoLimit

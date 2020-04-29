@@ -1,0 +1,23 @@
+aabbMax:
+  X: 8.254449844360352
+  Y: 8.428509712219238
+  Z: 7.423379898071289
+aabbMin:
+  X: -8.302410125732422
+  Y: -7.991849899291992
+  Z: -6.513050079345703
+bfres: Obj_TreeGiant_A
+boundingForTraverse: 16.420360565185547
+bugMask: 0
+instSize: 29144
+mainModel: Obj_TreeGiantHollow_A_01
+name: Obj_TreeGiantHollow_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag02cf8aa1: 47155873
+  tag170cf1e2: 386724322
+  tag48409b2e: 1212193582
+  taga40dd51c: !u 0xa40dd51c
+traverseDist: 800.0
+yLimitAlgorithm: NoLimit

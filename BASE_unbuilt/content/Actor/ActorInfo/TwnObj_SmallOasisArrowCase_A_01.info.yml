@@ -1,0 +1,18 @@
+aabbMax:
+  X: 0.21286100149154663
+  Y: 0.5860869884490967
+  Z: 0.21286100149154663
+aabbMin:
+  X: -0.21286100149154663
+  Y: 0.0
+  Z: -0.21286100149154663
+bfres: TwnObj_SmallOasis_A
+boundingForTraverse: 0.5860869884490967
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17716
+mainModel: TwnObj_SmallOasisArrowCase_A_01
+name: TwnObj_SmallOasisArrowCase_A_01
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

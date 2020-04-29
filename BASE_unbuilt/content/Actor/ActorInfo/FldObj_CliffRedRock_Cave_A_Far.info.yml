@@ -1,0 +1,20 @@
+aabbMax:
+  X: 130.8459930419922
+  Y: 34.986698150634766
+  Z: 49.94960021972656
+aabbMin:
+  X: -17.275400161743164
+  Y: -5.292099952697754
+  Z: -26.621999740600586
+bfres: FldObj_DeathMtCave_A_Far
+boundingForTraverse: 40.2787971496582
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 19188
+mainModel: FldObj_DeathMtCave_A_01_Far
+name: FldObj_CliffRedRock_Cave_A_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

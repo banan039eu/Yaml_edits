@@ -1,0 +1,32 @@
+aabbMax:
+  X: 6.842619895935059
+  Y: 0.49116599559783936
+  Z: 4.003459930419922
+aabbMin:
+  X: -6.089079856872559
+  Y: -0.22943300008773804
+  Z: -4.916250228881836
+attackPower: 0
+bfres: FldObj_DLC_FlyShield_A
+boundingForTraverse: 0.7205989956855774
+bugMask: 3
+cursorOffsetY: 0.5
+elink: FldObj_DLC_FlyShield_A_Snow_02
+generalLife: 42
+instSize: 68204
+mainModel: FldObj_DLC_FlyShield_A_Snow_02
+name: FldObj_DLC_FlyShield_A_Snow_02
+profile: MapDynamicActive
+rigidBodyCenterY: -0.11999999731779099
+slink: DgnObj_BoardWood_A
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0f5e860e: 257852942
+  tag214d2d09: 558705929
+  taga8bc1833: !u 0xa8bc1833
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,22 @@
+aabbMax:
+  X: 0.6317309737205505
+  Y: 0.6195480227470398
+  Z: 0.6549630165100098
+aabbMin:
+  X: -0.5279359817504883
+  Y: -0.28995299339294434
+  Z: -0.7187529802322388
+bfres: Obj_LiftRock_A
+boundingForTraverse: 0.9095010161399841
+bugMask: 0
+instSize: 17140
+mainModel: Obj_LiftRockWhite_A_01
+name: Obj_LiftRockWhite_Korok_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag977b149c: !u 0x977b149c
+terrainTextures:
+- !u 0xffffff04
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

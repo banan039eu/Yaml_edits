@@ -1,0 +1,21 @@
+aabbMax:
+  X: 12.082599639892578
+  Y: 10.660099983215332
+  Z: 1.5426499843597412
+aabbMin:
+  X: -12.544300079345703
+  Y: -1.865090012550354
+  Z: -45.37919998168945
+bfres: TwnObj_Village_Ichikara_A_Far
+boundingForTraverse: 12.525190353393555
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: TwnObj_Village_IchikaraGate_A_01_Far
+name: TwnObj_Village_IchikaraGate_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

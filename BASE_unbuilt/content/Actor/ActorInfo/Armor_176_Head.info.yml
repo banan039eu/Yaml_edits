@@ -1,0 +1,43 @@
+aabbMax:
+  X: 0.2604849934577942
+  Y: 1.888659954071045
+  Z: 0.2114260047674179
+aabbMin:
+  X: -0.22192400693893433
+  Y: 1.3740400075912476
+  Z: -0.2265540063381195
+armorDefenceAddLevel: 1
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_176
+boundingForTraverse: 0.5146200060844421
+bugMask: 3
+elink: Armor_176_Head
+instSize: 102716
+itemBuyingPrice: 50
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 15
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_176_Head
+name: Armor_176_Head
+profile: ArmorHead
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: ''
+slink: Armor_Head_SpecialKorok
+sortKey: 5121805
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

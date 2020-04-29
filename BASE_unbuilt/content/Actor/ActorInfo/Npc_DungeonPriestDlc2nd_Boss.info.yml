@@ -1,0 +1,25 @@
+aabbMax:
+  X: 1.0902999639511108
+  Y: 2.928950071334839
+  Z: 1.3969600200653076
+aabbMin:
+  X: -1.109910011291504
+  Y: -0.02014699950814247
+  Z: -0.860289990901947
+bfres: Npc_DungeonPriestDlc2nd_Boss
+boundingForTraverse: 2.949096918106079
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Npc_DungeonPriestDlc2nd001
+generalLife: 100
+instSize: 185988
+mainModel: Npc_DungeonPriestDlc2nd_Boss
+name: Npc_DungeonPriestDlc2nd_Boss
+profile: DemoNPC
+rigidBodyCenterY: 0.5
+slink: Npc_DungeonPriestDlc2nd_Boss
+sortKey: -24
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,20 @@
+aabbMax:
+  X: 0.7167770266532898
+  Y: 0.9272050261497498
+  Z: 2.3720500469207764
+aabbMin:
+  X: -0.705839991569519
+  Y: -0.9936000108718872
+  Z: -2.3771400451660156
+bfres: TwnObj_Village_IchikaraFurniture_A
+boundingForTraverse: 1.9208049774169922
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 59108
+mainModel: TwnObj_Village_IchikaraPlanter_A_02
+name: TwnObj_Village_IchikaraPlanter_A_02
+profile: MapConstPassive
+sortKey: 13
+tags:
+  tag03528579: 55739769
+yLimitAlgorithm: NoLimit

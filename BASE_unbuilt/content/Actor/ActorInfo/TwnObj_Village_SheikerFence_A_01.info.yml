@@ -1,0 +1,18 @@
+aabbMax:
+  X: 1.638569951057434
+  Y: 1.4855600595474243
+  Z: 0.09194900095462799
+aabbMin:
+  X: -1.646880030632019
+  Y: -0.32296401262283325
+  Z: -0.07781100273132324
+bfres: TwnObj_Village_Sheiker_A
+boundingForTraverse: 1.8085240125656128
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28760
+mainModel: TwnObj_Village_SheikerFence_A_01
+name: TwnObj_Village_SheikerFence_A_01
+profile: MapConstPassive
+sortKey: 8
+yLimitAlgorithm: NoLimit

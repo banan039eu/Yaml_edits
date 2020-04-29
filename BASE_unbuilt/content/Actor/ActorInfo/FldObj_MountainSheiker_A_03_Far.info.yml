@@ -1,0 +1,25 @@
+aabbMax:
+  X: 32.45880126953125
+  Y: 127.59300231933594
+  Z: 34.846099853515625
+aabbMin:
+  X: -37.77349853515625
+  Y: 3.1372900009155273
+  Z: -41.46070098876953
+bfres: FldObj_MountainSheiker_A_Far
+boundingForTraverse: 124.4557113647461
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 52480
+mainModel: FldObj_MountainSheiker_A_03_Far
+name: FldObj_MountainSheiker_A_03_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag3c39db92: 1010424722
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffff4342
+traverseDist: 8000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,47 @@
+aabbMax:
+  X: 0.9882649779319763
+  Y: 2.2465500831604004
+  Z: 1.0917999744415283
+aabbMin:
+  X: -1.010349988937378
+  Y: -0.012227999977767467
+  Z: -0.38389500975608826
+attackPower: 4
+bfres: Enemy_Bokoblin
+boundingForTraverse: 2.2587780952453613
+bugMask: 3
+cursorOffsetY: 0.6000000238418579
+drops:
+  Normal:
+  - Item_Enemy_01
+  - Obj_ArrowBundle_A_01
+  Normal2:
+  - Item_Enemy_00
+elink: Bokoblin_Red
+enemyRank: 6
+generalLife: 13
+instSize: 464356
+mainModel: Bokoblin_Red
+name: Enemy_Bokoblin_Guard_Junior_TreeHouseTop
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+slink: Bokoblin_Red
+sortKey: 10503
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_Bokoblin_Junior
+tags:
+  tag35960905: 899025157
+  tag57e2e33f: 1474487103
+  tag6b536bc9: 1800629193
+  tag82ed5778: !u 0x82ed5778
+  tag8fda6cdd: !u 0x8fda6cdd
+  tag994aef4b: !u 0x994aef4b
+  taga7e979db: !u 0xa7e979db
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagc4154689: !u 0xc4154689
+  tagf2e5b2f2: !u 0xf2e5b2f2
+traverseDist: 150.0
+xlink: Biped_Enemy
+yLimitAlgorithm: LimitYDiff

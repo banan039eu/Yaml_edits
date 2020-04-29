@@ -1,0 +1,15 @@
+attackPower: 50
+bugMask: 3
+elink: IceBallLv2
+instSize: 16228
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: IceRodLv2Ice
+profile: Bullet
+slink: IceBall
+sortKey: 1
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,21 @@
+aabbMax:
+  X: 10.53030014038086
+  Y: 54.18629837036133
+  Z: 5.643340110778809
+aabbMin:
+  X: -10.662400245666504
+  Y: 0.0
+  Z: -15.227399826049805
+bfres: Obj_GerdoElevator_A
+boundingForTraverse: 54.18629837036133
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 83020
+mainModel: Obj_GerdoElevatorFrame_A_02
+name: Obj_GerdoElevatorFrame_A_02
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffffff47
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,39 @@
+aabbMax:
+  X: 0.45087000727653503
+  Y: 1.549180030822754
+  Z: 1.4582200050354004
+aabbMin:
+  X: -0.35640400648117065
+  Y: -0.004368999972939491
+  Z: -1.4393999576568604
+actorScale: 1.2000000476837158
+animalUnitBasePlayRate: 1.0
+attackPower: 4
+bfres: Animal_Boar
+boundingForTraverse: 1.55354905128479
+bugMask: 3
+cursorOffsetY: 0.6499999761581421
+drops:
+  Normal:
+  - Item_Meat_01
+elink: Animal_Boar_A
+enemyRank: 0
+generalLife: 8
+instSize: 144308
+mainModel: Boar
+name: Animal_Boar_C
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+slink: Animal_Boar_A
+sortKey: 28010
+systemIsGetItemSelf: false
+systemSameGroupActorName: Animal_Boar_A
+tags:
+  tag24cd75fe: 617444862
+  tag6b3d3141: 1799172417
+  tagd75d5f92: !u 0xd75d5f92
+traverseDist: 80.0
+xlink: Quadruped_Animal
+yLimitAlgorithm: NoLimit

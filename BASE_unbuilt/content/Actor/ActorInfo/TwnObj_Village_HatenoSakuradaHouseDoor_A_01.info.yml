@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.15000000596046448
+  Y: 2.700000047683716
+  Z: 0.20108899474143982
+aabbMin:
+  X: -1.5
+  Y: 0.0
+  Z: -0.1912979930639267
+attackPower: 0
+bfres: TwnObj_Village_Hatenodoor_A
+boundingForTraverse: 2.700000047683716
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 49056
+mainModel: TwnObj_Village_HatenoSakuradaHouseDoor_A_01
+name: TwnObj_Village_HatenoSakuradaHouseDoor_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 1.350000023841858
+slink: TwnObj_Village_Hatenodoor
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2ad7fb13: 718797587
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

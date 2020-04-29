@@ -1,0 +1,19 @@
+attackPower: 24
+bugMask: 3
+elink: SiteBossTornado
+instSize: 16136
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: GanonTornado
+profile: Bullet
+slink: GanonTornado
+sortKey: 0
+tags:
+  tag3a61e2a9: 979493545
+  tag74831ee0: 1954750176
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

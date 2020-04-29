@@ -1,0 +1,26 @@
+aabbMax:
+  X: 9.671879768371582
+  Y: 9.671879768371582
+  Z: 1.6291899681091309
+aabbMin:
+  X: -9.671879768371582
+  Y: -9.671879768371582
+  Z: 0.013086000457406044
+attackPower: 0
+bfres: TwnObj_AncientCivilLavo_A
+boundingForTraverse: 19.343759536743164
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 71024
+mainModel: TwnObj_AncientCivilLaboWindMill_A_01
+name: TwnObj_AncientCivilLaboWindMill_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: -0.1589449942111969
+slink: TwnObj_AncientCivilLaboWindMill
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag336bf311: 862712593
+yLimitAlgorithm: NoLimit

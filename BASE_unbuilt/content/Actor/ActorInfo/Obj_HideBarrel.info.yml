@@ -1,0 +1,28 @@
+aabbMax:
+  X: 1.2537000179290771
+  Y: 2.4616899490356445
+  Z: 1.2537000179290771
+aabbMin:
+  X: -1.2537000179290771
+  Y: 0.0
+  Z: -1.2537000179290771
+attackPower: 10
+bfres: Obj_Barrel_A
+boundingForTraverse: 2.4616899490356445
+bugMask: 3
+elink: Obj_HideBarrel
+generalLife: 1
+instSize: 40444
+mainModel: Obj_Barrel_Hide_A
+name: Obj_HideBarrel
+profile: MapDynamicActive
+rigidBodyCenterY: 1.2000000476837158
+slink: HideBarrel
+sortKey: -14
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagff2ecb67: !u 0xff2ecb67
+yLimitAlgorithm: NoLimit

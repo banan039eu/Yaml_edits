@@ -1,0 +1,37 @@
+aabbMax:
+  X: 0.3717850148677826
+  Y: 1.7218199968338013
+  Z: 0.6834350228309631
+aabbMin:
+  X: -0.543071985244751
+  Y: -0.00013000000035390258
+  Z: -0.31093698740005493
+boundingForTraverse: 1.7219500541687012
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: UMii_Hylia_Backpack
+instSize: 652124
+name: Npc_Road_031
+profile: NPC
+slink: Npc_Hylia_M
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+travelerAppearGameDataName: FirstTouchdown
+travelerDeleteGameDataName: ''
+travelerRideHorseName: GameRomHorse00S
+travelerRoutePoint0Name: C7_GOAL_40
+travelerRoutePoint1Name: C7_JCT_30
+travelerRoutePoint2Name: C7_JCT_00
+travelerRoutePoint3Name: C7_GOAL_00
+travelerRoutePoint4Name: C7_JCT_00
+travelerRoutePoint5Name: DesertGerudo_JCT09
+travelerRoutePoint6Name: C7_JCT_20
+travelerRoutePoint7Name: C7_JCT_22
+travelerRoutePoint8Name: C7_GOAL_22
+travelerRouteType: ''
+traverseDist: 200.0
+xlink: Npc
+yLimitAlgorithm: NoLimit

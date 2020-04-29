@@ -1,0 +1,12 @@
+attackPower: 0
+bugMask: 1
+generalLife: 100
+instSize: 4280
+name: AirWallCurseGanon
+profile: MapConstActive
+sortKey: -7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+yLimitAlgorithm: NoLimit

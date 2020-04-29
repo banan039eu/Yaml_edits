@@ -1,0 +1,10 @@
+bugMask: 0
+elink: SandStorm_Distance_Ibutsu
+instSize: 3476
+name: SandStorm_Distance_Ibutsu
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+traverseDist: 3000.0
+yLimitAlgorithm: NoLimit

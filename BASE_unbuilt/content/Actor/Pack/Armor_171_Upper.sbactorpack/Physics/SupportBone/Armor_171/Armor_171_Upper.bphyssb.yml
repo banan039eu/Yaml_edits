@@ -1,0 +1,630 @@
+!io
+version: 0
+type: physsb
+param_root: !list
+  objects:
+    support_bone_header: !obj
+      423031007: 0.1
+      bone_num: 12
+      connection_linear_num: 0
+      connection_curve_num: 56
+      output_single_num: 20
+      output_double_num: 19
+      main_bone_num: 4
+      support_bone_num: 8
+  lists:
+    support_bone_data: !list
+      objects: {}
+      lists:
+        bone_list: !list
+          objects:
+            bone_0: !obj {name: !str64 Pad_R_Armor}
+            bone_1: !obj {name: !str64 'Link:Arm_1_R'}
+            bone_2: !obj {name: !str64 Pad_L_Armor}
+            bone_3: !obj {name: !str64 'Link:Arm_1_L'}
+            bone_4: !obj {name: !str64 Armor_1_C_Armor}
+            bone_5: !obj {name: !str64 'Link:Leg_1_L'}
+            bone_6: !obj {name: !str64 'Link:Leg_1_R'}
+            bone_7: !obj {name: !str64 Armor_B_L_Armor}
+            bone_8: !obj {name: !str64 Armor_F_R_Armor}
+            bone_9: !obj {name: !str64 Armor_2_C_Armor}
+            bone_10: !obj {name: !str64 Armor_F_L_Armor}
+            bone_11: !obj {name: !str64 Armor_B_R_Armor}
+          lists: {}
+        connection_curve_list: !list
+          objects:
+            connection_curve_0: !obj
+              bone_attribute: 1
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-0.872665, 0.523599, 0.0, -0.6]
+              key_1: !vec4 [0.0, 0.0, -0.6, -0.6]
+              key_2: !vec4 [0.872665, -0.523599, -0.6, 0.0]
+            connection_curve_1: !obj
+              bone_attribute: 0
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 1.11111]
+              key_2: !vec4 [0.628319, 0.698132, 1.11111, 0.0]
+            connection_curve_2: !obj
+              bone_attribute: 1
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-2.09439, 2.09439, 0.0, -1.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.0]
+              key_2: !vec4 [2.09439, -0.785398, -0.375, 0.0]
+            connection_curve_3: !obj
+              bone_attribute: 0
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.112252]
+              key_2: !vec4 [0.698132, 0.078367, 0.112252, 0.0]
+            connection_curve_4: !obj
+              bone_attribute: 0
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-1.0472, -0.045, 0.0, 0.042972]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.0]
+              key_2: !vec4 [3.14159, 0.0, 0.0, 0.0]
+            connection_curve_5: !obj
+              bone_attribute: 65537
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-0.872665, 0.523599, 0.0, -0.6]
+              key_1: !vec4 [0.0, 0.0, -0.6, -0.6]
+              key_2: !vec4 [0.872665, -0.523599, -0.6, 0.0]
+            connection_curve_6: !obj
+              bone_attribute: 65536
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 1.11111]
+              key_2: !vec4 [0.628319, 0.698132, 1.11111, 0.0]
+            connection_curve_7: !obj
+              bone_attribute: 65537
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-2.09439, 2.09439, 0.0, -1.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.0]
+              key_2: !vec4 [2.09439, -0.785398, -0.375, 0.0]
+            connection_curve_8: !obj
+              bone_attribute: 65536
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, -0.112252]
+              key_2: !vec4 [0.698132, -0.078367, -0.112252, 0.0]
+            connection_curve_9: !obj
+              bone_attribute: 65538
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.785398, 0.0, 0.0, 0.018218]
+              key_2: !vec4 [1.67552, 0.016216, 0.018218, 0.0]
+            connection_curve_10: !obj
+              bone_attribute: 65537
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.174533, 0.0, 0.0, 0.057296]
+              key_2: !vec4 [0.244346, 0.004, 0.057296, 0.0]
+            connection_curve_11: !obj
+              bone_attribute: 65536
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-1.0472, 0.045, 0.0, -0.042972]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.0]
+              key_2: !vec4 [3.14159, 0.0, 0.0, 0.0]
+            connection_curve_12: !obj
+              bone_attribute: 131073
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [1.39626, 0.0, 0.0, -0.65]
+              key_2: !vec4 [3.14159, -1.13446, -0.65, 0.0]
+            connection_curve_13: !obj
+              bone_attribute: 196609
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [1.39626, 0.0, 0.0, 0.65]
+              key_2: !vec4 [3.14159, 1.13446, 0.65, 0.0]
+            connection_curve_14: !obj
+              bone_attribute: 131073
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.174533, 0.0, 0.0, 1.22202]
+              key_2: !vec4 [2.09439, 1.48353, 0.046089, 0.0]
+            connection_curve_15: !obj
+              bone_attribute: 196609
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.174533, 0.0, 0.0, 1.22202]
+              key_2: !vec4 [2.09439, 1.48353, 0.046089, 0.0]
+            connection_curve_16: !obj
+              bone_attribute: 131073
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.174533, 0.0, 0.0, 0.352941]
+              key_2: !vec4 [3.14159, 1.0472, 0.352941, 0.0]
+            connection_curve_17: !obj
+              bone_attribute: 196609
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.174533, 0.0, 0.0, -0.352941]
+              key_2: !vec4 [3.14159, -1.0472, -0.352941, 0.0]
+            connection_curve_18: !obj
+              bone_attribute: 131073
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, -0.008185]
+              key_2: !vec4 [3.66519, -0.03, -0.008185, 0.0]
+            connection_curve_19: !obj
+              bone_attribute: 196609
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, -0.008185]
+              key_2: !vec4 [3.66519, -0.03, -0.008185, 0.0]
+            connection_curve_20: !obj
+              bone_attribute: 131073
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.015006]
+              key_2: !vec4 [3.66519, 0.055, 0.015006, 0.0]
+            connection_curve_21: !obj
+              bone_attribute: 196609
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.015006]
+              key_2: !vec4 [3.66519, 0.055, 0.015006, 0.0]
+            connection_curve_22: !obj
+              bone_attribute: 131072
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.472222]
+              key_2: !vec4 [3.14159, 1.48353, 0.472222, 0.0]
+            connection_curve_23: !obj
+              bone_attribute: 131073
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 2.75762, 0.0, -0.877778]
+              key_1: !vec4 [0.0, 0.0, -0.877778, -0.055556]
+              key_2: !vec4 [3.14159, -0.174533, -0.055556, 0.0]
+            connection_curve_24: !obj
+              bone_attribute: 131072
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, -0.138889]
+              key_2: !vec4 [3.14159, -0.436332, -0.138889, 0.0]
+            connection_curve_25: !obj
+              bone_attribute: 131072
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, -0.128571]
+              key_2: !vec4 [2.44346, -0.314159, -0.128571, 0.0]
+            connection_curve_26: !obj
+              bone_attribute: 131073
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.0]
+              key_2: !vec4 [3.14159, 0.174533, 0.167083, 0.0]
+            connection_curve_27: !obj
+              bone_attribute: 131072
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.002806]
+              key_2: !vec4 [3.14159, 0.05, 0.026932, 0.0]
+            connection_curve_28: !obj
+              bone_attribute: 131072
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.009549]
+              key_2: !vec4 [3.14159, 0.03, 0.009549, 0.0]
+            connection_curve_29: !obj
+              bone_attribute: 196609
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-1.11701, 0.133849, 0.0, -0.119828]
+              key_1: !vec4 [0.0, 0.0, -0.119828, -0.933333]
+              key_2: !vec4 [1.309, -1.22173, -0.933333, 0.0]
+            connection_curve_30: !obj
+              bone_attribute: 196608
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, -0.933333]
+              key_2: !vec4 [1.309, -1.22173, -0.933333, 0.0]
+            connection_curve_31: !obj
+              bone_attribute: 196609
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, -0.2]
+              key_2: !vec4 [1.309, -0.261799, -0.2, 0.0]
+            connection_curve_32: !obj
+              bone_attribute: 196608
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.394737]
+              key_2: !vec4 [1.32645, 0.523599, 0.394737, 0.0]
+            connection_curve_33: !obj
+              bone_attribute: 196609
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, -0.046709]
+              key_2: !vec4 [1.6057, -0.075, -0.046709, 0.0]
+            connection_curve_34: !obj
+              bone_attribute: 131073
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.523599, 0.0, 0.0, -0.201342]
+              key_2: !vec4 [3.12414, -0.523599, -0.201342, 0.0]
+            connection_curve_35: !obj
+              bone_attribute: 196609
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.523599, 0.0, 0.0, 0.2]
+              key_2: !vec4 [3.14159, 0.523599, 0.2, 0.0]
+            connection_curve_36: !obj
+              bone_attribute: 131073
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.698132, 0.0, 0.0, 0.0]
+              key_2: !vec4 [2.09439, -1.0472, -2.54909, 0.0]
+            connection_curve_37: !obj
+              bone_attribute: 196609
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.698132, 0.0, 0.0, 0.0]
+              key_2: !vec4 [2.09439, -1.0472, -2.54909, 0.0]
+            connection_curve_38: !obj
+              bone_attribute: 131073
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [1.5708, 0.0, 0.0, 0.17]
+              key_2: !vec4 [1.74533, 0.029671, 0.17, 0.0]
+            connection_curve_39: !obj
+              bone_attribute: 196609
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [1.5708, 0.0, 0.0, -0.17]
+              key_2: !vec4 [1.74533, -0.029671, -0.17, 0.0]
+            connection_curve_40: !obj
+              bone_attribute: 131073
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.0]
+              key_2: !vec4 [3.66519, 0.0, 0.0, 0.0]
+            connection_curve_41: !obj
+              bone_attribute: 196609
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.0]
+              key_2: !vec4 [3.66519, 0.0, 0.0, 0.0]
+            connection_curve_42: !obj
+              bone_attribute: 131073
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.0]
+              key_2: !vec4 [3.66519, 0.0, 0.0, 0.0]
+            connection_curve_43: !obj
+              bone_attribute: 196609
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.0]
+              key_2: !vec4 [3.66519, 0.0, 0.0, 0.0]
+            connection_curve_44: !obj
+              bone_attribute: 131073
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-1.11701, 0.133849, 0.0, -0.119828]
+              key_1: !vec4 [0.0, 0.0, -0.119828, -0.933333]
+              key_2: !vec4 [1.309, -1.22173, -0.933333, 0.0]
+            connection_curve_45: !obj
+              bone_attribute: 131072
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, -0.933333]
+              key_2: !vec4 [1.309, -1.22173, -0.933333, 0.0]
+            connection_curve_46: !obj
+              bone_attribute: 131073
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, -0.2]
+              key_2: !vec4 [1.309, -0.261799, -0.2, 0.0]
+            connection_curve_47: !obj
+              bone_attribute: 131072
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.394737]
+              key_2: !vec4 [1.32645, 0.523599, 0.394737, 0.0]
+            connection_curve_48: !obj
+              bone_attribute: 131073
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, -0.046709]
+              key_2: !vec4 [1.6057, -0.075, -0.046709, 0.0]
+            connection_curve_49: !obj
+              bone_attribute: 196608
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.087266, 0.0, 0.0, 0.485714]
+              key_2: !vec4 [3.14159, 1.48353, 0.485714, 0.0]
+            connection_curve_50: !obj
+              bone_attribute: 196609
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 2.75762, 0.0, -0.877778]
+              key_1: !vec4 [0.0, 0.0, -0.877778, -0.055556]
+              key_2: !vec4 [3.14159, -0.174533, -0.055556, 0.0]
+            connection_curve_51: !obj
+              bone_attribute: 196608
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, -0.138889]
+              key_2: !vec4 [3.14159, -0.436332, -0.138889, 0.0]
+            connection_curve_52: !obj
+              bone_attribute: 196608
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, -0.128571]
+              key_2: !vec4 [2.44346, -0.314159, -0.128571, 0.0]
+            connection_curve_53: !obj
+              bone_attribute: 196609
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.0]
+              key_2: !vec4 [3.14159, 0.174533, 0.167083, 0.0]
+            connection_curve_54: !obj
+              bone_attribute: 196608
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, 0.002806]
+              key_2: !vec4 [3.14159, 0.05, 0.026932, 0.0]
+            connection_curve_55: !obj
+              bone_attribute: 196608
+              constant_in: false
+              constant_out: false
+              key_0: !vec4 [-3.14159, 0.0, 0.0, 0.0]
+              key_1: !vec4 [0.0, 0.0, 0.0, -0.009549]
+              key_2: !vec4 [3.14159, -0.03, -0.009549, 0.0]
+          lists: {}
+        output_single_list: !list
+          objects:
+            output_single_0: !obj {connection: 65536, weight: 1.0}
+            output_single_1: !obj {connection: 65537, weight: 1.0}
+            output_single_2: !obj {connection: 65538, weight: 1.0}
+            output_single_3: !obj {connection: 65539, weight: 1.0}
+            output_single_4: !obj {connection: 65540, weight: 1.0}
+            output_single_5: !obj {connection: 65541, weight: 1.0}
+            output_single_6: !obj {connection: 65542, weight: 1.0}
+            output_single_7: !obj {connection: 65543, weight: 1.0}
+            output_single_8: !obj {connection: 65544, weight: 1.0}
+            output_single_9: !obj {connection: 65547, weight: 1.0}
+            output_single_10: !obj {connection: 65560, weight: 1.0}
+            output_single_11: !obj {connection: 65563, weight: 1.0}
+            output_single_12: !obj {connection: 65564, weight: 1.0}
+            output_single_13: !obj {connection: -1, weight: 0.0}
+            output_single_14: !obj {connection: 65569, weight: 1.0}
+            output_single_15: !obj {connection: -1, weight: 0.0}
+            output_single_16: !obj {connection: 65584, weight: 1.0}
+            output_single_17: !obj {connection: 65587, weight: 1.0}
+            output_single_18: !obj {connection: 65590, weight: 1.0}
+            output_single_19: !obj {connection: 65591, weight: 1.0}
+          lists: {}
+        output_double_list: !list
+          objects:
+            output_double_0: !obj {connection_0: 65545, weight_0: 1.0, connection_1: 65546,
+              weight_1: 1.0}
+            output_double_1: !obj {connection_0: 65548, weight_0: 1.0, connection_1: 65549,
+              weight_1: 1.0}
+            output_double_2: !obj {connection_0: 65550, weight_0: 1.0, connection_1: 65551,
+              weight_1: 1.0}
+            output_double_3: !obj {connection_0: 65552, weight_0: 1.0, connection_1: 65553,
+              weight_1: 1.0}
+            output_double_4: !obj {connection_0: 65554, weight_0: 1.0, connection_1: 65555,
+              weight_1: 1.0}
+            output_double_5: !obj {connection_0: 65556, weight_0: 1.0, connection_1: 65557,
+              weight_1: 1.0}
+            output_double_6: !obj {connection_0: 65558, weight_0: 1.0, connection_1: 65559,
+              weight_1: 1.0}
+            output_double_7: !obj {connection_0: 65561, weight_0: 1.0, connection_1: 65562,
+              weight_1: 1.0}
+            output_double_8: !obj {connection_0: 65565, weight_0: 1.0, connection_1: 65566,
+              weight_1: 1.0}
+            output_double_9: !obj {connection_0: 65567, weight_0: 1.0, connection_1: 65568,
+              weight_1: 1.0}
+            output_double_10: !obj {connection_0: 65570, weight_0: 1.0, connection_1: 65571,
+              weight_1: 1.0}
+            output_double_11: !obj {connection_0: 65572, weight_0: 1.0, connection_1: 65573,
+              weight_1: 1.0}
+            output_double_12: !obj {connection_0: 65574, weight_0: 1.0, connection_1: 65575,
+              weight_1: 1.0}
+            output_double_13: !obj {connection_0: 65576, weight_0: 1.0, connection_1: 65577,
+              weight_1: 1.0}
+            output_double_14: !obj {connection_0: 65578, weight_0: 1.0, connection_1: 65579,
+              weight_1: 1.0}
+            output_double_15: !obj {connection_0: 65580, weight_0: 1.0, connection_1: 65581,
+              weight_1: 1.0}
+            output_double_16: !obj {connection_0: 65582, weight_0: 1.0, connection_1: 65583,
+              weight_1: 1.0}
+            output_double_17: !obj {connection_0: 65585, weight_0: 1.0, connection_1: 65586,
+              weight_1: 1.0}
+            output_double_18: !obj {connection_0: 65588, weight_0: 1.0, connection_1: 65589,
+              weight_1: 1.0}
+          lists: {}
+        main_bone_list: !list
+          objects:
+            main_bone_0: !obj
+              bone: 1
+              base_translate: !vec3 [-0.15, 0.0, -0.01074]
+              base_rotate: !quat [0.0, 0.0, 0.0, 1.0]
+              aim: !vec3 [1.0, 0.0, 0.0]
+              1133833840: !vec3 [0.0, 1.0, 0.0]
+              space: -1
+            main_bone_1: !obj
+              bone: 3
+              base_translate: !vec3 [0.15, 0.0, 0.010739]
+              base_rotate: !quat [0.0, 0.0, 0.0, 1.0]
+              aim: !vec3 [1.0, 0.0, 0.0]
+              1133833840: !vec3 [0.0, 1.0, 0.0]
+              space: -1
+            main_bone_2: !obj
+              bone: 5
+              base_translate: !vec3 [0.108543, 0.016503, -0.112091]
+              base_rotate: !quat [0.0, 0.0, 0.0, 1.0]
+              aim: !vec3 [1.0, 0.0, 0.0]
+              1133833840: !vec3 [0.0, 1.0, 0.0]
+              space: -1
+            main_bone_3: !obj
+              bone: 6
+              base_translate: !vec3 [0.108543, 0.016503, 0.112091]
+              base_rotate: !quat [0.0, 0.0, 1.0, 0.0]
+              aim: !vec3 [1.0, 0.0, 0.0]
+              1133833840: !vec3 [0.0, 1.0, 0.0]
+              space: -1
+          lists: {}
+        support_bone_list: !list
+          objects:
+            support_bone_0: !obj
+              bone: 0
+              base_translate: !vec3 [-0.227091, -1.6e-05, 0.090127]
+              base_rotate: !quat [0.707107, 0.0, 0.0, -0.707107]
+              aim: !vec3 [1.0, 0.0, 0.0]
+              1133833840: !vec3 [0.0, 1.0, 0.0]
+              space: -1
+              bendH: 0
+              bendV: 1
+              roll: 2
+              translateX: 3
+              translateY: -1
+              translateZ: 4
+            support_bone_1: !obj
+              bone: 2
+              base_translate: !vec3 [0.227091, 1.6e-05, -0.090127]
+              base_rotate: !quat [-0.707107, 0.0, 0.0, 0.707107]
+              aim: !vec3 [1.0, 0.0, 0.0]
+              1133833840: !vec3 [0.0, 1.0, 0.0]
+              space: -1
+              bendH: 5
+              bendV: 6
+              roll: 7
+              translateX: 8
+              translateY: 65536
+              translateZ: 9
+            support_bone_2: !obj
+              bone: 4
+              base_translate: !vec3 [0.154797, 0.184046, 0.0]
+              base_rotate: !quat [0.0, 0.0, 0.061049, 0.998135]
+              aim: !vec3 [1.0, 0.0, 0.0]
+              1133833840: !vec3 [0.0, 1.0, 0.0]
+              space: -1
+              bendH: 65537
+              bendV: 65538
+              roll: 65539
+              translateX: 65540
+              translateY: 65541
+              translateZ: -1
+            support_bone_3: !obj
+              bone: 7
+              base_translate: !vec3 [0.124265, -0.072459, -0.124311]
+              base_rotate: !quat [-0.426138, 0.12275, -0.057928, 0.894418]
+              aim: !vec3 [1.0, 0.0, 0.0]
+              1133833840: !vec3 [0.0, 1.0, 0.0]
+              space: -1
+              bendH: 65542
+              bendV: 10
+              roll: 65543
+              translateX: -1
+              translateY: 11
+              translateZ: 12
+            support_bone_4: !obj
+              bone: 8
+              base_translate: !vec3 [0.149265, 0.129, 0.161]
+              base_rotate: !quat [0.022309, 0.913781, -0.383423, 0.132259]
+              aim: !vec3 [1.0, 0.0, 0.0]
+              1133833840: !vec3 [0.0, 1.0, 0.0]
+              space: -1
+              bendH: 65544
+              bendV: 13
+              roll: 65545
+              translateX: 14
+              translateY: -1
+              translateZ: -1
+            support_bone_5: !obj
+              bone: 9
+              base_translate: !vec3 [0.035025, 0.0, 0.0]
+              base_rotate: !quat [0.0, 0.0, 0.0, 1.0]
+              aim: !vec3 [1.0, 0.0, 0.0]
+              1133833840: !vec3 [0.0, 1.0, 0.0]
+              space: -1
+              bendH: 65546
+              bendV: 65547
+              roll: 65548
+              translateX: 65549
+              translateY: 65550
+              translateZ: -1
+            support_bone_6: !obj
+              bone: 10
+              base_translate: !vec3 [0.149265, 0.129, -0.161]
+              base_rotate: !quat [-0.913781, 0.022309, 0.132259, 0.383423]
+              aim: !vec3 [1.0, 0.0, 0.0]
+              1133833840: !vec3 [0.0, 1.0, 0.0]
+              space: -1
+              bendH: 65551
+              bendV: 15
+              roll: 65552
+              translateX: 16
+              translateY: -1
+              translateZ: -1
+            support_bone_7: !obj
+              bone: 11
+              base_translate: !vec3 [0.124265, -0.072449, 0.124305]
+              base_rotate: !quat [-0.12275, -0.426138, 0.894418, 0.057928]
+              aim: !vec3 [1.0, 0.0, 0.0]
+              1133833840: !vec3 [0.0, 1.0, 0.0]
+              space: -1
+              bendH: 65553
+              bendV: 17
+              roll: 65554
+              translateX: -1
+              translateY: 18
+              translateZ: 19
+          lists: {}

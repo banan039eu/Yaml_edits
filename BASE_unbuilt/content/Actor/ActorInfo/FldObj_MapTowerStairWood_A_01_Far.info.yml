@@ -1,0 +1,21 @@
+aabbMax:
+  X: 8.790969848632812
+  Y: 2.046109914779663
+  Z: 3.5700299739837646
+aabbMin:
+  X: 4.062389850616455
+  Y: -5.4753899574279785
+  Z: -3.582170009613037
+bfres: FldObj_MapTower_A_Far
+boundingForTraverse: 7.521500110626221
+bugMask: 0
+instSize: 39324
+mainModel: FldObj_MapTowerStairWood_A_01_Far
+name: FldObj_MapTowerStairWood_A_01_Far
+profile: MapConstPassive
+sortKey: -9
+tags:
+  tag57fd54ce: 1476220110
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 3000.0
+yLimitAlgorithm: NoLimit

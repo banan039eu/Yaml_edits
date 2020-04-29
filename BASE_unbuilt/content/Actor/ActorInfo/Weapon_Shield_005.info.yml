@@ -1,0 +1,75 @@
+Chemical:
+  Burnable: 1
+aabbMax:
+  X: 0.4634779989719391
+  Y: 0.028781000524759293
+  Z: 0.35021498799324036
+aabbMin:
+  X: -0.23770000040531158
+  Y: -0.234702005982399
+  Z: -0.36029601097106934
+attackPower: 0
+bfres: Weapon_Shield_005
+boundingForTraverse: 0.2634829878807068
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Shield
+generalLife: 7
+homeArea:
+- name: FironeGrassland
+- name: EastHateru
+- name: CentralHyrule
+instSize: 41792
+itemBuyingPrice: 15
+itemCreatingPrice: 10
+itemSaleRevivalCount: -1
+itemSellingPrice: 10
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Shield_005
+name: Weapon_Shield_005
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponShield
+rigidBodyCenterY: -0.12052500247955322
+slink: Weapon_Shield_WoodWithBone
+sortKey: 15511
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag86329440: !u 0x86329440
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 10
+weaponCommonPoweredSharpAddAtkMax: 0
+weaponCommonPoweredSharpAddAtkMin: 0
+weaponCommonPoweredSharpAddLifeMax: 2
+weaponCommonPoweredSharpAddLifeMin: 2
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 14
+weaponCommonPoweredSharpWeaponAddGuardMin: 9
+weaponCommonRank: 4
+weaponCommonSharpWeaponAddAtkMax: 0
+weaponCommonSharpWeaponAddAtkMin: 0
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 6
+weaponCommonSharpWeaponAddGuardMin: 4
+weaponCommonSharpWeaponAddLifeMax: 1
+weaponCommonSharpWeaponAddLifeMin: 1
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+xlink: Weapon
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,27 @@
+aabbMax:
+  X: 1.233299970626831
+  Y: 3.4220499992370605
+  Z: 1.0293200016021729
+aabbMin:
+  X: -1.2333600521087646
+  Y: -0.02244899980723858
+  Z: -0.9379010200500488
+attackPower: 0
+bfres: TwnObj_GoddesStatue_A_01
+boundingForTraverse: 3.4444990158081055
+bugMask: 1
+cursorOffsetY: 0.699999988079071
+elink: TwnObj_DemonStatue_A_01
+generalLife: 100
+instSize: 33204
+mainModel: TwnObj_DemonStatue_A_01
+name: TwnObj_DemonStatue_A_01
+profile: MapConstActive
+rigidBodyCenterY: 1.6240700483322144
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag81bb74bd: !u 0x81bb74bd
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

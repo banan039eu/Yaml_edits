@@ -1,0 +1,38 @@
+aabbMax:
+  X: 0.1028980016708374
+  Y: 0.38978099822998047
+  Z: 0.060492999851703644
+aabbMin:
+  X: -0.1028980016708374
+  Y: 0.007224999833852053
+  Z: -0.060492999851703644
+bfres: Item_Rupee
+boundingForTraverse: 0.3825559914112091
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+generalLife: 100
+instSize: 36544
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Item_Rupee_Blue
+name: PutRupee_Blue
+profile: Item
+rigidBodyCenterY: 0.20000000298023224
+rupeeRupeeValue: 5
+slink: PutRupee_Blue
+sortKey: -4
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag17919f47: 395419463
+  tag85c817c3: !u 0x85c817c3
+  taga9b3597d: !u 0xa9b3597d
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdcd7e698: !u 0xdcd7e698
+  tagdeb2c8bd: !u 0xdeb2c8bd
+yLimitAlgorithm: NoLimit

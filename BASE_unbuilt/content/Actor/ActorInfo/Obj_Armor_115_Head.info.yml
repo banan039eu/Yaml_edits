@@ -1,0 +1,34 @@
+aabbMax:
+  X: 0.22829200327396393
+  Y: 1.7021900415420532
+  Z: 0.189751997590065
+aabbMin:
+  X: -0.22064800560474396
+  Y: 1.1721199750900269
+  Z: -0.15934699773788452
+bfres: TwnObj_City_GerudoThunderHelmet_A
+boundingForTraverse: 0.5300700068473816
+bugMask: 0
+cursorOffsetY: 0.6000000238418579
+elink: GetItem
+generalLife: 100
+instSize: 19884
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+lookAtOffsetY: -0.10000000149011612
+mainModel: TwnObj_City_GerudoThunderHelmet_A_01
+name: Obj_Armor_115_Head
+profile: Item
+sortKey: 52015
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag1c0c8d23: 470584611
+  tag2cef9fdc: 753901532
+  tag4850af43: 1213247299
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

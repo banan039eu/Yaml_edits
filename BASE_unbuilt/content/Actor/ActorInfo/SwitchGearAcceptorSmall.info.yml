@@ -1,0 +1,17 @@
+aabbMax:
+  X: 1.174430012702942
+  Y: 1.174430012702942
+  Z: -0.6166340112686157
+aabbMin:
+  X: -1.174430012702942
+  Y: -1.174430012702942
+  Z: -1.0
+bfres: DgnObj_MagneGearAcceptor_A
+boundingForTraverse: 2.348860025405884
+bugMask: 0
+instSize: 17652
+mainModel: DgnObj_MagneGearAcceptor_A_02
+name: SwitchGearAcceptorSmall
+profile: MapConstPassive
+sortKey: -6
+yLimitAlgorithm: NoLimit

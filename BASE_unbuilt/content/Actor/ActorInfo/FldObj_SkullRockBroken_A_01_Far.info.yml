@@ -1,0 +1,22 @@
+aabbMax:
+  X: 11.217000007629395
+  Y: 15.810600280761719
+  Z: 17.27199935913086
+aabbMin:
+  X: -15.103099822998047
+  Y: -5.169680118560791
+  Z: -15.045299530029297
+bfres: FldObj_SkullRockBroken_A_Far
+boundingForTraverse: 20.98027992248535
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: FldObj_SkullRockBroken_A_01_Far
+name: FldObj_SkullRockBroken_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 1500.0
+yLimitAlgorithm: NoLimit

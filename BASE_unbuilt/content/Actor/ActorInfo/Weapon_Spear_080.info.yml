@@ -1,0 +1,58 @@
+Chemical:
+  Capaciter: 1
+aabbMax:
+  X: 0.037964001297950745
+  Y: 0.23840300738811493
+  Z: 2.004420042037964
+aabbMin:
+  X: -0.037964001297950745
+  Y: -0.23840300738811493
+  Z: -0.3635050058364868
+attackPower: 22
+bfres: Weapon_Spear_080
+boundingForTraverse: 0.47680601477622986
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: WeaponSpear
+generalLife: 70
+instSize: 48544
+itemBuyingPrice: 400
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 100
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Spear_080
+name: Weapon_Spear_080
+profile: WeaponSpear
+slink: Weapon_Spear_Metal
+sortKey: -3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 18
+weaponCommonPoweredSharpAddAtkMin: 10
+weaponCommonPoweredSharpAddLifeMax: 32
+weaponCommonPoweredSharpAddLifeMin: 14
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 2.0
+weaponCommonPoweredSharpAddThrowMin: 1.5
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 0
+weaponCommonSharpWeaponAddAtkMax: 9
+weaponCommonSharpWeaponAddAtkMin: 5
+weaponCommonSharpWeaponAddCrit: true
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 13
+weaponCommonSharpWeaponAddLifeMin: 7
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 10
+xlink: Weapon
+yLimitAlgorithm: NoLimit

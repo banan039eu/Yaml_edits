@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 4616
+name: EnemyNoticeTag
+profile: ComplexTag
+sortKey: 0
+yLimitAlgorithm: NoLimit

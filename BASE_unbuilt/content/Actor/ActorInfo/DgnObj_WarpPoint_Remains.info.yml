@@ -1,0 +1,27 @@
+aabbMax:
+  X: 3.0620601177215576
+  Y: 0.30000001192092896
+  Z: 3.0620601177215576
+aabbMin:
+  X: -3.0620501041412354
+  Y: -0.10000000149011612
+  Z: -3.0620501041412354
+attackPower: 0
+bfres: DgnObj_WarpPoint_A
+boundingForTraverse: 0.4000000059604645
+bugMask: 3
+elink: DgnObj_WarpPoint_Remains
+generalLife: 100
+instSize: 33744
+mainModel: DgnObj_WarpPoint_A_02
+name: DgnObj_WarpPoint_Remains
+profile: MapConstActive
+rigidBodyCenterY: 0.020407000556588173
+slink: DgnObj_WarpPoint
+sortKey: -5
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag8fda6cdd: !u 0x8fda6cdd
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,20 @@
+aabbMax:
+  X: 2.808540105819702
+  Y: 1.5666999816894531
+  Z: -0.03537600114941597
+aabbMin:
+  X: -2.5892200469970703
+  Y: -7.829559803009033
+  Z: -13.627799987792969
+bfres: FldObj_BridgeWoodForest_B
+boundingForTraverse: 9.396259307861328
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38044
+mainModel: FldObj_BridgeWoodForest_B_01
+name: FldObj_BridgeWoodForest_B_01
+profile: MapConstPassive
+sortKey: 44
+tags:
+  tag3c39db92: 1010424722
+yLimitAlgorithm: NoLimit

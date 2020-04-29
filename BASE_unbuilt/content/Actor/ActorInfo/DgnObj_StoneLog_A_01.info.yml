@@ -1,0 +1,29 @@
+aabbMax:
+  X: 0.8999999761581421
+  Y: 2.0
+  Z: 2.0
+aabbMin:
+  X: -5.75
+  Y: -3.4000000953674316
+  Z: -2.0
+attackPower: 0
+bfres: DgnObj_StoneLog_A
+boundingForTraverse: 5.400000095367432
+bugMask: 2
+elink: SliderOBJ
+generalLife: 100
+instSize: 54668
+mainModel: DgnObj_StoneLog_A_01
+name: DgnObj_StoneLog_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: -0.41238200664520264
+slink: DgnObj_SliderBlockStone_Log
+sortKey: -54
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 99999.0
+xlink: DgnObj_ConstrainedSlider
+yLimitAlgorithm: NoLimit

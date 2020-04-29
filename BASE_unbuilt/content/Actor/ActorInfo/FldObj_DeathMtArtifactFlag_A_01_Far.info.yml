@@ -1,0 +1,21 @@
+aabbMax:
+  X: 12.708600044250488
+  Y: 15.812199592590332
+  Z: 1.4064699411392212
+aabbMin:
+  X: -8.546990394592285
+  Y: -0.8919900059700012
+  Z: -2.7060799598693848
+bfres: FldObj_DeathMtArtifact_A_Far
+boundingForTraverse: 16.70418930053711
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: FldObj_DeathMtArtifactFlag_A_01_Far
+name: FldObj_DeathMtArtifactFlag_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tagc5b7c123: !u 0xc5b7c123
+yLimitAlgorithm: NoLimit

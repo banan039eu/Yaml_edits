@@ -1,0 +1,22 @@
+aabbMax:
+  X: 0.16674800217151642
+  Y: 0.3798829913139343
+  Z: 0.251910001039505
+aabbMin:
+  X: -0.1715089976787567
+  Y: -0.000846999988425523
+  Z: -1.094730019569397
+bfres: Animal_Squirrel
+boundingForTraverse: 0.380730003118515
+bugMask: 1
+cursorOffsetY: 0.30000001192092896
+generalLife: 100
+instSize: 44872
+name: Dm_Animal_Squirrel_A
+profile: DemoNPC
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

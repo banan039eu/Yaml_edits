@@ -1,0 +1,31 @@
+aabbMax:
+  X: 4.0
+  Y: 3.9000000953674316
+  Z: 2.295520067214966
+aabbMin:
+  X: -4.0
+  Y: 0.4000000059604645
+  Z: -2.295520067214966
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuEx_B
+boundingForTraverse: 3.5
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 31948
+mainModel: DgnObj_DLC_IbutsuEx_B_SliderBlockIron_A_02
+name: DgnObj_DLC_IbutsuEx_B_SliderBlockIron_A_02
+profile: MapDynamicActive
+rigidBodyCenterY: 2.0094900131225586
+slink: DgnObj_SliderBlockIron
+sortKey: -12
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag183bbf57: 406568791
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 99999.0
+xlink: DgnObj_ConstrainedSlider
+yLimitAlgorithm: NoLimit

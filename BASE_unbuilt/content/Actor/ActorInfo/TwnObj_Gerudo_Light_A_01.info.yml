@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.27727699279785156
+  Y: 0.4942219853401184
+  Z: 0.27727699279785156
+aabbMin:
+  X: -0.27727699279785156
+  Y: 0.0
+  Z: -0.27727699279785156
+bfres: TwnObj_City_GerudoFurniture_A
+boundingForTraverse: 0.4942219853401184
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17972
+mainModel: TwnObj_Gerudo_Light_A_01
+name: TwnObj_Gerudo_Light_A_01
+profile: MapConstPassive
+sortKey: -1
+tags:
+  tag0d23ee8c: 220458636
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

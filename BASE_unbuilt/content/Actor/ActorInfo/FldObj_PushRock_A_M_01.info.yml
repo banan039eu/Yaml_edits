@@ -1,0 +1,31 @@
+aabbMax:
+  X: 1.7437000274658203
+  Y: 1.631350040435791
+  Z: 1.6589699983596802
+aabbMin:
+  X: -1.5230799913406372
+  Y: -1.4449100494384766
+  Z: -1.7060600519180298
+attackPower: 0
+bfres: FldObj_PushRock_A
+boundingForTraverse: 3.0762600898742676
+bugMask: 3
+generalLife: 100
+instSize: 32956
+mainModel: FldObj_PushRock_A_M_01
+name: FldObj_PushRock_A_M_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.00786800030618906
+slink: RockBall
+sortKey: -24
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag507efd18: 1350499608
+  tag6a7a4c11: 1786399761
+  tag8fda6cdd: !u 0x8fda6cdd
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagc4154689: !u 0xc4154689
+yLimitAlgorithm: NoLimit

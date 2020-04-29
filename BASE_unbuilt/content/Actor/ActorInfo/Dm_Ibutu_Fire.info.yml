@@ -1,0 +1,23 @@
+aabbMax:
+  X: 43.55939865112305
+  Y: 33.85380172729492
+  Z: 42.305599212646484
+aabbMin:
+  X: -43.07500076293945
+  Y: -6.8066301345825195
+  Z: -67.89420318603516
+bfres: Dm_Ibutu_Fire_A
+boundingForTraverse: 40.660430908203125
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 1044968
+mainModel: Dm_Ibutu_Fire_A_01
+name: Dm_Ibutu_Fire
+profile: DemoNPC
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

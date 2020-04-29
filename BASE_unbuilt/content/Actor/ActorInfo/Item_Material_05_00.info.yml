@@ -1,0 +1,33 @@
+aabbMax:
+  X: 0.16590100526809692
+  Y: 0.5899310111999512
+  Z: 0.16691699624061584
+aabbMin:
+  X: -0.1658570021390915
+  Y: 0.0
+  Z: -0.1658789962530136
+bfres: Item_Material_05
+boundingForTraverse: 0.5899310111999512
+bugMask: 3
+cursorOffsetY: 0.4000000059604645
+elink: Item_Material_05
+generalLife: 1
+instSize: 38012
+itemBuyingPrice: 12
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 3
+itemStainColor: 4
+itemUseIconActorName: ''
+mainModel: Item_Material_05
+name: Item_Material_05_00
+profile: Item
+rigidBodyCenterY: 0.15000000596046448
+slink: Item_Material_05
+sortKey: 33020
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag653623d0: 1698046928
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

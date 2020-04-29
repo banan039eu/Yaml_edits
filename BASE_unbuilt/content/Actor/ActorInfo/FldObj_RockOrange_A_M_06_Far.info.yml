@@ -1,0 +1,23 @@
+aabbMax:
+  X: 7.096749782562256
+  Y: 5.936200141906738
+  Z: 4.341390132904053
+aabbMin:
+  X: -5.142210006713867
+  Y: -0.3468640148639679
+  Z: -3.6227800846099854
+bfres: FldObj_RockOrange_A_Far
+boundingForTraverse: 6.283063888549805
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18612
+mainModel: FldObj_RockOrange_A_M_06_Far
+name: FldObj_RockOrange_A_M_06_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+  tag977b149c: !u 0x977b149c
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

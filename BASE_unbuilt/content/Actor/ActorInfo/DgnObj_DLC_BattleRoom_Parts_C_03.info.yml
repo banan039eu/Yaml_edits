@@ -1,0 +1,19 @@
+aabbMax:
+  X: 70.5999984741211
+  Y: 70.0
+  Z: 70.5999984741211
+aabbMin:
+  X: -70.5999984741211
+  Y: 0.0
+  Z: -70.5999984741211
+bfres: DgnObj_DLC_BattleRoom_Parts_C
+boundingForTraverse: 70.0
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 32600
+mainModel: DgnObj_DLC_BattleRoom_Parts_C_03
+name: DgnObj_DLC_BattleRoom_Parts_C_03
+profile: MapConstPassive
+sortKey: -1
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,30 @@
+aabbMax:
+  X: 2.0653700828552246
+  Y: 0.14590099453926086
+  Z: 2.0649499893188477
+aabbMin:
+  X: -1.5
+  Y: -0.0061610001139342785
+  Z: -1.7046300172805786
+attackPower: 0
+bfres: Obj_Plant_WaterGrass
+boundingForTraverse: 0.15206199884414673
+bugMask: 2
+elink: Obj_Plant_WaterLily_A_01
+generalLife: 100
+instSize: 32272
+mainModel: Obj_Plant_WaterLily_A_01
+name: Obj_Plant_WaterLily_A_01
+profile: MapDynamicPassive
+slink: Plant
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag04ed2c94: 82652308
+  tag3d4375d9: 1027831257
+  tag50fb41e2: 1358643682
+  tag50fce56f: 1358751087
+  tag51ed35a6: 1374500262
+  tage91ea5f6: !u 0xe91ea5f6
+yLimitAlgorithm: NoLimit

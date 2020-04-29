@@ -1,0 +1,25 @@
+aabbMax:
+  X: 3.1274499893188477
+  Y: 3.1274499893188477
+  Z: 2.0692100524902344
+aabbMin:
+  X: -3.1274499893188477
+  Y: -3.1274499893188477
+  Z: -17.71809959411621
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuEx_D
+boundingForTraverse: 6.254899978637695
+bugMask: 2
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 45408
+mainModel: DgnObj_DLC_IbutsuExD_Cylinder_A_01
+name: DgnObj_DLC_IbutsuExD_Cylinder_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: -3.000000106112566e-06
+slink: DgnObj_DLC_IbutsuExD_Cylinder_A_01
+sortKey: 61
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

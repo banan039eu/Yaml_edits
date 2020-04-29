@@ -1,0 +1,20 @@
+aabbMax:
+  X: 13.690999984741211
+  Y: 0.14141899347305298
+  Z: 14.785099983215332
+aabbMin:
+  X: -13.982199668884277
+  Y: -0.14939899742603302
+  Z: -15.57040023803711
+bfres: FldObj_HighwayHylia_A
+boundingForTraverse: 30.355499267578125
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+isHasFar: true
+mainModel: FldObj_HighwayHylia_A_01
+name: FldObj_HighwayHylia_A_01
+profile: MapConstPassive
+sortKey: -1
+traverseDist: 541.0762939453125
+yLimitAlgorithm: NoLimit

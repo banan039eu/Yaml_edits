@@ -1,0 +1,53 @@
+aabbMax:
+  X: 3.109380006790161
+  Y: 2.550839900970459
+  Z: 3.271480083465576
+aabbMin:
+  X: -3.2226600646972656
+  Y: -3.344909906387329
+  Z: -3.210939884185791
+attackPower: 0
+bfres: Enemy_Guardian_C
+boundingForTraverse: 5.895750045776367
+bugMask: 3
+cursorOffsetY: 2.5
+drops:
+  Normal:
+  - Item_Enemy_27
+  - Item_Enemy_28
+  - Item_Enemy_26
+  - Item_Enemy_29
+  - Item_Enemy_30
+  - Item_Enemy_31
+elink: Enemy_Guardian_C
+enemyRank: 15
+generalLife: 1500
+homeArea:
+- name: CentralHyrule
+- name: TamulPlateau
+- name: TamulSea
+instSize: 93744
+mainModel: Enemy_Guardian_C
+name: Enemy_Guardian_C
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Guardian
+rigidBodyCenterY: -1.0
+slink: Enemy_Guardian_C
+sortKey: 893
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_Guardian_C
+tags:
+  tag0e3e49b1: 238963121
+  tag17044493: 386155667
+  tag3a61e2a9: 979493545
+  tag4806038d: 1208353677
+  tag921c2372: !u 0x921c2372
+  tag994aef4b: !u 0x994aef4b
+  taga1c9da5d: !u 0xa1c9da5d
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagd3231bed: !u 0xd3231bed
+traverseDist: 300.0
+xlink: Guardian
+yLimitAlgorithm: NoLimit

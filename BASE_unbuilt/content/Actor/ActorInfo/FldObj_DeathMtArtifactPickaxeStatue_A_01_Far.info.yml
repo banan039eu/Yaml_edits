@@ -1,0 +1,20 @@
+aabbMax:
+  X: 5.545629978179932
+  Y: 16.910600662231445
+  Z: 5.075769901275635
+aabbMin:
+  X: -11.82509994506836
+  Y: -0.8529930114746094
+  Z: -4.430459976196289
+bfres: FldObj_DeathMtArtifact_A_Far
+boundingForTraverse: 17.763593673706055
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38940
+mainModel: FldObj_DeathMtArtifactPickaxeStatue_A_01_Far
+name: FldObj_DeathMtArtifactPickaxeStatue_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,8 @@
+bugMask: 1
+instSize: 6036
+name: WorldManagerControl
+profile: System
+sortKey: 2
+tags:
+  tagfd5643b5: !u 0xfd5643b5
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,20 @@
+aabbMax:
+  X: 3.987989902496338
+  Y: 0.7038360238075256
+  Z: 4.575210094451904
+aabbMin:
+  X: -3.9474399089813232
+  Y: -0.0955360010266304
+  Z: -4.487339973449707
+bfres: FldObj_HyliaWoodRuinburn_A
+boundingForTraverse: 9.062549591064453
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18292
+mainModel: FldObj_HyliaWoodRuinburn_A_03
+name: FldObj_HyliaWoodRuinburn_A_03
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tagafc08ec2: !u 0xafc08ec2
+yLimitAlgorithm: NoLimit

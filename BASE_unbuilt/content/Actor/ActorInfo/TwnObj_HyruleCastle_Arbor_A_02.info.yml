@@ -1,0 +1,21 @@
+aabbMax:
+  X: 8.740269660949707
+  Y: 5.270880222320557
+  Z: 9.747039794921875
+aabbMin:
+  X: -8.740269660949707
+  Y: -0.4557870030403137
+  Z: -7.5747199058532715
+bfres: TwnObj_HyruleCastle_A
+boundingForTraverse: 5.7266669273376465
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 139360
+mainModel: TwnObj_HyruleCastle_Arbor_A_02
+name: TwnObj_HyruleCastle_Arbor_A_02
+profile: MapConstPassive
+sortKey: -4
+tags:
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

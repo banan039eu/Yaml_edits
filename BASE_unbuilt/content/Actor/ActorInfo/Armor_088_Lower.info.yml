@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.19567899405956268
+  Y: 0.9428709745407104
+  Z: 0.21737200021743774
+aabbMin:
+  X: -0.19567899405956268
+  Y: 4.3000000005122274e-05
+  Z: -0.1132109984755516
+armorDefenceAddLevel: 8
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_089_Lower
+armorStarNum: 3
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_017
+boundingForTraverse: 0.9428279995918274
+bugMask: 1
+instSize: 36636
+itemBuyingPrice: 1845
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 460
+itemStainColor: -1
+itemUseIconActorName: Armor_017_Lower
+mainModel: Armor_017_Lower
+name: Armor_088_Lower
+normal0ItemName01: Armor_087_Lower
+normal0ItemName02: Item_Ore_G
+normal0ItemName03: Item_Enemy_08
+normal0ItemNum01: 1
+normal0ItemNum02: 8
+normal0ItemNum03: 3
+normal0StuffNum: 3
+profile: ArmorLower
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: Stalfos
+sortKey: 3223132
+tags:
+  tag1c0c8d23: 470584611
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

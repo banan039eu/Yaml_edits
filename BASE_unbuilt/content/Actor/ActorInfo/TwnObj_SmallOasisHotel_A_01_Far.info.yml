@@ -1,0 +1,24 @@
+aabbMax:
+  X: 16.525400161743164
+  Y: 35.305599212646484
+  Z: 22.90559959411621
+aabbMin:
+  X: -18.880300521850586
+  Y: -0.7700769901275635
+  Z: -18.608600616455078
+attackPower: 0
+bfres: TwnObj_SmallOasis_A_Far
+boundingForTraverse: 36.07567596435547
+bugMask: 0
+generalLife: 100
+instSize: 38748
+mainModel: TwnObj_SmallOasisHotel_A_01_Far
+name: TwnObj_SmallOasisHotel_A_01_Far
+profile: MapConstActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

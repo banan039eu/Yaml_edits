@@ -1,0 +1,10 @@
+attackPower: 0
+bugMask: 0
+generalLife: 100
+instSize: 4720
+name: DLC_IbutuEX_B_AirWall
+profile: MapConstActive
+sortKey: 153
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

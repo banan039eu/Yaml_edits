@@ -1,0 +1,54 @@
+aabbMax:
+  X: 0.3826330006122589
+  Y: 0.7474030256271362
+  Z: 0.2143850028514862
+aabbMin:
+  X: -0.2834010124206543
+  Y: -0.012928999960422516
+  Z: -0.4065159857273102
+bfres: Obj_MashroomHeart_A
+boundingForTraverse: 0.7603319883346558
+bugMask: 1
+cureItemEffectLevel: 0
+cureItemEffectType: None
+cureItemHitPointRecover: 2
+cursorOffsetY: 0.5
+elink: GetItem
+generalLife: 100
+homeArea:
+- name: CentralHyrule
+- name: WestHateru
+- name: LanayruWaterSources
+instSize: 37124
+itemBuyingPrice: 12
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 3
+itemStainColor: 2
+itemUseIconActorName: ''
+mainModel: Obj_MashroomHeart_A_01
+motorcycleEnergy:
+  add: 100.0
+name: Item_Mushroom_E
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+rigidBodyCenterY: 0.3877300024032593
+sortKey: 31210
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag14185415: 337138709
+  tag682e5129: 1747865897
+  tag7a3964c1: 2050581697
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

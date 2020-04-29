@@ -1,0 +1,28 @@
+aabbMax:
+  X: 20.933700561523438
+  Y: 100.12100219726562
+  Z: 43.59400177001953
+aabbMin:
+  X: -21.29949951171875
+  Y: 0.0005419999943114817
+  Z: -5.0926899909973145
+attackPower: 0
+bfres: FldObj_RuinStatueKnight_A
+boundingForTraverse: 100.1204605102539
+bugMask: 0
+generalLife: 100
+instSize: 113412
+isHasFar: true
+mainModel: FldObj_RuinStatueKnight_B_01
+name: FldObj_RuinStatueKnight_SnowMT_01
+profile: MapConstActive
+rigidBodyCenterY: 45.30509948730469
+sortKey: 2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag921c2372: !u 0x921c2372
+terrainTextures:
+- !u 0xffffff46
+traverseDist: 564.4518432617188
+yLimitAlgorithm: NoLimit

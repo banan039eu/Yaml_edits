@@ -1,0 +1,20 @@
+aabbMax:
+  X: 9.461009979248047
+  Y: 26.670900344848633
+  Z: 12.501299858093262
+aabbMin:
+  X: -10.890700340270996
+  Y: -1.0994900465011597
+  Z: -12.17140007019043
+bfres: TwnObj_Village_Fishing_A_Far
+boundingForTraverse: 27.770389556884766
+bugMask: 0
+instSize: 17780
+mainModel: TwnObj_Village_FishingMayerHouse_A_01_Far
+name: TwnObj_Village_FishingMayerHouse_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

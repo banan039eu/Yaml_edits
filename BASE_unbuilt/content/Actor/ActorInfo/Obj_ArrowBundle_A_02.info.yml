@@ -1,0 +1,44 @@
+aabbMax:
+  X: 0.16379399597644806
+  Y: 0.11616499722003937
+  Z: 0.43406999111175537
+aabbMin:
+  X: -0.17995400726795197
+  Y: -0.14690199494361877
+  Z: -0.6100379824638367
+arrowArrowDeletePer: 0
+arrowArrowNum: 10
+arrowDeleteTime: 0
+arrowDeleteTimeWithChemical: 0
+arrowEnemyShootNumForDelete: 0
+bfres: Item_ArrowNormal_A
+boundingForTraverse: 0.26306700706481934
+bugMask: 3
+cursorOffsetY: 0.20000000298023224
+generalLife: 100
+instSize: 29028
+itemBuyingPrice: 35
+itemCreatingPrice: -1
+itemSaleRevivalCount: 50
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: Obj_ArrowBundle_A_01
+mainModel: Item_ArrowNormal_A
+name: Obj_ArrowBundle_A_02
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+slink: Obj_Arrow
+sortKey: 11
+systemIsGetItemSelf: true
+systemSameGroupActorName: NormalArrow
+tags:
+  tag19f6c13a: 435601722
+  tag2755f107: 659943687
+  tag2cef9fdc: 753901532
+  tag80e484a4: !u 0x80e484a4
+  tag9b44906f: !u 0x9b44906f
+  tagdeb2c8bd: !u 0xdeb2c8bd
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

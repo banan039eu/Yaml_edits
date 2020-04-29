@@ -1,0 +1,25 @@
+aabbMax:
+  X: 1.024340033531189
+  Y: 1.0800700187683105
+  Z: 0.625
+aabbMin:
+  X: -1.0293699502944946
+  Y: -2.9902400970458984
+  Z: -0.625
+attackPower: 0
+bfres: Obj_YabusameTarget_A
+boundingForTraverse: 4.070310115814209
+bugMask: 2
+cursorOffsetY: 0.5
+elink: YabusameTarget
+generalLife: 1
+instSize: 29888
+mainModel: Obj_YabusameTarget_A_01
+name: YabusameTarget
+profile: MapDynamicActive
+slink: YabusameTarget
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

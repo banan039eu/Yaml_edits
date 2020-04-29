@@ -1,0 +1,10 @@
+bugMask: 0
+elink: BlackSmoke
+instSize: 3476
+name: BlackSmoke
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,20 @@
+aabbMax:
+  X: 5.8937602043151855
+  Y: 5.070559978485107
+  Z: 7.406330108642578
+aabbMin:
+  X: -5.8937602043151855
+  Y: -24.0575008392334
+  Z: -7.494929790496826
+bfres: TwnObj_Village_Rito_A_Far
+boundingForTraverse: 29.128061294555664
+bugMask: 0
+instSize: 144132
+mainModel: TwnObj_Village_RitoPharmacy_A_01_Far
+name: TwnObj_Village_RitoPharmacy_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 3000.0
+yLimitAlgorithm: NoLimit

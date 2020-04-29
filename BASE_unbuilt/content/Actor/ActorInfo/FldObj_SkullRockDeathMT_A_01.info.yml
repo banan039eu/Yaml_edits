@@ -1,0 +1,25 @@
+aabbMax:
+  X: 14.378199577331543
+  Y: 15.885100364685059
+  Z: 17.024099349975586
+aabbMin:
+  X: -15.031999588012695
+  Y: -1.534440040588379
+  Z: -15.386099815368652
+attackPower: 0
+bfres: FldObj_SkullRock_A
+boundingForTraverse: 17.419540405273438
+bugMask: 3
+elink: FldObj_SkullRockDeathMT_A_01
+generalLife: 1
+instSize: 64328
+mainModel: FldObj_SkullRock_A_01
+name: FldObj_SkullRockDeathMT_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 7.043179988861084
+slink: FldObj_SkullRockDeathMT_A_01
+sortKey: -7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 400.0
+yLimitAlgorithm: NoLimit

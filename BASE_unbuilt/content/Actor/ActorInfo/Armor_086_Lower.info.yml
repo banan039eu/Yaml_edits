@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.20861800014972687
+  Y: 0.9790040254592896
+  Z: 0.22384099662303925
+aabbMin:
+  X: -0.20861800014972687
+  Y: -0.0013549999566748738
+  Z: -0.10809300094842911
+armorDefenceAddLevel: 20
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: ClimbSpeed
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 5
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_014
+boundingForTraverse: 0.9803590178489685
+bugMask: 1
+instSize: 73340
+itemBuyingPrice: 4300
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 645
+itemStainColor: -1
+itemUseIconActorName: Armor_014_Lower
+mainModel: Armor_014_Lower
+name: Armor_086_Lower
+normal0ItemName01: Armor_085_Lower
+normal0ItemName02: Item_Enemy_44
+normal0ItemName03: Item_PlantGet_O
+normal0ItemNum01: 1
+normal0ItemNum02: 5
+normal0ItemNum03: 15
+normal0StuffNum: 3
+profile: ArmorLower
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: Climb
+sortKey: 2923110
+tags:
+  tag1c0c8d23: 470584611
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

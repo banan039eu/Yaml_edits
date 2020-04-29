@@ -1,0 +1,24 @@
+aabbMax:
+  X: 1.451799988746643
+  Y: 0.8976079821586609
+  Z: 1.4297399520874023
+aabbMin:
+  X: -1.451799988746643
+  Y: -0.6807569861412048
+  Z: -1.4297599792480469
+attackPower: 0
+bfres: DgnObj_EntranceElevator_A
+boundingForTraverse: 1.5783649682998657
+bugMask: 3
+elink: DgnObj_EntranceElevatorSP
+generalLife: 100
+instSize: 63652
+mainModel: DgnObj_EntranceElevator_A_02
+name: DgnObj_EntranceElevatorSP
+profile: MapDynamicActive
+rigidBodyCenterY: -0.0877700001001358
+slink: DgnObj_EntranceElevator
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

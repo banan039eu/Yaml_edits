@@ -1,0 +1,26 @@
+aabbMax:
+  X: 4.217820167541504
+  Y: 9.861669540405273
+  Z: 3.8157100677490234
+aabbMin:
+  X: -5.100979804992676
+  Y: -0.9821379780769348
+  Z: -5.183129787445068
+attackPower: 0
+bfres: Obj_TreeDorian_A
+boundingForTraverse: 10.843807220458984
+bugMask: 1
+generalLife: 100
+instSize: 85868
+lookAtOffsetY: 1.100000023841858
+mainModel: Obj_TreeDorian_A_01
+name: Obj_TreeDorian_A_01_Stump
+profile: MapDynamicPassive
+rigidBodyCenterY: -0.03401299938559532
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag170cf1e2: 386724322
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

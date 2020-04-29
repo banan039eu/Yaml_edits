@@ -1,0 +1,23 @@
+aabbMax:
+  X: 1.6214699745178223
+  Y: 0.4880079925060272
+  Z: 4.013969898223877
+aabbMin:
+  X: -1.6146199703216553
+  Y: -0.15446899831295013
+  Z: -0.17912499606609344
+attackPower: 0
+bfres: DgnObj_IvyBurn_A
+boundingForTraverse: 0.6424769759178162
+bugMask: 3
+elink: DgnObj_IvyBurn
+generalLife: 100
+instSize: 32152
+mainModel: DgnObj_IvyBurn_A_01
+name: DgnObj_IvyBurn_Floor
+profile: MapDynamicActive
+slink: DgnObj_IvyBurn
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

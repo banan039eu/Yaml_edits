@@ -1,0 +1,36 @@
+aabbMax:
+  X: 6.240109920501709
+  Y: 0.44999998807907104
+  Z: 3.0002601146698
+aabbMin:
+  X: -6.0
+  Y: -0.7169640064239502
+  Z: -3.0
+attackPower: 0
+bfres: DgnObj_DoorIron_A
+boundingForTraverse: 1.166964054107666
+bugMask: 2
+generalLife: 100
+instSize: 31996
+locators:
+- pos_x: 0.0
+  pos_y: 0.0
+  pos_z: -2.200000047683716
+  rot_x: 0.0
+  rot_y: 0.0
+  rot_z: 0.0
+  type: MagnePos
+mainModel: DgnObj_DoorIronR_A_01
+name: DgnObj_DoorIron_A_R
+profile: MapDynamicActive
+rigidBodyCenterY: 0.20000000298023224
+slink: DgnObj_DoorIron_A
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 500.0
+xlink: DgnObj_DoorIron
+yLimitAlgorithm: NoLimit

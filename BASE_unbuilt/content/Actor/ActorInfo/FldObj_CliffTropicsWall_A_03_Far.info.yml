@@ -1,0 +1,24 @@
+aabbMax:
+  X: 25.428499221801758
+  Y: 1.3413399457931519
+  Z: 22.93090057373047
+aabbMin:
+  X: -28.039199829101562
+  Y: -21.222000122070312
+  Z: -0.49242401123046875
+bfres: FldObj_CliffTropics_A_Far
+boundingForTraverse: 22.563339233398438
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18900
+mainModel: FldObj_CliffTropicsWall_A_03_Far
+name: FldObj_CliffTropicsWall_A_03_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff44
+traverseDist: 1300.0
+yLimitAlgorithm: NoLimit

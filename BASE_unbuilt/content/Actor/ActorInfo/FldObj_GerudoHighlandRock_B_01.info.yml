@@ -1,0 +1,22 @@
+aabbMax:
+  X: 36.47520065307617
+  Y: 34.618900299072266
+  Z: 31.622400283813477
+aabbMin:
+  X: -35.78260040283203
+  Y: -0.36323198676109314
+  Z: -32.81380081176758
+bfres: FldObj_GerudoHighlandRock_B
+boundingForTraverse: 34.98213195800781
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 51968
+isHasFar: true
+mainModel: FldObj_GerudoHighlandRock_B_01
+name: FldObj_GerudoHighlandRock_B_01
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffff461c
+traverseDist: 596.8153686523438
+yLimitAlgorithm: NoLimit

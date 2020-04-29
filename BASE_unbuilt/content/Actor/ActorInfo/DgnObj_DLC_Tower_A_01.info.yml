@@ -1,0 +1,21 @@
+aabbMax:
+  X: 6.19936990737915
+  Y: 33.4557991027832
+  Z: 6.137730121612549
+aabbMin:
+  X: -6.137730121612549
+  Y: -0.5
+  Z: -6.137730121612549
+bfres: DgnObj_DLC_Tower_A
+boundingForTraverse: 33.9557991027832
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 138336
+mainModel: DgnObj_DLC_Tower_A_01
+name: DgnObj_DLC_Tower_A_01
+profile: MapConstPassive
+sortKey: -6
+tags:
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

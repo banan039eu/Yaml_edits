@@ -1,0 +1,22 @@
+aabbMax:
+  X: 6.520750045776367
+  Y: 7.028550148010254
+  Z: 2.1926798820495605
+aabbMin:
+  X: -2.306610107421875
+  Y: -0.9922270178794861
+  Z: -6.785339832305908
+bfres: TwnObj_City_GoronFurniture_A
+boundingForTraverse: 8.020776748657227
+bugMask: 0
+cursorOffsetY: 0.5
+elink: TwnObj_City_GoronTable_A_01
+instSize: 82712
+mainModel: TwnObj_City_GoronTable_A_01
+name: TwnObj_City_GoronTable_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag0d23ee8c: 220458636
+  tag572de768: 1462626152
+yLimitAlgorithm: NoLimit

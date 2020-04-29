@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.5630090236663818
+  Y: 2.364500045776367
+  Z: 0.35638099908828735
+aabbMin:
+  X: -0.5428379774093628
+  Y: -0.00534099992364645
+  Z: -0.6420519948005676
+boundingForTraverse: 2.3698410987854004
+bugMask: 3
+cursorOffsetY: 0.4000000059604645
+elink: NPC
+instSize: 287788
+name: Npc_OasisHighMountain_001
+profile: NPC
+slink: Npc_Rito_W
+sortKey: -11
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

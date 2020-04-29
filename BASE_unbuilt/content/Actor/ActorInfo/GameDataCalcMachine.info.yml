@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 8940
+name: GameDataCalcMachine
+profile: System
+sortKey: -3
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,178 @@
+!io
+version: 0
+type: xml
+param_root: !list
+  objects: {}
+  lists:
+    ParamSet: !list
+      objects:
+        1258832850: !obj
+          use_rigid_body_set_num: 3
+          use_ragdoll: false
+          use_cloth: false
+          use_support_bone: false
+          use_character_controller: false
+          use_contact_info: true
+          use_edge_rigid_body_num: 0
+          use_system_group_handler: true
+      lists:
+        RigidContactInfo: !list
+          objects:
+            3387849585: !obj
+              contact_point_info_num: 2
+              collision_info_num: 0
+            ContactPointInfo_0: !obj
+              name: !str32 Body
+              type: !str32 Body
+              num: 128
+            ContactPointInfo_1: !obj
+              name: !str32 Tgt
+              type: !str32 ObjectSensor
+              num: 64
+          lists: {}
+        RigidBodySet: !list
+          objects: {}
+          lists:
+            RigidBodySet_0: !list
+              objects:
+                4288596824: !obj
+                  set_name: !str32 Body
+                  type: !str32 from_shape_type
+                  num: 1
+              lists:
+                RigidBody_0: !list
+                  objects:
+                    948250248: !obj
+                      rigid_body_name: !str64 Body
+                      mass: 75.0
+                      inertia: !vec3 [2.57025003, 3.6795001, 1.24290001]
+                      linear_damping: 1.0
+                      angular_damping: 1.0
+                      max_impulse: -1.0
+                      col_impulse_scale: 1.0
+                      ignore_normal_for_impulse: false
+                      volume: 0.0333889984
+                      toi: true
+                      center_of_mass: !vec3 [0.132747993, -0.088469997, -0.057994999]
+                      max_linear_velocity: 100.0
+                      bounding_center: !vec3 [0.132747993, -0.088469997, -0.057994999]
+                      bounding_extents: !vec3 [0.526889026, 0.190629005, 0.843766987]
+                      max_angular_velocity_rad: 198.967529
+                      motion_type: !str32 Dynamic
+                      contact_point_info: !str32 Body
+                      bone: !str64 ''
+                      water_buoyancy_scale: 1.40390551
+                      water_flow_effective_rate: 1.0
+                      layer: !str32 EntitySmallObject
+                      no_hit_ground: false
+                      no_hit_water: false
+                      groundhit: !str32 HitAll
+                      use_ground_hit_type_mask: false
+                      no_char_standing_on: false
+                      navmesh: !str32 NOT_USE
+                      navmesh_sub_material: !str32 ''
+                      link_matrix: ''
+                      magne_mass_scaling_factor: 0.00999999978
+                      always_character_mass_scaling: false
+                      shape_num: 1
+                    ShapeParam_0: !obj
+                      shape_type: !str32 polytope
+                      vertex_num: 14
+                      vertex_0: !vec3 [0.396818012, -0.0641210005, 0.221248001]
+                      vertex_1: !vec3 [0.396818012, -0.126270995, 0.221248001]
+                      vertex_2: !vec3 [0.366513997, -0.0641210005, -0.242744997]
+                      vertex_3: !vec3 [-0.131304994, -0.0541549996, 0.221248001]
+                      vertex_4: !vec3 [0.366513997, -0.126270995, -0.242744997]
+                      vertex_5: !vec3 [-0.101001002, -0.0541549996, -0.242744997]
+                      vertex_6: !vec3 [-0.131304994, -0.126270995, 0.221248001]
+                      vertex_7: !vec3 [-0.101001002, -0.126270995, -0.242744997]
+                      vertex_8: !vec3 [0.125, -0.184184998, 0.016756]
+                      vertex_9: !vec3 [0.125, -0.126270995, 0.36609]
+                      vertex_10: !vec3 [0.125, -0.071491003, 0.36609]
+                      vertex_11: !vec3 [0.125, -0.126270995, -0.486865014]
+                      vertex_12: !vec3 [0.125, -0.071491003, -0.486865014]
+                      vertex_13: !vec3 [0.040732, 0.00745599996, -0.0107490001]
+                      material: !str32 Metal
+                      sub_material: !str32 Metal
+                      wall_code: !str32 None
+                      floor_code: !str32 None
+                  lists: {}
+            RigidBodySet_1: !list
+              objects:
+                4288596824: !obj
+                  set_name: !str32 Chemical
+                  type: !str32 from_shape_type
+                  num: 1
+              lists:
+                RigidBody_0: !list
+                  objects:
+                    948250248: !obj
+                      rigid_body_name: !str64 MainChemBody
+                      max_impulse: -1.0
+                      col_impulse_scale: 1.0
+                      ignore_normal_for_impulse: false
+                      volume: 0.113096997
+                      toi: false
+                      center_of_mass: !vec3 [0.144999996, -0.100000001, 0.0]
+                      max_linear_velocity: 200.0
+                      bounding_center: !vec3 [0.144999996, -0.100000001, 0.0]
+                      bounding_extents: !vec3 [0.600000024, 0.600000024, 0.600000024]
+                      max_angular_velocity_rad: 198.967529
+                      motion_type: !str32 Keyframed
+                      bone: !str64 ''
+                      layer: !str32 SensorChemical
+                      link_matrix: ACTOR_MATRIX
+                      link_entity_set: ''
+                      link_entity_body: ''
+                      use_entity_shape: false
+                      shape_num: 1
+                    ShapeParam_0: !obj
+                      shape_type: !str32 sphere
+                      translate_0: !vec3 [0.144999996, -0.100000001, 0.0]
+                      radius: 0.300000012
+                      material: !str32 Metal
+                      sub_material: !str32 Metal
+                      wall_code: !str32 None
+                      floor_code: !str32 None
+                  lists: {}
+            RigidBodySet_2: !list
+              objects:
+                4288596824: !obj
+                  set_name: !str32 Tgt
+                  type: !str32 from_shape_type
+                  num: 1
+              lists:
+                RigidBody_0: !list
+                  objects:
+                    948250248: !obj
+                      rigid_body_name: !str64 Body
+                      max_impulse: -1.0
+                      col_impulse_scale: 1.0
+                      ignore_normal_for_impulse: false
+                      volume: 0.128000006
+                      toi: true
+                      center_of_mass: !vec3 [0.150000006, -0.100000001, 0.00700000022]
+                      max_linear_velocity: 100.0
+                      bounding_center: !vec3 [0.150000006, -0.100000001, 0.00700000022]
+                      bounding_extents: !vec3 [0.800000012, 0.200000003, 0.800000012]
+                      max_angular_velocity_rad: 198.967529
+                      motion_type: !str32 Keyframed
+                      contact_point_info: !str32 Tgt
+                      bone: !str64 ''
+                      layer: !str32 SensorObject
+                      link_matrix: ACTOR_MATRIX
+                      link_entity_set: ''
+                      link_entity_body: ''
+                      use_entity_shape: false
+                      shape_num: 1
+                    ShapeParam_0: !obj
+                      shape_type: !str32 box
+                      convex_radius: 0.0500000007
+                      rotate: !vec3 [0.0, 0.0, 0.0]
+                      translate_0: !vec3 [0.150000006, -0.100000001, 0.00700000022]
+                      translate_1: !vec3 [0.800000012, 0.200000003, 0.800000012]
+                      material: !str32 Metal
+                      sub_material: !str32 Metal
+                      wall_code: !str32 None
+                      floor_code: !str32 None
+                  lists: {}

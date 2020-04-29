@@ -1,0 +1,25 @@
+aabbMax:
+  X: 2.4000000953674316
+  Y: 1.2467299699783325
+  Z: 2.4000000953674316
+aabbMin:
+  X: -2.4000000953674316
+  Y: 0.0
+  Z: -2.4000000953674316
+attackPower: 0
+bfres: DgnObj_SwitchStake_C
+boundingForTraverse: 1.2467299699783325
+bugMask: 1
+cursorOffsetY: 0.5
+elink: DgnObj_SwitchStake_C_02
+generalLife: 100
+instSize: 28352
+mainModel: DgnObj_SwitchStake_C_02
+name: DgnObj_SwitchStake_C_02
+profile: MapConstActive
+rigidBodyCenterY: 0.5068470239639282
+sortKey: -52
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

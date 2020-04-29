@@ -1,0 +1,28 @@
+aabbMax:
+  X: 3.603909969329834
+  Y: 7.591410160064697
+  Z: 0.5
+aabbMin:
+  X: -3.603909969329834
+  Y: 0.10019499808549881
+  Z: -0.7857419848442078
+attackPower: 0
+bfres: FldObj_FirstShrineShutter_B
+boundingForTraverse: 7.491215229034424
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Obj_StartPointShutter_B
+generalLife: 100
+instSize: 48260
+mainModel: FldObj_FirstShrineShutter_B_01
+name: Obj_StartPointShutter_B
+profile: MapDynamicActive
+rigidBodyCenterY: 4.2463698387146
+slink: Obj_StartPointShutter_B
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag7dd56981: 2111138177
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

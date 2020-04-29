@@ -1,0 +1,23 @@
+aabbMax:
+  X: 0.634680986404419
+  Y: 2.376960039138794
+  Z: 1.0303399562835693
+aabbMin:
+  X: -0.6365979909896851
+  Y: -0.0009159999899566174
+  Z: -1.6783499717712402
+bfres: Npc_Zora_Priest
+boundingForTraverse: 2.377876043319702
+bugMask: 3
+cursorOffsetY: 0.4000000059604645
+elink: Npc_Zora
+instSize: 325932
+mainModel: Npc_Zora_Priest
+name: Npc_Zora004
+profile: NPC
+slink: Npc_Zora_X
+sortKey: -31
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

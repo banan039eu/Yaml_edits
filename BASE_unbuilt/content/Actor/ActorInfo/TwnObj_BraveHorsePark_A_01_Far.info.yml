@@ -1,0 +1,22 @@
+aabbMax:
+  X: 40.7578010559082
+  Y: 2.583559989929199
+  Z: 42.181400299072266
+aabbMin:
+  X: -20.710399627685547
+  Y: -17.700700759887695
+  Z: -42.2046012878418
+bfres: TwnObj_BraveHorsePark_A_Far
+boundingForTraverse: 20.284259796142578
+bugMask: 0
+cursorOffsetY: 0.5
+elink: TwnObj_BraveHorsePark_A_01
+instSize: 19072
+mainModel: TwnObj_BraveHorsePark_A_01_Far
+name: TwnObj_BraveHorsePark_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

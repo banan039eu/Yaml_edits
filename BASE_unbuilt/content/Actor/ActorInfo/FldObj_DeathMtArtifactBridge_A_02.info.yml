@@ -1,0 +1,19 @@
+aabbMax:
+  X: 15.159600257873535
+  Y: 12.036399841308594
+  Z: 12.312999725341797
+aabbMin:
+  X: -14.463399887084961
+  Y: -4.538269996643066
+  Z: 0.2996619939804077
+bfres: FldObj_DeathMtBigBridge
+boundingForTraverse: 16.574668884277344
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 40732
+mainModel: FldObj_DeathMtArtifactBridge_A_02
+name: FldObj_DeathMtArtifactBridge_A_02
+profile: MapConstPassive
+sortKey: -5
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

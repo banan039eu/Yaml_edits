@@ -1,0 +1,22 @@
+aabbMax:
+  X: 10.424599647521973
+  Y: 1.5262999534606934
+  Z: 10.863900184631348
+aabbMin:
+  X: -10.11870002746582
+  Y: -4.384429931640625
+  Z: -10.489800453186035
+bfres: Obj_RockLayerMoss_A_Far
+boundingForTraverse: 5.910729885101318
+bugMask: 0
+instSize: 28760
+mainModel: Obj_RockLayerMossHole_A_01_Far
+name: Obj_RockLayerMossHole_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+terrainTextures:
+- !u 0xff4c1f00
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

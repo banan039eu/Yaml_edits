@@ -1,0 +1,24 @@
+aabbMax:
+  X: 0.7939500212669373
+  Y: 7.031620025634766
+  Z: 0.7939500212669373
+aabbMin:
+  X: -0.7939500212669373
+  Y: -0.001921999966725707
+  Z: -0.7939500212669373
+attackPower: 0
+bfres: DgnObj_DLC_BattleRoom_Parts_D
+boundingForTraverse: 7.033542156219482
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 60884
+mainModel: DgnObj_DLC_CandlePoleA_01
+name: DgnObj_DLC_CandlePoleA_01
+profile: MapConstActive
+rigidBodyCenterY: 2.8364100456237793
+sortKey: 5
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

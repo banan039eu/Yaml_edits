@@ -1,0 +1,72 @@
+Chemical:
+  Capaciter: 1
+aabbMax:
+  X: 0.4868699908256531
+  Y: 0.03532100096344948
+  Z: 0.3131310045719147
+aabbMin:
+  X: -0.20003800094127655
+  Y: -0.22891999781131744
+  Z: -0.3111700117588043
+attackPower: 0
+bfres: Weapon_Shield_007
+boundingForTraverse: 0.2642410099506378
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Shield
+generalLife: 8
+homeArea:
+- name: HyliaLake
+- name: EastHateru
+- name: LanayruWetlands
+instSize: 41840
+itemBuyingPrice: 30
+itemCreatingPrice: 10
+itemSaleRevivalCount: -1
+itemSellingPrice: 10
+itemStainColor: -1
+itemUseIconActorName: ''
+name: Weapon_Shield_007
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponShield
+rigidBodyCenterY: -0.10349699854850769
+slink: Weapon_Shield_Metal
+sortKey: 15530
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 15
+weaponCommonPoweredSharpAddAtkMax: 0
+weaponCommonPoweredSharpAddAtkMin: 0
+weaponCommonPoweredSharpAddLifeMax: 3
+weaponCommonPoweredSharpAddLifeMin: 3
+weaponCommonPoweredSharpAddRapidFireMax: 1.0
+weaponCommonPoweredSharpAddRapidFireMin: 1.0
+weaponCommonPoweredSharpAddSpreadFire: false
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 6
+weaponCommonPoweredSharpWeaponAddGuardMin: 5
+weaponCommonRank: 6
+weaponCommonSharpWeaponAddAtkMax: 0
+weaponCommonSharpWeaponAddAtkMin: 0
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 4
+weaponCommonSharpWeaponAddGuardMin: 2
+weaponCommonSharpWeaponAddLifeMax: 2
+weaponCommonSharpWeaponAddLifeMin: 1
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+xlink: Weapon
+yLimitAlgorithm: NoLimit

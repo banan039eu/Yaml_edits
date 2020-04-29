@@ -1,0 +1,37 @@
+aabbMax:
+  X: 4.989960193634033
+  Y: 1.0303000211715698
+  Z: 4.989960193634033
+aabbMin:
+  X: -4.989960193634033
+  Y: -0.5
+  Z: -4.989960193634033
+attackPower: 0
+bfres: DgnObj_RemainsLithogragh_A
+boundingForTraverse: 1.5303000211715698
+bugMask: 3
+cursorOffsetY: 0.5
+elink: DgnObj_RemainsLithogragh_A_02
+farModelCulling:
+  center:
+    X: 0.0
+    Y: 1.5303000211715698
+    Z: 0.0
+  height: 3.0606000423431396
+  radius: 1.5303000211715698
+generalLife: 100
+instSize: 62144
+mainModel: DgnObj_RemainsLithogragh_A_02
+name: DgnObj_RemainsLithogragh_A_02
+profile: MapConstActive
+rigidBodyCenterY: 0.43610599637031555
+slink: DgnObj_RemainsLithograph
+sortKey: -14
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tag28a3a540: 681813312
+  tag6308f367: 1661530983
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

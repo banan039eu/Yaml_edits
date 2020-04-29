@@ -1,0 +1,21 @@
+aabbMax:
+  X: 8.795680046081543
+  Y: 4.408510208129883
+  Z: 5.948699951171875
+aabbMin:
+  X: -8.186220169067383
+  Y: -1.7361700534820557
+  Z: -6.087669849395752
+bfres: FldObj_HyrulePrairieRock_A
+boundingForTraverse: 6.144680023193359
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 27608
+mainModel: FldObj_HyrulePrairieRock_A_02
+name: FldObj_HyrulePrairieRock_A_02
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffffff03
+traverseDist: 400.0
+yLimitAlgorithm: NoLimit

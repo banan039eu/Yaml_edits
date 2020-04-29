@@ -1,0 +1,22 @@
+aabbMax:
+  X: 4.751959800720215
+  Y: 13.043700218200684
+  Z: 6.343019962310791
+aabbMin:
+  X: -4.752099990844727
+  Y: 1.8963799476623535
+  Z: -5.266759872436523
+bfres: Npc_Fairy_Horse
+boundingForTraverse: 11.147319793701172
+bugMask: 3
+elink: HorseGod001
+instSize: 324860
+mainModel: Npc_Fairy_Horse
+name: HorseGod001
+profile: NPC
+slink: HorseGod001
+sortKey: -5
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

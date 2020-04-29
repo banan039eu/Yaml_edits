@@ -1,0 +1,10 @@
+bugMask: 0
+elink: SmallFishes1
+instSize: 3476
+name: SmallFishes1
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+traverseDist: 30.0
+yLimitAlgorithm: NoLimit

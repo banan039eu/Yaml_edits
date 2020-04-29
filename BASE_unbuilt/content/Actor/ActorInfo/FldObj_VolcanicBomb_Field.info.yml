@@ -1,0 +1,27 @@
+aabbMax:
+  X: 1.5
+  Y: 1.5
+  Z: 1.5
+aabbMin:
+  X: -1.5
+  Y: -1.5
+  Z: -1.5
+attackPower: 20
+bfres: FldObj_CliffDeathMt_B
+boundingForTraverse: 3.0
+bugMask: 3
+cursorOffsetY: 0.5
+elink: FldObj_VolcanicBomb_A_01
+generalLife: 100
+instSize: 35804
+mainModel: FldObj_VolcanicBomb_A_01
+name: FldObj_VolcanicBomb_Field
+profile: MapDynamicActive
+slink: FldObj_VolcanicBomb
+sortKey: 13
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+terrainTextures:
+- !u 0xffffff32
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,22 @@
+aabbMax:
+  X: 2.805389881134033
+  Y: 47.58089828491211
+  Z: 3.197700023651123
+aabbMin:
+  X: -3.798099994659424
+  Y: -17.34869956970215
+  Z: -3.1891698837280273
+bfres: FldObj_AncientStoneTower_A_Far
+boundingForTraverse: 64.92959594726562
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 29912
+mainModel: FldObj_AncientStoneTower_A_02_Far
+name: FldObj_AncientStoneTower_A_02_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag02cf8aa1: 47155873
+  tag57fd54ce: 1476220110
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

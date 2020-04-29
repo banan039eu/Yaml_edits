@@ -1,0 +1,26 @@
+aabbMax:
+  X: 5.957220077514648
+  Y: 5.957220077514648
+  Z: 1.25
+aabbMin:
+  X: -5.957220077514648
+  Y: -5.957220077514648
+  Z: -1.25
+attackPower: 0
+bfres: DgnObj_SpurGear_B
+boundingForTraverse: 11.914440155029297
+bugMask: 3
+generalLife: 100
+instSize: 47244
+mainModel: DgnObj_SpurGear_B_01
+name: SwitchGear_NoSpindle
+profile: MapDynamicActive
+slink: SwitchGear
+sortKey: -5
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2c608f30: 744525616
+  tagbeabf785: !u 0xbeabf785
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

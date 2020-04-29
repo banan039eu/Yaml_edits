@@ -1,0 +1,23 @@
+aabbMax:
+  X: 0.015654999762773514
+  Y: 0.01742199994623661
+  Z: 0.1796869933605194
+aabbMin:
+  X: -0.01931300014257431
+  Y: -0.01742199994623661
+  Z: -0.127687007188797
+bfres: Npc_Hylia_Pen
+boundingForTraverse: 0.03484499827027321
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 33632
+mainModel: Npc_Hylia_Pen
+name: Dm_Npc_Hylia_Pen
+profile: DemoEquipment
+sortKey: -3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  taga86b29f1: !u 0xa86b29f1
+yLimitAlgorithm: NoLimit

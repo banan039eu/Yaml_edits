@@ -1,0 +1,30 @@
+aabbMax:
+  X: 1.6426199674606323
+  Y: 1.705680012702942
+  Z: 3.4697799682617188
+aabbMin:
+  X: -1.4209100008010864
+  Y: -1.2999999523162842
+  Z: -3.416019916534424
+attackPower: 4
+bfres: FldObj_DamagePlant_A
+boundingForTraverse: 3.0056800842285156
+bugMask: 3
+elink: FldObj_DamagePlant_A_01
+generalLife: 40
+instSize: 42940
+lookAtOffsetY: 0.699999988079071
+mainModel: FldObj_DamagePlant_A_01
+name: FldObj_DamagePlant_Challenge
+profile: MapDynamicActive
+slink: DgnObj_IvyBurn
+sortKey: -46
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag63efc18d: 1676657037
+  tag75ede21b: 1978524187
+  tagdfaad2df: !u 0xdfaad2df
+traverseDist: 200.0
+xlink: OnlyThruDamageToObj
+yLimitAlgorithm: NoLimit

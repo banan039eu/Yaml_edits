@@ -1,0 +1,13 @@
+attackPower: 52
+bugMask: 3
+elink: GuardianBeam
+instSize: 18996
+name: SimpleBeam
+profile: Beam
+slink: GuardianBeam
+sortKey: -1
+tags:
+  tag3a61e2a9: 979493545
+  tagfd964809: !u 0xfd964809
+xlink: OnlyThruDamageToObj
+yLimitAlgorithm: NoLimit

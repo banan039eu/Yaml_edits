@@ -1,0 +1,15 @@
+attackPower: 0
+baseScaleX: 5.0
+baseScaleY: 0.0
+baseScaleZ: 5.0
+bugMask: 0
+elink: DungeonPit
+generalLife: 100
+instSize: 4060
+name: DungeonPit
+profile: MapDynamicActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

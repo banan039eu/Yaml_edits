@@ -1,0 +1,18 @@
+aabbMax:
+  X: 0.41769200563430786
+  Y: 0.8614569902420044
+  Z: 0.4306429922580719
+aabbMin:
+  X: -0.4282490015029907
+  Y: -0.0022990000434219837
+  Z: -0.4152989983558655
+bfres: TwnObj_Village_Korok_A
+boundingForTraverse: 0.863756000995636
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 40156
+mainModel: TwnObj_Village_KorokDekuTree_A_Inside_02
+name: TwnObj_Village_KorokDekuTree_A_Inside_02
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

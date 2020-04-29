@@ -1,0 +1,18 @@
+aabbMax:
+  X: 4.892819881439209
+  Y: 0.7977830171585083
+  Z: 5.618800163269043
+aabbMin:
+  X: -4.6186699867248535
+  Y: -0.29093098640441895
+  Z: -6.122779846191406
+bfres: FldObj_RanchRuin_A
+boundingForTraverse: 1.0887140035629272
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 29144
+mainModel: FldObj_RanchRuin_Debris_A_01
+name: FldObj_RanchRuin_Debris_A_01
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,29 @@
+aabbMax:
+  X: 2.299999952316284
+  Y: 2.299999952316284
+  Z: 4.319499969482422
+aabbMin:
+  X: -2.299999952316284
+  Y: -2.299999952316284
+  Z: -1.7756400108337402
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuObj_A
+boundingForTraverse: 4.599999904632568
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 71084
+mainModel: DgnObj_DLC_SliderBlockConcaveDisk_A_03
+name: DgnObj_DLC_SliderBlockConcaveDisk_A_03
+profile: MapDynamicActive
+rigidBodyCenterY: 9.300000237999484e-05
+slink: DgnObj_DLC_SliderBlockConcaveDisk_A_03
+sortKey: 164
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2c608f30: 744525616
+  tag84f40ec6: !u 0x84f40ec6
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

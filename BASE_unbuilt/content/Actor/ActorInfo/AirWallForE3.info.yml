@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 7152
+name: AirWallForE3
+profile: AirWall
+sortKey: 0
+yLimitAlgorithm: NoLimit

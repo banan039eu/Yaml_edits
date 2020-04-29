@@ -1,0 +1,26 @@
+aabbMax:
+  X: 0.7658100128173828
+  Y: 0.8685529828071594
+  Z: 0.8980100154876709
+aabbMin:
+  X: -0.7775830030441284
+  Y: -3.842780113220215
+  Z: -0.9724370241165161
+attackPower: 0
+bfres: TwnObj_Village_Rito_A
+boundingForTraverse: 4.71133279800415
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 91268
+mainModel: TwnObj_Village_RitoWindmillWheel_A_01
+name: TwnObj_Village_RitoWindmillWheel_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: -2.306649923324585
+slink: TwnObj_Village_RitoWindmillWheel
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagc5b7c123: !u 0xc5b7c123
+yLimitAlgorithm: NoLimit

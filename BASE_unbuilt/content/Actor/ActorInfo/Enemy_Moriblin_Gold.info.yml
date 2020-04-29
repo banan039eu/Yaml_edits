@@ -1,0 +1,62 @@
+aabbMax:
+  X: 2.0590898990631104
+  Y: 4.417099952697754
+  Z: 3.820930004119873
+aabbMin:
+  X: -2.1243300437927246
+  Y: -0.020431999117136
+  Z: -1.0864399671554565
+attackPower: 48
+bfres: Enemy_Moriblin_Gold
+boundingForTraverse: 4.4375319480896
+bugMask: 3
+cursorOffsetY: 0.75
+drops:
+  Normal:
+  - Item_Ore_D
+  - Item_Ore_B
+  - Item_Ore_C
+  - Item_Ore_A
+  Normal2:
+  - Item_Ore_F
+  - Item_Ore_E
+  - Item_Ore_D
+  - Item_Ore_B
+  - Item_Ore_C
+  - Item_Ore_A
+  Normal3:
+  - Item_Enemy_08
+  Normal4:
+  - Item_Enemy_07
+  Normal5:
+  - Item_Enemy_06
+elink: Moriblin
+enemyRank: 44
+generalLife: 1620
+instSize: 417812
+mainModel: Moriblin_Gold
+name: Enemy_Moriblin_Gold
+pictureBookLiveSpot1: 21
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+slink: Moriblin
+sortKey: 608
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_Moriblin_Gold
+tags:
+  tag255b5760: 626743136
+  tag33b0a8cc: 867215564
+  tag36565b66: 911629158
+  tag4806038d: 1208353677
+  tag485bf81d: 1213986845
+  tag559ef706: 1436481286
+  tag82ed5778: !u 0x82ed5778
+  tag8fda6cdd: !u 0x8fda6cdd
+  tag994aef4b: !u 0x994aef4b
+  taga7e979db: !u 0xa7e979db
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagf2e5b2f2: !u 0xf2e5b2f2
+traverseDist: 150.0
+xlink: Biped_Enemy
+yLimitAlgorithm: LimitYDiff

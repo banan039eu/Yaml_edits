@@ -1,0 +1,38 @@
+aabbMax:
+  X: 1.0835399627685547
+  Y: 1.1064000129699707
+  Z: 1.3511899709701538
+aabbMin:
+  X: -0.9075220227241516
+  Y: -0.8174769878387451
+  Z: -1.1187000274658203
+attackPower: 0
+bfres: Obj_Plant_FlowerSucculent_A
+boundingForTraverse: 1.9238770008087158
+bugMask: 2
+cursorOffsetY: 0.5
+elink: Obj_Plant_FlowerSucculent_A_01
+generalLife: 100
+instSize: 23252
+mainModel: Obj_Plant_FlowerSucculent_A_01
+name: Obj_Plant_FlowerSucculent_A_01
+profile: MapDynamicPassive
+slink: Plant
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag1f4b9ede: 525049566
+  tag3909a11f: 956932383
+  tag50fb41e2: 1358643682
+  tag51ed35a6: 1374500262
+  tag55ef2d02: 1441737986
+  tag7de11d78: 2111905144
+  tag85aee6eb: !u 0x85aee6eb
+  tag98bfe8b4: !u 0x98bfe8b4
+  tagcc6dc85b: !u 0xcc6dc85b
+  tage30edf85: !u 0xe30edf85
+  tage91ea5f6: !u 0xe91ea5f6
+  tage9411376: !u 0xe9411376
+  tagf47b2e0d: !u 0xf47b2e0d
+yLimitAlgorithm: NoLimit

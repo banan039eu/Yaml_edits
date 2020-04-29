@@ -1,0 +1,21 @@
+attackPower: 0
+bugMask: 2
+elink: Obj_Plant_Fern_A
+generalLife: 100
+instSize: 8148
+name: Obj_Set_PlantTropicalForestB_01
+profile: MapDynamicPassive
+slink: Plant
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag206f0b59: 544148313
+  tag3d4375d9: 1027831257
+  tag50fb41e2: 1358643682
+  tag51ed35a6: 1374500262
+  tag55ef2d02: 1441737986
+  tagd7bc570e: !u 0xd7bc570e
+  tage91ea5f6: !u 0xe91ea5f6
+  tage97dcd22: !u 0xe97dcd22
+yLimitAlgorithm: NoLimit

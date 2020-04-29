@@ -1,0 +1,29 @@
+aabbMax:
+  X: 2.248460054397583
+  Y: 2.249160051345825
+  Z: 1.6821500062942505
+aabbMin:
+  X: -2.248460054397583
+  Y: -2.2491700649261475
+  Z: -1.6821500062942505
+attackPower: 16
+bfres: Enemy_Assassin_Boss_Ball
+boundingForTraverse: 4.498330116271973
+bugMask: 3
+elink: AssassinIronBall
+instSize: 142560
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Assassin_Boss_Ball_Spike
+name: AssassinIronBall
+profile: Bullet
+slink: AssassinIronBall
+sortKey: 0
+tags:
+  tagc28d054e: !u 0xc28d054e
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

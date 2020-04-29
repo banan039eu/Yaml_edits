@@ -1,0 +1,20 @@
+attackPower: 0
+bugMask: 1
+drops:
+  Normal:
+  - Item_Ore_D
+  - Item_Ore_E
+  - Item_Ore_F
+  - Item_Ore_I
+generalLife: 100
+instSize: 8992
+name: TreasureSpot_00
+profile: MapDynamicPassive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0f21f135: 253882677
+  tag6f7c86f7: 1870431991
+  tagdeb2c8bd: !u 0xdeb2c8bd
+yLimitAlgorithm: NoLimit

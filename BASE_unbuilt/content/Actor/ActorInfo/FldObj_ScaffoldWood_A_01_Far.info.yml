@@ -1,0 +1,22 @@
+aabbMax:
+  X: 17.54439926147461
+  Y: 52.0166015625
+  Z: 15.486100196838379
+aabbMin:
+  X: -18.313600540161133
+  Y: -0.5600699782371521
+  Z: -15.926600456237793
+bfres: FldObj_ScaffoldWood_A_Far
+boundingForTraverse: 52.5766716003418
+bugMask: 0
+instSize: 17140
+lookAtOffsetY: 1.100000023841858
+mainModel: FldObj_ScaffoldWood_A_01_Far
+name: FldObj_ScaffoldWood_A_01_Far
+profile: MapConstPassive
+sortKey: -28
+tags:
+  tag57fd54ce: 1476220110
+  tagdeb8e664: !u 0xdeb8e664
+traverseDist: 1500.0
+yLimitAlgorithm: NoLimit

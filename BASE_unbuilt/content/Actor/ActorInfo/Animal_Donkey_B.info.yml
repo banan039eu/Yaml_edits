@@ -1,0 +1,32 @@
+aabbMax:
+  X: 0.3376869857311249
+  Y: 2.1832499504089355
+  Z: 1.4778900146484375
+aabbMin:
+  X: -0.32310301065444946
+  Y: -0.015444999560713768
+  Z: -0.9905030131340027
+attackPower: 0
+bfres: Animal_Donkey
+boundingForTraverse: 2.198694944381714
+bugMask: 3
+elink: Animal_Donkey_B
+enemyRank: 0
+generalLife: 100
+instSize: 230772
+mainModel: Donkey
+name: Animal_Donkey_B
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+rigidBodyCenterY: 1.0964299440383911
+slink: HorseDonkey_B
+sortKey: 28120
+systemIsGetItemSelf: false
+systemSameGroupActorName: GameRomHorse00S
+tags:
+  tag24cd75fe: 617444862
+  tag5e3171bc: 1580298684
+  tagfa5c683e: !u 0xfa5c683e
+yLimitAlgorithm: NoLimit

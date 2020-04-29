@@ -1,0 +1,25 @@
+aabbMax:
+  X: 1.5
+  Y: 4.03125
+  Z: 1.5
+aabbMin:
+  X: -1.5
+  Y: 0.0
+  Z: -1.5
+attackPower: 0
+bfres: Obj_IcemakerBlock_A
+boundingForTraverse: 4.03125
+bugMask: 3
+elink: Obj_IceMakerBlock
+generalLife: 100
+instSize: 53996
+name: Obj_IceMakerBlock
+profile: MapDynamicActive
+slink: Obj_IceMakerBlock
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0f42c303: 256033539
+  tag0fee9a49: 267295305
+yLimitAlgorithm: NoLimit

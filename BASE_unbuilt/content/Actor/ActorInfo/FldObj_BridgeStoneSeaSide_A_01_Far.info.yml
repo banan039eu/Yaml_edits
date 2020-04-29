@@ -1,0 +1,23 @@
+aabbMax:
+  X: 53.92290115356445
+  Y: 1.1649800539016724
+  Z: 33.618900299072266
+aabbMin:
+  X: -51.955299377441406
+  Y: -36.53329849243164
+  Z: -23.68829917907715
+bfres: FldObj_BridgeStoneSeaSide_A_Far
+boundingForTraverse: 37.698280334472656
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 37788
+mainModel: FldObj_BridgeStoneSeaSide_A_01_Far
+name: FldObj_BridgeStoneSeaSide_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+terrainTextures:
+- 286264064
+- !u 0xff4c1f1d
+yLimitAlgorithm: NoLimit

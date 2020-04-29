@@ -1,0 +1,31 @@
+aabbMax:
+  X: 0.7850710153579712
+  Y: 0.5658079981803894
+  Z: 1.0254900455474854
+aabbMin:
+  X: -0.7088199853897095
+  Y: -0.0014720000326633453
+  Z: -0.8713939785957336
+attackPower: 0
+bfres: Obj_FireWood
+boundingForTraverse: 0.5672799944877625
+bugMask: 3
+cursorOffsetY: 0.800000011920929
+elink: FireWood
+generalLife: 10
+instSize: 40284
+mainModel: FireWood
+name: FireWoodDie
+profile: MapDynamicActive
+rigidBodyCenterY: 0.05000000074505806
+slink: FireWood
+sortKey: -12
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag1f5e3abd: 526269117
+  tag2190b81e: 563132446
+  tag51c0c6bb: 1371588283
+  tag6308f367: 1661530983
+traverseDist: 150.0
+yLimitAlgorithm: LimitYDiff

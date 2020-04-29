@@ -1,0 +1,43 @@
+aabbMax:
+  X: 0.3820649981498718
+  Y: 2.070310115814209
+  Z: 0.48630601167678833
+aabbMin:
+  X: -0.36741700768470764
+  Y: 1.2675800323486328
+  Z: -0.17309600114822388
+armorDefenceAddLevel: 3
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 1
+armorNextRankName: ''
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_045
+boundingForTraverse: 0.8027300238609314
+bugMask: 3
+instSize: 44592
+itemBuyingPrice: 80
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 19
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_045_Head
+monsterShopBuyMamo: 199
+monsterShopSellMamo: 0
+name: Armor_045_Head
+profile: ArmorHead
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: Moriblin
+slink: Armor_Head_SpecialMoriblin
+sortKey: 3821520
+tags:
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

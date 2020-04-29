@@ -1,0 +1,23 @@
+aabbMax:
+  X: 4.015810012817383
+  Y: 2.7776401042938232
+  Z: 4.379700183868408
+aabbMin:
+  X: -1.0785200595855713
+  Y: -0.386352002620697
+  Z: -0.5917549729347229
+bfres: TwnObj_BrownStoneRuin_A_Far
+boundingForTraverse: 3.163991928100586
+bugMask: 0
+instSize: 16884
+mainModel: TwnObj_BrownStoneRuinWall_A_04_Far
+name: TwnObj_BrownStoneRuinWall_A_04_Far
+profile: MapConstPassive
+sortKey: -7
+tags:
+  tag0d23ee8c: 220458636
+  tag57fd54ce: 1476220110
+  tag6bddf03c: 1809707068
+  tagdeb8e664: !u 0xdeb8e664
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,18 @@
+aabbMax:
+  X: 13.618300437927246
+  Y: 11.905500411987305
+  Z: 3.878269910812378
+aabbMin:
+  X: -14.119999885559082
+  Y: -1.9720300436019897
+  Z: -3.658400058746338
+bfres: TwnObj_Village_Hateno_A
+boundingForTraverse: 13.877530097961426
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 70088
+mainModel: TwnObj_Village_HatenoGate_A_01
+name: TwnObj_Village_HatenoGate_A_01
+profile: MapConstPassive
+sortKey: -13
+yLimitAlgorithm: NoLimit

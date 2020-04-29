@@ -1,0 +1,21 @@
+aabbMax:
+  X: 4.486849784851074
+  Y: 6.630970001220703
+  Z: 8.798290252685547
+aabbMin:
+  X: -6.4394001960754395
+  Y: -0.6016370058059692
+  Z: -5.393789768218994
+bfres: FldObj_HyliaWoodRuin_A
+boundingForTraverse: 7.232606887817383
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 62436
+mainModel: FldObj_HyliaWoodRuinTunnel_A_01
+name: FldObj_HyliaWoodRuinTunnel_A_01
+profile: MapConstPassive
+sortKey: -10
+tags:
+  tagc60f8acb: !u 0xc60f8acb
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

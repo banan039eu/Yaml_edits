@@ -1,0 +1,28 @@
+aabbMax:
+  X: 40.158599853515625
+  Y: 128.10699462890625
+  Z: 106.65299987792969
+aabbMin:
+  X: -27.055500030517578
+  Y: -7.281509876251221
+  Z: -76.69210052490234
+attackPower: 0
+bfres: DgnObj_IbutsuElectricSit_A
+boundingForTraverse: 135.3885040283203
+bugMask: 0
+elink: Test_SitRemainsElec
+generalLife: 100
+instSize: 780488
+isHasFar: true
+mainModel: DgnObj_IbutsuElectricSit_A_01
+name: SitRemainsElec
+profile: MapConstActive
+rigidBodyCenterY: 50.10609817504883
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tagcd60a1be: !u 0xcd60a1be
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

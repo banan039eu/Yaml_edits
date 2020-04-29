@@ -1,0 +1,22 @@
+aabbMax:
+  X: 0.131400004029274
+  Y: 0.023753000423312187
+  Z: 0.07919999957084656
+aabbMin:
+  X: -0.13199999928474426
+  Y: -0.02230300009250641
+  Z: -0.07874400168657303
+bfres: Item_ConductorDemo
+boundingForTraverse: 0.04605700075626373
+bugMask: 1
+generalLife: 100
+instSize: 67272
+mainModel: Item_ConductorDemo
+name: Dm_Item_Conductor
+profile: DemoEquipment
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_Conductor
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

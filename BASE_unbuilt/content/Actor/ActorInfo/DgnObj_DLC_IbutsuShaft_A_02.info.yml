@@ -1,0 +1,29 @@
+aabbMax:
+  X: 3.9498701095581055
+  Y: 3.9498701095581055
+  Z: 13.521200180053711
+aabbMin:
+  X: -3.9498701095581055
+  Y: -3.9498701095581055
+  Z: -12.309900283813477
+attackPower: 0
+bfres: DgnObj_DLC_IbutsuObj_A
+boundingForTraverse: 7.899740219116211
+bugMask: 2
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 85420
+mainModel: DgnObj_DLC_IbutsuShaft_A_02
+name: DgnObj_DLC_IbutsuShaft_A_02
+profile: MapDynamicActive
+slink: DgnObj_DLC_IbutsuShaft_A_02
+sortKey: -12
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2c608f30: 744525616
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 99999.0
+xlink: DgnObj_ConstrainedSlider
+yLimitAlgorithm: NoLimit

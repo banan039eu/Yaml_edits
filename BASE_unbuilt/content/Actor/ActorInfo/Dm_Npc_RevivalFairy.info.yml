@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.07601399719715118
+  Y: 2.2543399333953857
+  Z: -0.017836999148130417
+aabbMin:
+  X: -0.060384999960660934
+  Y: 1.9237600564956665
+  Z: -0.21359600126743317
+bfres: Animal_Fairy
+boundingForTraverse: 0.3305799961090088
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Dm_Npc_RevivalFairy
+generalLife: 100
+instSize: 31492
+mainModel: Fairy
+name: Dm_Npc_RevivalFairy
+profile: DemoNPC
+slink: Dm_Npc_RevivalFairy
+sortKey: -17
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+  tagc28d054e: !u 0xc28d054e
+  tagc5b7c123: !u 0xc5b7c123
+yLimitAlgorithm: NoLimit

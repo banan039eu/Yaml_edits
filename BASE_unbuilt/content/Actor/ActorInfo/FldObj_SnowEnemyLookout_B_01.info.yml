@@ -1,0 +1,18 @@
+aabbMax:
+  X: 2.2655301094055176
+  Y: 5.47022008895874
+  Z: 2.1564600467681885
+aabbMin:
+  X: -2.558079957962036
+  Y: -1.7000000476837158
+  Z: -2.253570079803467
+bfres: FldObj_SnowScaffoldWood_B
+boundingForTraverse: 7.170219898223877
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 60324
+mainModel: FldObj_SnowEnemyLookout_B_01
+name: FldObj_SnowEnemyLookout_B_01
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

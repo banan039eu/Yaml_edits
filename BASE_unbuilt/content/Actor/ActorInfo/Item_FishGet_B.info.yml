@@ -1,0 +1,54 @@
+aabbMax:
+  X: 0.4560000002384186
+  Y: 0.2307569980621338
+  Z: 0.5134429931640625
+aabbMin:
+  X: -0.4053960144519806
+  Y: -0.2307569980621338
+  Z: -1.2800099849700928
+bfres: Animal_Bass_L
+boundingForTraverse: 0.4615139961242676
+bugMask: 3
+cureItemEffectLevel: 8
+cureItemEffectType: LifeMaxUp
+cureItemHitPointRecover: 8
+cursorOffsetY: 0.30000001192092896
+elink: GetItem
+generalLife: 1
+homeArea:
+- name: WestHateru
+- name: TamulPlateau
+- name: CentralHyrule
+instSize: 50364
+itemBuyingPrice: 72
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 18
+itemStainColor: -1
+itemUseIconActorName: Item_FishGet_B
+mainModel: Bass_Boneless_L
+motorcycleEnergy:
+  add: 50.0
+name: Item_FishGet_B
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+slink: Item_FishGet
+sortKey: 34020
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_FishGet_B
+tags:
+  tag14185415: 337138709
+  tag168ce9a9: 378333609
+  tag24cd75fe: 617444862
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

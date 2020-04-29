@@ -1,0 +1,33 @@
+aabbMax:
+  X: 0.7426559925079346
+  Y: 1.0728299617767334
+  Z: 0.7716770172119141
+aabbMin:
+  X: -0.7795550227165222
+  Y: -0.0037150001153349876
+  Z: -0.5638260245323181
+attackPower: 0
+bfres: Obj_FlowerMarguerite_B
+boundingForTraverse: 1.076545000076294
+bugMask: 2
+elink: Obj_FlowerMarguerite_B_01
+generalLife: 100
+instSize: 23252
+mainModel: Obj_FlowerMarguerite_B_01
+name: Obj_FlowerMarguerite_B_01
+profile: MapDynamicPassive
+slink: Plant
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag50fb41e2: 1358643682
+  tag51ed35a6: 1374500262
+  tag55ef2d02: 1441737986
+  tag7de11d78: 2111905144
+  tagd902a8a2: !u 0xd902a8a2
+  tage91ea5f6: !u 0xe91ea5f6
+  tagef94310b: !u 0xef94310b
+  tagf47b2e0d: !u 0xf47b2e0d
+  tagf5f5d49c: !u 0xf5f5d49c
+yLimitAlgorithm: NoLimit

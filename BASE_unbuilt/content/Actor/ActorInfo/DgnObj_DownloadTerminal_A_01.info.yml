@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.582518994808197
+  Y: 1.7363300323486328
+  Z: 0.5683590173721313
+aabbMin:
+  X: -0.5942379832267761
+  Y: -0.019912999123334885
+  Z: -0.5917969942092896
+attackPower: 0
+bfres: DgnObj_DRCStoneStand_A
+boundingForTraverse: 1.7562429904937744
+bugMask: 3
+cursorOffsetY: 0.10000000149011612
+elink: DgnObj_Terminal_A_01
+generalLife: 100
+instSize: 52784
+lookAtOffsetY: 0.4000000059604645
+mainModel: DgnObj_DRCStoneStand_A_01
+name: DgnObj_DownloadTerminal_A_01
+profile: MapConstActive
+rigidBodyCenterY: 0.601610004901886
+slink: TerminalDownload
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag28a3a540: 681813312
+yLimitAlgorithm: NoLimit

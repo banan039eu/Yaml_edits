@@ -1,0 +1,51 @@
+aabbMax:
+  X: 0.1474599987268448
+  Y: 1.7890599966049194
+  Z: 0.21081499755382538
+aabbMin:
+  X: -0.1474599987268448
+  Y: 1.3466999530792236
+  Z: -0.2412019968032837
+armorDefenceAddLevel: 20
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: SwimSpeed
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: true
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 5
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_006
+boundingForTraverse: 0.4423600137233734
+bugMask: 3
+instSize: 75972
+itemBuyingPrice: 1645
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 410
+itemStainColor: -1
+itemUseIconActorName: Armor_006_Head
+mainModel: Armor_006_Head
+name: Armor_064_Head
+normal0ItemName01: Armor_063_Head
+normal0ItemName02: Item_Enemy_05
+normal0ItemName03: Item_Ore_E
+normal0ItemNum01: 1
+normal0ItemNum02: 10
+normal0ItemNum03: 15
+normal0StuffNum: 3
+profile: ArmorHead
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: Zora
+slink: Armor_Head_MetalLight
+sortKey: 2521030
+tags:
+  tag1c0c8d23: 470584611
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

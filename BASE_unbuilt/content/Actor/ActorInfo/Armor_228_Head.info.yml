@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.16405899822711945
+  Y: 1.7929699420928955
+  Z: 0.1735839992761612
+aabbMin:
+  X: -0.16405899822711945
+  Y: 1.4433599710464478
+  Z: -0.6137700080871582
+armorDefenceAddLevel: 12
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: AttackUp
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_229_Head
+armorStarNum: 4
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_225
+boundingForTraverse: 0.34961000084877014
+bugMask: 1
+instSize: 79196
+itemBuyingPrice: 1515
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 380
+itemStainColor: -1
+itemUseIconActorName: Armor_225_Head
+mainModel: Armor_225_Head
+name: Armor_228_Head
+normal0ItemName01: Armor_227_Head
+normal0ItemName02: Item_Enemy_34
+normal0ItemName03: Item_Enemy_47
+normal0ItemNum01: 1
+normal0ItemNum02: 2
+normal0ItemNum03: 1
+normal0StuffNum: 3
+profile: ArmorHead
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: AmiiboMajorasMask
+sortKey: 3121727
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

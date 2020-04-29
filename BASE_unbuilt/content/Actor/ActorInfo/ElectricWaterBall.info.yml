@@ -1,0 +1,15 @@
+attackPower: 40
+bugMask: 3
+elink: ElectricWaterBall
+instSize: 16140
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: ElectricWaterBall
+profile: Bullet
+slink: ElectricWaterBall
+sortKey: 2
+yLimitAlgorithm: NoLimit

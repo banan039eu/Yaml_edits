@@ -1,0 +1,10 @@
+bugMask: 0
+elink: DLC2_DungeonSand_Effect
+instSize: 3580
+name: DLC2_DungeonSand_Effect
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

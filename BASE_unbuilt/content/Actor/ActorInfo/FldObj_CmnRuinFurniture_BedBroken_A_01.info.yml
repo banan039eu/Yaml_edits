@@ -1,0 +1,18 @@
+aabbMax:
+  X: 1.4221999645233154
+  Y: 1.1784600019454956
+  Z: 2.204479932785034
+aabbMin:
+  X: -1.328029990196228
+  Y: -0.20320899784564972
+  Z: -1.7377300262451172
+bfres: FldObj_CmnRuinFurniture_A
+boundingForTraverse: 1.381669044494629
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 50432
+mainModel: FldObj_CmnRuinFurniture_BedBroken_A_01
+name: FldObj_CmnRuinFurniture_BedBroken_A_01
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

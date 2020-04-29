@@ -1,0 +1,24 @@
+aabbMax:
+  X: 46.687801361083984
+  Y: 49.1776008605957
+  Z: 41.70560073852539
+aabbMin:
+  X: -48.08359909057617
+  Y: -31.928499221801758
+  Z: -45.92539978027344
+bfres: FldObj_CliffYellow_A_Far
+boundingForTraverse: 81.1061019897461
+bugMask: 0
+instSize: 28760
+mainModel: FldObj_CliffYellowHead_A_01_Far
+name: FldObj_CliffYellowHead_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag3c39db92: 1010424722
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff3e
+traverseDist: 8000.0
+yLimitAlgorithm: NoLimit

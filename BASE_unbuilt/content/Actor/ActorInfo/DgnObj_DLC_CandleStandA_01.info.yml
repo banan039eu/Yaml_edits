@@ -1,0 +1,24 @@
+aabbMax:
+  X: 0.5279639959335327
+  Y: 1.334280014038086
+  Z: 0.5101010203361511
+aabbMin:
+  X: -0.5240939855575562
+  Y: -0.6644179821014404
+  Z: -1.1455600261688232
+attackPower: 0
+bfres: DgnObj_DLC_BattleRoom_Parts_D
+boundingForTraverse: 1.9986979961395264
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 69684
+mainModel: DgnObj_DLC_CandleStandA_01
+name: DgnObj_DLC_CandleStandA_01
+profile: MapConstActive
+rigidBodyCenterY: 0.4172990024089813
+sortKey: 2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,10 @@
+attackPower: 0
+bugMask: 1
+generalLife: 100
+instSize: 6444
+name: DgnObj_GoalExit
+profile: MapConstActive
+sortKey: -7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

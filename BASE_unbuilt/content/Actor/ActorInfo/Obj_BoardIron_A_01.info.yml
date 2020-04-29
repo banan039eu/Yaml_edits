@@ -1,0 +1,29 @@
+aabbMax:
+  X: 2.040070056915283
+  Y: 0.3850879967212677
+  Z: 4.040070056915283
+aabbMin:
+  X: -2.1515300273895264
+  Y: -0.08508799970149994
+  Z: -4.045090198516846
+attackPower: 0
+bfres: Obj_BoardIron_A
+boundingForTraverse: 0.47017601132392883
+bugMask: 2
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 30460
+mainModel: Obj_BoardIron_A_01
+name: Obj_BoardIron_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 0.15000000596046448
+slink: DgnObj_BoardIron_A
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

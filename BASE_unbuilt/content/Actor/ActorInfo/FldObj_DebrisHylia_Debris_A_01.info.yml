@@ -1,0 +1,21 @@
+aabbMax:
+  X: 5.350460052490234
+  Y: 3.9402101039886475
+  Z: 8.129719734191895
+aabbMin:
+  X: -7.740210056304932
+  Y: -1.6433299779891968
+  Z: -7.735889911651611
+bfres: FldObj_DebrisHylia_A
+boundingForTraverse: 5.583539962768555
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 64132
+mainModel: FldObj_DebrisHylia_Debris_A_01
+name: FldObj_DebrisHylia_Debris_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag6bddf03c: 1809707068
+  taga1c9da5d: !u 0xa1c9da5d
+yLimitAlgorithm: NoLimit

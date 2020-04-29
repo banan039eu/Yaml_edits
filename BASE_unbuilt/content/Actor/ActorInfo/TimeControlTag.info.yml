@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 5020
+name: TimeControlTag
+profile: ComplexTag
+sortKey: 0
+yLimitAlgorithm: NoLimit

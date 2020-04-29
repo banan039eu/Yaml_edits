@@ -1,0 +1,20 @@
+aabbMax:
+  X: 3.648240089416504
+  Y: 1.5639300346374512
+  Z: 3.3241000175476074
+aabbMin:
+  X: -2.881200075149536
+  Y: -17.79829978942871
+  Z: -1.6800099611282349
+bfres: TwnObj_City_Goron_A_Far
+boundingForTraverse: 19.36223030090332
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: TwnObj_City_GoronRock_A_01_Far
+name: TwnObj_City_GoronRock_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,30 @@
+aabbMax:
+  X: 1.0118499994277954
+  Y: 2.8851399421691895
+  Z: 0.20295800268650055
+aabbMin:
+  X: -0.9608309864997864
+  Y: -0.30000001192092896
+  Z: -0.07821500301361084
+attackPower: 0
+bfres: TwnObj_Village_HatenoGuidePost_A
+boundingForTraverse: 3.1851398944854736
+bugMask: 3
+cursorOffsetY: 0.3499999940395355
+generalLife: 8
+instSize: 76532
+lookAtOffsetY: 2.700000047683716
+mainModel: TwnObj_Village_HatenoGuidePost_A_01
+name: TwnObj_Village_HatenoGuidePost_A_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 2.134079933166504
+slink: FldObj_SignboardWood_A_01
+sortKey: -27
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2a2d0822: 707594274
+  tag80e91296: !u 0x80e91296
+  tagef748738: !u 0xef748738
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

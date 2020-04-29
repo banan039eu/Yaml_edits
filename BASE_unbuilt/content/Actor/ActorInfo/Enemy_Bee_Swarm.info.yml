@@ -1,0 +1,32 @@
+aabbMax:
+  X: 0.23526300489902496
+  Y: 0.264710009098053
+  Z: 0.20213299989700317
+aabbMin:
+  X: -0.253915011882782
+  Y: -0.12654800713062286
+  Z: -0.22579599916934967
+actorScale: 0.699999988079071
+attackPower: 1
+baseScaleX: 1.5
+baseScaleY: 1.5
+baseScaleZ: 1.5
+bfres: Animal_Bee
+boundingForTraverse: 0.39125800132751465
+bugMask: 3
+cursorOffsetY: 1.0
+elink: Enemy_Bee_Swarm
+enemyRank: 1
+generalLife: 2
+instSize: 580716
+mainModel: Bee
+name: Enemy_Bee_Swarm
+profile: EnemySwarm
+slink: Bee_Swarm
+sortKey: 2000
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag7993f871: 2039740529
+traverseDist: 100.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,38 @@
+aabbMax:
+  X: 0.3129819929599762
+  Y: 0.605193018913269
+  Z: 0.3129819929599762
+aabbMin:
+  X: -0.3129819929599762
+  Y: 0.0
+  Z: -0.3129819929599762
+attackPower: 4
+bfres: Obj_Pot_A
+boundingForTraverse: 0.605193018913269
+bugMask: 3
+drops:
+  Normal:
+  - Obj_ArrowNormal_A_01
+  - Item_Ore_F
+  - Item_Ore_E
+  - Obj_ArrowBundle_A_01
+  - Obj_BombArrow_A_01
+elink: Pot
+generalLife: 1
+instSize: 42888
+mainModel: Obj_Pot_A_01
+name: Pot
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.29149898886680603
+slink: PotSmall
+sortKey: -11
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag25cd2b4d: 634202957
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagff2ecb67: !u 0xff2ecb67
+  tagff53ef86: !u 0xff53ef86
+yLimitAlgorithm: NoLimit

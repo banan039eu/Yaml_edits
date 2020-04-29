@@ -1,0 +1,16 @@
+attackPower: 0
+bugMask: 3
+elink: AttackGrave
+instSize: 11752
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: AttackGrave
+profile: Bullet
+slink: AttackGrave
+sortKey: 0
+xlink: AscendingCurrent
+yLimitAlgorithm: NoLimit

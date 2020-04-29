@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 2676
+name: LocationTag
+profile: ComplexTag
+sortKey: 0
+yLimitAlgorithm: NoLimit

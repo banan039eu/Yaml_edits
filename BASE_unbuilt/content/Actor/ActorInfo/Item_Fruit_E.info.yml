@@ -1,0 +1,61 @@
+aabbMax:
+  X: 0.21981100738048553
+  Y: 0.2519429922103882
+  Z: 0.23178799450397491
+aabbMin:
+  X: -0.2289070039987564
+  Y: -0.19522599875926971
+  Z: -0.23241199553012848
+bfres: Obj_Plant_Lotus_A
+boundingForTraverse: 0.4471690058708191
+bugMask: 3
+cureItemEffectLevel: 2
+cureItemEffectType: MovingSpeed
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 2
+cursorOffsetY: 0.4000000059604645
+elink: GetItem
+generalLife: 100
+homeArea:
+- name: LanayruWetlands
+- name: LanayruWaterSources
+- name: CentralHyrule
+instSize: 38160
+itemBuyingPrice: 20
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 5
+itemStainColor: 7
+itemUseIconActorName: ''
+mainModel: Obj_FruitLotusSeeds_A
+motorcycleEnergy:
+  add: 75.0
+name: Item_Fruit_E
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+rigidBodyCenterY: 0.05000000074505806
+slink: Item_Fruit
+sortKey: 31090
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag04ed2c94: 82652308
+  tag14185415: 337138709
+  tag50fce56f: 1358751087
+  tag682e5129: 1747865897
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb0f85060: !u 0xb0f85060
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagd53a8775: !u 0xd53a8775
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tage97dcd22: !u 0xe97dcd22
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

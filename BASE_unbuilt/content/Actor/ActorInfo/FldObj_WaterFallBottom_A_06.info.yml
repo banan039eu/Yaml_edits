@@ -1,0 +1,10 @@
+bugMask: 0
+elink: FldObj_WaterFallBottom_A_02
+instSize: 3476
+name: FldObj_WaterFallBottom_A_06
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,12 @@
+actorScale: 1.5
+bugMask: 1
+generalLife: 100
+instSize: 14672
+name: Npc_NakedIslandPriest
+profile: DemoNPC
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+yLimitAlgorithm: NoLimit

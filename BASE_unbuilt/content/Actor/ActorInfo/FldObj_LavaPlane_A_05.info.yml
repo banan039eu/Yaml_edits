@@ -1,0 +1,23 @@
+aabbMax:
+  X: 297.1600036621094
+  Y: 28.893800735473633
+  Z: 457.6679992675781
+aabbMin:
+  X: -316.5419921875
+  Y: -14.300399780273438
+  Z: -436.05999755859375
+bfres: FldObj_LavaPlane_A
+boundingForTraverse: 43.19419860839844
+bugMask: 2
+cursorOffsetY: 0.5
+instSize: 46524
+isHasFar: true
+mainModel: FldObj_LavaPlane_A_05
+name: FldObj_LavaPlane_A_05
+profile: MapConstPassive
+slink: LavaPlane
+sortKey: 22
+tags:
+  tag572de768: 1462626152
+traverseDist: 1584.1494140625
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,19 @@
+aabbMax:
+  X: 29.18950080871582
+  Y: 4.937640190124512
+  Z: 9.009849548339844
+aabbMin:
+  X: -34.66680145263672
+  Y: 1.841380000114441
+  Z: -10.993200302124023
+bfres: FldObj_ScaffoldWoodBridge_B
+boundingForTraverse: 3.0962600708007812
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38428
+mainModel: FldObj_ScaffoldWoodBridge_B_01
+name: FldObj_ScaffoldWoodBridge_B_01
+profile: MapConstPassive
+sortKey: 10
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

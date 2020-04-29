@@ -1,0 +1,29 @@
+aabbMax:
+  X: 0.17001299560070038
+  Y: 2.74714994430542
+  Z: 0.1515679955482483
+aabbMin:
+  X: -1.5199999809265137
+  Y: -0.029999999329447746
+  Z: -0.13716499507427216
+attackPower: 0
+bfres: TwnObj_Village_SheikerDoor_A
+boundingForTraverse: 2.7771499156951904
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 73920
+mainModel: TwnObj_Village_SheikerDoor_A_01
+name: TwnObj_Village_SheikerDoor_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: 1.317620038986206
+slink: TwnObj_Village_SheikerDoor_A_01
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2ad7fb13: 718797587
+  tag8fda6cdd: !u 0x8fda6cdd
+  tagfd9844a1: !u 0xfd9844a1
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

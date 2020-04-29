@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 5264
+name: SwitchTimeLag
+profile: ComplexTag
+sortKey: -2
+yLimitAlgorithm: NoLimit

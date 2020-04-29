@@ -1,0 +1,21 @@
+aabbMax:
+  X: 25.923500061035156
+  Y: 7.254380226135254
+  Z: 19.075199127197266
+aabbMin:
+  X: 4.341460227966309
+  Y: -1.2237199544906616
+  Z: -12.315099716186523
+bfres: FldObj_GerudoBase_Far
+boundingForTraverse: 8.478099822998047
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18292
+mainModel: FldObj_GerudoBase_A_01_Far
+name: FldObj_GerudoBase_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,28 @@
+aabbMax:
+  X: 1.07669997215271
+  Y: 2.841099977493286
+  Z: 0.22904199361801147
+aabbMin:
+  X: -1.2541199922561646
+  Y: -0.010928000323474407
+  Z: -0.21855400502681732
+attackPower: 0
+bfres: FldObj_SignboardWood_A
+boundingForTraverse: 2.8520278930664062
+bugMask: 1
+cursorOffsetY: 0.3499999940395355
+generalLife: 100
+instSize: 77424
+lookAtOffsetY: 2.5
+mainModel: FldObj_SignboardWood_A_01
+name: FldObj_SignboardWood_A_01_Stump
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.4000000059604645
+sortKey: 3
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag80e91296: !u 0x80e91296
+  tagc28d054e: !u 0xc28d054e
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

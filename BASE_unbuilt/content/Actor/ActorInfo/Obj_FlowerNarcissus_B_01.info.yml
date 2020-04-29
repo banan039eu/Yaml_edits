@@ -1,0 +1,36 @@
+aabbMax:
+  X: 0.7838709950447083
+  Y: 1.441640019416809
+  Z: 0.8752409815788269
+aabbMin:
+  X: -0.8712400197982788
+  Y: -0.22529500722885132
+  Z: -1.0180699825286865
+attackPower: 0
+bfres: Obj_FlowerNarcissus_A
+boundingForTraverse: 1.6669349670410156
+bugMask: 2
+cursorOffsetY: 0.5
+elink: Obj_FlowerNarcissus_B_01
+generalLife: 100
+instSize: 23252
+mainModel: Obj_FlowerNarcissus_B_01
+name: Obj_FlowerNarcissus_B_01
+profile: MapDynamicPassive
+slink: Plant
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag1f4b9ede: 525049566
+  tag3d4375d9: 1027831257
+  tag4436fdc7: 1144454599
+  tag50fb41e2: 1358643682
+  tag51ed35a6: 1374500262
+  tag55ef2d02: 1441737986
+  tag85aee6eb: !u 0x85aee6eb
+  tagaf6a810c: !u 0xaf6a810c
+  tagb8f1226a: !u 0xb8f1226a
+  tagc7e545be: !u 0xc7e545be
+  tage91ea5f6: !u 0xe91ea5f6
+yLimitAlgorithm: NoLimit

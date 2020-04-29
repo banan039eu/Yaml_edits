@@ -1,0 +1,21 @@
+aabbMax:
+  X: 8.702679634094238
+  Y: 12.246199607849121
+  Z: 7.82328987121582
+aabbMin:
+  X: -8.702679634094238
+  Y: -0.331928014755249
+  Z: -7.533699989318848
+bfres: TwnObj_HyruleCity_A
+boundingForTraverse: 12.57812786102295
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 135584
+mainModel: TwnObj_HyruleCity_Slope_A_01
+name: TwnObj_HyruleCity_Slope_A_01
+profile: MapConstPassive
+sortKey: -5
+tags:
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

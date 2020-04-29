@@ -1,0 +1,27 @@
+aabbMax:
+  X: 3.401439905166626
+  Y: 4.800000190734863
+  Z: 3.359999895095825
+aabbMin:
+  X: -3.401439905166626
+  Y: -0.1323779970407486
+  Z: -3.359999895095825
+attackPower: 0
+bfres: DgnObj_DLC_GyroBox_A
+boundingForTraverse: 4.932377815246582
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 41628
+mainModel: DgnObj_DLC_GyroBox_A_02
+name: DgnObj_DLC_GyroBox_A_02
+profile: MapDynamicActive
+slink: DgnObj_SliderBlockStone
+sortKey: -27
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+xlink: DgnObj_ConstrainedSlider
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.81523597240448
+  Y: 2.459559917449951
+  Z: 0.3606239855289459
+aabbMin:
+  X: -0.81523597240448
+  Y: -0.33175599575042725
+  Z: -0.3606239855289459
+attackPower: 0
+bfres: TwnObj_Village_ZoraGeneric_A
+boundingForTraverse: 2.791316032409668
+bugMask: 1
+cursorOffsetY: 1.2000000476837158
+generalLife: 1
+instSize: 35468
+mainModel: TwnObjVillage_ZoraSignboard_B_01
+name: TwnObjVillage_ZoraSignboard_B_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 1.4866299629211426
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2a2d0822: 707594274
+  tagef748738: !u 0xef748738
+traverseDist: 50.0
+yLimitAlgorithm: NoLimit

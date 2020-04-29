@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.8005269765853882
+  Y: 5.450500011444092
+  Z: 0.05894500017166138
+aabbMin:
+  X: -1.9608099460601807
+  Y: -0.2232690006494522
+  Z: 0.0
+attackPower: 0
+bfres: DgnObj_WallMarkE_A
+boundingForTraverse: 5.673768997192383
+bugMask: 1
+generalLife: 100
+instSize: 25500
+mainModel: DgnObj_WallMarkE_A_01
+name: DgnObj_Hrl_WallMarkE_01
+profile: MapConstActive
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

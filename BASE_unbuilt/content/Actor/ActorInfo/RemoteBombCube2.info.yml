@@ -1,0 +1,39 @@
+aabbMax:
+  X: 0.21183499693870544
+  Y: 0.49317699670791626
+  Z: 0.21183499693870544
+aabbMin:
+  X: -0.21183499693870544
+  Y: 0.00016900000628083944
+  Z: -0.21183499693870544
+attackPower: 24
+bfres: Item_RemoteBombCube
+boundingForTraverse: 0.49300798773765564
+bugMask: 3
+elink: RemoteBomb2
+generalLife: 1
+instSize: 55828
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Item_RemoteBombCube
+name: RemoteBombCube2
+profile: PlayerItem
+rigidBodyCenterY: 0.20000000298023224
+slink: RemoteBomb
+sortKey: 2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag3d2fc55b: 1026540891
+  tagb51794dc: !u 0xb51794dc
+  tagf3a5f416: !u 0xf3a5f416
+  tagfd964809: !u 0xfd964809
+  tagff2ecb67: !u 0xff2ecb67
+  tagffb4932f: !u 0xffb4932f
+xlink: Weapon
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.13574199378490448
+  Y: 1.801759958267212
+  Z: 0.18174999952316284
+aabbMin:
+  X: -0.1536789983510971
+  Y: 1.385759949684143
+  Z: -0.5708010196685791
+armorDefenceAddLevel: 5
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_232_Head
+armorStarNum: 2
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_230
+boundingForTraverse: 0.41600000858306885
+bugMask: 1
+instSize: 57020
+itemBuyingPrice: 60
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 255
+itemStainColor: -1
+itemUseIconActorName: Armor_230_Head
+mainModel: Armor_230_Head
+name: Armor_231_Head
+normal0ItemName01: Armor_230_Head
+normal0ItemName02: Item_Ore_B
+normal0ItemName03: Item_Ore_J
+normal0ItemNum01: 1
+normal0ItemNum02: 1
+normal0ItemNum03: 1
+normal0StuffNum: 3
+profile: ArmorHead
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: AmiiboFirstHero
+sortKey: 4621734
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tagd1e9663c: !u 0xd1e9663c
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

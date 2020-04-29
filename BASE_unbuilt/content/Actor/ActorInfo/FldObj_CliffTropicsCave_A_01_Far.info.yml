@@ -1,0 +1,23 @@
+aabbMax:
+  X: 32.98379898071289
+  Y: 41.940101623535156
+  Z: 33.465999603271484
+aabbMin:
+  X: -34.897701263427734
+  Y: -0.6379470229148865
+  Z: -28.793399810791016
+bfres: FldObj_CliffTropics_A_Far
+boundingForTraverse: 42.57804870605469
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 40796
+mainModel: FldObj_CliffTropicsCave_A_01_Far
+name: FldObj_CliffTropicsCave_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff44
+yLimitAlgorithm: NoLimit

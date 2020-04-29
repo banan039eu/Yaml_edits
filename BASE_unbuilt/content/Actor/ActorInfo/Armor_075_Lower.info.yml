@@ -1,0 +1,50 @@
+aabbMax:
+  X: 0.2277829945087433
+  Y: 0.9428709745407104
+  Z: 0.22982099652290344
+aabbMin:
+  X: -0.2277829945087433
+  Y: -0.010467000305652618
+  Z: -0.11400400102138519
+armorDefenceAddLevel: 12
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: ResistBurn
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_076_Lower
+armorStarNum: 4
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_030
+boundingForTraverse: 0.9533380270004272
+bugMask: 3
+instSize: 53296
+itemBuyingPrice: 883
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 220
+itemStainColor: -1
+itemUseIconActorName: Armor_011_Lower
+mainModel: Armor_030_Lower
+name: Armor_075_Lower
+normal0ItemName01: Armor_074_Lower
+normal0ItemName02: Animal_Insect_AB
+normal0ItemName03: Item_Enemy_08
+normal0ItemNum01: 1
+normal0ItemNum02: 3
+normal0ItemNum03: 3
+normal0StuffNum: 3
+profile: ArmorLower
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: Goron
+slink: Armor_Lower_MetalHeavy
+sortKey: 2323071
+tags:
+  tag1c0c8d23: 470584611
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

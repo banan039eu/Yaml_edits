@@ -1,0 +1,25 @@
+aabbMax:
+  X: 2.732100009918213
+  Y: 1.2625199556350708
+  Z: 2.732100009918213
+aabbMin:
+  X: -2.732100009918213
+  Y: 0.0
+  Z: -3.0
+attackPower: 0
+bfres: DgnObj_Warpin_A
+boundingForTraverse: 1.2625199556350708
+bugMask: 3
+elink: DgnObj_Hrl_Warpin_2x2_01
+generalLife: 100
+instSize: 88028
+mainModel: DgnObj_Hrl_Warpin_2x2_01
+name: DgnObj_Hrl_Warpin_2x2_01
+profile: MapConstActive
+rigidBodyCenterY: 0.23383499681949615
+slink: DgnObj_Hrl_Warpin
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

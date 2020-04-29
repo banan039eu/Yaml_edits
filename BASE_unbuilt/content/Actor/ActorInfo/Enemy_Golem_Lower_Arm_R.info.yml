@@ -1,0 +1,31 @@
+aabbMax:
+  X: 1.7573399543762207
+  Y: 2.1242899894714355
+  Z: 2.0547900199890137
+aabbMin:
+  X: -1.7573399543762207
+  Y: -2.1242899894714355
+  Z: -2.0547900199890137
+attackPower: 8
+bfres: Enemy_Golem
+boundingForTraverse: 4.248579978942871
+bugMask: 3
+elink: GolemPart
+instSize: 34856
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Golem_Arm_2_R_Rock
+name: Enemy_Golem_Lower_Arm_R
+profile: Bullet
+slink: Enemy_Golem_Lower_Arm_R
+sortKey: -1
+tags:
+  tag2bc52291: 734339729
+terrainTextures:
+- !u 0xffffff04
+xlink: Enemy_Golem_Arm
+yLimitAlgorithm: NoLimit

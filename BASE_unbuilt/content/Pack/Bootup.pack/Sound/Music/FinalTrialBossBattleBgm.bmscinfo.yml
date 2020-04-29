@@ -1,0 +1,15 @@
+!io
+version: 0
+type: mscinfo
+param_root: !list
+  objects:
+    MusicParam: !obj
+      TransformDemoWaitSec: 0.8
+      FadeSecToTransformDemo: 1.85
+      CurveTypeToTransformDemo: !u 0
+      FadeSecFromTransformDemo: 1.75
+      CurveTypeFromTransformDemo: !u 2
+      FadeSecLevel3To4: 2.65
+      CurveTypeLevel3To4: !u 2
+      StopFadeSec: 0.7
+  lists: {}

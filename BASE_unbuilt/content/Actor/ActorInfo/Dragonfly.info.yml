@@ -1,0 +1,18 @@
+bugMask: 0
+elink: Dragonfly
+instSize: 3476
+invalidTimes:
+- Night_A
+- Night_B
+invalidWeathers:
+- HeavyRain
+- HeavySnow
+- ThunderStorm
+- ThunderRain
+name: Dragonfly
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+traverseDist: 30.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,25 @@
+aabbMax:
+  X: 25.0
+  Y: 0.0
+  Z: 25.0
+aabbMin:
+  X: -25.0
+  Y: 0.0
+  Z: -25.0
+attackPower: 0
+bfres: DgnObj_DungeonWater50x50_A
+boundingForTraverse: 35.35533905029297
+bugMask: 3
+generalLife: 100
+instSize: 26116
+mainModel: DgnObj_DungeonWater50x50_A_01
+name: DgnObj_DLC_DungeonWater50x50_128
+profile: MapDynamicActive
+rigidBodyCenterY: -1.0
+slink: WaterSurface
+sortKey: -38
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

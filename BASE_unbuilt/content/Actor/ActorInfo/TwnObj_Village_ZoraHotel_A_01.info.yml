@@ -1,0 +1,20 @@
+aabbMax:
+  X: 7.1493000984191895
+  Y: 8.959549903869629
+  Z: 11.289400100708008
+aabbMin:
+  X: -20.116300582885742
+  Y: -9.399999618530273
+  Z: -17.716400146484375
+bfres: TwnObj_Village_Zora_A
+boundingForTraverse: 18.35955047607422
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 265036
+isHasFar: true
+mainModel: TwnObj_Village_ZoraHotel_A_01
+name: TwnObj_Village_ZoraHotel_A_01
+profile: MapConstPassive
+sortKey: 1
+traverseDist: 539.8088989257812
+yLimitAlgorithm: NoLimit

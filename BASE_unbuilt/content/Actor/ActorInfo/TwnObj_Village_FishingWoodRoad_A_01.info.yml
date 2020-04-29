@@ -1,0 +1,18 @@
+aabbMax:
+  X: 2.2807700634002686
+  Y: 0.11027800291776657
+  Z: 3.071810007095337
+aabbMin:
+  X: -2.2844200134277344
+  Y: -0.3513689935207367
+  Z: -2.8762500286102295
+bfres: TwnObj_Village_Fishing_A
+boundingForTraverse: 0.46164700388908386
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: TwnObj_Village_FishingWoodRoad_A_01
+name: TwnObj_Village_FishingWoodRoad_A_01
+profile: MapConstPassive
+sortKey: 4
+yLimitAlgorithm: NoLimit

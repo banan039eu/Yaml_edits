@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.4709889888763428
+  Y: 1.3016300201416016
+  Z: 0.26772499084472656
+aabbMin:
+  X: -0.4584839940071106
+  Y: -0.002331000054255128
+  Z: -0.5218629837036133
+attackPower: 0
+bfres: Mannequin_005
+boundingForTraverse: 1.3039610385894775
+bugMask: 1
+cursorOffsetY: 0.6499999761581421
+generalLife: 100
+instSize: 66740
+lookAtOffsetY: 0.44999998807907104
+mainModel: Mannequin_005_Lower
+name: Mannequin_005_Lower
+profile: MapConstActive
+rigidBodyCenterY: 0.6499999761581421
+sortKey: 142
+systemIsGetItemSelf: false
+systemSameGroupActorName: Armor_011_Lower
+tags:
+  tag28a3a540: 681813312
+  tag8fda6cdd: !u 0x8fda6cdd
+  tagf2bc0087: !u 0xf2bc0087
+yLimitAlgorithm: NoLimit

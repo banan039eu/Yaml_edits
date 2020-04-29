@@ -1,0 +1,21 @@
+aabbMax:
+  X: 1.714769959449768
+  Y: 17.273300170898438
+  Z: 1.6455800533294678
+aabbMin:
+  X: -1.665179967880249
+  Y: -0.6288899779319763
+  Z: -1.653630018234253
+bfres: FldObj_FirstGateSnow_A
+boundingForTraverse: 17.902189254760742
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 70344
+mainModel: FldObj_FirstGateSnowDebris_A_02
+name: FldObj_FirstGateSnowDebris_A_02
+profile: MapConstPassive
+sortKey: -3
+terrainTextures:
+- !u 0xffffff08
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

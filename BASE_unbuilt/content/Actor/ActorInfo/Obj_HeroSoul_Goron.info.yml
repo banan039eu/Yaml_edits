@@ -1,0 +1,23 @@
+bugMask: 0
+generalLife: 100
+instSize: 3108
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: Obj_HeroSoul_Goron
+profile: Item
+sortKey: 50005
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tag4850af43: 1213247299
+  tag7025851a: 1881507098
+  tag9723a5b4: !u 0x9723a5b4
+  tagdeb2c8bd: !u 0xdeb2c8bd
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

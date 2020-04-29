@@ -1,0 +1,19 @@
+aabbMax:
+  X: 0.9179689884185791
+  Y: 1.7353500127792358
+  Z: 0.2137109935283661
+aabbMin:
+  X: -0.9179689884185791
+  Y: 0.0009769999887794256
+  Z: -0.12829600274562836
+bfres: Link
+boundingForTraverse: 1.7343729734420776
+bugMask: 3
+elink: PauseMenuPlayer
+instSize: 298516
+mainModel: Link
+name: PauseMenuPlayer
+profile: PauseMenuPlayer
+slink: PauseMenuPlayer
+sortKey: 0
+yLimitAlgorithm: NoLimit

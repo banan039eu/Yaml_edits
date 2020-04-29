@@ -1,0 +1,27 @@
+aabbMax:
+  X: 4.050000190734863
+  Y: 9.978440284729004
+  Z: 0.20000000298023224
+aabbMin:
+  X: -4.050000190734863
+  Y: 0.0
+  Z: -0.20000000298023224
+attackPower: 0
+bfres: DgnObj_DLC_ShutterFence_A
+boundingForTraverse: 9.978440284729004
+bugMask: 3
+elink: Shutter
+generalLife: 100
+instSize: 27660
+mainModel: DgnObj_DLC_ShutterFence_A_07
+name: DgnObj_DLC_ShutterFence_A_07
+profile: MapDynamicActive
+rigidBodyCenterY: 4.987649917602539
+slink: SS_object_ShutterFence
+sortKey: -11
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag7dd56981: 2111138177
+  tagc28d054e: !u 0xc28d054e
+yLimitAlgorithm: NoLimit

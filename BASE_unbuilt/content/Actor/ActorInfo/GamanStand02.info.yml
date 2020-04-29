@@ -1,0 +1,24 @@
+aabbMax:
+  X: 7.247139930725098
+  Y: 2.316740036010742
+  Z: 6.760749816894531
+aabbMin:
+  X: -8.13599967956543
+  Y: -0.4452719986438751
+  Z: -7.121339797973633
+bfres: FldObj_Gaman_A
+boundingForTraverse: 2.762012004852295
+bugMask: 0
+cursorOffsetY: 0.5
+elink: GamanStand02
+instSize: 49640
+mainModel: FldObj_GamanStand_A_02
+name: GamanStand02
+profile: MapConstPassive
+sortKey: -2
+tags:
+  tag572de768: 1462626152
+  tag977b149c: !u 0x977b149c
+terrainTextures:
+- !u 0xffffff15
+yLimitAlgorithm: NoLimit

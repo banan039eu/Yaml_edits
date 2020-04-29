@@ -1,0 +1,24 @@
+aabbMax:
+  X: 11.514900207519531
+  Y: 12.766599655151367
+  Z: 17.87350082397461
+aabbMin:
+  X: -12.65369987487793
+  Y: -35.17060089111328
+  Z: -15.662199974060059
+bfres: FldObj_CliffOrange_A
+boundingForTraverse: 47.93720245361328
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 40348
+isHasFar: true
+mainModel: FldObj_RockOrangeBridgeBase_A_01
+name: FldObj_RockOrangeBridgeBase_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffffff15
+traverseDist: 541.3372192382812
+yLimitAlgorithm: NoLimit

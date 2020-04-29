@@ -1,0 +1,27 @@
+aabbMax:
+  X: 8.0
+  Y: 16.034900665283203
+  Z: 8.0
+aabbMin:
+  X: -8.0
+  Y: 0.0
+  Z: -8.0
+attackPower: 0
+bfres: DgnObj_EnemyLift_A
+boundingForTraverse: 16.034900665283203
+bugMask: 3
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 55648
+mainModel: DgnObj_EnemyLift_A_01
+name: DgnObj_DLC_EnemyLift_B_01
+profile: MapDynamicActive
+rigidBodyCenterY: 8.0
+slink: DgnObj_DLC_EnemyLift_B_01
+sortKey: -41
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag00336c07: 3369991
+  tag7dd56981: 2111138177
+yLimitAlgorithm: NoLimit

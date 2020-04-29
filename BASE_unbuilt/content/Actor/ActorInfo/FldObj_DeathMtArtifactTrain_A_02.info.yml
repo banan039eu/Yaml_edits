@@ -1,0 +1,28 @@
+aabbMax:
+  X: 1.5822999477386475
+  Y: 2.346519947052002
+  Z: 2.777669906616211
+aabbMin:
+  X: -1.5016100406646729
+  Y: -0.18594999611377716
+  Z: -2.476680040359497
+attackPower: 0
+bfres: FldObj_DeathMtArtifactTrain_A
+boundingForTraverse: 2.5324699878692627
+bugMask: 3
+cursorOffsetY: 0.5
+elink: FldObj_DeathMtArtifactTrain_A_02
+generalLife: 100
+instSize: 57116
+mainModel: FldObj_DeathMtArtifactTrain_A_02
+name: FldObj_DeathMtArtifactTrain_A_02
+profile: MapDynamicActive
+rigidBodyCenterY: 0.10000000149011612
+slink: FldObj_ArtifactTrain
+sortKey: 2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

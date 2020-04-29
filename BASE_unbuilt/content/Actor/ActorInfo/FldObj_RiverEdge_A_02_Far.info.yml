@@ -1,0 +1,21 @@
+aabbMax:
+  X: 20.15559959411621
+  Y: 0.29199299216270447
+  Z: 8.751620292663574
+aabbMin:
+  X: -20.18630027770996
+  Y: -11.460100173950195
+  Z: -23.662700653076172
+bfres: FldObj_RiverEdge_A_Far
+boundingForTraverse: 40.34189987182617
+bugMask: 0
+instSize: 17140
+mainModel: FldObj_RiverEdge_A_02_Far
+name: FldObj_RiverEdge_A_02_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+terrainTextures:
+- !u 0xffff1d11
+yLimitAlgorithm: NoLimit

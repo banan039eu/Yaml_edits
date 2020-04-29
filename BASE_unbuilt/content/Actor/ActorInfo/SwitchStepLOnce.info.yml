@@ -1,0 +1,26 @@
+aabbMax:
+  X: 4.671879768371582
+  Y: 1.4795700311660767
+  Z: 4.671879768371582
+aabbMin:
+  X: -4.671879768371582
+  Y: -0.3497749865055084
+  Z: -4.671879768371582
+attackPower: 0
+bfres: DgnObj_SwitchStep_B
+boundingForTraverse: 1.8293449878692627
+bugMask: 3
+elink: SwitchStep
+generalLife: 100
+instSize: 38104
+mainModel: DgnObj_SwitchStep_B_01
+name: SwitchStepLOnce
+profile: MapDynamicActive
+slink: SwitchStepL
+sortKey: 2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2c608f30: 744525616
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

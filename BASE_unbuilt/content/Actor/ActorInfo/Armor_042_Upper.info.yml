@@ -1,0 +1,47 @@
+aabbMax:
+  X: 0.9179689884185791
+  Y: 1.4951200485229492
+  Z: 0.1632079929113388
+aabbMin:
+  X: -0.9179689884185791
+  Y: 0.8198239803314209
+  Z: -0.12951700389385223
+armorDefenceAddLevel: 4
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: Quietness
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_077_Upper
+armorStarNum: 2
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 1
+bfres: Armor_012
+boundingForTraverse: 0.6752960085868835
+bugMask: 1
+instSize: 126740
+itemBuyingPrice: 712
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 180
+itemStainColor: -1
+itemUseIconActorName: Armor_012_Upper
+mainModel: Armor_012_Upper
+name: Armor_042_Upper
+normal0ItemName01: Armor_012_Upper
+normal0ItemName02: Item_PlantGet_I
+normal0ItemNum01: 1
+normal0ItemNum02: 3
+normal0StuffNum: 2
+profile: ArmorUpper
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: Sheikah
+sortKey: 2622083
+tags:
+  tag1c0c8d23: 470584611
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

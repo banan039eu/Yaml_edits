@@ -1,0 +1,30 @@
+aabbMax:
+  X: 1.6846100091934204
+  Y: 1.6846100091934204
+  Z: 1.2601399421691895
+aabbMin:
+  X: -1.6846100091934204
+  Y: -1.6846100091934204
+  Z: -1.2601399421691895
+attackPower: 20
+bfres: Priest_Boss_IronBall
+boundingForTraverse: 3.369220018386841
+bugMask: 3
+elink: Priest_Boss_IronBall
+generalLife: 100
+instSize: 55244
+mainModel: Priest_Boss_IronBall
+name: Priest_Boss_IronBall
+profile: MapDynamicActive
+rigidBodyCenterY: -1.8000000636675395e-05
+slink: Priest_Boss_IronBall
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag3a61e2a9: 979493545
+  tag49b834f7: 1236808951
+  tag7027cedd: 1881657053
+  tagc2ac3213: !u 0xc2ac3213
+traverseDist: 99999.0
+yLimitAlgorithm: NoLimit

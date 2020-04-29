@@ -1,0 +1,29 @@
+aabbMax:
+  X: 0.375
+  Y: 0.375
+  Z: 0.375
+aabbMin:
+  X: -0.375
+  Y: -0.375
+  Z: -0.375
+attackPower: 20
+baseScaleX: 0.25
+baseScaleY: 0.25
+baseScaleZ: 0.25
+bfres: FldObj_CliffDeathMt_B
+boundingForTraverse: 0.75
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Wizzrobe_WeatherFireBall
+generalLife: 100
+instSize: 35596
+mainModel: FldObj_VolcanicBomb_A_01
+name: Wizzrobe_WeatherFireBall
+profile: MapDynamicActive
+slink: Wizzrobe_WeatherFireBall
+sortKey: -7
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+terrainTextures:
+- !u 0xffffff32
+yLimitAlgorithm: NoLimit

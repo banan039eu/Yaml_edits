@@ -1,0 +1,24 @@
+aabbMax:
+  X: 133.3249969482422
+  Y: 23.17020034790039
+  Z: 27.41230010986328
+aabbMin:
+  X: -50.69169998168945
+  Y: -109.2020034790039
+  Z: -72.88259887695312
+bfres: FldObj_CliffAkkare_A_Far
+boundingForTraverse: 132.37220764160156
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 29912
+mainModel: FldObj_CliffAkkare_A_11_Far
+name: FldObj_CliffAkkare_A_11_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xff4c1f00
+traverseDist: 3000.0
+yLimitAlgorithm: NoLimit

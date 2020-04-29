@@ -1,0 +1,23 @@
+aabbMax:
+  X: 5.0
+  Y: 0.0
+  Z: 5.0
+aabbMin:
+  X: -5.0
+  Y: 0.0
+  Z: -5.0
+attackPower: 0
+bfres: FldObj_Puddle_A
+boundingForTraverse: 10.0
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 26752
+mainModel: FldObj_Puddle_A_01
+name: FldObj_Puddle_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: -2.5
+sortKey: -29
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

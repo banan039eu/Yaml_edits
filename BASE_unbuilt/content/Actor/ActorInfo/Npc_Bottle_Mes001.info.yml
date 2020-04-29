@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.354108989238739
+  Y: 1.7822699546813965
+  Z: 0.6834350228309631
+aabbMin:
+  X: -0.543071985244751
+  Y: -0.00013000000035390258
+  Z: -0.21848399937152863
+boundingForTraverse: 1.7824000120162964
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: UMii_Hylia_Backpack
+instSize: 618540
+name: Npc_Bottle_Mes001
+profile: NPC
+slink: Npc_Hylia_M
+sortKey: 62
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

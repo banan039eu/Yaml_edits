@@ -1,0 +1,28 @@
+aabbMax:
+  X: 113.16500091552734
+  Y: 157.27099609375
+  Z: 51.22850036621094
+aabbMin:
+  X: -57.5802001953125
+  Y: -39.35559844970703
+  Z: -37.7599983215332
+attackPower: 0
+bfres: DgnObj_IbutsuWaterSit_A
+boundingForTraverse: 196.6265869140625
+bugMask: 0
+elink: Test_SitRemainsWater
+generalLife: 100
+instSize: 452708
+isHasFar: true
+mainModel: DgnObj_IbutsuWaterSit_A_01
+name: SitRemainsWater
+profile: MapConstActive
+rigidBodyCenterY: 43.30400085449219
+sortKey: -6
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tagcd60a1be: !u 0xcd60a1be
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

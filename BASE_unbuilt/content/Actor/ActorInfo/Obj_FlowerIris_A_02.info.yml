@@ -1,0 +1,32 @@
+aabbMax:
+  X: 0.667527973651886
+  Y: 1.0838799476623535
+  Z: 0.5677130222320557
+aabbMin:
+  X: -0.5484820008277893
+  Y: -0.1553650051355362
+  Z: -0.535256028175354
+attackPower: 0
+bfres: Obj_FlowerIris_A
+boundingForTraverse: 1.239245057106018
+bugMask: 2
+cursorOffsetY: 0.5
+elink: Obj_FlowerIris_A_02
+generalLife: 100
+instSize: 23252
+mainModel: Obj_FlowerIris_A_02
+name: Obj_FlowerIris_A_02
+profile: MapDynamicPassive
+slink: Plant
+sortKey: -1
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag4436fdc7: 1144454599
+  tag50fb41e2: 1358643682
+  tag51ed35a6: 1374500262
+  tagaf6a810c: !u 0xaf6a810c
+  tagb8f1226a: !u 0xb8f1226a
+  tagcc42661b: !u 0xcc42661b
+  tage91ea5f6: !u 0xe91ea5f6
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,35 @@
+aabbMax:
+  X: 0.7680659890174866
+  Y: 1.2451200485229492
+  Z: 0.5502930283546448
+aabbMin:
+  X: -0.7553709745407104
+  Y: -0.022537000477313995
+  Z: -0.5371090173721313
+attackPower: 0
+bfres: Obj_TBox_Field_Enemy
+boundingForTraverse: 1.2676570415496826
+bugMask: 3
+elink: TBox_Field_Enemy
+generalLife: 100
+instSize: 45780
+lookAtOffsetY: 0.20000000298023224
+mainModel: TBox_Field_Enemy
+name: TBox_Field_Enemy
+pictureBookLiveSpot1: 20
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: 25
+profile: MapDynamicActive
+rigidBodyCenterY: 0.10000000149011612
+slink: TBox_Field_Enemy
+sortKey: 70003
+systemIsGetItemSelf: false
+systemSameGroupActorName: TBox_Field_Iron
+tags:
+  tag4186e30f: 1099358991
+  tag6308f367: 1661530983
+  tag9dc91bb3: !u 0x9dc91bb3
+  taga1c9da5d: !u 0xa1c9da5d
+  tagbb8d80c2: !u 0xbb8d80c2
+  tagdeb2c8bd: !u 0xdeb2c8bd
+yLimitAlgorithm: LimitYDiff

@@ -1,0 +1,10 @@
+bugMask: 1
+elink: FirstHighlandFog
+instSize: 5752
+name: FirstHighlandFog
+profile: EffectLocater
+sortKey: 0
+tags:
+  tag572de768: 1462626152
+traverseDist: 4000.0
+yLimitAlgorithm: NoLimit

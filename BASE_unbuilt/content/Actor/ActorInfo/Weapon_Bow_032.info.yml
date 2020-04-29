@@ -1,0 +1,77 @@
+Chemical:
+  Capaciter: 1
+aabbMax:
+  X: 0.33173999190330505
+  Y: 0.06167599931359291
+  Z: 0.8266029953956604
+aabbMin:
+  X: -0.44775399565696716
+  Y: -0.06054700165987015
+  Z: -0.820743978023529
+attackPower: 32
+bfres: Weapon_Bow_032
+boundingForTraverse: 0.12222299724817276
+bowArrowName: ''
+bowIsLeadShot: true
+bowIsRapidFire: false
+bowLeadShotNum: 3
+bowRapidFireNum: 2
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: Weapon_Bow_032
+generalLife: 45
+homeArea:
+- name: HeburaMountains
+- name: CentralHyrule
+- name: EldinMountains
+instSize: 49268
+itemBuyingPrice: 156
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 52
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Weapon_Bow_032
+name: Weapon_Bow_032
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: WeaponBow
+slink: Weapon_Bow_Metal
+sortKey: 14552
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2755f107: 659943687
+  tag289f28b5: 681519285
+  tag2cef9fdc: 753901532
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagb51794dc: !u 0xb51794dc
+  tage0194f30: !u 0xe0194f30
+traverseDist: 80.0
+weaponCommonGuardPower: 0
+weaponCommonPoweredSharpAddAtkMax: 18
+weaponCommonPoweredSharpAddAtkMin: 10
+weaponCommonPoweredSharpAddLifeMax: 28
+weaponCommonPoweredSharpAddLifeMin: 12
+weaponCommonPoweredSharpAddRapidFireMax: 1.2999999523162842
+weaponCommonPoweredSharpAddRapidFireMin: 1.100000023841858
+weaponCommonPoweredSharpAddSpreadFire: true
+weaponCommonPoweredSharpAddSurfMaster: false
+weaponCommonPoweredSharpAddThrowMax: 1.0
+weaponCommonPoweredSharpAddThrowMin: 1.0
+weaponCommonPoweredSharpAddZoomRapid: false
+weaponCommonPoweredSharpWeaponAddGuardMax: 0
+weaponCommonPoweredSharpWeaponAddGuardMin: 0
+weaponCommonRank: 0
+weaponCommonSharpWeaponAddAtkMax: 9
+weaponCommonSharpWeaponAddAtkMin: 5
+weaponCommonSharpWeaponAddCrit: false
+weaponCommonSharpWeaponAddGuardMax: 0
+weaponCommonSharpWeaponAddGuardMin: 0
+weaponCommonSharpWeaponAddLifeMax: 11
+weaponCommonSharpWeaponAddLifeMin: 6
+weaponCommonSharpWeaponPer: 10.0
+weaponCommonStickDamage: 0
+xlink: Weapon
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,21 @@
+aabbMax:
+  X: 7.411449909210205
+  Y: 0.1959269940853119
+  Z: 6.695000171661377
+aabbMin:
+  X: -7.411449909210205
+  Y: -0.5462899804115295
+  Z: -6.695000171661377
+bfres: FldObj_Ground_FironeBeach_A
+boundingForTraverse: 0.7422170042991638
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: FldObj_Ground_FironeBeach_A_02
+name: FldObj_Ground_FironeBeach_A_02
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffff482a
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

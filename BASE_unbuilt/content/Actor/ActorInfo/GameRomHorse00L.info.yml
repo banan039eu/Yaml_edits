@@ -1,0 +1,44 @@
+aabbMax:
+  X: 1.8434200286865234
+  Y: 3.500809907913208
+  Z: 2.275330066680908
+aabbMin:
+  X: -0.7816359996795654
+  Y: -0.010928000323474407
+  Z: -1.4411200284957886
+animalUnitBasePlayRate: 0.949999988079071
+attackPower: 10
+bfres: Horse_Link_L
+boundingForTraverse: 3.5117380619049072
+bugMask: 3
+elink: Horse
+generalLife: 300
+homeArea:
+- name: FironeGrassland
+- name: ''
+- name: ''
+horseASVariation: Slow
+horseGearTopChargeNum: 3
+horseNature: 2
+horseUnitRiddenAnimalType: 6
+instSize: 306300
+lookAtOffsetY: 0.20000000298023224
+mainModel: Horse_Link_L
+name: GameRomHorse00L
+pictureBookLiveSpot1: 21
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: 26
+profile: Horse
+rigidBodyCenterY: -2.25
+slink: HorseLarge
+sortKey: 101
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag24cd75fe: 617444862
+  tag5aa0d024: 1520488484
+  tag6b3d3141: 1799172417
+traverseDist: 200.0
+xlink: Horse
+yLimitAlgorithm: NoLimit

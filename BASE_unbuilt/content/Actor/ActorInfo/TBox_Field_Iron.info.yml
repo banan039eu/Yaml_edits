@@ -1,0 +1,42 @@
+aabbMax:
+  X: 0.7133790254592896
+  Y: 1.1298799514770508
+  Z: 0.5288090109825134
+aabbMin:
+  X: -0.7041019797325134
+  Y: 0.0
+  Z: -0.5107420086860657
+attackPower: 0
+bfres: Obj_TBox_Field_Iron
+boundingForTraverse: 1.1298799514770508
+bugMask: 3
+elink: TBox_Field
+generalLife: 100
+homeArea:
+- name: CentralHyrule
+- name: GerudoHighlands
+- name: WestHateru
+instSize: 45148
+lookAtOffsetY: 0.20000000298023224
+mainModel: TBox_Field_Iron
+name: TBox_Field_Iron
+pictureBookLiveSpot1: 20
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: 25
+profile: MapDynamicActive
+rigidBodyCenterY: 0.44253700971603394
+slink: TBox_Field_Iron
+sortKey: 70000
+systemIsGetItemSelf: false
+systemSameGroupActorName: TBox_Field_Iron
+tags:
+  tag0fee9a49: 267295305
+  tag21ebb4ab: 569095339
+  tag4186e30f: 1099358991
+  tag6308f367: 1661530983
+  tag9dc91bb3: !u 0x9dc91bb3
+  tagb51794dc: !u 0xb51794dc
+  tagbb8d80c2: !u 0xbb8d80c2
+  tagc2ac3213: !u 0xc2ac3213
+  tagdeb2c8bd: !u 0xdeb2c8bd
+yLimitAlgorithm: NoLimit

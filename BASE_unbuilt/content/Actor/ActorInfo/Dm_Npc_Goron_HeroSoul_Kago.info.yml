@@ -1,0 +1,27 @@
+aabbMax:
+  X: 3.117189884185791
+  Y: 3.2792699337005615
+  Z: 1.03125
+aabbMin:
+  X: -3.117189884185791
+  Y: -0.0005750000127591193
+  Z: -1.123039960861206
+bfres: Npc_Goron_Hero_Low
+boundingForTraverse: 3.2798449993133545
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Dm_Npc_Goron_HeroSoul_Kago
+generalLife: 100
+instSize: 193964
+mainModel: Npc_Goron_Hero_Low
+name: Dm_Npc_Goron_HeroSoul_Kago
+profile: DemoNPC
+slink: Dm_Npc_Goron_HeroSoul_Kago
+sortKey: -15
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+  tagc28d054e: !u 0xc28d054e
+  tagc5b7c123: !u 0xc5b7c123
+yLimitAlgorithm: NoLimit

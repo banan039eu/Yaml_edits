@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 5364
+name: TipsSystemActor
+profile: EventSystem
+sortKey: 0
+yLimitAlgorithm: NoLimit

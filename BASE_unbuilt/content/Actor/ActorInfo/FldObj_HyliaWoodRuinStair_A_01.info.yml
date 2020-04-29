@@ -1,0 +1,18 @@
+aabbMax:
+  X: 1.843209981918335
+  Y: 1.6302800178527832
+  Z: 1.66635000705719
+aabbMin:
+  X: -1.9003299474716187
+  Y: -0.421656996011734
+  Z: -1.934209942817688
+bfres: FldObj_HyliaWoodRuin_A
+boundingForTraverse: 2.0519371032714844
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 29912
+mainModel: FldObj_HyliaWoodRuinStair_A_01
+name: FldObj_HyliaWoodRuinStair_A_01
+profile: MapConstPassive
+sortKey: -11
+yLimitAlgorithm: NoLimit

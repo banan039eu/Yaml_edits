@@ -1,0 +1,23 @@
+aabbMax:
+  X: 37.104400634765625
+  Y: 48.096099853515625
+  Z: 29.534299850463867
+aabbMin:
+  X: -35.6531982421875
+  Y: -0.3019680082798004
+  Z: -33.747798919677734
+bfres: FldObj_CliffWhite_A
+boundingForTraverse: 48.398067474365234
+bugMask: 0
+instSize: 27608
+isHasFar: true
+mainModel: FldObj_CliffWhiteCave_A_01
+name: FldObj_CliffWhiteCave_A_01
+profile: MapConstPassive
+sortKey: 2
+tags:
+  tag932d2d91: !u 0x932d2d91
+terrainTextures:
+- !u 0xffff1d11
+traverseDist: 596.4276733398438
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,18 @@
+aabbMax:
+  X: 6.257629871368408
+  Y: 3.296489953994751
+  Z: 6.519959926605225
+aabbMin:
+  X: -5.055819988250732
+  Y: -2.484679937362671
+  Z: -6.490729808807373
+bfres: TwnObj_City_Gerudo_A
+boundingForTraverse: 5.781169891357422
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 123772
+mainModel: TwnObj_City_GerudoMayerHouseRoom_A_02
+name: TwnObj_City_GerudoMayerHouseRoom_A_02
+profile: MapConstPassive
+sortKey: 26
+yLimitAlgorithm: NoLimit

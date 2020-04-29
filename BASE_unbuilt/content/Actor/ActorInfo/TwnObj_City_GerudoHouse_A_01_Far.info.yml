@@ -1,0 +1,22 @@
+aabbMax:
+  X: 26.299299240112305
+  Y: 4.997029781341553
+  Z: 44.90639877319336
+aabbMin:
+  X: -40.7682991027832
+  Y: -5.384439945220947
+  Z: -39.484901428222656
+bfres: TwnObj_City_Gerudo_A_Far
+boundingForTraverse: 10.3814697265625
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: TwnObj_City_GerudoHouse_A_01_Far
+name: TwnObj_City_GerudoHouse_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag03528579: 55739769
+  tag57fd54ce: 1476220110
+traverseDist: 4000.0
+yLimitAlgorithm: NoLimit

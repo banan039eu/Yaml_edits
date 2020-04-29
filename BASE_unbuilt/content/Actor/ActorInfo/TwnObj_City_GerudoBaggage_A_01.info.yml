@@ -1,0 +1,18 @@
+aabbMax:
+  X: 1.631119966506958
+  Y: 2.163830041885376
+  Z: 1.320970058441162
+aabbMin:
+  X: -1.5264699459075928
+  Y: -0.004941000137478113
+  Z: -1.0609300136566162
+bfres: TwnObj_City_GerudoBaggage_A
+boundingForTraverse: 2.1687710285186768
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 37788
+mainModel: TwnObj_City_GerudoBaggage_A_01
+name: TwnObj_City_GerudoBaggage_A_01
+profile: MapConstPassive
+sortKey: 2
+yLimitAlgorithm: NoLimit

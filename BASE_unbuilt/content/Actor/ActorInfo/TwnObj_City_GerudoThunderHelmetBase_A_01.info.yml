@@ -1,0 +1,18 @@
+aabbMax:
+  X: 0.2982800006866455
+  Y: 1.3826500177383423
+  Z: 0.336326003074646
+aabbMin:
+  X: -0.2885519862174988
+  Y: -0.006856000050902367
+  Z: -0.36173000931739807
+bfres: TwnObj_City_Gerudo_A
+boundingForTraverse: 1.3895059823989868
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 72648
+mainModel: TwnObj_City_GerudoThunderHelmetBase_A_01
+name: TwnObj_City_GerudoThunderHelmetBase_A_01
+profile: MapConstPassive
+sortKey: 1
+yLimitAlgorithm: NoLimit

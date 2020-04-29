@@ -1,0 +1,52 @@
+aabbMax:
+  X: 0.3874509930610657
+  Y: 0.6894639730453491
+  Z: 0.37855398654937744
+aabbMin:
+  X: -0.3874509930610657
+  Y: -3.000000106112566e-06
+  Z: -0.3288570046424866
+bfres: Animal_Crab
+boundingForTraverse: 0.6894670128822327
+bugMask: 3
+cureItemEffectLevel: 2
+cureItemEffectType: AttackUp
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 4
+cursorOffsetY: 0.699999988079071
+drops:
+  Normal:
+  - Item_InsectGet_K
+elink: Insect
+generalLife: 1
+instSize: 70932
+itemBuyingPrice: 32
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 8
+itemStainColor: -1
+itemUseIconActorName: Item_InsectGet_K
+mainModel: Crab
+name: Animal_Insect_K
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: CapturedActor
+slink: Animal_Insect_Crab
+sortKey: 34160
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_InsectGet_K
+tags:
+  tag14185415: 337138709
+  tag168ce9a9: 378333609
+  tag24cd75fe: 617444862
+  tag489920ab: 1217994923
+  tag5ad0d068: 1523634280
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagac9f717f: !u 0xac9f717f
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 4436
+name: SoundShieldingAreaTag
+profile: AreaManagementForPlayer
+sortKey: 0
+yLimitAlgorithm: NoLimit

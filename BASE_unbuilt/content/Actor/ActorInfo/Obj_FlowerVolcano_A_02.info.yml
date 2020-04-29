@@ -1,0 +1,39 @@
+aabbMax:
+  X: 1.3747800588607788
+  Y: 1.5734000205993652
+  Z: 1.6087199449539185
+aabbMin:
+  X: -1.2699600458145142
+  Y: -0.6175270080566406
+  Z: -1.3283400535583496
+attackPower: 0
+bfres: Obj_Plant_DeathMt_A
+boundingForTraverse: 2.190927028656006
+bugMask: 2
+cursorOffsetY: 0.5
+elink: Obj_FlowerVolcano_A_02
+generalLife: 100
+instSize: 23252
+mainModel: Obj_Plant_DeathMt_A_02
+name: Obj_FlowerVolcano_A_02
+profile: MapDynamicPassive
+slink: Plant
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag1f4b9ede: 525049566
+  tag3909a11f: 956932383
+  tag3d4375d9: 1027831257
+  tag50fb41e2: 1358643682
+  tag51ed35a6: 1374500262
+  tag55ef2d02: 1441737986
+  tag85aee6eb: !u 0x85aee6eb
+  tag960721f7: !u 0x960721f7
+  taga4a8ba48: !u 0xa4a8ba48
+  tagcc6dc85b: !u 0xcc6dc85b
+  tagd902a8a2: !u 0xd902a8a2
+  tage30edf85: !u 0xe30edf85
+  tage91ea5f6: !u 0xe91ea5f6
+  tagf47b2e0d: !u 0xf47b2e0d
+yLimitAlgorithm: NoLimit

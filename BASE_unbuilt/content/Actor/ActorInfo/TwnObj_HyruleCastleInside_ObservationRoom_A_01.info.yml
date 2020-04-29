@@ -1,0 +1,25 @@
+aabbMax:
+  X: 14.63640022277832
+  Y: 22.223800659179688
+  Z: 18.915300369262695
+aabbMin:
+  X: -15.58650016784668
+  Y: -0.6649270057678223
+  Z: -15.621100425720215
+bfres: TwnObj_HyruleCastleInside_ObservationRoom_A
+boundingForTraverse: 22.88872718811035
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 379904
+mainModel: TwnObj_HyruleCastleInside_ObservationRoom_A_01
+name: TwnObj_HyruleCastleInside_ObservationRoom_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+terrainTextures:
+- 1397890321
+traverseDist: 200.0
+yLimitAlgorithm: NoLimit

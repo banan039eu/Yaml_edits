@@ -1,0 +1,17 @@
+aabbMax:
+  X: 3.6081199645996094
+  Y: 23.217100143432617
+  Z: 8.216460227966309
+aabbMin:
+  X: -3.2468700408935547
+  Y: -0.530663013458252
+  Z: -5.053390026092529
+bfres: FldObj_RuinStatueDragon_A
+boundingForTraverse: 23.74776268005371
+bugMask: 0
+instSize: 27608
+mainModel: FldObj_RuinStatueDragon_A_02
+name: FldObj_RuinStatueDragon_A_02
+profile: MapConstPassive
+sortKey: 0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,46 @@
+aabbMax:
+  X: 3.1391100883483887
+  Y: 12.120800018310547
+  Z: 7.778570175170898
+aabbMin:
+  X: -8.688440322875977
+  Y: 0.4137429893016815
+  Z: -2.6992900371551514
+attackPower: 0
+bfres: Enemy_SiteBoss_Bow
+boundingForTraverse: 11.707056999206543
+bugMask: 3
+cursorOffsetY: 2.0
+elink: Enemy_SiteBoss_Bow
+enemyRank: 1
+generalLife: 500
+instSize: 365732
+mainModel: SiteBoss_Bow
+name: Enemy_SiteBoss_Bow_R
+pictureBookLiveSpot1: 37
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: SiteBoss
+rigidBodyCenterY: 0.10000000149011612
+slink: SiteBoss_Bow
+sortKey: 1703
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_SiteBoss_Bow
+tags:
+  tag03528579: 55739769
+  tag17044493: 386155667
+  tag35b5afc9: 901099465
+  tag36565b66: 911629158
+  tag3a61e2a9: 979493545
+  tag4806038d: 1208353677
+  tag60b25e51: 1622302289
+  tag7dd56981: 2111138177
+  tag994aef4b: !u 0x994aef4b
+  tag9eb0ef08: !u 0x9eb0ef08
+  tagcf3f392c: !u 0xcf3f392c
+  tagd459613a: !u 0xd459613a
+  tagdeb2c8bd: !u 0xdeb2c8bd
+  tagfd5643b5: !u 0xfd5643b5
+traverseDist: 99999.0
+xlink: SiteBoss
+yLimitAlgorithm: NoLimit

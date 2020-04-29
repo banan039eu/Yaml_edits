@@ -1,0 +1,42 @@
+aabbMax:
+  X: 0.17773400247097015
+  Y: 1.7861299514770508
+  Z: 0.19359000027179718
+aabbMin:
+  X: -0.17773400247097015
+  Y: 1.1601699590682983
+  Z: -0.41892799735069275
+armorDefenceAddLevel: 5
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: SwimSpeed
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 1
+armorNextRankName: ''
+armorStarNum: 1
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 0
+bfres: Armor_185
+boundingForTraverse: 0.6259599924087524
+bugMask: 3
+instSize: 80188
+itemBuyingPrice: 50
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 15
+itemStainColor: -1
+itemUseIconActorName: ''
+mainModel: Armor_185_Head
+name: Armor_185_Head
+profile: ArmorHead
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: Collaboration
+slink: Armor_Head_MetalHeavy
+sortKey: 6521875
+tags:
+  tag1c0c8d23: 470584611
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,25 @@
+aabbMax:
+  X: 15.843899726867676
+  Y: 13.891400337219238
+  Z: 14.547800064086914
+aabbMin:
+  X: -16.765600204467773
+  Y: -0.2606219947338104
+  Z: -17.850000381469727
+bfres: FldObj_DLC_Rock_A
+boundingForTraverse: 14.152022361755371
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 28760
+mainModel: FldObj_DLC_Rock_A
+name: FldObj_DLC_Rock_A
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+  tag977b149c: !u 0x977b149c
+  tagcd60a1be: !u 0xcd60a1be
+terrainTextures:
+- !u 0xffffff3a
+traverseDist: 4000.0
+yLimitAlgorithm: NoLimit

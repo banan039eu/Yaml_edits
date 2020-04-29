@@ -1,0 +1,26 @@
+aabbMax:
+  X: 10.989999771118164
+  Y: 1.2999999523162842
+  Z: 10.989999771118164
+aabbMin:
+  X: -10.989999771118164
+  Y: 0.3540000021457672
+  Z: -10.989999771118164
+attackPower: 0
+bfres: TwnObj_HyruleCastle_A
+boundingForTraverse: 0.9459999799728394
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 23452
+mainModel: TwnObj_HyruleCastleSealCover_A_01
+name: TwnObj_HyruleCastleSealCover_A_01
+profile: MapConstActive
+sortKey: -19
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  taga1c9da5d: !u 0xa1c9da5d
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

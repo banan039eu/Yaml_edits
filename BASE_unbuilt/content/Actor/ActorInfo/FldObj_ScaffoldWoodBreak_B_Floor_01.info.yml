@@ -1,0 +1,19 @@
+aabbMax:
+  X: 4.147480010986328
+  Y: 0.1759209930896759
+  Z: 0.1171799972653389
+aabbMin:
+  X: -4.451980113983154
+  Y: -0.9107999801635742
+  Z: -6.840099811553955
+bfres: FldObj_ScaffoldWoodBreak_B
+boundingForTraverse: 1.0867209434509277
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 38428
+mainModel: FldObj_ScaffoldWoodBreak_B_Floor_01
+name: FldObj_ScaffoldWoodBreak_B_Floor_01
+profile: MapConstPassive
+sortKey: -23
+traverseDist: 400.0
+yLimitAlgorithm: NoLimit

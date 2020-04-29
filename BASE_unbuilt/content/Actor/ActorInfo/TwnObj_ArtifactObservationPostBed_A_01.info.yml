@@ -1,0 +1,25 @@
+aabbMax:
+  X: 0.35521599650382996
+  Y: 1.0329500436782837
+  Z: 1.7883299589157104
+aabbMin:
+  X: -1.0215599536895752
+  Y: 0.4146200120449066
+  Z: -1.6543699502944946
+attackPower: 0
+bfres: TwnObj_ArtifactObservationPost_A
+boundingForTraverse: 0.6183300018310547
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 37260
+mainModel: TwnObj_ArtifactObservationPostBed_A_01
+name: TwnObj_ArtifactObservationPostBed_A_01
+profile: MapDynamicPassive
+rigidBodyCenterY: 0.7645559906959534
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag28a3a540: 681813312
+yLimitAlgorithm: NoLimit

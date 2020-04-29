@@ -1,0 +1,35 @@
+aabbMax:
+  X: 0.7007420063018799
+  Y: 1.2052899599075317
+  Z: 0.5803020000457764
+aabbMin:
+  X: -0.45915400981903076
+  Y: -0.15086600184440613
+  Z: -0.639519989490509
+attackPower: 0
+bfres: Obj_FlowerForgetMeNot_A
+boundingForTraverse: 1.3561559915542603
+bugMask: 2
+elink: Obj_FlowerForgetMeNot_A_01
+generalLife: 100
+instSize: 23252
+mainModel: Obj_FlowerForgetMeNot_A_01
+name: Obj_FlowerForgetMeNot_A_01
+profile: MapDynamicPassive
+slink: Plant
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag3d4375d9: 1027831257
+  tag50fb41e2: 1358643682
+  tag51ed35a6: 1374500262
+  tag55ef2d02: 1441737986
+  tag7de11d78: 2111905144
+  taga1c9da5d: !u 0xa1c9da5d
+  tagd902a8a2: !u 0xd902a8a2
+  tage91ea5f6: !u 0xe91ea5f6
+  tagef94310b: !u 0xef94310b
+  tagf47b2e0d: !u 0xf47b2e0d
+  tagf5f5d49c: !u 0xf5f5d49c
+yLimitAlgorithm: NoLimit

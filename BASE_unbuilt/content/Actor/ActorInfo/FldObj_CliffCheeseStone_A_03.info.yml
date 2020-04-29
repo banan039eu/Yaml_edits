@@ -1,0 +1,20 @@
+aabbMax:
+  X: 6.525000095367432
+  Y: 2.1293699741363525
+  Z: 3.5083999633789062
+aabbMin:
+  X: -6.310480117797852
+  Y: -0.8055369853973389
+  Z: -5.106359958648682
+bfres: FldObj_CliffCheese_A
+boundingForTraverse: 2.9349069595336914
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17396
+mainModel: FldObj_CliffCheeseStone_A_03
+name: FldObj_CliffCheeseStone_A_03
+profile: MapConstPassive
+sortKey: 0
+terrainTextures:
+- !u 0xffffff3c
+yLimitAlgorithm: NoLimit

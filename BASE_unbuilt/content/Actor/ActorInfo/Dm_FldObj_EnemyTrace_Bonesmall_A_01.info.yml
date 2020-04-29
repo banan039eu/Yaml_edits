@@ -1,0 +1,23 @@
+aabbMax:
+  X: 3.2338500022888184
+  Y: 0.24605800211429596
+  Z: 1.6506999731063843
+aabbMin:
+  X: -2.0338399410247803
+  Y: -0.06770899891853333
+  Z: -2.300220012664795
+bfres: FldObj_EnemyTrace_A
+boundingForTraverse: 0.3137669861316681
+bugMask: 1
+cursorOffsetY: 0.5
+generalLife: 100
+instSize: 34528
+mainModel: FldObj_EnemyTrace_Bonesmall_A_01
+name: Dm_FldObj_EnemyTrace_Bonesmall_A_01
+profile: DemoNPC
+sortKey: -8
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+yLimitAlgorithm: NoLimit

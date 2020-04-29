@@ -1,0 +1,7 @@
+bugMask: 1
+instSize: 4708
+name: TerrainCalcCenterTag
+profile: SoleTag
+sortKey: 0
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

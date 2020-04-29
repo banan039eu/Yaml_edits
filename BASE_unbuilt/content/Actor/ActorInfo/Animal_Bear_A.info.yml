@@ -1,0 +1,50 @@
+aabbMax:
+  X: 1.5545200109481812
+  Y: 2.051340103149414
+  Z: 1.5790300369262695
+aabbMin:
+  X: -1.6418100595474243
+  Y: -0.0204050000756979
+  Z: -1.9694700241088867
+animalUnitBasePlayRate: 1.0
+attackPower: 24
+bfres: Animal_Bear
+boundingForTraverse: 2.071744918823242
+bugMask: 3
+cursorOffsetY: 0.699999988079071
+drops:
+  Normal:
+  - Item_Meat_02
+  - Item_Meat_11
+  - BeeHome
+elink: Animal_Bear_A
+enemyRank: 1
+generalLife: 250
+homeArea:
+- name: TabantaFrontier
+- name: TamulPlateau
+- name: HyruleForest
+horseUnitRiddenAnimalType: 10
+instSize: 183820
+mainModel: Bear
+name: Animal_Bear_A
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+rigidBodyCenterY: 0.3499999940395355
+slink: Animal_Bear_A
+sortKey: 28100
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag1c516745: 475096901
+  tag24cd75fe: 617444862
+  tag42766900: 1115056384
+  tag5aa0d024: 1520488484
+  tag5e3171bc: 1580298684
+  tag6b3d3141: 1799172417
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagac9f717f: !u 0xac9f717f
+xlink: Quadruped_Animal_Ridable
+yLimitAlgorithm: NoLimit

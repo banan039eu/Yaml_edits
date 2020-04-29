@@ -1,0 +1,50 @@
+aabbMax:
+  X: 0.9179689884185791
+  Y: 1.5058599710464478
+  Z: 0.20531100034713745
+aabbMin:
+  X: -0.9179689884185791
+  Y: 0.6674990057945251
+  Z: -0.1743140071630478
+armorDefenceAddLevel: 7
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 0
+armorEffectEffectType: None
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: Armor_096_Upper
+armorStarNum: 2
+armorUpperDisableSelfMantle: false
+armorUpperUseMantleType: 1
+bfres: Armor_020
+boundingForTraverse: 0.8383610248565674
+bugMask: 3
+instSize: 129932
+itemBuyingPrice: 320
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 80
+itemStainColor: -1
+itemUseIconActorName: Armor_020_Upper
+mainModel: Armor_020_Upper
+name: Armor_095_Upper
+normal0ItemName01: Armor_020_Upper
+normal0ItemName02: Item_Enemy_40
+normal0ItemName03: Item_Enemy_02
+normal0ItemNum01: 1
+normal0ItemNum02: 5
+normal0ItemNum03: 3
+normal0StuffNum: 3
+profile: ArmorUpper
+seriesArmorEnableCompBonus: false
+seriesArmorSeriesType: HyliaArmor
+slink: Armor_Upper_MetalHeavy
+sortKey: 1322153
+tags:
+  tag1c0c8d23: 470584611
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

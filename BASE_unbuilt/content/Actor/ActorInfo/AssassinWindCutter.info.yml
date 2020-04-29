@@ -1,0 +1,17 @@
+attackPower: 0
+bugMask: 3
+elink: AssassinWindCutter
+instSize: 17776
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+name: AssassinWindCutter
+profile: Bullet
+slink: AssassinWindCutter
+sortKey: 4
+tags:
+  tag336bf311: 862712593
+yLimitAlgorithm: NoLimit

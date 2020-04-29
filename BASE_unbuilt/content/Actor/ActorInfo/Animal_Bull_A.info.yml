@@ -1,0 +1,48 @@
+aabbMax:
+  X: 1.2250699996948242
+  Y: 4.125410079956055
+  Z: 2.679569959640503
+aabbMin:
+  X: -1.1727900505065918
+  Y: -0.04040199890732765
+  Z: -1.9567300081253052
+actorScale: 1.100000023841858
+animalUnitBasePlayRate: 1.0
+attackPower: 10
+bfres: Animal_Bull
+boundingForTraverse: 4.165812015533447
+bugMask: 3
+cursorOffsetY: 0.5
+drops:
+  Normal:
+  - Item_Meat_02
+  - Item_Meat_11
+elink: Animal_Bull_A
+enemyRank: 0
+generalLife: 24
+homeArea:
+- name: LanayruWetlands
+- name: TamulPlateau
+- name: EastHateru
+instSize: 154780
+mainModel: Bull
+name: Animal_Bull_A
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+rigidBodyCenterY: 0.4399999976158142
+slink: Animal_Bull_A
+sortKey: 28040
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag24cd75fe: 617444862
+  tag42766900: 1115056384
+  tag6b3d3141: 1799172417
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagac9f717f: !u 0xac9f717f
+  tagd75d5f92: !u 0xd75d5f92
+traverseDist: 80.0
+xlink: Quadruped_Animal
+yLimitAlgorithm: NoLimit

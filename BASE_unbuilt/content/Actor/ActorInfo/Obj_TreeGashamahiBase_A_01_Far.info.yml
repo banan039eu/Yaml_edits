@@ -1,0 +1,24 @@
+aabbMax:
+  X: 23.026899337768555
+  Y: 27.282899856567383
+  Z: 23.2278995513916
+aabbMin:
+  X: -26.253599166870117
+  Y: -7.920869827270508
+  Z: -23.08839988708496
+bfres: Obj_TreeGashamahi_A_Far
+boundingForTraverse: 35.20376968383789
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18548
+mainModel: Obj_TreeGashamahiBase_A_01_Far
+name: Obj_TreeGashamahiBase_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag170cf1e2: 386724322
+  tag48409b2e: 1212193582
+  tag57fd54ce: 1476220110
+  tag932d2d91: !u 0x932d2d91
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,46 @@
+aabbMax:
+  X: 0.361860990524292
+  Y: 0.6765239834785461
+  Z: 0.45127901434898376
+aabbMin:
+  X: -0.37895700335502625
+  Y: -0.025536999106407166
+  Z: -0.4185650050640106
+attackPower: 10
+bfres: Enemy_Bokoblin_Bone
+boundingForTraverse: 0.7020609974861145
+bugMask: 3
+cursorOffsetY: 1.0
+elink: Stal_Bokoblin_Junior_Head
+enemyRank: 0
+generalLife: 1
+instSize: 76292
+invalidTimes:
+- Morning_A2
+- Morning_B
+- Noon_A
+- Noon_B
+- Evening_A
+- Evening_B
+mainModel: Bokoblin_Bone_Head
+name: Enemy_Bokoblin_Bone_Junior_Head
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Enemy
+rigidBodyCenterY: 0.30000001192092896
+slink: Stal_Bokoblin_Junior_Head
+sortKey: 10512
+systemIsGetItemSelf: false
+systemSameGroupActorName: Enemy_Bokoblin_Bone_Junior
+tags:
+  tag0c6690b5: 208048309
+  tag35960905: 899025157
+  tag72d6e7a4: 1926686628
+  tag82ed5778: !u 0x82ed5778
+  tag8fda6cdd: !u 0x8fda6cdd
+  tag994aef4b: !u 0x994aef4b
+  tagb0c9e79a: !u 0xb0c9e79a
+  tagff2ecb67: !u 0xff2ecb67
+traverseDist: 150.0
+yLimitAlgorithm: NoLimit

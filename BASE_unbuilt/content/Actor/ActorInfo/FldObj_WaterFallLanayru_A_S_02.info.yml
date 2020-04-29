@@ -1,0 +1,10 @@
+bugMask: 0
+elink: FldObj_WaterFallLanayru_A_S_02
+instSize: 3380
+name: FldObj_WaterFallLanayru_A_S_02
+profile: MapConstPassive
+sortKey: -2
+tags:
+  tag572de768: 1462626152
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,34 @@
+aabbMax:
+  X: 1.2495900392532349
+  Y: 2.297379970550537
+  Z: 1.3876299858093262
+aabbMin:
+  X: -1.2495900392532349
+  Y: -0.021153999492526054
+  Z: -2.1291399002075195
+animalUnitBasePlayRate: 1.0
+attackPower: 0
+bfres: Animal_Sunazarashi
+boundingForTraverse: 2.3185338973999023
+bugMask: 3
+elink: Animal_Sunazarashi_A
+enemyRank: 0
+generalLife: 100
+instSize: 152104
+lookAtOffsetY: 1.0
+mainModel: Sunazarashi
+name: Animal_Sunazarashi_D_DLC2nd
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Prey
+slink: Animal_Sunazarashi_B
+sortKey: -34
+systemIsGetItemSelf: false
+systemSameGroupActorName: Animal_Sunazarashi_A
+tags:
+  tag24cd75fe: 617444862
+  tag6b3d3141: 1799172417
+  tagfa5c683e: !u 0xfa5c683e
+traverseDist: 80.0
+yLimitAlgorithm: NoLimit

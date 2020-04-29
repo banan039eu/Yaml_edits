@@ -1,0 +1,28 @@
+aabbMax:
+  X: 0.49804699420928955
+  Y: 1.7277499437332153
+  Z: 1.803689956665039
+aabbMin:
+  X: -0.49804699420928955
+  Y: -0.02434000000357628
+  Z: -1.3632299900054932
+attackPower: 5
+bfres: Motorcycle
+boundingForTraverse: 1.7520899772644043
+bugMask: 3
+elink: GameROMBike
+generalLife: 1
+horseUnitRiddenAnimalType: 11
+instSize: 173276
+mainModel: Motorcycle
+name: GameROMMotorcycle
+profile: Motorcycle
+rigidBodyCenterY: 0.7529630064964294
+slink: GameROMMotorcycle
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagffb635e5: !u 0xffb635e5
+xlink: GameROMMotorcycle
+yLimitAlgorithm: NoLimit

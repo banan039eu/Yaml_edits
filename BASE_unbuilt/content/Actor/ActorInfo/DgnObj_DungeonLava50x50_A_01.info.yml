@@ -1,0 +1,23 @@
+aabbMax:
+  X: 25.0
+  Y: 0.0
+  Z: 25.0
+aabbMin:
+  X: -25.0
+  Y: 0.0
+  Z: -25.0
+attackPower: 0
+bfres: DgnObj_DungeonLava50x50_A
+boundingForTraverse: 35.35533905029297
+bugMask: 3
+generalLife: 100
+instSize: 26988
+mainModel: DgnObj_DungeonLava50x50_A_01
+name: DgnObj_DungeonLava50x50_A_01
+profile: MapDynamicActive
+rigidBodyCenterY: -10.0
+slink: LavaWaterSurface
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+yLimitAlgorithm: NoLimit

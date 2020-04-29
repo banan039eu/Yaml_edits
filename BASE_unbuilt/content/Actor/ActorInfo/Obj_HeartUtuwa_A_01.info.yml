@@ -1,0 +1,41 @@
+aabbMax:
+  X: 0.39448198676109314
+  Y: 0.8163959980010986
+  Z: 0.18400199711322784
+aabbMin:
+  X: -0.39448198676109314
+  Y: 0.1300009936094284
+  Z: -0.18165600299835205
+bfres: Item_HeartUtuwa
+boundingForTraverse: 0.686394989490509
+bugMask: 3
+cursorOffsetY: 0.5
+elink: Obj_HeartUtuwa_A_01
+generalLife: 100
+instSize: 34992
+itemBuyingPrice: -1
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: -1
+itemStainColor: -1
+itemUseIconActorName: ''
+lookAtOffsetY: 0.10000000149011612
+mainModel: Item_HeartUtuwa
+name: Obj_HeartUtuwa_A_01
+profile: Item
+rigidBodyCenterY: 0.3353320062160492
+slink: Obj_HeartUtuwa
+sortKey: 50026
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag03528579: 55739769
+  tag2f0b1b66: 789257062
+  tag4850af43: 1213247299
+  tag7025851a: 1881507098
+  tagdcd7e698: !u 0xdcd7e698
+  tagdeb2c8bd: !u 0xdeb2c8bd
+  tage0194f30: !u 0xe0194f30
+  tagf9c66dec: !u 0xf9c66dec
+traverseDist: 100.0
+yLimitAlgorithm: NoLimit

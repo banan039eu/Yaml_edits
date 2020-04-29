@@ -1,0 +1,13 @@
+attackPower: 52
+bugMask: 3
+elink: GuardianBeam
+instSize: 19028
+name: GuardianBeam_RemainsWind
+profile: Beam
+slink: GuardianBeam
+sortKey: 5
+tags:
+  tag3a61e2a9: 979493545
+  tag5e27ef10: 1579675408
+  tagfd964809: !u 0xfd964809
+yLimitAlgorithm: NoLimit

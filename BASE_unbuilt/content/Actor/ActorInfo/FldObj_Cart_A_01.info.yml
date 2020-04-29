@@ -1,0 +1,20 @@
+aabbMax:
+  X: 1.4808100461959839
+  Y: 1.5516999959945679
+  Z: 4.1804399490356445
+aabbMin:
+  X: -1.4808100461959839
+  Y: -0.2307489961385727
+  Z: -2.029520034790039
+bfres: FldObj_Cart_A
+boundingForTraverse: 1.7824490070343018
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 35736
+mainModel: FldObj_Cart_A_01
+name: FldObj_Cart_A_01
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tagc60f8acb: !u 0xc60f8acb
+yLimitAlgorithm: NoLimit

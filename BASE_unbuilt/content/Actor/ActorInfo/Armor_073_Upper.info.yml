@@ -1,0 +1,49 @@
+aabbMax:
+  X: 0.9179689884185791
+  Y: 1.4931600093841553
+  Z: 0.19323700666427612
+aabbMin:
+  X: -0.9184569716453552
+  Y: 0.6128309965133667
+  Z: -0.17149999737739563
+armorDefenceAddLevel: 20
+armorEffectAncientPowUp: false
+armorEffectEffectLevel: 1
+armorEffectEffectType: ResistCold
+armorEffectEnableClimbWaterfall: false
+armorEffectEnableSpinAttack: false
+armorHeadMantleType: 0
+armorNextRankName: ''
+armorStarNum: 5
+armorUpperDisableSelfMantle: true
+armorUpperUseMantleType: 1
+bfres: Armor_009
+boundingForTraverse: 0.8803290128707886
+bugMask: 1
+instSize: 100652
+itemBuyingPrice: 2117
+itemCreatingPrice: 0
+itemSaleRevivalCount: -1
+itemSellingPrice: 530
+itemStainColor: -1
+itemUseIconActorName: Armor_009_Upper
+mainModel: Armor_009_Upper
+name: Armor_073_Upper
+normal0ItemName01: Armor_072_Upper
+normal0ItemName02: Item_Enemy_41
+normal0ItemName03: Item_Ore_B
+normal0ItemNum01: 1
+normal0ItemNum02: 10
+normal0ItemNum03: 5
+normal0StuffNum: 3
+profile: ArmorUpper
+seriesArmorEnableCompBonus: true
+seriesArmorSeriesType: Rito
+sortKey: 1722060
+tags:
+  tag1c0c8d23: 470584611
+  tag216a3a63: 560609891
+  tag289f28b5: 681519285
+  tag84f40ec6: !u 0x84f40ec6
+  tage0194f30: !u 0xe0194f30
+yLimitAlgorithm: NoLimit

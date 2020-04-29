@@ -1,0 +1,21 @@
+aabbMax:
+  X: 6.038829803466797
+  Y: 7.98406982421875
+  Z: 5.525629997253418
+aabbMin:
+  X: -56.95830154418945
+  Y: -8.40542984008789
+  Z: -5.207059860229492
+bfres: FldObj_StageGerdo_A
+boundingForTraverse: 16.38949966430664
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 60772
+mainModel: FldObj_BridgeGerdoQuarry_A_01
+name: FldObj_BridgeGerdoQuarry_A_01
+profile: MapConstPassive
+sortKey: -24
+terrainTextures:
+- !u 0xffffff47
+traverseDist: 500.0
+yLimitAlgorithm: NoLimit

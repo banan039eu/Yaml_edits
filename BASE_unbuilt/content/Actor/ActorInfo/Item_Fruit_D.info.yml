@@ -1,0 +1,60 @@
+aabbMax:
+  X: 0.3404040038585663
+  Y: 0.3808870017528534
+  Z: 0.3637259900569916
+aabbMin:
+  X: -0.37055400013923645
+  Y: -0.3023659884929657
+  Z: -0.34705400466918945
+bfres: Obj_FruitDorian_A
+boundingForTraverse: 0.6832529902458191
+bugMask: 3
+cureItemEffectLevel: 16
+cureItemEffectType: LifeMaxUp
+cureItemHitPointRecover: 12
+cursorOffsetY: 0.5199999809265137
+elink: GetItem
+generalLife: 100
+homeArea:
+- name: WestHateru
+- name: FironeGrassland
+- name: EastHateru
+instSize: 38160
+itemBuyingPrice: 60
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 15
+itemStainColor: 13
+itemUseIconActorName: ''
+mainModel: Obj_FruitDorian_A_01
+motorcycleEnergy:
+  add: 50.0
+name: Item_Fruit_D
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+slink: Item_Fruit
+sortKey: 31050
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag0fee9a49: 267295305
+  tag14185415: 337138709
+  tag31409cea: 826318058
+  tag682e5129: 1747865897
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb0f85060: !u 0xb0f85060
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagd53a8775: !u 0xd53a8775
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tage97dcd22: !u 0xe97dcd22
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+  tagf5f5d49c: !u 0xf5f5d49c
+yLimitAlgorithm: NoLimit

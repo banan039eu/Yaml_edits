@@ -1,0 +1,57 @@
+aabbMax:
+  X: 0.3542810082435608
+  Y: 0.5965240001678467
+  Z: 0.3482779860496521
+aabbMin:
+  X: -0.3691740036010742
+  Y: -0.013042000122368336
+  Z: -0.36866098642349243
+bfres: Obj_MashroomAttack_A
+boundingForTraverse: 0.6095659732818604
+bugMask: 1
+cureItemEffectLevel: 2
+cureItemEffectType: AttackUp
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 2
+cursorOffsetY: 0.4000000059604645
+elink: GetItem
+generalLife: 100
+homeArea:
+- name: HyruleForest
+- name: TabantaFrontier
+- name: TamulPlateau
+instSize: 37188
+itemBuyingPrice: 20
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 5
+itemStainColor: 12
+itemUseIconActorName: ''
+mainModel: Obj_MashroomAttack_A_01
+motorcycleEnergy:
+  add: 75.0
+name: Item_Mushroom_L
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+rigidBodyCenterY: 0.2949349880218506
+sortKey: 31300
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag14185415: 337138709
+  tag1f4b9ede: 525049566
+  tag682e5129: 1747865897
+  tag7a3964c1: 2050581697
+  tag85c817c3: !u 0x85c817c3
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

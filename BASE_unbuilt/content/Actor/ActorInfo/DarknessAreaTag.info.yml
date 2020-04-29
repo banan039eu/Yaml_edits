@@ -1,0 +1,6 @@
+bugMask: 1
+instSize: 4848
+name: DarknessAreaTag
+profile: AreaManagementForOthers
+sortKey: 0
+yLimitAlgorithm: NoLimit

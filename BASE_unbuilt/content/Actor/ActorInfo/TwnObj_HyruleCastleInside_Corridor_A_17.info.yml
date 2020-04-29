@@ -1,0 +1,25 @@
+aabbMax:
+  X: 21.15060043334961
+  Y: 12.869500160217285
+  Z: 2.4038500785827637
+aabbMin:
+  X: -5.5938801765441895
+  Y: -0.3220199942588806
+  Z: -58.50450134277344
+bfres: TwnObj_HyruleCastleInside_Corridor_A
+boundingForTraverse: 13.191519737243652
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 162220
+mainModel: TwnObj_HyruleCastleInside_Corridor_A_17
+name: TwnObj_HyruleCastleInside_Corridor_A_17
+profile: MapConstPassive
+sortKey: 5146
+tags:
+  tag84f40ec6: !u 0x84f40ec6
+  tag8fda6cdd: !u 0x8fda6cdd
+  taga1c9da5d: !u 0xa1c9da5d
+terrainTextures:
+- !u 0xffffff52
+traverseDist: 300.0
+yLimitAlgorithm: NoLimit

@@ -1,0 +1,27 @@
+aabbMax:
+  X: 0.85487300157547
+  Y: 1.1488200426101685
+  Z: 1.6440000534057617
+aabbMin:
+  X: -0.85487300157547
+  Y: -0.85487300157547
+  Z: -0.0009740000241436064
+attackPower: 0
+bfres: DgnObj_WaterPump_A
+boundingForTraverse: 2.003693103790283
+bugMask: 3
+elink: WaterPump
+generalLife: 100
+instSize: 39668
+mainModel: DgnObj_WaterPump_A_01
+name: WaterPump
+profile: MapConstActive
+rigidBodyCenterY: 0.055723000317811966
+slink: WaterPump
+sortKey: 0
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tag2c608f30: 744525616
+  tagc2ac3213: !u 0xc2ac3213
+yLimitAlgorithm: NoLimit

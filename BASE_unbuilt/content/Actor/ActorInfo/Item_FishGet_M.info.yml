@@ -1,0 +1,56 @@
+aabbMax:
+  X: 0.20716600120067596
+  Y: 0.36029601097106934
+  Z: 0.38539600372314453
+aabbMin:
+  X: -0.14994999766349792
+  Y: -0.013261999934911728
+  Z: -0.26796799898147583
+bfres: Animal_Shell_B
+boundingForTraverse: 0.37355801463127136
+bugMask: 3
+cureItemEffectLevel: 1
+cureItemEffectType: Quietness
+cureItemEffectiveTime: 900
+cureItemHitPointRecover: 4
+cursorOffsetY: 0.30000001192092896
+elink: Animal_Fish_M
+generalLife: 1
+homeArea:
+- name: WestHateru
+- name: LanayruWaterSources
+- name: HyruleHill
+instSize: 39728
+itemBuyingPrice: 24
+itemCreatingPrice: -1
+itemSaleRevivalCount: -1
+itemSellingPrice: 6
+itemStainColor: -1
+itemUseIconActorName: Item_FishGet_M
+mainModel: Shell_B
+motorcycleEnergy:
+  add: 75.0
+name: Item_FishGet_M
+pictureBookLiveSpot1: -1
+pictureBookLiveSpot2: -1
+pictureBookSpecialDrop: -1
+profile: Item
+rigidBodyCenterY: 0.16436700522899628
+slink: Item_ShellFishGet
+sortKey: 34140
+systemIsGetItemSelf: false
+systemSameGroupActorName: Item_FishGet_M
+tags:
+  tag14185415: 337138709
+  tag168ce9a9: 378333609
+  tag24cd75fe: 617444862
+  tag9b44906f: !u 0x9b44906f
+  tag9e8d2a01: !u 0x9e8d2a01
+  tagb51794dc: !u 0xb51794dc
+  tagc2ac3213: !u 0xc2ac3213
+  tagdac84a6c: !u 0xdac84a6c
+  tage0194f30: !u 0xe0194f30
+  tage13449bf: !u 0xe13449bf
+  tagef2efe5d: !u 0xef2efe5d
+  tagf535e420: !u 0xf535e420
+yLimitAlgorithm: NoLimit

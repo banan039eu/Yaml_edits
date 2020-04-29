@@ -1,0 +1,23 @@
+aabbMax:
+  X: 0.35961800813674927
+  Y: 1.7908899784088135
+  Z: 0.4041909873485565
+aabbMin:
+  X: -0.38975200057029724
+  Y: -0.0014900000533089042
+  Z: -0.21848399937152863
+boundingForTraverse: 1.7923799753189087
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: NPC
+instSize: 550236
+name: Npc_FaronWoods009
+profile: NPC
+slink: Npc_Hylia_M
+sortKey: -2
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+tags:
+  tagf92947a1: !u 0xf92947a1
+xlink: Npc
+yLimitAlgorithm: NoLimit

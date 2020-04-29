@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.3724749982357025
+  Y: 1.710319995880127
+  Z: 0.4041909873485565
+aabbMin:
+  X: -0.4056439995765686
+  Y: -0.00013099999341648072
+  Z: -0.31093698740005493
+boundingForTraverse: 1.7104510068893433
+bugMask: 3
+cursorOffsetY: 0.30000001192092896
+elink: NPC
+instSize: 564204
+name: Npc_HatenoVillage005
+profile: NPC
+slink: Npc_Farmer_M
+sortKey: 51
+systemIsGetItemSelf: false
+systemSameGroupActorName: ''
+xlink: Npc
+yLimitAlgorithm: NoLimit

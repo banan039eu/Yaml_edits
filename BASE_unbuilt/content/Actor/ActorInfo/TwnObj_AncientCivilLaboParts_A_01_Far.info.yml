@@ -1,0 +1,21 @@
+aabbMax:
+  X: 9.613750457763672
+  Y: 27.027799606323242
+  Z: 6.336540222167969
+aabbMin:
+  X: -16.757699966430664
+  Y: 15.81029987335205
+  Z: -5.187260150909424
+bfres: TwnObj_AncientCivilLavo_A_Far
+boundingForTraverse: 11.217499732971191
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 17140
+mainModel: TwnObj_AncientCivilLaboParts_A_01_Far
+name: TwnObj_AncientCivilLaboParts_A_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 2000.0
+yLimitAlgorithm: NoLimit

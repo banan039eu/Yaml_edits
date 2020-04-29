@@ -1,0 +1,20 @@
+aabbMax:
+  X: 3.885509967803955
+  Y: 3.0621399879455566
+  Z: 3.2554800510406494
+aabbMin:
+  X: -28.4158992767334
+  Y: -3.598949909210205
+  Z: -3.147979974746704
+bfres: TwnObj_Village_Rito_A_Far
+boundingForTraverse: 6.661089897155762
+bugMask: 0
+instSize: 17140
+mainModel: TwnObj_Village_RitoBridge_C_01_Far
+name: TwnObj_Village_RitoBridge_C_01_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 1000.0
+yLimitAlgorithm: NoLimit

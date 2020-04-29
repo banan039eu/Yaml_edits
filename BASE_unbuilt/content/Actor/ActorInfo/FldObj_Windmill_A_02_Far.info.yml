@@ -1,0 +1,21 @@
+aabbMax:
+  X: 10.361800193786621
+  Y: 91.8239974975586
+  Z: 6.624460220336914
+aabbMin:
+  X: -10.349800109863281
+  Y: -0.7251279950141907
+  Z: -11.556900024414062
+bfres: FldObj_Windmill_A_Far
+boundingForTraverse: 92.54912567138672
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 18096
+mainModel: FldObj_Windmill_A_02_Far
+name: FldObj_Windmill_A_02_Far
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag57fd54ce: 1476220110
+traverseDist: 3000.0
+yLimitAlgorithm: NoLimit

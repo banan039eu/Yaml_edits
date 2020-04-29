@@ -1,0 +1,21 @@
+aabbMax:
+  X: 38.91130065917969
+  Y: 128.20799255371094
+  Z: 106.65299987792969
+aabbMin:
+  X: -27.112699508666992
+  Y: -7.027259826660156
+  Z: -76.94049835205078
+bfres: DgnObj_IbutsuElectricSit_A_Far
+boundingForTraverse: 135.23526000976562
+bugMask: 0
+elink: DgnScene_RemainsElec_Far
+instSize: 19612
+mainModel: DgnObj_IbutsuElectricSit_A_02_Far
+name: DgnScene_RemainsElec_Far
+profile: MapConstPassive
+sortKey: -1
+tags:
+  tag572de768: 1462626152
+traverseDist: 10000.0
+yLimitAlgorithm: NoLimit

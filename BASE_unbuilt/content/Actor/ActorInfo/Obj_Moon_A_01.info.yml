@@ -1,0 +1,21 @@
+aabbMax:
+  X: 0.9488869905471802
+  Y: 0.948885977268219
+  Z: 0.0
+aabbMin:
+  X: -0.948885977268219
+  Y: -0.9488869905471802
+  Z: 0.0
+bfres: Obj_Moon_A
+boundingForTraverse: 1.897773027420044
+bugMask: 1
+elink: Obj_Moon_A_01
+instSize: 38568
+mainModel: Obj_Moon_A_01
+name: Obj_Moon_A_01
+profile: System
+sortKey: 0
+tags:
+  tag336bf311: 862712593
+  tagc5b7c123: !u 0xc5b7c123
+yLimitAlgorithm: NoLimit

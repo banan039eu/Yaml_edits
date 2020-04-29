@@ -1,0 +1,23 @@
+aabbMax:
+  X: 3.3506500720977783
+  Y: 1.8503299951553345
+  Z: 4.392940044403076
+aabbMin:
+  X: -3.65054988861084
+  Y: -0.7988939881324768
+  Z: -3.7330501079559326
+bfres: FldObj_HyliaStoneRuin_A
+boundingForTraverse: 2.649224042892456
+bugMask: 0
+cursorOffsetY: 0.5
+instSize: 41500
+isHasFar: true
+mainModel: FldObj_HyliaStoneRuinDebris_A_01
+name: FldObj_HyliaStoneRuinDebris_A_01
+profile: MapConstPassive
+sortKey: -12
+tags:
+  tag6bddf03c: 1809707068
+  tagdeb8e664: !u 0xdeb8e664
+traverseDist: 510.72607421875
+yLimitAlgorithm: NoLimit

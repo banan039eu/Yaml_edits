@@ -1,0 +1,24 @@
+aabbMax:
+  X: 54.44139862060547
+  Y: 3.521209955215454
+  Z: 19.798200607299805
+aabbMin:
+  X: -3.234189987182617
+  Y: -12.826700210571289
+  Z: 2.5198400020599365
+bfres: Obj_RockLayerMoss_A
+boundingForTraverse: 16.347909927368164
+bugMask: 0
+instSize: 71880
+isHasFar: true
+mainModel: Obj_RockLayerMoss_A_Cliff_02
+name: Obj_RockLayerMoss_A_Cliff_02
+profile: MapConstPassive
+sortKey: 0
+tags:
+  tag932d2d91: !u 0x932d2d91
+  tag977b149c: !u 0x977b149c
+terrainTextures:
+- !u 0xff4c1f00
+traverseDist: 560.2081298828125
+yLimitAlgorithm: NoLimit
