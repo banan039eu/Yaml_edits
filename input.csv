@@ -1,34 +1,34 @@
 ;elink;;guardpower;;;electr;;;pod name;name;magic;desc;base
 Weapon_Sword_700;Weapon_Sword_001;45;;499;true;0.0;false;true;;Klaymen's Hammer;;This is Klaymen's hammer. It is used to smash the door to the room Klaymen was sleeping in.;Weapon_Sword_001
-Weapon_Sword_701;Weapon_Sword_033;45;;499;true;0.0;false;true;;Sword 701;;Sword 701;Weapon_Sword_033
-Weapon_Sword_702;Weapon_Sword_001;45;;499;true;0.0;false;true;;Sword 702;GuardianMiniFinalBeam1;Sword 702;Weapon_Sword_060
-Weapon_Sword_703;Weapon_Sword_034;45;;499;true;0.0;false;true;;Sword 703;;Sword 703;Weapon_Sword_034
-Weapon_Sword_704;Weapon_Sword_001;45;;499;true;0.0;false;true;;Sword 704;;Sword 704;Weapon_Sword_048
-Weapon_Sword_705;Weapon_Sword_001;45;;499;true;0.0;false;true;;Sword 705;GuardianMiniFinalBeam2;Sword 705;Weapon_Sword_060
+Weapon_Sword_701;Weapon_Sword_033;45;;499;true;0.0;false;true;;Madsmith’s Hammer;;Strong hammer that once belong to immortal Madsmith.;Weapon_Sword_033
+Weapon_Sword_702;Weapon_Sword_001;45;;499;true;0.0;false;true;;Goron’s hammer;;Common hammer bought in Goron City;Weapon_Sword_001
+Weapon_Sword_703;Weapon_Sword_034;45;;499;true;0.0;false;true;;Sword 703;;Sword 703;Weapon_Sword_001
+Weapon_Sword_704;Weapon_Sword_001;45;;499;true;0.0;false;true;;Sword 704;;Sword 704;Weapon_Sword_001
+Weapon_Sword_705;Weapon_Sword_001;45;;499;true;0.0;false;true;;Sword 705;;Sword 705;Weapon_Sword_001
 Weapon_Sword_706;Weapon_Sword_035;45;;499;true;0.0;false;true;;Future Sword;;The sword bestowed upon Link from his future self;Weapon_Sword_035
-Weapon_Sword_707;Weapon_Sword_001;45;;499;true;0.0;false;true;;Sword 707;;Sword 707;Weapon_Sword_001
-Weapon_Sword_708;Weapon_Sword_001;45;;499;true;0.0;false;true;;Sword 708;;Sword 708;Weapon_Sword_001
+Weapon_Sword_707;Weapon_Sword_001;45;;499;true;0.0;false;true;;Angel Sword;;Sword held by immortal angels from Darksiders 2;Weapon_Sword_001
+Weapon_Sword_708;Weapon_Sword_001;45;;499;true;0.0;false;true;;Golden hammer;;Golden hammer from SSBU;Weapon_Sword_001
 Weapon_Sword_709;Weapon_Sword_001;45;;499;true;0.0;false;true;;Sword 709;;Sword 709;Weapon_Sword_001
-Weapon_Sword_710;Weapon_Sword_001;45;;499;true;0.0;false;true;;Sword 710;;Sword 710;Weapon_Sword_001
+Weapon_Sword_710;Weapon_Sword_001;45;;499;true;0.0;false;true;;Home-Run Bat;;Home-Run Bat from SSBU;Weapon_Sword_001
 Weapon_Sword_711;Weapon_Sword_001;45;;499;true;0.0;false;true;;Sword 711;;Sword 711;Weapon_Sword_001
 Weapon_Sword_712;Weapon_Sword_001;45;;499;true;0.0;false;true;;Sword 712;;Sword 712;Weapon_Sword_001
 Weapon_Sword_713;Weapon_Sword_001;45;;499;true;0.0;false;true;;Sword 713;;Sword 713;Weapon_Sword_001
-Weapon_Sword_714;Weapon_Sword_001;45;;499;true;0.0;false;true;;Sword 714;GuardianMiniFinalBeam1;Sword 714;Weapon_Sword_060
+Weapon_Sword_714;Weapon_Sword_001;45;;499;true;0.0;false;true;;Sword 714;;Sword 714;Weapon_Sword_001
 Weapon_Shield_700;Weapon_Shield;;50;499;true;0.0;false;true;;Neverhood Shield;;The shield in shape of The Neverhood logo. Klaymen likes it;Weapon_Shield_003
 Weapon_Shield_701;Weapon_Shield_038;;50;499;true;0.0;false;true;;Future Shield;;The shield bestowed upon Link from his future self;Weapon_Shield_003
 Weapon_Shield_702;Weapon_Shield;;50;499;true;0.0;false;true;;Skull Shield;;This is skull shield;Weapon_Shield_003
 Weapon_Shield_703;Weapon_Shield;;50;499;true;0.0;false;true;;Mushroom;;Don't eat too much or you will be burping for solid 5 minutes;Weapon_Shield_003
 Weapon_Shield_704;Weapon_Shield;;50;499;true;0.0;false;true;;Beep-O;;After Rabbids issue Beep-O got bored and became a shield.;Weapon_Shield_003
 Weapon_Shield_705;Weapon_Shield;;50;499;true;0.0;false;true;;Lego Shield;;A lego shield from lego castle theme;Weapon_Shield_003
-Weapon_Shield_706;Weapon_Shield;;50;499;true;0.0;false;true;;Shield 706;;Shield 706;Weapon_Shield_003
-Weapon_Shield_707;Weapon_Shield;;50;499;true;0.0;false;true;;Shield 707;;Shield 707;Weapon_Shield_003
+Weapon_Shield_706;Weapon_Shield;;50;499;true;0.0;false;true;;Angel Shield;;A shield once held by angel warrior.;Weapon_Shield_003
+Weapon_Shield_707;Weapon_Shield;;50;499;true;0.0;false;true;;Oblivion guard’s shield;;Shield used by Oblivion guards;Weapon_Shield_003
 Weapon_Shield_708;Weapon_Shield;;50;499;true;0.0;false;true;;Shield 708;;Shield 708;Weapon_Shield_003
 Weapon_Shield_709;Weapon_Shield;;50;499;true;0.0;false;true;;Shield 709;;Shield 709;Weapon_Shield_003
 Weapon_Lsword_700;WeaponLsword;70;;499;true;0.0;false;true;;Squared Klaymen;;This is the shape Klaymen takes when he is knocked out. Extremely durable;Weapon_Lsword_001
 Weapon_Lsword_701;WeaponLsword;70;;499;true;0.0;false;true;;Angel Claymore;;Large sword held by immortal angels from Darksiders 2;Weapon_Lsword_001
 Weapon_Lsword_702;WeaponLsword;70;;499;true;0.0;false;true;;Skull Hammer;;Giant skull hammer, extremely durable;Weapon_Lsword_001
-Weapon_Lsword_703;WeaponLsword;70;;499;true;0.0;false;true;;Large Sword 703;;Large Sword 703;Weapon_Lsword_001
-Weapon_Lsword_704;WeaponLsword;70;;499;true;0.0;false;true;;Large Sword 704;;Large Sword 704;Weapon_Lsword_001
+Weapon_Lsword_703;WeaponLsword;70;;499;true;0.0;false;true;;Hammer of Sleeping Guard;;A small replica of construct guardian’s hammer. Forged by Makers themselves in the Forge Lands;Weapon_Lsword_001
+Weapon_Lsword_704;WeaponLsword;70;;499;true;0.0;false;true;;Usiel’s Bell;;Heavy bell used by Usiel in Darksiders 3;Weapon_Lsword_001
 Weapon_Lsword_705;WeaponLsword;70;;499;true;0.0;false;true;;Large Sword 705;;Large Sword 705;Weapon_Lsword_001
 Weapon_Lsword_706;WeaponLsword;70;;499;true;0.0;false;true;;Large Sword 706;;Large Sword 706;Weapon_Lsword_001
 Weapon_Lsword_707;WeaponLsword;70;;499;true;0.0;false;true;;Large Sword 707;;Large Sword 707;Weapon_Lsword_001
