@@ -45,7 +45,6 @@ def createDesc(desc, line_size):
         lines[i] += word + " "
     desc = ""
     for line in lines:
-        print(len(line))
         desc += line
     desc = desc.replace(" \\n", "\\n")
     return desc

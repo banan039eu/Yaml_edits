@@ -14,10 +14,10 @@ import Description as d
 import Weapons
 
 
-input = csv_f.make_list("input1.csv")
+input = csv_f.make_list("input.csv")
 #input = csv_f.load_xlsx("input.xlsx")
 
-
-pack_name = 'Weapon_pack004'
+print(input)
+pack_name = 'Weapon_pack001'
 Weapons.newWeaponPack(input, pack_name)
 
